@@ -1,0 +1,6 @@
+# Never commit credential/secret material
+**/secrets*
+**/*credential*
+**/*.key
+.env*
+.claude/settings.local.json
