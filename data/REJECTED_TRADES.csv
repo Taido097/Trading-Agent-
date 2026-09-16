@@ -3,3 +3,7 @@ timestamp,ticker,potential_setup,strategy,reason_considered,reason_rejected,pric
 2026-09-16T13:48:00Z,VALE,ORB long,S001,liquid sub-$19 watchlist candidate,inside range; below OR high 14.48; range too tight (~$0.06),14.44,PASS,setup-validity,,,,no momentum
 2026-09-16T13:48:00Z,RIVN,ORB long,S001,liquid sub-$19 watchlist candidate,breaking DOWN -1.4%; lower lows on rising volume; below OR high 15.729,15.33,PASS,setup-validity,,,,bearish not bullish
 2026-09-16T13:48:00Z,SOFI,ORB long,S001,liquid sub-$19 watchlist candidate,below OR high 17.16; red -0.8%; choppy,16.94,PASS,setup-validity,,,,no upside breakout
+2026-09-16T15:42:00Z,AAL,intraday relative-strength long,discretionary-scan,+1.25% vs SPY +0.41%; affordable; tight spread,spiked to 13.28 then reversed/faded to 12.93 — move already failed; entering = chasing,12.93,PASS,setup-validity,,,,best affordable RS name but post-spike fade
+2026-09-16T15:42:00Z,GRAB,intraday relative-strength long,discretionary-scan,+2.06% strongest RS,price too low ($2.97) — stop distance smaller than spread; poor risk structure,2.97,PASS,liquidity/structure,,,,unsuitable for whole-share stop
+2026-09-16T15:42:00Z,CCL,intraday relative-strength long,discretionary-scan,+1.38% RS,unaffordable — 1 share $22.4 > $19.90 buying power,22.42,PASS,affordability,,,,out of budget
+2026-09-16T15:42:00Z,RIOT,intraday relative-strength long,discretionary-scan,+5.3% strongest mover,unaffordable — 1 share $20.75 > $19.90; also high volatility,20.75,PASS,affordability,,,,out of budget
