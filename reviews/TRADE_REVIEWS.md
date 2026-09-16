@@ -45,4 +45,22 @@ Actions:
 
 ## Reviews
 
-_(none yet — no trades taken)_
+### Trade T-2026-0001 — F 2026-09-16  [OPEN — interim review]
+Snapshot (frozen, pre-outcome): data/snapshots/T-2026-0001.json
+Entry: 1 share @ $13.4699 (limit $13.50; favorable fill). Stop $13.33 (order
+  6aaab306). Target ~$13.75. Planned risk ≈ $0.14 (~0.70% of the $20 account).
+Result: OPEN (position live, protected).
+Classification: PENDING until exit. **Important:** this was an OWNER-DIRECTED
+  trade, not a validated setup — F was flat on a green day (relative weakness),
+  no ORB, no edge. Per rule 19, a win here would NOT be proof the process works,
+  and per rule 20 a loss would be expected variance of a no-edge entry. Do not
+  let the outcome update strategy confidence.
+Process notes:
+- Rule-2 tension acknowledged (traded without an edge) — justified only by
+  explicit owner override on fully-at-risk micro capital; logged transparently.
+- Risk control HELD: invalidation defined first, sized from risk, mandatory
+  broker-held protective stop attached immediately after fill.
+- Pipeline validated end-to-end: reconcile → review → place → fill → stop →
+  journal. This is the real value of the trade.
+Actions at exit: classify GOOD/BAD × WIN/LOSS, record slippage/MFE/MAE, update
+  memory. No strategy change from this single owner-directed trade.

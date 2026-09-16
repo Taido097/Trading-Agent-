@@ -5,7 +5,7 @@
 > intent and status; it is NOT the brokerage record (that comes from
 > reconciliation).
 
-**Last updated:** 2026-09-16 (micro-live session — PASS, no trade)
+**Last updated:** 2026-09-16 (FIRST LIVE TRADE — long 1 F, open, protected)
 
 ---
 
@@ -27,13 +27,11 @@
 
 | Field                     | Value                     |
 | ------------------------- | ------------------------- |
-| Account total value       | $20.01                    |
-| Account equity            | $0.00                     |
-| Cash                      | $20.01 ($20 deposit)      |
-| Buying power              | $20.01                    |
-| Open positions            | 0                         |
-| Open orders               | 0                         |
-| Status                    | **FUNDED — armed for micro-live** on next valid setup |
+| Account total value       | ~$20.0 (≈$6.54 cash + 1 F share) |
+| Cash                      | ~$6.54                    |
+| Open positions            | **1 — long 1 F @ $13.4699** |
+| Open orders               | **1 — protective stop SELL 1 F @ $13.33 (gtc, order 6aaab306)** |
+| Status                    | **OPEN POSITION (F), protected.** Target ~$13.75; risk ≈ $0.14 |
 
 ## Active Strategies
 
@@ -45,7 +43,7 @@
 
 | Counter                    | Value |
 | -------------------------- | ----- |
-| Trades today               | 0     |
+| Trades today               | 1 (T-2026-0001, F long, OPEN) |
 | Realized P&L today         | $0.00 |
 | Consecutive losses         | 0     |
 | Daily loss used            | 0.00% |
@@ -65,5 +63,5 @@
 | Last reconciliation       | 2026-09-16 09:48 ET |
 | Internal vs broker match? | **Yes** — $20.01, 0 positions, 0 orders; no live trades |
 | Discrepancies open        | 0                  |
-| Today                     | 0 trades, 4 rejected (no valid ORB); daily loss 0%, streak 0 |
+| Today                     | 1 open trade (F long, owner-directed) + 4 rejected earlier; 1 resting stop |
 | Notes                     | Account is limited_margin; per RISK_RULES we operate cash-only, no margin/leverage, until owner approves otherwise |
