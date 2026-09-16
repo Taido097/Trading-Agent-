@@ -49,12 +49,19 @@ Actions:
 Snapshot (frozen, pre-outcome): data/snapshots/T-2026-0001.json
 Entry: 1 share @ $13.4699 (limit $13.50; favorable fill). Stop $13.33 (order
   6aaab306). Target ~$13.75. Planned risk ≈ $0.14 (~0.70% of the $20 account).
-Result: OPEN (position live, protected).
-Classification: PENDING until exit. **Important:** this was an OWNER-DIRECTED
-  trade, not a validated setup — F was flat on a green day (relative weakness),
-  no ORB, no edge. Per rule 19, a win here would NOT be proof the process works,
-  and per rule 20 a loss would be expected variance of a no-edge entry. Do not
-  let the outcome update strategy confidence.
+Result: CLOSED — exit $13.3622 (2026-09-16 15:32Z). P&L −$0.11 (~−0.77R).
+  Closed manually (owner pivot to practice mode) before the $13.33 stop triggered.
+Classification: **BAD DECISION + LOSS.** "Bad decision" refers to PROCESS, not
+  the tiny loss: the entry had no edge (F flat on a green day, no ORB, taken on
+  owner override). The loss is unsurprising — a no-edge entry has ~neutral
+  expectancy minus spread/slippage. Per rule 20 this is expected variance, NOT
+  evidence the strategy is broken; per rule 19 a win would not have validated it.
+  Do not update strategy confidence from this trade.
+What went right: risk stayed tiny and controlled (−$0.11 on a $20 account),
+  invalidation defined first, protective stop attached immediately, full pipeline
+  (reconcile→review→place→fill→stop→exit→journal) proven on real money.
+Lesson (memory/LESSONS.md candidate): trading on command without a setup costs
+  money even when small; the value here was pipeline validation, not P&L.
 Process notes:
 - Rule-2 tension acknowledged (traded without an edge) — justified only by
   explicit owner override on fully-at-risk micro capital; logged transparently.

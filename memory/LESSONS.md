@@ -14,7 +14,7 @@
 
 | ID | Date | Observation | Support (n) | Status | Next step |
 | -- | ---- | ----------- | ----------- | ------ | --------- |
-| —  | —    | (none yet)  | 0           | —      | —         |
+| O001 | 2026-09-16 | Trading on command with no setup (T-2026-0001, F) produced a small loss (−0.77R); a name that is red while the market is green (relative weakness) is a poor long. | 1 | observation | Only enter on a documented setup; treat relative weakness as a long-disqualifier |
 
 Template:
 ```

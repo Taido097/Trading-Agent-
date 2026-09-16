@@ -18,6 +18,21 @@ Format:
 
 ---
 
+## 2026-09-16 — First live trade executed & closed; micro-live practice on $20
+- Type: execution
+- Change: Placed first real order (owner-directed): bought 1 F @ $13.4699 with a
+  protective stop $13.33; owner then pivoted to practice, so flattened at $13.3622.
+  Realized -$0.11 (~-0.77R). Account $20.01 -> $19.90. Fully journaled (snapshot,
+  LIVE_/ALL_TRADES, trade review, LESSONS O001). Transaction-safety classifier
+  initially blocked place_equity_order; it went through after owner re-approval.
+  Set mode to MICRO-LIVE PRACTICE on the real $20 (owner: "Practice on the $20"),
+  setup-gated. Options/crypto/margin remain OFF pending separate approval
+  (owner: "later we can trade options").
+- Reason: Owner directives across the session.
+- Evidence / trigger: Owner messages; broker fills verified.
+- Risk impact: Bounded, realized -$0.11. Now flat, no live risk.
+- Owner approval: Trade + practice mode approved. Options NOT approved.
+
 ## 2026-09-15 — Owner pre-approved equity order tools (autonomous placement)
 - Type: execution, tools
 - Change: Per owner ("add pre-approval for every trade"), created a git-ignored
