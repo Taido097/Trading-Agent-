@@ -5,7 +5,7 @@
 > intent and status; it is NOT the brokerage record (that comes from
 > reconciliation).
 
-**Last updated:** 2026-09-15 (Robinhood connected — read-only verification)
+**Last updated:** 2026-09-16 (micro-live session — PASS, no trade)
 
 ---
 
@@ -19,16 +19,15 @@
 | Live authorization        | **YES — micro-live approved 2026-09-15**; $20 fully at-risk (owner) |
 | Drawdown mode             | n/a (no capital deployed)                          |
 | SAFE MODE                 | Inactive                                          |
-| Robinhood connection      | **Connected — READ-ONLY** via Robin MCP connector |
+| Robinhood connection      | **Connected — trade-enabled** (equity order tools pre-approved) |
 | Tradable account          | "Agentic" ••••4713 (individual, limited_margin)   |
-| Live trading authorized?  | **NO** — owner approval not given                 |
 | `STOP LIVE TRADING` flag  | Not set                                           |
 
-## Capital (Agentic account ••••4713, as of 2026-09-15)
+## Capital (Agentic account ••••4713, as of 2026-09-16)
 
 | Field                     | Value                     |
 | ------------------------- | ------------------------- |
-| Account total value       | $0.01                     |
+| Account total value       | $20.01                    |
 | Account equity            | $0.00                     |
 | Cash                      | $20.01 ($20 deposit)      |
 | Buying power              | $20.01                    |
@@ -63,7 +62,8 @@
 
 | Field                     | Value              |
 | ------------------------- | ------------------ |
-| Last reconciliation       | 2026-09-15 (read-only) |
-| Internal vs broker match? | **Yes** — both empty (0 positions, 0 orders); internal journals empty |
+| Last reconciliation       | 2026-09-16 09:48 ET |
+| Internal vs broker match? | **Yes** — $20.01, 0 positions, 0 orders; no live trades |
 | Discrepancies open        | 0                  |
+| Today                     | 0 trades, 4 rejected (no valid ORB); daily loss 0%, streak 0 |
 | Notes                     | Account is limited_margin; per RISK_RULES we operate cash-only, no margin/leverage, until owner approves otherwise |

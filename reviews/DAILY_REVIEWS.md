@@ -53,3 +53,20 @@ Watchlist screen (need 1 share <= ~$19, liquid, tight spread):
 Plan: at 9:47 ET, measure each candidate's first-15-min opening range; take the
   first valid long breakout that clears the full pre-trade gate; else PASS. No
   trade taken in this prep step.
+
+## 2026-09-16 (DECISION, 9:48 ET) — PASS, no trade
+Mode: MICRO-LIVE ARMED. Reconciliation re-checked: $20.01, 0 positions/orders — OK.
+Regime: SPY +0.31%, QQQ +0.67% (green). But ALL candidates red and below their
+  opening-range highs — relative weakness, the inverse of a long-breakout setup.
+Opening ranges (9:30–9:45 ET) vs price at 9:48:
+  - F    OR 13.440–13.565  now 13.48  -> inside range, no breakout
+  - VALE OR 14.420–14.480  now 14.44  -> inside range, tiny (~$0.06), no breakout
+  - RIVN OR 15.180–15.729  now 15.33  -> breaking DOWN on rising volume (bearish)
+  - SOFI OR 16.810–17.160  now 16.94  -> below OR high, choppy/red
+Decision: **PASS on all four.** No valid Opening-Range Breakout long existed.
+  Devil's advocate confirmed: buying a red, underperforming name with no upside
+  break is chasing/hoping, not an edge. Authorized != obligated.
+Trades taken: 0 | Rejected: 4 (logged to data/REJECTED_TRADES.csv)
+Realized P&L: $0.00 | R: 0 | Rule violations: none | Errors: none
+Risk status: daily loss 0%, weekly DD 0%, consecutive losses 0. Capital intact.
+Note: never verified whether today is FOMC; moot since we PASSed regardless.

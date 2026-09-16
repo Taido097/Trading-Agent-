@@ -1,1 +1,5 @@
 timestamp,ticker,potential_setup,strategy,reason_considered,reason_rejected,price_at_rejection,decision,gate_failed,what_happened_later,followup_price,followup_timestamp,notes
+2026-09-16T13:48:00Z,F,ORB long,S001,liquid sub-$19 watchlist candidate,no breakout; below OR high 13.565; red on a green market,13.48,PASS,setup-validity,,,,relative weakness vs SPY/QQQ
+2026-09-16T13:48:00Z,VALE,ORB long,S001,liquid sub-$19 watchlist candidate,inside range; below OR high 14.48; range too tight (~$0.06),14.44,PASS,setup-validity,,,,no momentum
+2026-09-16T13:48:00Z,RIVN,ORB long,S001,liquid sub-$19 watchlist candidate,breaking DOWN -1.4%; lower lows on rising volume; below OR high 15.729,15.33,PASS,setup-validity,,,,bearish not bullish
+2026-09-16T13:48:00Z,SOFI,ORB long,S001,liquid sub-$19 watchlist candidate,below OR high 17.16; red -0.8%; choppy,16.94,PASS,setup-validity,,,,no upside breakout
