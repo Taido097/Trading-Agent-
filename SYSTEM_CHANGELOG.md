@@ -18,6 +18,21 @@ Format:
 
 ---
 
+## 2026-09-17 — Widened the daily screening universe (owner: "do number 1")
+- Type: strategy (screening), memory
+- Change: Added research/UNIVERSE.md — a broad candidate pool (~22 liquid names
+  across fintech/EV/airlines/miners/financials/energy/media) with a hard screen
+  (1 share <= ~$19, liquid, tight spread, not too low-priced) and relative-
+  strength ranking. Updated the daily pre-market prep routine to WIDE-SCREEN this
+  pool (plus optional Robin scanner sweep) each morning and build the watchlist
+  from the survivors. Entry rule/quality bar UNCHANGED — this only increases the
+  number of genuine chances, not the risk per trade.
+- Reason: Owner wants more trade opportunities without lowering standards
+  (chose option 1: widen the net).
+- Evidence / trigger: Owner instruction "Let do number 1".
+- Risk impact: None to per-trade risk — same gate, same §9 sizing/stop rules.
+- Owner approval: Approved (owner-requested).
+
 ## 2026-09-16 — First live trade executed & closed; micro-live practice on $20
 - Type: execution
 - Change: Placed first real order (owner-directed): bought 1 F @ $13.4699 with a
