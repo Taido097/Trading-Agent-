@@ -88,3 +88,16 @@ Watchlist (1 share <= ~$19, liquid, gapping with tape):
   - F    ~$13.59 (+1.8%) spread ~$0.10 wide pre-market (should tighten at open)
 Plan: at 9:47 ET, measure each opening range; take the first valid long breakout
   clearing the full gate; else PASS. No trade in this prep step.
+
+## 2026-09-17 (DECISION, 9:48 ET) — WATCH, no entry yet
+Flat confirmed ($19.90). Regime risk-on (SPY +0.94%).
+Opening ranges (9:30–9:45) vs price at 9:48:
+  - RIVN OR 15.47–15.93, now 15.78 (+3.6%) — strongest, volume surging, but
+    consolidating BELOW the OR high; breakout NOT confirmed.
+  - F    OR 13.59–13.80, now 13.785 (+3.3%) — at OR high but volume declining
+    (weak breakout quality).
+  - AAL/VALE/SOFI — below OR high / inside range / red. No.
+Decision: WATCH RIVN (primary) + F. No entry — neither has broken and HELD above
+  its OR high. Entering now = anticipating the break (the O001 mistake). Will
+  re-check ~10:05 ET: enter only on a confirmed hold above OR high on volume,
+  else PASS for the day.
