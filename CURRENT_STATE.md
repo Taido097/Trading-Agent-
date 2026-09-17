@@ -13,8 +13,10 @@
 
 | Field                     | Value                                             |
 | ------------------------- | ------------------------------------------------- |
-| Development phase         | **MICRO-LIVE PRACTICE** on the real $20 (owner: "Practice on the $20") |
-| Trading mode              | **MICRO-LIVE, setup-gated** — real trades, tiny size, learn from each; PASS when no valid setup |
+| Development phase         | **MICRO-LIVE (real $20) + HIGH-VOLUME PAPER** (owner: "trade as much as possible to learn") |
+| Trading mode              | Real $20: **MICRO-LIVE, setup-gated**. Learning volume: **PAPER** (sim $20k, many trades/day, real data, zero risk) via hourly engine |
+| Paper engine              | Hourly 15:00–19:00Z (11am–3pm ET) weekdays; manages open paper trades + opens new; logs to data/PAPER_TRADES.csv (kept separate from live) |
+| Open paper trades         | 4 seeded 9/17: CLF, CHPT, MARA, RIVN (OPEN) |
 | Sizing basis              | Real equity (~$19.90) per RISK_RULES §9; $20,000 is a mental reference only, never sizes a live order |
 | Live authorization        | **YES** — micro-live approved; equity order tools pre-approved |
 | Options / crypto / margin | **NOT enabled** — options only after separate testing + explicit owner approval (owner: "later we can trade options") |

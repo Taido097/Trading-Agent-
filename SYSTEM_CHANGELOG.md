@@ -18,6 +18,22 @@ Format:
 
 ---
 
+## 2026-09-17 — High-volume PAPER trading enabled for learning
+- Type: strategy, execution (simulation), memory
+- Change: Per owner ("trade as much as possible to learn"), enabled high-volume
+  PAPER trading on real market data at zero risk (sim $20,000 basis, 0.2%/$40
+  risk per trade). Created a recurring intraday paper engine (hourly 15:00-19:00Z
+  weekdays) that manages open paper trades (mark-to-market via 5min bars, close
+  on stop/target) and opens new RS-momentum / breakout paper longs, logging to
+  data/PAPER_TRADES.csv. Seeded first 4 paper trades (CLF, CHPT, MARA, RIVN).
+  The real $20 stays MICRO-LIVE setup-gated and untouched by paper; paper and
+  live records remain strictly separate (rule 34).
+- Reason: Owner wants maximum learning reps; doing that on the real $20 would
+  bleed it via spread/slippage, so volume goes to paper instead.
+- Evidence / trigger: Owner instruction + AskUserQuestion choice "Paper, high volume".
+- Risk impact: None to real capital — paper is simulated, no orders.
+- Owner approval: Approved (owner-chosen).
+
 ## 2026-09-17 — Widened the daily screening universe (owner: "do number 1")
 - Type: strategy (screening), memory
 - Change: Added research/UNIVERSE.md — a broad candidate pool (~22 liquid names
