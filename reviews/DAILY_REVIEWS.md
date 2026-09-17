@@ -113,3 +113,14 @@ Decision: PASS for the day. Neither confirmed a hold above its OR high; both
   REJECTED_TRADES. Trades taken: 0 | Rejected today: 6 | Realized P&L: $0.00.
   Discipline note: this is the ORB filter working — most opening-range pushes
   fail, and not-trading the failures is where the edge is preserved.
+
+## 2026-09-17 (AFTERNOON, ~3:06 ET) — paper batch closed; real PASS
+Owner asked to "trade the $20" ~1:50pm; I lined up CLF (RS +7%, at highs). A ~70min
+tool/MCP outage delayed execution; on fresh data CLF had FADED off its base
+(13.10->12.955) and it was ~54min to close. No clean setup → **real PASS** (would be
+a no-edge late entry). Real account still flat $19.90.
+Paper (high-volume learning): first batch of 4 RS-momentum longs closed —
+  CHPT +2R WIN (+$79.64 sim); CLF -0.27R, MARA -0.56R, RIVN -0.12R.
+  Net +$41.82 sim (+1.05R), 25% win rate — one 2R winner carried it.
+Note: too late in the day to open a fresh paper batch responsibly; next paper
+  passes resume tomorrow via the hourly engine.

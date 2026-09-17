@@ -5,7 +5,7 @@
 > intent and status; it is NOT the brokerage record (that comes from
 > reconciliation).
 
-**Last updated:** 2026-09-17 (10:06 ET — PASS for the day; flat, $19.90)
+**Last updated:** 2026-09-17 (3:06 ET — real PASS; paper batch 1 closed +$41.82 sim; flat $19.90)
 
 ---
 
@@ -16,7 +16,7 @@
 | Development phase         | **MICRO-LIVE (real $20) + HIGH-VOLUME PAPER** (owner: "trade as much as possible to learn") |
 | Trading mode              | Real $20: **MICRO-LIVE, setup-gated**. Learning volume: **PAPER** (sim $20k, many trades/day, real data, zero risk) via hourly engine |
 | Paper engine              | Hourly 15:00–19:00Z (11am–3pm ET) weekdays; manages open paper trades + opens new; logs to data/PAPER_TRADES.csv (kept separate from live) |
-| Open paper trades         | 4 seeded 9/17: CLF, CHPT, MARA, RIVN (OPEN) |
+| Paper results             | Batch 1 (9/17) closed: 4 trades, +$41.82 sim (+1.05R), 1 win (CHPT +2R) / 3 small losses. 0 open. |
 | Sizing basis              | Real equity (~$19.90) per RISK_RULES §9; $20,000 is a mental reference only, never sizes a live order |
 | Live authorization        | **YES** — micro-live approved; equity order tools pre-approved |
 | Options / crypto / margin | **NOT enabled** — options only after separate testing + explicit owner approval (owner: "later we can trade options") |

@@ -71,3 +71,15 @@ Process notes:
   journal. This is the real value of the trade.
 Actions at exit: classify GOOD/BAD × WIN/LOSS, record slippage/MFE/MAE, update
   memory. No strategy change from this single owner-directed trade.
+
+### PAPER batch 2026-09-17 (P-2026-0001..0004) — RS-momentum longs, sim $20k
+First high-volume paper batch (4 RS-momentum longs opened 1:47pm ET, sim $40 risk each).
+- CHPT: WIN, target hit +2.0R (+$79.64 sim) — clean momentum continuation to 10.08.
+- CLF: LOSS -0.27R (-$10.65) — faded off its base.
+- MARA: LOSS -0.56R (-$22.20) — rolled over midday.
+- RIVN: LOSS -0.12R (-$4.97) — near-scratch.
+Batch result: **+$41.82 sim (+1.05R), win rate 25%.** Classic momentum profile — one
+2R winner outweighs several small losers. All GOOD-DECISION (valid RS entries); the
+losses are normal variance, not process errors. Early sample (n=4) — no rule change;
+keep accumulating. Observation to watch: entries taken after a name is already
+extended intraday fade more (CLF/MARA were mid-afternoon, already up 6-7%).
