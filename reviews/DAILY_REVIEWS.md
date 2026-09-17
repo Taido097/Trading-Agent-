@@ -70,3 +70,21 @@ Trades taken: 0 | Rejected: 4 (logged to data/REJECTED_TRADES.csv)
 Realized P&L: $0.00 | R: 0 | Rule violations: none | Errors: none
 Risk status: daily loss 0%, weekly DD 0%, consecutive losses 0. Capital intact.
 Note: never verified whether today is FOMC; moot since we PASSed regardless.
+
+## 2026-09-17 (PRE-MARKET, 9:16 ET)
+Mode: MICRO-LIVE PRACTICE on real $20, setup-gated (recurring routine).
+Reconciliation: Agentic ••••4713 — $19.90 cash, 0 positions, 0 OPEN orders
+  (yesterday's F buy+sell+cancelled-stop all closed). Matches internal -> OK.
+Regime (pre-market): strong risk-ON gap up. SPY 763.6 (+1.3% vs 754.05 close),
+  QQQ 716.5 (+1.7%). Supportive for a long breakout.
+Event risk: TO VERIFY at decision — sharp gap suggests a catalyst; mid-Sept can
+  be FOMC (decision ~2pm ET). ORB is a morning intraday trade so likely fine,
+  but stay flat into any 2pm decision.
+Watchlist (1 share <= ~$19, liquid, gapping with tape):
+  - SOFI ~$17.28 (+2.6%) spread ~$0.04
+  - RIVN ~$15.51 (+1.8%) spread ~$0.01
+  - VALE ~$14.28 (+1.1%) spread ~$0.02
+  - AAL  ~$13.06 (+2.8%) spread ~$0.01  (recovered from yesterday's fade)
+  - F    ~$13.59 (+1.8%) spread ~$0.10 wide pre-market (should tighten at open)
+Plan: at 9:47 ET, measure each opening range; take the first valid long breakout
+  clearing the full gate; else PASS. No trade in this prep step.
