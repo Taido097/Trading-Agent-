@@ -7,3 +7,5 @@ timestamp,ticker,potential_setup,strategy,reason_considered,reason_rejected,pric
 2026-09-16T15:42:00Z,GRAB,intraday relative-strength long,discretionary-scan,+2.06% strongest RS,price too low ($2.97) — stop distance smaller than spread; poor risk structure,2.97,PASS,liquidity/structure,,,,unsuitable for whole-share stop
 2026-09-16T15:42:00Z,CCL,intraday relative-strength long,discretionary-scan,+1.38% RS,unaffordable — 1 share $22.4 > $19.90 buying power,22.42,PASS,affordability,,,,out of budget
 2026-09-16T15:42:00Z,RIOT,intraday relative-strength long,discretionary-scan,+5.3% strongest mover,unaffordable — 1 share $20.75 > $19.90; also high volatility,20.75,PASS,affordability,,,,out of budget
+2026-09-17T14:06:00Z,RIVN,ORB long,S001,strongest RS +3.6%; watched for break of OR high 15.93,failed to break 15.93 (topped 15.875) then faded to ~15.5; no confirmed hold; volume declined,15.74,PASS,setup-validity,,,,watched then failed
+2026-09-17T14:06:00Z,F,ORB long,S001,at OR high 13.80; watched for hold above,false break — wicked to 13.83 but closed back below 13.80 and faded on weak volume,13.75,PASS,setup-validity,,,,false breakout

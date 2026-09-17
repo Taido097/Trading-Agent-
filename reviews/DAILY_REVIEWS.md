@@ -101,3 +101,15 @@ Decision: WATCH RIVN (primary) + F. No entry — neither has broken and HELD abo
   its OR high. Entering now = anticipating the break (the O001 mistake). Will
   re-check ~10:05 ET: enter only on a confirmed hold above OR high on volume,
   else PASS for the day.
+
+## 2026-09-17 (RE-CHECK, 10:06 ET) — PASS for the day, no trade
+Flat ($19.90). Regime still risk-on (SPY +0.85%).
+  - RIVN: pushed to 15.875 but NEVER broke OR high 15.93, reversed to ~15.5,
+    volume dried up; now 15.74 — failed breakout. PASS.
+  - F: false break — wicked to 13.83 (above OR high 13.80) but closed back below
+    and faded to 13.745 on weak volume. PASS.
+Decision: PASS for the day. Neither confirmed a hold above its OR high; both
+  faded. Correct outcome — we watched, the breakouts failed, no chase. Logged to
+  REJECTED_TRADES. Trades taken: 0 | Rejected today: 6 | Realized P&L: $0.00.
+  Discipline note: this is the ORB filter working — most opening-range pushes
+  fail, and not-trading the failures is where the edge is preserved.

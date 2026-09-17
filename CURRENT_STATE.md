@@ -5,7 +5,7 @@
 > intent and status; it is NOT the brokerage record (that comes from
 > reconciliation).
 
-**Last updated:** 2026-09-16 (first live trade CLOSED −$0.11; back to PRACTICE)
+**Last updated:** 2026-09-17 (10:06 ET — PASS for the day; flat, $19.90)
 
 ---
 
@@ -44,9 +44,9 @@
 
 | Counter                    | Value |
 | -------------------------- | ----- |
-| Trades today               | 1 closed (T-2026-0001, F long) + 4 rejected |
-| Realized P&L today         | -$0.11 (~-0.77R) |
-| Consecutive losses         | 1     |
+| Trades today (9/17)        | 0 taken, 2 rejected (RIVN/F failed breakouts) |
+| Realized P&L today (9/17)  | $0.00 |
+| Consecutive losses         | 1 (from 9/16 F trade; no new trades since) |
 | Daily loss used            | 0.00% |
 | Weekly drawdown used        | 0.00% |
 
@@ -64,5 +64,5 @@
 | Last reconciliation       | 2026-09-16 09:48 ET |
 | Internal vs broker match? | **Yes** — $20.01, 0 positions, 0 orders; no live trades |
 | Discrepancies open        | 0                  |
-| Today                     | 1 closed trade (F −$0.11) + 4 rejected; flat, no resting orders |
+| Today (9/17)              | 0 trades, 2 rejected (RIVN/F failed breakouts); flat, no orders |
 | Notes                     | Account is limited_margin; per RISK_RULES we operate cash-only, no margin/leverage, until owner approves otherwise |
