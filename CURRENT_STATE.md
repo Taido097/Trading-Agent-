@@ -16,7 +16,7 @@
 | Development phase         | **MICRO-LIVE (real $20) + HIGH-VOLUME PAPER** (owner: "trade as much as possible to learn") |
 | Trading mode              | Real $20: **MICRO-LIVE, setup-gated**. Learning volume: **PAPER** (sim $20k, many trades/day, real data, zero risk) via hourly engine |
 | Paper engine              | Hourly 15:00–19:00Z (11am–3pm ET) weekdays; manages open paper trades + opens new; logs to data/PAPER_TRADES.csv (kept separate from live) |
-| Paper results             | Batch 1 (9/17): +$41.82 sim. Batch 2 (9/18): MARA +2R (+$80), SOFI -1R (-$39.90) = +$40.10 realized; RIOT OPEN (green). Cumulative paper ~+$82 sim. |
+| Paper results             | Batch 1 (9/17): +$41.82 sim. Batch 2 (9/18): MARA +2R (+$80), RIOT +2R (+$79.80), SOFI -1R (-$39.90) = +$119.90. Cumulative ~+$161.7 sim, 7 trades, 3 wins/1 loss closed. 0 open. |
 | Sizing basis              | Real equity (~$19.90) per RISK_RULES §9; $20,000 is a mental reference only, never sizes a live order |
 | Live authorization        | **YES** — micro-live approved; equity order tools pre-approved |
 | Options / crypto / margin | **NOT enabled** — options only after separate testing + explicit owner approval (owner: "later we can trade options") |

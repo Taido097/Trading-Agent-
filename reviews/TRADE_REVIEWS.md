@@ -83,3 +83,14 @@ Batch result: **+$41.82 sim (+1.05R), win rate 25%.** Classic momentum profile �
 losses are normal variance, not process errors. Early sample (n=4) — no rule change;
 keep accumulating. Observation to watch: entries taken after a name is already
 extended intraday fade more (CLF/MARA were mid-afternoon, already up 6-7%).
+
+### PAPER 2026-09-18 (P-2026-0005..0007) — RS-momentum longs, sim $20k
+3 trades: MARA +2R (+$80, target 12.98), RIOT +2R (+$79.80, target 23.30),
+SOFI -1R (-$39.90, stopped, never traded above entry). Net +$119.90 sim (+3R),
+2 wins / 1 loss. Crypto-miners (MARA/RIOT) were the day's leaders and both hit
+2:1; SOFI (bank/fintech, weaker RS) failed — consistent with "trade the
+strongest RS names." Running paper sample n=7: 3 wins (all +2R) / 4 losers
+(mostly small), net positive — the momentum profile (few 2R winners carry many
+small losers) is showing. Still a small sample; no rule promoted yet.
+Note: MARA's paper win is the same setup whose REAL entry missed this AM — the
+read was right; execution (passive limit) was the gap (see O002).
