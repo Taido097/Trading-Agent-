@@ -153,3 +153,12 @@ Outcome: 0 trades, 1 missed-fill logged. Process was correct: identified +
 Lesson (LESSONS candidate): on fast momentum names a passive limit at the level
   often misses; consider a marketable-limit slightly through the level to catch
   the break, OR accept the miss — but never chase after it extends.
+
+## 2026-09-18 (EOD wrap, ~3:12 ET)
+Real $20: 0 trades, flat $19.90. MARA ORB was valid but the entry missed (no
+  chase); midday re-check found no clean entry. Correct, disciplined no-trade day.
+Paper: 3 trades — MARA +2R, RIOT +2R, SOFI -1R = net +3R (+$119.90 sim). Book
+  flat into the close; no late-day entries (little runway). 
+Cumulative paper: n=7, 3 wins (all +2R) / 4 small losers, ~+$161.7 sim.
+Takeaway: strongest-RS names (crypto-miners) worked; weakest (SOFI) failed —
+  supports a "trade only the top RS names" filter as the sample grows.
