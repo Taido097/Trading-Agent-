@@ -124,3 +124,17 @@ Paper (high-volume learning): first batch of 4 RS-momentum longs closed —
   Net +$41.82 sim (+1.05R), 25% win rate — one 2R winner carried it.
 Note: too late in the day to open a fresh paper batch responsibly; next paper
   passes resume tomorrow via the hourly engine.
+
+## 2026-09-18 (PRE-MARKET, 9:16 ET) — wide screen
+Mode: MICRO-LIVE PRACTICE real $20 (setup-gated) + high-volume PAPER.
+Reconciliation: Agentic ••••4713 — $19.90, 0 positions, 0 orders — matches OK.
+Regime (pre-market): ~flat. SPY 760.46 (-0.03%), QQQ 718.17 (+0.17%). Muted vs
+  yesterday's risk-on; lower odds of a clean breakout.
+Wide screen (24 names, keep affordable <= ~$19 + liquid + tight spread, rank RS):
+  - MARA ~$11.91 (+2.3%) tight spread — primary RS leader
+  - RIG +0.9%, BTG +0.7% (both low-priced), RIVN +0.4%, SOFI +0.3%, AAL flat
+  - Dropped >$19: KGC, HL(~19.2), RIOT, CCL, KEY, RF, SIRI, AMCR
+  - Skipped: CLF/VALE/NCLH (red), CHPT (wide pre-market spread, thin)
+Plan: at 9:47 measure opening ranges on the top names (MARA primary); take the
+  first valid breakout clearing the gate, else PASS. Flat regime = be selective.
+  No trade in this prep step.
