@@ -138,3 +138,18 @@ Wide screen (24 names, keep affordable <= ~$19 + liquid + tight spread, rank RS)
 Plan: at 9:47 measure opening ranges on the top names (MARA primary); take the
   first valid breakout clearing the gate, else PASS. Flat regime = be selective.
   No trade in this prep step.
+
+## 2026-09-18 (DECISION, 9:48–9:51 ET) — valid ORB (MARA) but entry MISSED; PASS
+Flat $19.90. Regime dead flat (SPY ~0.0%).
+MARA: **first genuine ORB** — OR high 12.34; broke and held above (12.40) on heavy
+  volume (1.78M opening bar); RS leader +6.5%. Cleared the gate.
+Execution: placed BUY 1 @ limit 12.36; MARA dipped to 12.33 (retest) then ripped
+  to 12.46->12.48 in ~90s — the limit did NOT fill. Cancelled it (confirmed
+  cancelled, 0 shares). Chose NOT to chase at 12.48: entry +$0.12 higher pushes
+  R:R below 2:1 and repeats the O001 anticipation/chase error. PASS, stayed flat.
+Others (RIVN/SOFI/AAL/RIG): no valid breakout (RIVN red, others inside range).
+Outcome: 0 trades, 1 missed-fill logged. Process was correct: identified +
+  attempted the right setup at the right price; didn't chase when it ran.
+Lesson (LESSONS candidate): on fast momentum names a passive limit at the level
+  often misses; consider a marketable-limit slightly through the level to catch
+  the break, OR accept the miss — but never chase after it extends.

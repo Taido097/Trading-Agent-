@@ -5,7 +5,7 @@
 > intent and status; it is NOT the brokerage record (that comes from
 > reconciliation).
 
-**Last updated:** 2026-09-17 (3:06 ET — real PASS; paper batch 1 closed +$41.82 sim; flat $19.90)
+**Last updated:** 2026-09-18 (9:51 ET — valid ORB (MARA) but entry missed; no chase; flat $19.90)
 
 ---
 
@@ -46,9 +46,9 @@
 
 | Counter                    | Value |
 | -------------------------- | ----- |
-| Trades today (9/17)        | 0 taken, 2 rejected (RIVN/F failed breakouts) |
-| Realized P&L today (9/17)  | $0.00 |
-| Consecutive losses         | 1 (from 9/16 F trade; no new trades since) |
+| Trades today (9/18)        | 0 taken; MARA valid ORB but limit missed the fill (no chase) |
+| Realized P&L today (9/18)  | $0.00 |
+| Consecutive losses         | 1 (from 9/16 F trade; no new real trades since) |
 | Daily loss used            | 0.00% |
 | Weekly drawdown used        | 0.00% |
 
