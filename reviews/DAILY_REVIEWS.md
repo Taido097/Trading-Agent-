@@ -174,3 +174,16 @@ Wide screen (affordable <= ~$19, liquid, tight spread, rank RS):
 Plan: at 9:47, measure opening ranges; take the FIRST valid breakout on the real
   $20, entering THROUGH the level (O002 fix) with a protective stop, >=2:1. Per
   owner, act on the first clean setup. Else PASS. No trade in this prep step.
+
+## 2026-09-21 (DECISION, 9:48 ET) — PASS (gap-and-fade open)
+Flat $19.90. Regime green (SPY +0.7%) but ALL watchlist names gapped up then
+FADED in the first 15 min:
+  - MARA OR 13.51-13.97, now 13.72 (bar-1 spike to 13.97 then faded) — no break
+  - SOFI OR 17.081-17.52, now 17.02 — below OR low
+  - NCLH OR 14.23-14.42, now 14.22 — below OR low
+  - AAL OR 13.165-13.315, now 13.17 — at OR low
+  - CLF now 12.37 (-1%) — red
+Decision: PASS. No name broke ABOVE its OR high; all selling off from the open
+  (index up, stocks fading = the inverse of a long breakout). Buying any = buying
+  a fader. Consistent with owner's "take the good ones, pass the junk." Logged to
+  REJECTED_TRADES. Real $20 stays flat. Paper engine covers learning volume later.
