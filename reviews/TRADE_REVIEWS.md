@@ -119,3 +119,22 @@ running read that only the *genuine* leaders that hold new highs pay — the two
 faded had already given back their opening pushes. Running paper sample now n=9 closed:
 3 wins (all +2R) / 6 losers, net still positive on the momentum profile. No rule
 promoted; sample still small.
+
+### PAPER 2026-09-21 1:12 ET pass — 2 new longs (P-2026-0011..0012)
+Tape strengthened into early afternoon (SPY +1.4%, QQQ +2.4%, semis-led). Scanned
+the wider universe for RS leaders making/holding new intraday highs on volume:
+- **PASSed AMD (+8.8%)** — day's biggest RS name but it already made its move
+  (ripped to 616 by 11am) and has faded/chopped lower for 2 hrs. Entering now =
+  chasing an extended, rolling name (O002). Discipline over FOMO.
+- **PASSed SMCI (+5.5%)** — chopping mid-range below its 41.48 HOD; no fresh
+  breakout to hold. No edge entering the middle of a range.
+- **TOOK AAL (P-2026-0011)** — the clean one: after the AM tight-stop whipsaw
+  (P-2026-0010) it *reclaimed* and built a higher-low staircase to a new HOD 13.44
+  on rising volume. Re-entered at 13.42 with a **wider** stop (13.35, under the whole
+  base) — deliberately applying the whipsaw lesson: don't put the stop inside the
+  noise. Risk $0.07/sh, target 13.56 (2:1), 571 sh.
+- **TOOK NCLH (P-2026-0012)** — clean higher-high staircase to HOD 14.59, holding
+  near highs. Entry 14.55, stop 14.44 (under base), target 14.77 (2:1), 363 sh.
+  Lighter volume than AAL — flagged.
+RIVN (P-2026-0009) left OPEN — drifting sideways (15.46–15.58), no target/stop hit,
+momentum cooling but thesis not invalidated. 3 paper positions now open (RIVN/AAL/NCLH).
