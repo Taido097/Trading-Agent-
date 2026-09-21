@@ -5,7 +5,7 @@
 > intent and status; it is NOT the brokerage record (that comes from
 > reconciliation).
 
-**Last updated:** 2026-09-21 (13:12 ET — 3 paper longs open: RIVN, AAL(re-entry), NCLH; PASSed extended AMD/SMCI; real flat $19.90)
+**Last updated:** 2026-09-21 (14:14 ET — NCLH stopped −1R; AAL working (green); RIVN flat; added HOOD breakout; real flat $19.90)
 
 ---
 
@@ -16,7 +16,7 @@
 | Development phase         | **MICRO-LIVE (real $20) + HIGH-VOLUME PAPER** (owner: "trade as much as possible to learn") |
 | Trading mode              | Real $20: **MICRO-LIVE, setup-gated**. Learning volume: **PAPER** (sim $20k, many trades/day, real data, zero risk) via hourly engine |
 | Paper engine              | Hourly 15:00–19:00Z (11am–3pm ET) weekdays; manages open paper trades + opens new; logs to data/PAPER_TRADES.csv (kept separate from live) |
-| Paper results             | 9 closed: 3 wins (all +2R) / 6 losers, net ~+$81.8 sim. 9/21 OPEN (3): RIVN 15.50 (drifting), AAL re-entry 13.42 (wider stop 13.35), NCLH 14.55 (stop 14.44). PASSed extended AMD +8.8% / mid-range SMCI. |
+| Paper results             | 10 closed: 3 wins (all +2R) / 7 losers, net ~+$41.9 sim. 9/21 OPEN (3): RIVN 15.47 (flat), AAL 13.42 (green, MFE ~1.1R), HOOD 125.05 breakout (stop 124.10). Closed: NCLH −1R (thin-name whipsaw). Pattern: high-vol leaders pay, thin/marginal names whipsaw. |
 | Sizing basis              | Real equity (~$19.90) per RISK_RULES §9; $20,000 is a mental reference only, never sizes a live order |
 | Live authorization        | **YES** — micro-live approved; equity order tools pre-approved |
 | Options / crypto / margin | **NOT enabled** — options only after separate testing + explicit owner approval (owner: "later we can trade options") |

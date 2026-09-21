@@ -138,3 +138,28 @@ the wider universe for RS leaders making/holding new intraday highs on volume:
   Lighter volume than AAL — flagged.
 RIVN (P-2026-0009) left OPEN — drifting sideways (15.46–15.58), no target/stop hit,
 momentum cooling but thesis not invalidated. 3 paper positions now open (RIVN/AAL/NCLH).
+
+### PAPER 2026-09-21 2:14 ET pass — NCLH stopped, HOOD breakout added
+Manage:
+- **AAL (P-2026-0011) WORKING** — after entry it dipped to 13.38 (held the wider
+  13.35 stop — a dip that the *earlier* tight stop lesson explicitly anticipated),
+  then pushed to 13.50. Green, MFE ~1.14R, target 13.56 not yet hit. Left OPEN.
+  The wider-stop decision is being validated in real time.
+- **NCLH (P-2026-0012) STOPPED −1R (−$39.93)** — faded immediately off entry, gave
+  essentially zero upside (MFE ~0), pierced the 14.44 stop at 17:30Z, THEN bounced
+  back to 14.48. The thinner-volume pick failed while the high-volume pick (AAL) is
+  working — same pattern seen all week: **the genuine high-volume leader pays; the
+  marginal/thin one whipsaws.** I flagged NCLH's lighter volume at entry; this
+  reinforces adding a volume filter before promotion to a rule.
+- **RIVN (P-2026-0009)** still OPEN, dead flat at entry (15.47); momentum gone but
+  no stop/target hit.
+New:
+- **HOOD (P-2026-0013)** — the day's cleanest *fresh* setup: RS leader +4.3% that
+  based 124–125 for 90 min then broke to a new HOD 125.26 on ~3x volume right at
+  the pass. Deliberately contrasted with AMD (+8.8% but extended-from-open and
+  fading — PASSed again) and SMCI (mid-range chop): only took the one that was
+  actually breaking out *now* on volume. Entry 125.05 (through the HOD), stop 124.10
+  (under base), target 126.95 (2:1), 42 sh. Note: late-day entry (~1h45 to close) —
+  accepting less runway because the breakout quality is high; will see if late
+  volume-breakouts behave differently from midday ones (data point for the journal).
+Open now: RIVN, AAL, HOOD.
