@@ -5,7 +5,7 @@
 > intent and status; it is NOT the brokerage record (that comes from
 > reconciliation).
 
-**Last updated:** 2026-09-21 (15:14 ET — **REAL AAL open ~breakeven** (T-2026-0003), EOD close call pending ~3:52pm; paper book flattened EOD: +0.11R/+0.79R/−0.69R)
+**Last updated:** 2026-09-21 (15:53 ET — **REAL AAL CLOSED +$0.05 (+0.33R), GOOD DECISION + WIN** (T-2026-0003); flat ~$19.95; paper book flat EOD)
 
 ---
 
@@ -30,11 +30,11 @@
 
 | Field                     | Value                     |
 | ------------------------- | ------------------------- |
-| Account total value       | ~$19.90 (1 AAL share @ 13.47 + residual cash) |
-| Cash                      | ~$6.43 after AAL buy (13.4699 fill)           |
-| Open positions            | **1 — long 1 AAL @ 13.4699** (T-2026-0003)    |
-| Open orders               | **1 — GTC stop-market sell 1 AAL @ 13.32** (id 6ab176b9) |
-| Status                    | **LONG AAL.** First edge-based real trade. Stop 13.32 (risk $0.15), target 13.77 (2:1). Max loss if stopped ≈ $0.15. |
+| Account total value       | ~$19.95 (all cash)        |
+| Cash                      | ~$19.95                   |
+| Open positions            | 0 (flat)                  |
+| Open orders               | 0                         |
+| Status                    | **FLAT.** T-2026-0003 AAL closed +$0.05 (+0.33R), first edge-based real WIN. Lifetime real P&L: −$0.11 (F) +$0.05 (AAL) = −$0.06. |
 
 ## Active Strategies
 
@@ -46,9 +46,9 @@
 
 | Counter                    | Value |
 | -------------------------- | ----- |
-| Trades today (9/21)        | 1 REAL taken — long 1 AAL @ 13.47 (T-2026-0003), OPEN with stop; edge-based breakout |
-| Realized P&L today (9/21)  | $0.00 (AAL open) |
-| Consecutive losses         | 1 (from 9/16 F trade; AAL is the next real trade, still open) |
+| Trades today (9/21)        | 1 REAL, closed — long 1 AAL @ 13.4699 → 13.5201 (T-2026-0003), +$0.05 (+0.33R), GOOD DECISION + WIN |
+| Realized P&L today (9/21)  | +$0.05 (real); paper −2.8R sim (learning) |
+| Consecutive losses         | 0 (AAL win broke the streak) |
 | Daily loss used            | 0.00% |
 | Weekly drawdown used        | 0.00% |
 
@@ -63,8 +63,8 @@
 
 | Field                     | Value              |
 | ------------------------- | ------------------ |
-| Last reconciliation       | 2026-09-16 09:48 ET |
-| Internal vs broker match? | **Yes** — $20.01, 0 positions, 0 orders; no live trades |
+| Last reconciliation       | 2026-09-21 15:53 ET |
+| Internal vs broker match? | **Yes** — flat, 0 positions, 0 open orders after AAL round-trip (buy 6ab176aa filled, stop 6ab176b9 cancelled, sell 6ab18b45 filled) |
 | Discrepancies open        | 0                  |
-| Today (9/17)              | 0 trades, 2 rejected (RIVN/F failed breakouts); flat, no orders |
+| Today (9/21)              | 1 real trade closed (AAL +$0.05); GTC stop cancelled before the closing sell — no naked orders left |
 | Notes                     | Account is limited_margin; per RISK_RULES we operate cash-only, no margin/leverage, until owner approves otherwise |

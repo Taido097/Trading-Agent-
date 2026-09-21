@@ -229,3 +229,34 @@ NOT hold overnight on a $20 account (gap risk); make the final close/hold call n
 the close with fresh data (self check-in ~3:52pm ET). Broker stop 13.32 protects the
 downside (max −$0.15) until then. If it re-breaks 13.52 it can run to target; if it
 keeps drifting, close flat-to-small rather than carry it overnight.
+
+### Trade T-2026-0003 — AAL 2026-09-21  [CLOSED — final review]
+Snapshot (frozen, pre-outcome): data/snapshots/T-2026-0003.json
+Result: **CLOSED +$0.05 (+0.33R).** Bought 1 @ 13.4699 (18:25:46Z), sold 1 @
+  13.5201 (19:53:41Z), ~7 min before the close. Held ~1h28m. MFE +0.05 (0.33R),
+  MAE −0.03 (0.20R). No fees. Entry favorable by ~$0.01 vs limit.
+Classification: **GOOD DECISION + WIN.** Process was right and the outcome was
+  positive — but per rule 19 a win on n=1 does NOT validate the strategy, and per
+  rule 20 I don't raise strategy confidence off one trade. What made it a good
+  decision (independent of the $0.05):
+  - Real edge, defined first: RS leader breaking a new HOD on heavy volume and
+    holding it — the exact high-volume-leader profile the paper book keeps rewarding.
+  - Invalidation set before entry; mandatory broker-held stop attached seconds after
+    fill; 2:1 target; options/crypto/margin OFF.
+  - Stop placed WIDER than the base (13.32), applying the P-2026-0010 whipsaw lesson
+    — and it was never threatened (MAE only reached 13.44).
+  - Disciplined exit: the setup was an intraday breakout continuation; it stalled
+    below target, so I closed into the close rather than carry overnight gap risk on
+    a $20 account. Cancelled the resting GTC stop FIRST (freed the share), then sold
+    — no naked order left behind.
+Contrast with T-2026-0001 (F, BAD DECISION + LOSS): that was a no-edge owner-directed
+  entry. This one was owner-*requested* but independently met the setup bar. Same
+  owner ask ("trade today"), opposite process quality.
+Honest framing (unchanged): +$0.05 is not income — on 1 share the edge is swamped by
+  spread/fees at any real scale, and $20 still cannot fund operations. The value of
+  T-2026-0003 is that the FULL real pipeline now works on a genuine edge:
+  scan → confirm RS+volume breakout → size from risk → enter → attach stop →
+  manage → exit flat-to-green → journal. That is the asset, not the nickel.
+Lessons/actions: no new MISTAKE (clean process). Reinforces the forming
+  "high-volume midday RS leader" edge (LESSONS candidate, still paper-driven; one
+  real win is not promotion evidence). Account reconciled flat post-trade.
