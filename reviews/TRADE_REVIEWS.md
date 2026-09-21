@@ -163,3 +163,36 @@ New:
   accepting less runway because the breakout quality is high; will see if late
   volume-breakouts behave differently from midday ones (data point for the journal).
 Open now: RIVN, AAL, HOOD.
+
+### Trade T-2026-0003 — AAL 2026-09-21  [OPEN — interim review]
+Snapshot (frozen, pre-outcome): data/snapshots/T-2026-0003.json
+**First edge-based REAL trade** (contrast T-2026-0001 F, which was a no-edge
+owner-directed entry). Owner asked "still no trade today?" — and this time there
+was an actual clean, affordable setup to say yes to, so I took it.
+Entry: 1 share @ $13.4699 (limit 13.48, filled at ask). Stop $13.32 (broker-held
+  GTC stop-market, id 6ab176b9). Target $13.77. Planned risk $0.15 (~0.75% of the
+  ~$19.90 account), reward:risk 2:1.
+Why this one cleared the bar (and days of others did not):
+- **Relative strength:** +3.9% vs SPY +1.6% — a genuine leader, not a laggard.
+- **Real breakout on volume:** based 13.39-13.44 midday, broke a new HOD 13.50 at
+  18:00Z on a 1.74M-share 5min bar (2-3x the prior bars), then HELD the breakout
+  instead of fading. This is the exact high-volume-leader profile the paper book
+  has been rewarding all week (AAL/HOOD working; thin NCLH whipsawing).
+- **Affordable + clean stop:** 1 share fits the $20; stop has a real technical
+  home under the base.
+Process notes:
+- Edge defined BEFORE entry; invalidation set first; mandatory broker-held stop
+  attached seconds after the fill; 2:1 respected. Options/crypto/margin OFF.
+- Stop placed at 13.32 (wider than the immediate base) specifically to avoid
+  repeating the P-2026-0010 tight-stop whipsaw — applying the week's own lesson to
+  real money.
+Honest caveats (logged, not hidden):
+- Late-day entry (~2:26 PM ET) — the 2:1 target has limited runway before the
+  close; may need to manage/close near EOD rather than let it sit. Data point on
+  late vs midday breakouts.
+- 1 whole share means the spread/fees are large relative to the edge; the value
+  here is proving a real edge + full live pipeline on a defined setup, NOT P&L that
+  can fund operations. $20 still cannot pay for itself; that math is unchanged.
+Actions at exit: classify GOOD/BAD x WIN/LOSS, record slippage/MFE/MAE/return_r,
+  update memory. This is a GOOD DECISION regardless of outcome (valid edge, correct
+  process); a win won't validate the strategy on n=1 and a loss won't refute it.

@@ -5,7 +5,7 @@
 > intent and status; it is NOT the brokerage record (that comes from
 > reconciliation).
 
-**Last updated:** 2026-09-21 (14:14 ET — NCLH stopped −1R; AAL working (green); RIVN flat; added HOOD breakout; real flat $19.90)
+**Last updated:** 2026-09-21 (14:26 ET — **REAL TRADE LIVE: long 1 AAL @ 13.47, stop 13.32, target 13.77** (T-2026-0003); paper RIVN/AAL/HOOD open)
 
 ---
 
@@ -30,11 +30,11 @@
 
 | Field                     | Value                     |
 | ------------------------- | ------------------------- |
-| Account total value       | $19.90                    |
-| Cash                      | $19.90                    |
-| Open positions            | 0 (flat)                  |
-| Open orders               | 0                         |
-| Status                    | **FLAT.** First trade closed −$0.11. Practice mode; no live risk. |
+| Account total value       | ~$19.90 (1 AAL share @ 13.47 + residual cash) |
+| Cash                      | ~$6.43 after AAL buy (13.4699 fill)           |
+| Open positions            | **1 — long 1 AAL @ 13.4699** (T-2026-0003)    |
+| Open orders               | **1 — GTC stop-market sell 1 AAL @ 13.32** (id 6ab176b9) |
+| Status                    | **LONG AAL.** First edge-based real trade. Stop 13.32 (risk $0.15), target 13.77 (2:1). Max loss if stopped ≈ $0.15. |
 
 ## Active Strategies
 
@@ -46,9 +46,9 @@
 
 | Counter                    | Value |
 | -------------------------- | ----- |
-| Trades today (9/18)        | 0 taken; MARA valid ORB but limit missed the fill (no chase) |
-| Realized P&L today (9/18)  | $0.00 |
-| Consecutive losses         | 1 (from 9/16 F trade; no new real trades since) |
+| Trades today (9/21)        | 1 REAL taken — long 1 AAL @ 13.47 (T-2026-0003), OPEN with stop; edge-based breakout |
+| Realized P&L today (9/21)  | $0.00 (AAL open) |
+| Consecutive losses         | 1 (from 9/16 F trade; AAL is the next real trade, still open) |
 | Daily loss used            | 0.00% |
 | Weekly drawdown used        | 0.00% |
 

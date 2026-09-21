@@ -1,0 +1,55 @@
+{
+  "trade_id": "T-2026-0003",
+  "captured_at": "2026-09-21T18:25:46Z",
+  "frozen": true,
+  "note": "Pre-outcome snapshot. Frozen at entry to prevent hindsight bias. Do not edit after outcome is known.",
+  "account": "563174713 (Agentic, limited_margin, cash-only operation)",
+  "mode": "live (real $20 micro-live, RISK_RULES §9)",
+  "ticker": "AAL",
+  "direction": "long",
+  "strategy": "RS-momentum",
+  "setup": "Intraday high-of-day breakout continuation",
+  "market_regime": {
+    "SPY": "773.83 (+1.6% vs 761.69)",
+    "QQQ": "740.57 (+2.7% vs 721.45)",
+    "read": "Strong risk-on, tech/semis-led; broad participation"
+  },
+  "thesis": "AAL is a genuine relative-strength leader (+3.9% vs SPY +1.6%). Based 13.39-13.44 through midday, then broke to a new intraday high 13.50 at 18:00Z on heavy volume (1.74M-share 5min bar vs ~0.5-0.9M prior), and is HOLDING the breakout (13.46-13.50) rather than fading. Matches the profile that has been paying in the paper book this week: the high-volume RS leader that holds new highs, not the thin/marginal name.",
+  "entry": {
+    "time": "2026-09-21T18:25:46Z",
+    "order_id": "6ab176aa-628c-4b01-9b37-39650a28336a",
+    "type": "limit 13.48 (marketable through 13.47 ask)",
+    "fill_price": 13.4699,
+    "quantity": 1,
+    "notional_usd": 13.47
+  },
+  "invalidation": {
+    "stop_price": 13.32,
+    "stop_order_id": "6ab176b9-e492-4c65-96b8-c13f9af28fab",
+    "stop_type": "stop_market, GTC, broker-held (mandatory per §9)",
+    "rationale": "Under the whole afternoon base (13.38-13.44). Deliberately set WIDER than the immediate base to respect the P-2026-0010 tight-stop-whipsaw lesson and to satisfy the §9 min risk band ($0.15-0.50). Risk = $0.15/share = ~0.75% of the ~$19.90 account."
+  },
+  "target": {
+    "price": 13.77,
+    "reward_usd": 0.30,
+    "reward_risk_ratio": 2.0
+  },
+  "risk": {
+    "planned_risk_usd": 0.15,
+    "planned_risk_pct_of_account": "0.75%",
+    "position_size_shares": 1,
+    "sizing_basis": "Real equity ~$19.90; whole-share constraint (§9). $20,000 sim basis NOT used for live sizing."
+  },
+  "rule_compliance": {
+    "edge_defined_first": true,
+    "invalidation_before_entry": true,
+    "mandatory_stop_attached": true,
+    "reward_risk_min_2to1": true,
+    "options_crypto_margin": "OFF",
+    "notes": "First REAL trade taken on a defined edge (contrast T-2026-0001 F, which was owner-directed with no setup). Owner also explicitly asked for a real trade today; this one independently meets the setup criteria."
+  },
+  "caveats": [
+    "Late-day entry (~2:26 PM ET, ~1h34 to close) — less runway for the 2:1 target; logging as a data point on late vs midday breakouts.",
+    "Single whole-share means spread/fees are a large fraction of the tiny edge; this trade is about proving a real edge + process, not P&L that can fund operations."
+  ]
+}
