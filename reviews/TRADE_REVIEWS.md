@@ -196,3 +196,36 @@ Honest caveats (logged, not hidden):
 Actions at exit: classify GOOD/BAD x WIN/LOSS, record slippage/MFE/MAE/return_r,
   update memory. This is a GOOD DECISION regardless of outcome (valid edge, correct
   process); a win won't validate the strategy on n=1 and a loss won't refute it.
+
+### PAPER 2026-09-21 3:14 ET pass — EOD close of the book (P-2026-0009/0011/0013)
+Last intraday pass of the day; flattened all open paper positions to EOD marks
+(no new entries — 46 min to close is too little runway for a fresh momentum entry).
+- **RIVN +0.11R (+$4.28)** — ranged 15.40–15.58 all day, never triggered stop or
+  target. Scratch win; momentum died right after entry but it held above entry.
+- **AAL paper +0.79R (+$31.41)** — peaked 13.52, **4 cents shy** of the 13.56
+  target, then faded into the afternoon stall. The wider stop (13.35) was validated
+  (the post-entry dip to 13.38 held). Two takeaways: (a) the wider-stop fix works;
+  (b) a target set even slightly too far can turn a would-be 2R into a partial when
+  afternoon momentum fades — consider a partial-profit / trail once MFE > ~1.3R.
+- **HOOD −0.69R (−$27.72)** — the late-day (2:14pm) breakout **never followed
+  through**: it barely printed a new high then drifted to 124.29 (didn't even hit
+  the stop). Clean confirmation of the caveat I logged at entry.
+**Lesson candidate (O003):** late-day breakouts (entered after ~1:30–2pm ET) show
+weaker follow-through than midday ones — the runway to a 2:1 target is short and
+afternoon momentum tends to fade. HOOD (late) failed while AAL (midday trend,
+established since ~12pm) captured most of its move. Not yet a rule; watch for
+repetition, then consider a "no fresh breakout entries after ~2pm ET" filter.
+Day's paper tally (9/21): 6 closes — RIOT −1R, AAL(0010) −1R, NCLH −1R, RIVN
++0.11R, AAL(0011) +0.79R, HOOD −0.69R = net ~−2.8R (−$111.9 sim). Choppy-underneath
+tape (indices green but individual names round-tripping) punished momentum entries;
+only the midday-trend name (AAL) really worked. Running sample n=13 closed: 5 wins /
+8 losers. Small sample; the edge case for "high-volume midday RS leaders" is holding
+up better than the broad "any RS leader" read.
+
+### Trade T-2026-0003 — AAL [EOD management plan]
+Real AAL at 3:14pm ET = 13.475 vs 13.4699 entry (breakeven); tagged 13.52 then
+faded. Thesis was an intraday breakout continuation and it has stalled. Plan: do
+NOT hold overnight on a $20 account (gap risk); make the final close/hold call near
+the close with fresh data (self check-in ~3:52pm ET). Broker stop 13.32 protects the
+downside (max −$0.15) until then. If it re-breaks 13.52 it can run to target; if it
+keeps drifting, close flat-to-small rather than carry it overnight.

@@ -5,7 +5,7 @@
 > intent and status; it is NOT the brokerage record (that comes from
 > reconciliation).
 
-**Last updated:** 2026-09-21 (14:26 ET — **REAL TRADE LIVE: long 1 AAL @ 13.47, stop 13.32, target 13.77** (T-2026-0003); paper RIVN/AAL/HOOD open)
+**Last updated:** 2026-09-21 (15:14 ET — **REAL AAL open ~breakeven** (T-2026-0003), EOD close call pending ~3:52pm; paper book flattened EOD: +0.11R/+0.79R/−0.69R)
 
 ---
 
@@ -16,7 +16,7 @@
 | Development phase         | **MICRO-LIVE (real $20) + HIGH-VOLUME PAPER** (owner: "trade as much as possible to learn") |
 | Trading mode              | Real $20: **MICRO-LIVE, setup-gated**. Learning volume: **PAPER** (sim $20k, many trades/day, real data, zero risk) via hourly engine |
 | Paper engine              | Hourly 15:00–19:00Z (11am–3pm ET) weekdays; manages open paper trades + opens new; logs to data/PAPER_TRADES.csv (kept separate from live) |
-| Paper results             | 10 closed: 3 wins (all +2R) / 7 losers, net ~+$41.9 sim. 9/21 OPEN (3): RIVN 15.47 (flat), AAL 13.42 (green, MFE ~1.1R), HOOD 125.05 breakout (stop 124.10). Closed: NCLH −1R (thin-name whipsaw). Pattern: high-vol leaders pay, thin/marginal names whipsaw. |
+| Paper results             | 13 closed: 5 wins / 8 losers, net ~+$4 sim lifetime. 9/21 book flattened EOD: RIVN +0.11R, AAL +0.79R (4c shy of target), HOOD −0.69R (late-day breakout fizzled). Day −2.8R in a choppy-underneath tape. Lesson candidate O003: late-day breakouts lack follow-through. |
 | Sizing basis              | Real equity (~$19.90) per RISK_RULES §9; $20,000 is a mental reference only, never sizes a live order |
 | Live authorization        | **YES** — micro-live approved; equity order tools pre-approved |
 | Options / crypto / margin | **NOT enabled** — options only after separate testing + explicit owner approval (owner: "later we can trade options") |
