@@ -162,3 +162,15 @@ Paper: 3 trades — MARA +2R, RIOT +2R, SOFI -1R = net +3R (+$119.90 sim). Book
 Cumulative paper: n=7, 3 wins (all +2R) / 4 small losers, ~+$161.7 sim.
 Takeaway: strongest-RS names (crypto-miners) worked; weakest (SOFI) failed —
   supports a "trade only the top RS names" filter as the sample grows.
+
+## 2026-09-21 (PRE-MARKET, 9:16 ET) — wide screen
+Reconciliation: Agentic ••••4713 — $19.90, 0 positions, 0 orders — matches OK.
+Regime (pre-market): risk-ON gap up. SPY 766.36 (+0.61%), QQQ 727.98 (+0.9%).
+  Supportive for long breakouts.
+Wide screen (affordable <= ~$19, liquid, tight spread, rank RS):
+  - MARA ~$13.84 (+4.5%) tight — primary RS leader (crypto, consistent winner)
+  - NCLH ~$14.47 (+2.5%), SOFI ~$17.37 (+2.4%), CLF ~$12.80 (+2.4%), AAL ~$13.25 (+2.2%)
+  - Dropped >$19: RIOT ($24.90, +4.8%). Skipped: CHPT (wide spread), SNAP/BTG/RIG (low-priced/weak)
+Plan: at 9:47, measure opening ranges; take the FIRST valid breakout on the real
+  $20, entering THROUGH the level (O002 fix) with a protective stop, >=2:1. Per
+  owner, act on the first clean setup. Else PASS. No trade in this prep step.
