@@ -5,7 +5,7 @@
 > intent and status; it is NOT the brokerage record (that comes from
 > reconciliation).
 
-**Last updated:** 2026-09-21 (11:14 ET — real PASS (gap-fade open); 3 paper longs open; flat $19.90)
+**Last updated:** 2026-09-21 (12:15 ET — real PASS (gap-fade open); paper: RIOT & AAL stopped −1R each, RIVN open +0.46R; real flat $19.90)
 
 ---
 
@@ -16,7 +16,7 @@
 | Development phase         | **MICRO-LIVE (real $20) + HIGH-VOLUME PAPER** (owner: "trade as much as possible to learn") |
 | Trading mode              | Real $20: **MICRO-LIVE, setup-gated**. Learning volume: **PAPER** (sim $20k, many trades/day, real data, zero risk) via hourly engine |
 | Paper engine              | Hourly 15:00–19:00Z (11am–3pm ET) weekdays; manages open paper trades + opens new; logs to data/PAPER_TRADES.csv (kept separate from live) |
-| Paper results             | 7 closed: 3 wins (all +2R) / 4 small losers, net ~+$161.7 sim (win rate 43%). 9/21: 3 paper longs OPEN — RIOT, RIVN, AAL. |
+| Paper results             | 9 closed: 3 wins (all +2R) / 6 losers, net ~+$81.8 sim. 9/21: RIOT −1R & AAL −1R (both stopped ~11:50 ET; AAL a tight-stop whipsaw); RIVN still OPEN (+0.46R, 15.53). |
 | Sizing basis              | Real equity (~$19.90) per RISK_RULES §9; $20,000 is a mental reference only, never sizes a live order |
 | Live authorization        | **YES** — micro-live approved; equity order tools pre-approved |
 | Options / crypto / margin | **NOT enabled** — options only after separate testing + explicit owner approval (owner: "later we can trade options") |

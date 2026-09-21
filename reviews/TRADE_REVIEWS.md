@@ -94,3 +94,28 @@ strongest RS names." Running paper sample n=7: 3 wins (all +2R) / 4 losers
 small losers) is showing. Still a small sample; no rule promoted yet.
 Note: MARA's paper win is the same setup whose REAL entry missed this AM — the
 read was right; execution (passive limit) was the gap (see O002).
+
+### PAPER 2026-09-21 (P-2026-0008..0010) — RS-momentum longs, sim $20k
+3 longs opened 11:14 ET (15:14Z) into a strong risk-on tape (SPY +1.1%, QQQ +2.1%).
+Managed on the 12:12 ET intraday pass with fresh 5-min bars:
+- **RIOT** (entry 25.01, stop 24.65): **STOPPED −1R (−$39.96).** Held for ~35 min,
+  then rolled over on rising volume (15:50Z bar low 24.575), tagged the stop, kept
+  fading to 24.43. Clean invalidation — the leader lost its bid and I was out at the
+  planned level. No process error; the setup simply failed.
+- **AAL** (entry 13.35, stop 13.28): **STOPPED −1R (−$39.97).** Never extended
+  (MFE only +0.03), ground straight down to the 13.27 low at 15:50Z, then bounced
+  back to 13.36 *right after* the stop. Textbook tight-stop whipsaw — the $0.07 stop
+  gave the trade almost no room. Observation to watch: a stop this tight (~0.5% of
+  price) on a $13 name sits inside normal noise; the entry needed either a wider stop
+  (worse R) or a tighter entry trigger. Flagging as a candidate lesson, not yet a rule.
+- **RIVN** (entry 15.47, stop 15.33, target 15.75): **still OPEN**, 15.535 (+0.46R
+  unrealized). Only name that held its bid; ranged 15.42–15.58, neither stop nor
+  target hit. Carrying into the next pass.
+
+Batch so far: 2 stopped (−2R, −$79.93 sim), 1 open (green). All three were valid
+RS-momentum entries; the two failures are normal variance in a choppy-underneath tape
+(index green but individual names round-tripping their opens). Consistent with the
+running read that only the *genuine* leaders that hold new highs pay — the two that
+faded had already given back their opening pushes. Running paper sample now n=9 closed:
+3 wins (all +2R) / 6 losers, net still positive on the momentum profile. No rule
+promoted; sample still small.
