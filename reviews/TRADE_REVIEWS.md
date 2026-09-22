@@ -260,3 +260,20 @@ Honest framing (unchanged): +$0.05 is not income — on 1 share the edge is swam
 Lessons/actions: no new MISTAKE (clean process). Reinforces the forming
   "high-volume midday RS leader" edge (LESSONS candidate, still paper-driven; one
   real win is not promotion evidence). Account reconciled flat post-trade.
+
+### PAPER 2026-09-22 10:15 ET pass — 2 miner longs (P-2026-0014/0015)
+First high-volume pass of the ramped-up engine. Flat/mild tape (SPY +0.1%, QQQ +0.6%)
+but clear stock-specific leadership from crypto-miners.
+- **MARA (P-2026-0014)**: entry 13.91, stop 13.60, target 14.53, 129 sh. +4.7% RS
+  leader; steady higher-high staircase to a new HOD 13.97 on a 1.2M-share bar (~2x).
+- **RIOT (P-2026-0015)**: entry 25.22, stop 24.80, target 26.06, 95 sh. +4.2%; new
+  HOD 25.355 on ~2x volume; staircase all morning.
+Both are the miner "high-volume leader making new highs" pattern that hit +2R twice
+last week — deliberately concentrating paper volume on the pattern with the best
+evidence rather than spraying. Noted risk: both entered just after a 14:10 spike bar,
+so a slight chase — stops set with room under the 14:00-14:05 base to absorb a normal
+pullback (whipsaw lesson).
+PASSED (documented): CHPT +6.5% (biggest mover but THIN 14-80k vol + already spiked
+and pulling back — thin-name-whipsaw risk); CCL (fading below its open, no new high);
+AAL (chopping mid-OR, no breakout). Discipline over count: took the 2 clean leaders,
+skipped the 3 that don't fit, even on a "high-volume" mandate.
