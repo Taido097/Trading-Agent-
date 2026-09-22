@@ -297,3 +297,13 @@ Tape went DEAD FLAT (SPY +0.01%, QQQ +0.5%) and morning leaders faded across the
 Pass net so far today: MARA −1R, RIOT −1R (−$79.89 sim). Flat choppy tape is punishing
 momentum — a useful regime data point: SPY ~flat = spikes mean-revert. Being more
 selective on remaining passes per the standing guidance.
+
+### 2026-09-22 12:14 ET engine pass (STEP A real + STEP B paper)
+STEP A (real): CLF (T-2026-0004) OPEN, 12.43 vs 12.50 entry (−$0.07 unrealized); faded
+from the coil rather than breaking 12.54, but stop 12.33 NOT hit (low 12.445). Holding
+— not invalidated; stop + EOD check manage it. No 2nd real position (one at a time).
+STEP B (paper): CLF paper (P-2026-0016) still OPEN (12.43; no stop/target). NO NEW
+paper entries — flat/soft tape (SPY −0.02%, QQQ +0.5%) and morning leaders fading hard
+(MARA +4.7→+3.4, RIOT +4.2→+2.4, CHPT +6.5→+4.0). Forcing longs into midday chop is
+exactly what generated the AM −1R stops; per the flat-tape rule I stood down on new
+entries. A disciplined zero-new-entry pass, not a missed one — the setups aren't there.
