@@ -1,0 +1,18 @@
+{
+  "trade_id": "T-2026-0004",
+  "captured_at": "2026-09-22T15:47:31Z",
+  "frozen": true,
+  "note": "Pre-outcome snapshot. Frozen at entry. Do not edit after outcome is known.",
+  "account": "563174713 (Agentic, cash-only operation)",
+  "mode": "live (real $20 micro-live, RISK_RULES §9)",
+  "ticker": "CLF", "direction": "long", "strategy": "RS-momentum",
+  "setup": "Coil/continuation just under intraday high in the day's strongest RS name",
+  "market_regime": {"SPY": "772.84 (-0.09%, RED)", "QQQ": "744.37 (+0.4%)", "read": "Soft/mixed tape; CLF showing relative strength by holding +3.4% vs a red market"},
+  "thesis": "CLF is the day's genuine RS leader (+3.4%) and is BUCKING a red SPY. It ran to a new intraday high 12.54, then coiled tightly 12.40-12.52 for ~40 min holding higher lows on steady volume. Entered near the coil SUPPORT (12.50), deliberately NOT chasing the spike high — the direct correction of today's paper MARA/RIOT spike-chase losses (loss_class EXECUTION, O002).",
+  "entry": {"time": "2026-09-22T15:47:31Z", "order_id": "6ab2a313-569d-4868-bedd-c8a6ac8a12e0", "type": "limit 12.50 (marketable)", "fill_price": 12.50, "quantity": 1, "notional_usd": 12.50},
+  "invalidation": {"stop_price": 12.33, "stop_order_id": "6ab2a321-2e91-45fc-9e47-c1981f061695", "stop_type": "stop_market GTC broker-held (mandatory §9)", "rationale": "Under the whole morning coil/base (12.40 coil, 12.255 AM low). Risk $0.17/share = ~0.85% of the ~$19.95 account; within §9 band ($0.15-0.50)."},
+  "target": {"price": 12.84, "reward_usd": 0.34, "reward_risk_ratio": 2.0},
+  "risk": {"planned_risk_usd": 0.17, "planned_risk_pct_of_account": "0.85%", "position_size_shares": 1, "sizing_basis": "Real equity ~$19.95; whole-share (§9)."},
+  "rule_compliance": {"edge_defined_first": true, "invalidation_before_entry": true, "mandatory_stop_attached": true, "reward_risk_min_2to1": true, "options_crypto_margin": "OFF"},
+  "caveats": ["Soft/red broad tape = lower conviction; momentum longs have faded all day (paper -4R). Accepting this with tiny defined risk.", "Not a confirmed breakout above 12.54 — a coil entry near support; if it breaks down through 12.33 I'm out for ~$0.17.", "Owner asked when the real trade would happen; this independently met the setup+affordability bar (RS leader), unlike the no-edge F trade."]
+}
