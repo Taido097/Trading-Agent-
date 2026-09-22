@@ -277,3 +277,23 @@ PASSED (documented): CHPT +6.5% (biggest mover but THIN 14-80k vol + already spi
 and pulling back — thin-name-whipsaw risk); CCL (fading below its open, no new high);
 AAL (chopping mid-OR, no breakout). Discipline over count: took the 2 clean leaders,
 skipped the 3 that don't fit, even on a "high-volume" mandate.
+
+### PAPER 2026-09-22 11:14 ET pass — both miners stopped; CLF added
+Tape went DEAD FLAT (SPY +0.01%, QQQ +0.5%) and morning leaders faded across the board.
+- **MARA (P-2026-0014) STOPPED −1R (−$39.99)** and **RIOT (P-2026-0015) STOPPED −1R
+  (−$39.90).** Both topped EXACTLY on the 14:10 spike bar I entered on, then faded the
+  whole hour to my stops. This is the "slight chase after the spike bar" I explicitly
+  flagged at entry — and it cost the full −1R on both. **Reinforces O002 hard: entering
+  immediately after a vertical spike bar = buying the local top.** The read (miner
+  leadership) was right; the *timing* was the flaw. Classified GOOD DECISION + LOSS,
+  loss_class EXECUTION (not strategy — the entry trigger was wrong, not the selection).
+  Actionable refinement (candidate rule): on a momentum name, don't enter on the spike
+  bar itself — wait for a 1-2 bar pullback/hold or a re-break of the spike high.
+- **CLF (P-2026-0016) OPENED** 12.46, stop 12.30, target 12.78, 250 sh. Deliberately a
+  DIFFERENT profile: steel name +3.2% grinding HIGHER LOWS on decent volume, coiling
+  under its HOD 12.54 — a controlled continuation, not a vertical spike. It was the one
+  name still firming while miners/airlines/cruise all faded. Testing whether a
+  coil-continuation entry behaves better than a spike-chase in a flat tape.
+Pass net so far today: MARA −1R, RIOT −1R (−$79.89 sim). Flat choppy tape is punishing
+momentum — a useful regime data point: SPY ~flat = spikes mean-revert. Being more
+selective on remaining passes per the standing guidance.
