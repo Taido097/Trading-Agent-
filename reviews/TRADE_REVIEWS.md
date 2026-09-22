@@ -332,3 +332,27 @@ firmer (SPY +0.05%), and the one clean setup today (CLF coil-continuation) is al
 held in both books. Honest read: today's tape offered essentially ONE clean setup, not
 many — quality gating means low-count days happen, and forcing more into late-day chop
 is how the AM losses happened. Discipline over count.
+
+### Trade T-2026-0004 — CLF 2026-09-22  [CLOSED — final review]
+Snapshot: data/snapshots/T-2026-0004.json
+Result: **CLOSED +$0.05 (+0.30R).** Bought 1 @ 12.50 (15:47Z), sold 1 @ 12.5503
+(19:15Z, ~45 min before close). Held ~3.5h. MFE +0.205 (+1.2R, HOD 12.705), MAE −0.108
+(low 12.392, above the original 12.33 stop). No fees.
+Classification: **GOOD DECISION + WIN.** Process notes:
+- Entry was a COIL near support in the day's RS leader (bucking a red SPY) — the
+  deliberate opposite of the morning's paper spike-chases (MARA/RIOT, O002). The coil
+  broke UP to 12.705; the spike-chases faded. Same tape, opposite technique, opposite
+  result — the day's cleanest confirmation that in a flat tape you buy the pullback,
+  not the spike.
+- Managed correctly: mandatory stop first (12.33), then RAISED to breakeven (12.48) at
+  +0.85R to make it a free trade (Asymmetry Rule), then BANKED the gain when it stalled
+  short of the 12.84 target and rolled off its HOD into a soft close — rather than let
+  a winner round-trip. No overnight hold.
+- Honest: +$0.05 gave back from +1.2R MFE. A tighter trail would have captured more,
+  but tightening into the 12.60 base risked the exact whipsaw the journal keeps
+  flagging — I chose to let it breathe, and it stalled. Acceptable; the exit was
+  green and disciplined. Per rule 19, n-small win does NOT validate the strategy.
+Real record now: 2 edge-based trades, 2 wins (AAL +0.33R, CLF +0.30R); lifetime real
+P&L −$0.01 (F −$0.11 no-edge, AAL +$0.05, CLF +$0.05) — essentially flat, capital
+preserved. The edge-based process is showing small consistent green; keep the sample
+growing before drawing conclusions.

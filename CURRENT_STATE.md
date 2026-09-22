@@ -5,7 +5,7 @@
 > intent and status; it is NOT the brokerage record (that comes from
 > reconciliation).
 
-**Last updated:** 2026-09-22 (12:14 ET — **REAL CLF OPEN** 1 @ 12.50, stop 12.33, target 12.84 (T-2026-0004), now 12.43; paper CLF open; miners stopped −2R AM)
+**Last updated:** 2026-09-22 (15:15 ET — **REAL CLF CLOSED +$0.05 (+0.30R), GOOD DECISION + WIN** (T-2026-0004); flat ~$20.00; paper CLF open, flattens at 4pm)
 
 ---
 
@@ -30,11 +30,11 @@
 
 | Field                     | Value                     |
 | ------------------------- | ------------------------- |
-| Account total value       | ~$19.95 (1 CLF share @ 12.50 + ~$7.45 cash) |
-| Cash                      | ~$7.45 after CLF buy                         |
-| Open positions            | **1 — long 1 CLF @ 12.50** (T-2026-0004), now 12.43 |
-| Open orders               | **1 — GTC stop-market sell 1 CLF @ 12.48 (breakeven, raised)** (id 6ab2b7cb; orig 12.33 cancelled) |
-| Status                    | **LONG CLF** (2nd edge-based real trade), now 12.59 (+0.85R MFE). Stop RAISED to breakeven 12.48 → **free trade** (max loss ~$0.02), target 12.84. CLF broke the coil UP — coil-continuation working (vs the failed spike-chases). EOD check 3:52pm ET. |
+| Account total value       | ~$20.00 (all cash)        |
+| Cash                      | ~$20.00                   |
+| Open positions            | 0 (flat)                  |
+| Open orders               | 0 (both CLF stops cancelled cleanly) |
+| Status                    | **FLAT.** T-2026-0004 CLF closed +$0.05 (+0.30R), 2nd edge-based real WIN. Lifetime real P&L: F −$0.11, AAL +$0.05, CLF +$0.05 = **−$0.01** (basically flat). 2 real wins in a row. |
 
 ## Active Strategies
 
