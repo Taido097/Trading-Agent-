@@ -320,3 +320,15 @@ That contrast is the day's cleanest lesson: in a flat tape, a controlled higher-
 coil/pullback near HOD beats chasing a vertical spike. NO new paper entries — the tape
 is still flat (SPY -0.03%) and no other clean coil/pullback is presenting; not forcing
 midday-chop longs (consistent with the AM stops). CLF is the standout and it's already held.
+
+### 2026-09-22 2:14 ET engine pass
+STEP A (real): CLF (T-2026-0004) grinding up — HOD 12.705, now 12.625 (+1.2R MFE),
+well above the breakeven stop 12.48. Deliberately NOT tightening the stop into the
+12.60 base (that would risk the whipsaw the journal keeps flagging) — breakeven
+already makes it free; letting it breathe toward the 12.84 target. EOD check manages.
+STEP B (paper): CLF paper (P-2026-0016) green, peaked 12.705 (7.5c shy of 12.78 target),
+still OPEN. NO new entries — it's 2:14pm (late-day, O003 caution), tape only mildly
+firmer (SPY +0.05%), and the one clean setup today (CLF coil-continuation) is already
+held in both books. Honest read: today's tape offered essentially ONE clean setup, not
+many — quality gating means low-count days happen, and forcing more into late-day chop
+is how the AM losses happened. Discipline over count.
