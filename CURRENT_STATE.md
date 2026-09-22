@@ -5,7 +5,7 @@
 > intent and status; it is NOT the brokerage record (that comes from
 > reconciliation).
 
-**Last updated:** 2026-09-22 (15:15 ET — **REAL CLF CLOSED +$0.05 (+0.30R), GOOD DECISION + WIN** (T-2026-0004); flat ~$20.00; paper CLF open, flattens at 4pm)
+**Last updated:** 2026-09-22 (16:00 ET EOD — flat & done. REAL: CLF +$0.05 win (2-for-2 edge-based). PAPER 9/22: MARA/RIOT −1R (spike-chase), CLF +0.47R (coil worked). All flat.)
 
 ---
 
@@ -16,7 +16,7 @@
 | Development phase         | **MICRO-LIVE (real $20) + HIGH-VOLUME PAPER** (owner: "trade as much as possible to learn") |
 | Trading mode              | Real $20: **MICRO-LIVE, setup-gated**. Learning volume: **PAPER** (sim $20k, many trades/day, real data, zero risk) via hourly engine |
 | Paper engine              | Hourly 14:00–20:00Z (10am–4pm ET, 7 passes) weekdays; now STEP A real-$20 setup check (every pass, all day) + STEP B high-volume paper; logs to data/PAPER_TRADES.csv (kept separate from live) |
-| Paper results             | 13 closed: 5 wins / 8 losers, net ~+$4 sim lifetime. 9/21 book flattened EOD: RIVN +0.11R, AAL +0.79R (4c shy of target), HOOD −0.69R (late-day breakout fizzled). Day −2.8R in a choppy-underneath tape. Lesson candidate O003: late-day breakouts lack follow-through. |
+| Paper results             | 16 closed: 6 wins / 10 losers, net ~−$57 sim lifetime. 9/22: MARA −1R & RIOT −1R (spike-chase, O002/EXECUTION), CLF +0.47R (coil-continuation WORKED). Day −1.5R. Key lesson: flat tape → buy coils/pullbacks near HOD, NOT vertical spikes. |
 | Sizing basis              | Real equity (~$19.90) per RISK_RULES §9; $20,000 is a mental reference only, never sizes a live order |
 | Live authorization        | **YES** — micro-live approved; equity order tools pre-approved |
 | Options / crypto / margin | **NOT enabled** — options only after separate testing + explicit owner approval (owner: "later we can trade options") |

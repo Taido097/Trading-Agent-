@@ -356,3 +356,17 @@ Real record now: 2 edge-based trades, 2 wins (AAL +0.33R, CLF +0.30R); lifetime 
 P&L −$0.01 (F −$0.11 no-edge, AAL +$0.05, CLF +$0.05) — essentially flat, capital
 preserved. The edge-based process is showing small consistent green; keep the sample
 growing before drawing conclusions.
+
+### 2026-09-22 EOD summary (4pm last pass)
+Real account FLAT, ~$20.00, 0 positions/orders. Paper book flattened.
+REAL (STEP A): 1 trade — CLF T-2026-0004 +$0.05 (+0.30R), GOOD DECISION + WIN. Edge-based
+record now 2/2 (AAL +0.33R, CLF +0.30R); lifetime real P&L -$0.01 (capital preserved).
+PAPER (STEP B) 9/22: 3 trades — MARA -1R & RIOT -1R (spike-chases, loss_class EXECUTION,
+O002), CLF +0.47R (coil-continuation, partial). Day -1.5R (-$61.14 sim). Running sample
+16 closed: 6 wins / 10 losers.
+DAY'S KEY LESSON (real + paper agree): in a flat/choppy tape (SPY ~flat all day),
+momentum MEAN-REVERTS — vertical-spike entries get sold (MARA/RIOT/AM real PASSes),
+while controlled higher-lows COIL/PULLBACK entries near the HOD work (CLF real +0.30R,
+CLF paper +0.47R). Candidate rule for promotion after more samples: "flat tape ->
+prefer coil/pullback-continuation over breakout/spike entries; never enter on the
+spike bar itself (O002)." Not promoted yet; growing the sample.
