@@ -307,3 +307,16 @@ paper entries — flat/soft tape (SPY −0.02%, QQQ +0.5%) and morning leaders f
 (MARA +4.7→+3.4, RIOT +4.2→+2.4, CHPT +6.5→+4.0). Forcing longs into midday chop is
 exactly what generated the AM −1R stops; per the flat-tape rule I stood down on new
 entries. A disciplined zero-new-entry pass, not a missed one — the setups aren't there.
+
+### 2026-09-22 1:14 ET engine pass (STEP A real + STEP B paper)
+STEP A (real): CLF (T-2026-0004) turned UP — broke the coil to a new HOD 12.645, now
+12.59, +0.85R MFE. RAISED the stop to breakeven 12.48 (cancelled the 12.33 stop
+6ab2a321 -> new stop 6ab2b7cb @ 12.48) per the Asymmetry Rule (autonomy may only
+REDUCE risk). Now a FREE trade: max loss ~$0.02, open shot at target 12.84. Holding;
+EOD check re-pointed to the new stop id. No 2nd real position.
+STEP B (paper): CLF paper (P-2026-0016) also green (12.59; target 12.78 not yet hit) —
+the coil-continuation setup is WORKING while today's spike-chases (MARA/RIOT) failed.
+That contrast is the day's cleanest lesson: in a flat tape, a controlled higher-lows
+coil/pullback near HOD beats chasing a vertical spike. NO new paper entries — the tape
+is still flat (SPY -0.03%) and no other clean coil/pullback is presenting; not forcing
+midday-chop longs (consistent with the AM stops). CLF is the standout and it's already held.

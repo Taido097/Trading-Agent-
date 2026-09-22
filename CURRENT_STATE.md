@@ -33,8 +33,8 @@
 | Account total value       | ~$19.95 (1 CLF share @ 12.50 + ~$7.45 cash) |
 | Cash                      | ~$7.45 after CLF buy                         |
 | Open positions            | **1 — long 1 CLF @ 12.50** (T-2026-0004), now 12.43 |
-| Open orders               | **1 — GTC stop-market sell 1 CLF @ 12.33** (id 6ab2a321) |
-| Status                    | **LONG CLF** (2nd edge-based real trade). Stop 12.33 (risk $0.17), target 12.84. Lifetime real P&L realized: −$0.06 (F −$0.11, AAL +$0.05). EOD close check scheduled 3:52pm ET. |
+| Open orders               | **1 — GTC stop-market sell 1 CLF @ 12.48 (breakeven, raised)** (id 6ab2b7cb; orig 12.33 cancelled) |
+| Status                    | **LONG CLF** (2nd edge-based real trade), now 12.59 (+0.85R MFE). Stop RAISED to breakeven 12.48 → **free trade** (max loss ~$0.02), target 12.84. CLF broke the coil UP — coil-continuation working (vs the failed spike-chases). EOD check 3:52pm ET. |
 
 ## Active Strategies
 
