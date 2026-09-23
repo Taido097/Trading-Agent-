@@ -391,3 +391,9 @@ while SPY fell to -0.6% — relative strength with an idiosyncratic bid can run 
 tape. (Second time this exact target-by-a-penny near-miss has cost CLF a clean +2R tag — candidate
 refinement: set the target ~1 tick inside a round/psychological level like 12.85 rather than
 12.87.) No new entries. Real $20 flat/preserved in a down day = correct.
+
+### 2026-09-23 1:12 ET engine pass
+Tape weakening further (SPY -0.85%, QQQ -1.2%). REAL: PASS (flat all day, correct). PAPER CLF
+(P-2026-0017): drifting off its 12.8599 high with the market, now 12.725 (~+1R unrealized),
+above stop 12.45; no target/stop hit -> left OPEN (4pm flattens). No new entries (universe red).
+Quiet hold; account flat $20.00.
