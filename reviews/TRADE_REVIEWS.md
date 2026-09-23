@@ -381,3 +381,13 @@ the real-$20 regime gate made me PASS this same name at the coil (correct on ave
 a red tape is -EV), and chasing it real NOW (+2%, post-spike) would violate O002. So the paper
 test banks the "it can work" data without taking real risk in a red tape — exactly the split
 the two books are for. No new entries (rest of universe red). Leaving CLF paper open toward target.
+
+### 2026-09-23 12:14 ET engine pass
+Tape still red (SPY -0.6%, QQQ -0.9%). REAL: PASS (flat all day). PAPER CLF (P-2026-0017):
+ran to 12.8599 at noon — literally 1c shy of the 12.87 target (+1.93R MFE) — then faded to
+12.77. No target/stop hit; left OPEN (will resolve at target/stop or EOD flatten). The
+RS-in-downtape test has clearly answered its question INTRADAY: CLF rallied ~+2.5% off entry
+while SPY fell to -0.6% — relative strength with an idiosyncratic bid can run against a red
+tape. (Second time this exact target-by-a-penny near-miss has cost CLF a clean +2R tag — candidate
+refinement: set the target ~1 tick inside a round/psychological level like 12.85 rather than
+12.87.) No new entries. Real $20 flat/preserved in a down day = correct.
