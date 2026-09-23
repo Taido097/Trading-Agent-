@@ -5,7 +5,7 @@
 > intent and status; it is NOT the brokerage record (that comes from
 > reconciliation).
 
-**Last updated:** 2026-09-22 (16:00 ET EOD — flat & done. REAL: CLF +$0.05 win (2-for-2 edge-based). PAPER 9/22: MARA/RIOT −1R (spike-chase), CLF +0.47R (coil worked). All flat.)
+**Last updated:** 2026-09-23 (16:00 ET EOD — flat & done. RED day (SPY −0.7%, QQQ −0.9%). REAL: 0 trades (correct PASS in a down tape), $20.00 preserved. PAPER: CLF +2R (RS-in-downtape test WON).)
 
 ---
 
@@ -16,7 +16,7 @@
 | Development phase         | **MICRO-LIVE (real $20) + HIGH-VOLUME PAPER** (owner: "trade as much as possible to learn") |
 | Trading mode              | Real $20: **MICRO-LIVE, setup-gated**. Learning volume: **PAPER** (sim $20k, many trades/day, real data, zero risk) via hourly engine |
 | Paper engine              | Hourly 14:00–20:00Z (10am–4pm ET, 7 passes) weekdays; now STEP A real-$20 setup check (every pass, all day) + STEP B high-volume paper; logs to data/PAPER_TRADES.csv (kept separate from live) |
-| Paper results             | 16 closed: 6 wins / 10 losers, net ~−$57 sim lifetime. 9/22: MARA −1R & RIOT −1R (spike-chase, O002/EXECUTION), CLF +0.47R (coil-continuation WORKED). Day −1.5R. Key lesson: flat tape → buy coils/pullbacks near HOD, NOT vertical spikes. |
+| Paper results             | 17 closed: 7 wins / 10 losers, net ~+$23 sim lifetime. 9/23: CLF +2R (RS-in-downtape test WON — ran 12.59→12.93 while SPY −0.5%). Key new data: strong RS coil can pay 2:1 even in a red tape (candidate real-rule loosening, needs more samples; gate stays for now). |
 | Sizing basis              | Real equity (~$19.90) per RISK_RULES §9; $20,000 is a mental reference only, never sizes a live order |
 | Live authorization        | **YES** — micro-live approved; equity order tools pre-approved |
 | Options / crypto / margin | **NOT enabled** — options only after separate testing + explicit owner approval (owner: "later we can trade options") |

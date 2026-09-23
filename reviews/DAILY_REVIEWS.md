@@ -261,3 +261,31 @@ post-open coil/higher-lows continuation on volume that clears §9 + the gate. A
 zero-real-trade day is the likely and acceptable outcome in a red tape; do NOT force
 one (that's the F-trade mistake). Paper engine runs its 7 passes for learning volume,
 tightening breakout criteria per the flat/red-tape rule.
+
+---
+
+## 2026-09-23 — EOD wrap (4pm ET)
+
+**Regime:** RED day — SPY closed ~−0.7%, QQQ ~−0.9% (risk-off from the open, weakened midday).
+
+**REAL $20:** 0 trades — PASSED at 9:47 and every hourly engine pass. Correct call: no clean
+affordable setup in a down tape, and the one green name (CLF) was either un-triggered (coil,
+regime gate) or extended (post-spike, O002). Account FLAT $20.00, untouched. Lifetime real
+P&L unchanged at −$0.01. A zero-trade day in a −1% tape = capital preserved = job done.
+
+**PAPER:** 1 trade — CLF (P-2026-0017) **+2.00R (+$79.80 sim), WIN.** Deliberate RS-in-downtape
+experiment: entered the CLF coil (only green name) at 12.59, target 12.87 hit at 1:40pm; ran to
+12.93 (+2.7%) while SPY fell −0.5%. Answer to the test question: a genuine RS name with an
+idiosyncratic bid CAN deliver a full 2:1 against a red market.
+
+**Lessons banked today:**
+- Regime discipline held: real account correctly sat out a red day (3rd of the week where the
+  right move was fewer/zero trades). The F-trade mistake (forcing a no-edge trade) was NOT repeated.
+- Candidate rule (needs more samples, NOT promoted): in a red tape, MAYBE allow a real long
+  ONLY for the single strongest green RS coil (not spike), tight stop — else stay flat. n=1 so far.
+- Target placement: leaving the target fixed let CLF's 2nd push tag it after a noon penny-miss;
+  patience > tightening. Consider setting targets ~1 tick inside round levels.
+
+**Weekly context:** Mon PASS (chop), Tue CLF +$0.05 real win (1 clean setup taken), Wed 0 real
+(red tape). Real account 2-for-2 on edge-based trades, capital intact. The system is doing exactly
+what it should: trade the rare clean setup, pass everything else, learn on paper daily.
