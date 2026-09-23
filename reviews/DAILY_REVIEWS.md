@@ -225,3 +225,39 @@ opening-range data (break & hold above OR high on volume) before any real entry.
 Pre-market gaps must confirm after the open; do not trade the gap itself. If the
 flat tape produces no clean ORB that clears §9 + the gate, PASS — a zero-real-trade
 day is fine. High-volume PAPER engine runs 7 passes 10am–4pm ET for learning volume.
+
+---
+
+## 2026-09-23 — Pre-market prep (9:16 ET)
+
+**Reconciliation:** Agentic ••••4713 FLAT — $20.00 cash, 0 positions, 0 open orders.
+Matches internal state. Yesterday's CLF round-trip (T-2026-0004) fully settled (+$0.05).
+Lifetime real P&L: F −$0.11, AAL +$0.05, CLF +$0.05 = −$0.01 (flat; capital preserved).
+
+**Regime (pre-market ~13:17Z):** SPY ~772.60 vs 773.38 = −0.10%; QQQ ~746.0 vs 747.46
+= −0.19%. SOFT / slightly RED. Third straight non-trending open; if anything weaker
+than 9/22. Momentum-long conditions are poor — expect mean-reversion (yesterday's
+lesson) and be extra selective; a coil/pullback in a genuine RS leader is the only
+thing worth taking, and there may be none.
+
+**Event risk:** none major flagged (no FOMC/CPI/PPI/jobs known). Not independently
+verified via a news feed — the 9:47 decision should sanity-check headlines.
+
+**Wide screen — pre-market (last_non_reg vs 9/22 close), affordable <= ~$19:**
+Almost the ENTIRE pool is red pre-market — no clean RS leader:
+| Ticker | Pre-mkt | vs close | Note |
+|--------|---------|----------|------|
+| CHPT | 9.98 | +1.3% | green but THIN (whipsaw risk) |
+| GRAB | 3.21 | +1.3% | green but too cheap for a whole-share stop |
+| CLF  | 12.42 | −0.9% | yesterday's winner, giving back |
+| MARA | 13.48 | −1.1% | miner, red |
+| SOFI | 17.00 | −0.9% | red |
+| AAL  | 13.41 | −1.5% | red |
+| F 13.00 (−0.8%), RIVN 15.10 (−0.3%), VALE 14.05 (−1.0%), NCLH 14.15 (−0.5%), CLSK 14.93 (−1.4%), RIOT 24.51 (−1.7%, unaffordable) | | | broad weakness |
+
+**Read for the 9:47 decision:** no pre-market RS leader worth pre-committing to. This
+looks like a PASS-leaning day for the real $20 — only act if a name builds a genuine
+post-open coil/higher-lows continuation on volume that clears §9 + the gate. A
+zero-real-trade day is the likely and acceptable outcome in a red tape; do NOT force
+one (that's the F-trade mistake). Paper engine runs its 7 passes for learning volume,
+tightening breakout criteria per the flat/red-tape rule.
