@@ -370,3 +370,14 @@ while controlled higher-lows COIL/PULLBACK entries near the HOD work (CLF real +
 CLF paper +0.47R). Candidate rule for promotion after more samples: "flat tape ->
 prefer coil/pullback-continuation over breakout/spike entries; never enter on the
 spike bar itself (O002)." Not promoted yet; growing the sample.
+
+### 2026-09-23 11:15 ET engine pass
+Tape still RISK-OFF (SPY -0.5%, QQQ -0.75%). REAL: PASS (flat all day; correct in a red tape).
+PAPER CLF (P-2026-0017, RS-in-downtape test): WORKING — held the coil (dip to 12.505 > stop
+12.45), then broke to a new HOD 12.795 (+1.46R MFE), now 12.78, near the 12.87 target, while
+the market stays red. Early read on the test question: relative strength CAN pay even in a
+falling tape when the name carries its own bid (CLF steel, idiosyncratic). Note the tension:
+the real-$20 regime gate made me PASS this same name at the coil (correct on average — longing
+a red tape is -EV), and chasing it real NOW (+2%, post-spike) would violate O002. So the paper
+test banks the "it can work" data without taking real risk in a red tape — exactly the split
+the two books are for. No new entries (rest of universe red). Leaving CLF paper open toward target.
