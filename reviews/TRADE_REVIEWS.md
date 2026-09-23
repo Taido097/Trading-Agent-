@@ -397,3 +397,19 @@ Tape weakening further (SPY -0.85%, QQQ -1.2%). REAL: PASS (flat all day, correc
 (P-2026-0017): drifting off its 12.8599 high with the market, now 12.725 (~+1R unrealized),
 above stop 12.45; no target/stop hit -> left OPEN (4pm flattens). No new entries (universe red).
 Quiet hold; account flat $20.00.
+
+### Trade P-2026-0017 — CLF 2026-09-23  [CLOSED — RS-in-downtape test]
+Result: **+2.00R (+$79.80 sim), GOOD DECISION + WIN.** Entry 12.59 (10:15 ET), target 12.87
+hit 1:40 ET; MFE 12.93 (+2.43R), MAE only 12.505 (never near the 12.45 stop). CLF rallied
+from 12.59 to 12.93 (+2.7%) WHILE SPY fell -0.5% and QQQ -1% the entire time.
+The test question — "does relative strength survive a falling tape?" — got a clean YES on
+this instance: a name with genuine RS and an idiosyncratic bid (CLF steel) can run a full
+2:1 against a red market. IMPORTANT nuance for the real account: the real-$20 regime gate
+made me PASS this same setup all day (correct on average — longing a red tape is -EV, and I
+cannot know in advance which RS name will buck it). This paper win is evidence, not a mandate:
+- Candidate rule refinement (needs MORE samples before promotion): "In a red tape, a real
+  long MAY be allowed ONLY for the single strongest RS name that is GREEN and holding a
+  higher-lows coil (not a spike), with a tight stop — otherwise stay flat." Do NOT act on
+  n=1; keep logging RS-vs-downtape cases. For now the gate stays: red tape -> real PASS.
+Also validates the earlier target-placement note: the noon penny-miss (12.8599 vs 12.87)
+resolved because I left the target open rather than tightening — patience paid.
