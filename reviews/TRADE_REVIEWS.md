@@ -419,3 +419,13 @@ Tape still red (SPY -0.7%, QQQ -0.9%). Paper book FLAT (CLF P-2026-0017 already 
 at 1:40). Real FLAT all day. No new entries — late day + red tape + no clean coil presenting
 (everything red except CLF, which faded off its 12.93 high). Quiet; nothing to manage. 4pm pass
 will post the EOD wrap. Account $20.00.
+
+### 2026-09-24 11:13 ET engine pass
+Tape weakening (SPY -0.5%, QQQ -0.8%). REAL: PASS (flat all day, correct). PAPER RIVN
+(P-2026-0018, RS-in-downtape test #2): FADING — entered 15.38 (extended, the flagged chase),
+rolled straight back to 15.08, sitting on the 15.05 stop (low 15.07, not yet hit). Still OPEN.
+KEY CONTRAST vs yesterday's CLF (+2R): CLF was entered at the COIL and worked; RIVN was entered
+EXTENDED (+3% off the low) and is failing. Same RS-in-downtape thesis, opposite entry location,
+opposite result. Refines the candidate rule: the edge isn't "RS name in a red tape" — it's "RS
+name entered at a coil/pullback, NOT chased at the highs" (O002). This is exactly why real PASSED
+(would have been a chase). Leaving RIVN open toward stop/target. No new entries (universe red).
