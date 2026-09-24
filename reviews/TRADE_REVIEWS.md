@@ -448,3 +448,10 @@ RIVN bounced to +2.1% but is choppy (round-tripped 15.38->15.05->15.33), not a f
 chasing its recovery = the same mistake that just cost -1R. Others modest (NCLH +1.2%, AAL +0.9%).
 PAPER: no new entries (no clean coil/breakout; choppy). Book flat (RIVN closed -1R earlier). Real
 $20 flat/preserved. Quiet hold into the last pass.
+
+### 2026-09-24 2:12 ET engine pass
+Tape mild-red (SPY -0.15%, QQQ -0.26%). RIVN pushed to a NEW HOD 15.505 (+3.2%) after stopping
+my chased paper entry — this CONFIRMS the lesson: the name (RS holdout) was right, the entry
+(chased 15.38 vs the 15.10 coil) was wrong. Chasing it now at a fresh high, late day, repeats the
+error -> PASS. REAL: flat all day (correct). PAPER: no new entries (late/O003, RIVN extended, no
+fresh coil elsewhere). Book flat; real $20 preserved $20.00. 4pm pass = EOD wrap.
