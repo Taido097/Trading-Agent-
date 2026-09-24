@@ -429,3 +429,15 @@ EXTENDED (+3% off the low) and is failing. Same RS-in-downtape thesis, opposite 
 opposite result. Refines the candidate rule: the edge isn't "RS name in a red tape" — it's "RS
 name entered at a coil/pullback, NOT chased at the highs" (O002). This is exactly why real PASSED
 (would have been a chase). Leaving RIVN open toward stop/target. No new entries (universe red).
+
+### 2026-09-24 12:13 ET engine pass — RIVN stopped -1R (chase confirmed)
+PAPER RIVN (P-2026-0018) STOPPED -1R (-$39.93) at 15.05, ~11:35 ET. MFE ~0.00 — it never
+traded above my 15.38 entry; I bought the exact extended high tick. Textbook chase failure.
+RS-in-downtape experiment now has a clean A/B:
+  - CLF 9/23: entered at the COIL -> +2R WIN
+  - RIVN 9/24: entered EXTENDED (+3% off low) -> -1R LOSS (MFE 0)
+Same thesis (lone RS name in a red tape), OPPOSITE entry location, opposite result. Conclusion
+strengthening: the edge is the ENTRY (coil/pullback), not merely the relative strength. This is
+also precisely why the real $20 correctly PASSED both — CLF was un-triggered at the coil under
+the regime gate, and RIVN would have been a chase. REAL: still flat all day (SPY -0.5%, QQQ -0.8%,
+3rd red day). No new entries. Real account preserved at $20.00.
