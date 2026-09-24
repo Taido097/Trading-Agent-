@@ -441,3 +441,10 @@ strengthening: the edge is the ENTRY (coil/pullback), not merely the relative st
 also precisely why the real $20 correctly PASSED both — CLF was un-triggered at the coil under
 the regime gate, and RIVN would have been a chase. REAL: still flat all day (SPY -0.5%, QQQ -0.8%,
 3rd red day). No new entries. Real account preserved at $20.00.
+
+### 2026-09-24 1:12 ET engine pass
+Tape RECOVERED to flat (SPY/QQQ ~-0.02%, back from -0.5%). REAL: PASS — no clean trigger;
+RIVN bounced to +2.1% but is choppy (round-tripped 15.38->15.05->15.33), not a fresh coil, and
+chasing its recovery = the same mistake that just cost -1R. Others modest (NCLH +1.2%, AAL +0.9%).
+PAPER: no new entries (no clean coil/breakout; choppy). Book flat (RIVN closed -1R earlier). Real
+$20 flat/preserved. Quiet hold into the last pass.
