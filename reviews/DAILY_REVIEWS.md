@@ -318,3 +318,31 @@ for a repeat coil/higher-lows setup (it's the persistent RS name) — take ONLY 
 the gate on a genuine post-open hold, not a spike. Otherwise PASS; a zero-real-trade day in a red
 tape is correct and expected. Do NOT force one. Paper engine runs for learning volume, favoring
 coils/pullbacks over breakouts per the flat/red-tape rule.
+
+---
+
+## 2026-09-24 — EOD wrap (4pm ET)
+
+**Regime:** THIRD straight red/soft day — SPY ~−0.15%, QQQ ~−0.3% (chopped between −0.9% and flat).
+
+**REAL $20:** 0 trades — PASSED at 9:47 and every hourly pass. Correct: no clean affordable setup
+in a red tape; even CLF (3-day RS holdout) cracked below its OR low at the open. Account FLAT $20.00,
+untouched. Lifetime real P&L unchanged at −$0.01. Third disciplined zero-trade day this week in a
+weak tape = capital preserved.
+
+**PAPER:** 1 trade — RIVN (P-2026-0018) −1.00R (−$39.93). RS-in-downtape test #2: RIVN was the lone
+green name (+2.4%), same profile as Wed's CLF, but I entered EXTENDED (chased 15.38, +3% off the low)
+and it never traded higher (MFE 0) → stopped. RIVN later made a new HOD 15.505, confirming the name
+was right and only the ENTRY was wrong.
+
+**Lesson banked (the day's real payoff):** clean A/B on the RS-in-downtape idea —
+  - CLF 9/23: entered at the COIL → +2R
+  - RIVN 9/24: entered EXTENDED/chased → −1R (MFE 0)
+  Same thesis, opposite entry, opposite result. The edge is ENTRY LOCATION (buy the coil/pullback,
+  never chase the highs — O002), not the relative strength alone. This is exactly why the real $20
+  correctly passed both. Candidate real-rule (still needs samples): in a red tape, a real long may be
+  allowed ONLY for the strongest green RS name entered at a coil (not a chase); gate stays for now.
+
+**Weekly context:** Mon PASS / Tue CLF +$0.05 real WIN / Wed 0 real (red) / Thu 0 real (red). Real
+account: 2-for-2 on edge-based trades, capital intact at $20.00 through a 3-day red stretch. Paper is
+doing its job — turning would-be real mistakes (chases) into free lessons.
