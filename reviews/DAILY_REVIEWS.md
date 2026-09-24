@@ -289,3 +289,32 @@ idiosyncratic bid CAN deliver a full 2:1 against a red market.
 **Weekly context:** Mon PASS (chop), Tue CLF +$0.05 real win (1 clean setup taken), Wed 0 real
 (red tape). Real account 2-for-2 on edge-based trades, capital intact. The system is doing exactly
 what it should: trade the rare clean setup, pass everything else, learn on paper daily.
+
+---
+
+## 2026-09-24 — Pre-market prep (9:16 ET)
+
+**Reconciliation:** Agentic ••••4713 FLAT — $20.00 cash, 0 positions, 0 open orders.
+Matches internal state. Lifetime real P&L −$0.01 (F −$0.11, AAL +$0.05, CLF +$0.05).
+
+**Regime (pre-market ~13:17Z):** SPY ~764.59 vs 767.81 = −0.42%; QQQ ~735.06 vs 741.21
+= −0.83%. RED again — THIRD straight weak/down open, tech-led selloff this time. Risk-off,
+rotation toward defensives. Momentum-long conditions poor; expect mean-reversion, be very
+selective (same posture that's kept the account flat/green all week).
+
+**Event risk:** none major flagged; not independently verified —9:47 routine should check headlines.
+
+**Wide screen — pre-market (last_non_reg vs 9/23 close), affordable <= ~$19:**
+Broad weakness; only defensives green:
+| Ticker | Pre-mkt | vs close | Note |
+|--------|---------|----------|------|
+| HBAN | 15.50 | +0.8% | regional bank (green) but low-beta + WIDE spread; marginal |
+| KVUE | 17.75 | +0.5% | defensive (green) but illiquid pre-mkt (bid/ask 16.23/17.89) — avoid |
+| CLF  | 12.85 | −0.2% | RS holdout again (flat vs red tape); watch for another coil |
+| SOFI −0.8%, F −0.15%, MARA −1.6%, RIOT −2.1%, AAL −0.7%, NCLH −1.1%, CLSK −1.9% | | | cyclicals/miners red |
+
+**Read for the 9:47 decision:** no clean momentum RS leader; tape red for a 3rd day. Watch CLF
+for a repeat coil/higher-lows setup (it's the persistent RS name) — take ONLY if it clears §9 +
+the gate on a genuine post-open hold, not a spike. Otherwise PASS; a zero-real-trade day in a red
+tape is correct and expected. Do NOT force one. Paper engine runs for learning volume, favoring
+coils/pullbacks over breakouts per the flat/red-tape rule.
