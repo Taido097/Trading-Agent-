@@ -22,3 +22,6 @@ timestamp,ticker,potential_setup,strategy,reason_considered,reason_rejected,pric
 2026-09-23T13:47:00Z,MARA,ORB long,S001,least-weak miner near OR high 13.59,red on day (-0.5%) in a RISK-OFF tape (SPY -0.26% QQQ -0.44%); below OR high; miners chopped me 9/22; no clean hold,13.56,PASS,regime/setup-validity,,,,not breaking OR high; red tape
 2026-09-23T13:47:00Z,SOFI,ORB long,S001,watchlist,faded below OR low; weak; red tape,16.955,PASS,setup-validity,,,,no upside
 2026-09-23T13:47:00Z,CHPT,ORB long,S001,pre-mkt green +1.3%,COLLAPSED -6% at open (9.85->9.23) broke down hard; falling knife,9.23,PASS,setup-validity,,,,reversed hard; avoid
+2026-09-24T13:47:00Z,CLF,ORB long,S001,RS holdout 3 days; watched for another coil,cracked — popped OR high 12.935 then FADED below OR low to 12.705 (now red -1.3%); RS finally broke in the red tape,12.705,PASS,setup-validity/regime,,,,3rd red day (SPY -0.3%); no hold
+2026-09-24T13:47:00Z,HBAN,ORB long,S001,pre-mkt green defensive,faded below OR low (15.47->15.275); green flipped red intraday; wide spread,15.275,PASS,setup-validity,,,,defensive faded; no edge
+2026-09-24T13:47:00Z,MARA,ORB long,S001,miner; opening spike,spiked OR high 13.64 then faded to 13.31; choppy, red on day; no hold,13.315,PASS,setup-validity,,,,spike-and-fade; red tape
