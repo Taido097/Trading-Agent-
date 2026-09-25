@@ -547,3 +547,7 @@ Regime steady green (SPY +0.54%, QQQ +0.56%). F 12.77 (range 12.70-12.78, target
 HL 18.135 (range 18.05-18.19, target 18.66 far) both still chopping — neither near stop or target; both
 likely EOD-flatten candidates. Real FLAT, leaders extended/fading (NCLH back to 14.55), no clean entry → PASS.
 No new paper adds. Tally 9/25: REAL 0 (flat, $20 preserved); PAPER 1 WIN (+2R NCLH) + 2 open (F/HL grinding).
+
+---
+### Engine pass 2026-09-25 15:13 ET (19:13Z) — REAL: PASS · PAPER: 2 open (hold into EOD)
+Green (SPY +0.49%). HL 18.28 grinding to new HOD 18.30 (+0.54R) but tgt 18.66 far; F 12.724 back below entry (dead money). Neither at stop/target. Real FLAT → PASS. Next pass = EOD flatten. Tally: REAL 0 (flat, $20); PAPER 1 WIN + 2 open.
