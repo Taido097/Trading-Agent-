@@ -455,3 +455,23 @@ my chased paper entry — this CONFIRMS the lesson: the name (RS holdout) was ri
 (chased 15.38 vs the 15.10 coil) was wrong. Chasing it now at a fresh high, late day, repeats the
 error -> PASS. REAL: flat all day (correct). PAPER: no new entries (late/O003, RIVN extended, no
 fresh coil elsewhere). Book flat; real $20 preserved $20.00. 4pm pass = EOD wrap.
+
+---
+### Engine pass 2026-09-25 10:13 ET (14:13Z) — REAL: PASS · PAPER: 0 entries (fade tape)
+
+**Regime flip:** Green open FULLY faded. SPY +0.31%→+0.02% (flat), QQQ +0.45%→+0.12%. Gap-up-and-fade.
+
+**STEP A (real $20):** FLAT, reconciled clean (0 pos / 0 orders). No RS leader making & holding a new
+intraday high on volume. AAL, the best affordable RS name, is fading off its OR high (13.63→13.43).
+→ PASS. Correct — nothing to take.
+
+**STEP B (paper):** Checked 5-min structure on every name still green/holding (AAL, RIVN, NCLH, F, CCL).
+ALL are lower-highs / lower-lows since the open — a unanimous bleed, zero coils or higher-lows setups:
+- AAL 13.63→13.43 · NCLH 14.44→14.14 · F 12.72→12.57 · CCL 22.04→21.69 · RIVN choppy fade 15.65→15.33
+- Red/collapsing: MARA −5.3%, RIOT −3.4%, CLF −1.3%, HL −0.8%, VALE −0.9%, SOFI −0.7%.
+→ 0 paper longs. Standing rule (flat/red tape → tighten, favor coils, no chasing) says do NOT force longs
+into a unanimous downtrend. I already have ample "chase-a-fade = loss" samples (RIVN yday, all last week).
+The learning move here is recognizing the fade and standing aside. Later passes will catch a coil/reclaim
+if the tape stabilizes.
+
+**Tally (9/25):** REAL 0 trades (flat, $20 preserved). PAPER 0 new (book flat). Tape: gap-and-fade to flat.
