@@ -384,3 +384,22 @@ or a coil/higher-lows continuation near HOD — never the vertical spike bar (O0
 and a top name gives a clean NON-CHASE entry, this is a green-tape day where the real $20 can work (unlike
 the last 3 red days). Stop first (risk $0.15–0.50, wider than the immediate base), target ≥2:1. If nothing
 clean → PASS, never force. Options/crypto/margin OFF.
+
+### 2026-09-25 (Fri) — 9:47 ET OPENING-RANGE DECISION → **PASS (real $20)**
+
+Reconciled first: FLAT, $20.00, 0 positions / 0 open orders.
+
+**Regime now (9:48 ET):** SPY +0.31%, QQQ +0.45% — indices still green, holding. BUT the affordable
+momentum names did NOT follow through: the pre-market green ramp faded at the open (classic gap-up fade).
+
+**Opening-range read (first 3 5-min bars, 9:30–9:45):**
+- AAL — OR high 13.63; now 13.515 (+1.2% off the highs). Did not reclaim OR high; pulling back. No break-and-hold.
+- NCLH — OR high 14.44; faded to 14.305, drifting to lows. No hold.
+- MARA — opened 12.96, crashed to 12.53; now **−3.0% on the day** (below prior close). Failed gap / hard reversal. Avoid (O002).
+- HL — OR high 17.99; faded to 17.80, red on day now.
+
+**Decision: PASS.** No name is holding above its OR high on volume — every candidate faded off the open,
+and MARA outright reversed. Buying any of these here would be chasing a fading gap into weakness (the exact
+RIVN-chase mistake). A valid entry needs a name to pull back, coil, and RE-break with the tape — which the
+all-day engine (STEP A) will catch if it develops. Zero real trade at the open is the correct call.
+Logged 4 rejections to REJECTED_TRADES.csv. Options/crypto/margin OFF.
