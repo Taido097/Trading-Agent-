@@ -497,3 +497,26 @@ Deliberate A/B: three DIFFERENT entry locations (extended / at-breakout / reclai
 tests whether entry location again separates winners from losers (CLF-coil vs RIVN-chase thesis).
 
 **Tally (9/25):** REAL 0 trades (flat, $20 preserved). PAPER 3 open (HL/F/NCLH). Tape: gap-fade then recovery to soft-green.
+
+---
+### Engine pass 2026-09-25 12:13 ET (16:13Z) — REAL: PASS · PAPER: 1 WIN closed, 2 open
+
+**Regime:** Tape now solidly risk-on. SPY +0.59%, QQQ +0.59% (the recovery held & extended). Leaders ran:
+AAL +4.0%, CCL +3.0%, KGC +2.1%, NCLH +3.6%.
+
+**PAPER management (3-way entry-location A/B, entered 11:13 ET):**
+- P-2026-0021 NCLH (RECLAIM entry 14.29) → **TARGET 14.67 HIT, +2.00R WIN** at ~12:00 ET. MAE ~0 — never
+  underwater. Cleanest of the three.
+- P-2026-0020 F (AT-BREAKOUT entry 12.735) → OPEN, working (+0.45R MFE, new HOD 12.81, holding). Low-beta so 2:1 (13.065) is slow.
+- P-2026-0019 HL (EXTENDED entry 18.14) → OPEN, chopped (dipped to 18.005, held stop) then recovered (+0.54R MFE). Target 18.66 far.
+- **Read so far:** reclaim/pullback entry (NCLH) resolved to full +2R first and with zero heat; the extended
+  entry (HL) took the most heat. Consistent with CLF-coil vs RIVN-chase: ENTRY LOCATION separates them.
+
+**STEP A (real $20): PASS.** Reconciled FLAT. Tape is strong but the affordable leaders are now EXTENDED
+(+3-4%) — entering here = chasing. F is the only non-extended affordable name still making new highs, but
+low-beta keeps a realistic 2:1 out of reach. No clean non-chase entry that clears the gate → keep $20 flat.
+Watching for a leader (NCLH/AAL) to pull back to a higher-low and coil = a real entry candidate next pass.
+
+**Housekeeping:** repaired a pre-existing stray comma in P-2026-0018 notes (CSV now clean, all rows 30 cols).
+
+**Tally (9/25):** REAL 0 trades (flat, $20 preserved). PAPER 3 taken → 1 WIN (+2R NCLH), 2 open (F, HL). Tape: gap-fade → strong afternoon recovery.
