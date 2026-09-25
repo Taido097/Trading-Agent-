@@ -520,3 +520,23 @@ Watching for a leader (NCLH/AAL) to pull back to a higher-low and coil = a real 
 **Housekeeping:** repaired a pre-existing stray comma in P-2026-0018 notes (CSV now clean, all rows 30 cols).
 
 **Tally (9/25):** REAL 0 trades (flat, $20 preserved). PAPER 3 taken → 1 WIN (+2R NCLH), 2 open (F, HL). Tape: gap-fade → strong afternoon recovery.
+
+---
+### Engine pass 2026-09-25 13:13 ET (17:13Z) — REAL: PASS · PAPER: 2 open (both stalling), 0 new
+
+**Regime:** Still green, eased off noon highs. SPY +0.49%, QQQ +0.51%.
+
+**PAPER management:**
+- P-2026-0020 F (breakout 12.735) → OPEN, STALLING. Chopped 12.70-12.81 for an hour; target 13.065 never
+  approached (MFE ~0.45R). Low-beta 2:1 problem confirmed in real time.
+- P-2026-0019 HL (extended 18.14) → OPEN, STALLING. Range-bound 18.10-18.26; target 18.66 far (MFE ~0.54R).
+- Thesis update: the RECLAIM entry (NCLH) already banked +2R and closed; the BREAKOUT and EXTENDED entries
+  are both dead-money grinds. Entry location isn't just about heat taken — it's about which entries actually
+  reach target. Reclaim/pullback did; breakout-into-stall and extended did not (so far).
+
+**STEP A (real $20): PASS.** FLAT. Leaders extended (NCLH +3.7% at HOD, AAL +3.6%); F/HL stalling & low-beta.
+No clean non-chase affordable entry clearing 2:1. Keep $20 flat.
+
+**No new paper adds** — everything is either extended (chase) or stalling; no fresh coil/pullback setup. Discipline over volume.
+
+**Tally (9/25):** REAL 0 trades (flat, $20 preserved). PAPER 3 taken → 1 WIN (+2R NCLH), 2 open/stalling (F, HL).
