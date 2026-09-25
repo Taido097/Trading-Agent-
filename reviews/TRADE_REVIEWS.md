@@ -475,3 +475,25 @@ The learning move here is recognizing the fade and standing aside. Later passes 
 if the tape stabilizes.
 
 **Tally (9/25):** REAL 0 trades (flat, $20 preserved). PAPER 0 new (book flat). Tape: gap-and-fade to flat.
+
+---
+### Engine pass 2026-09-25 11:13 ET (15:13Z) — REAL: PASS · PAPER: 3 new longs
+
+**Regime:** Tape stabilized & ticked back green. SPY +0.20%, QQQ +0.23% (recovered the gap-fade). Fresh RS
+leaders appeared: F +1.1% (new session high), HL +1.1% (gold/silver bid, KGC +0.9%). Miners still red (MARA -4.3%, RIOT -2.7%).
+
+**STEP A (real $20): PASS.** Reconciled FLAT (0/0). Two real candidates but neither clears the ≥2:1 gate cleanly:
+- F — CLEAN base-breakout-and-hold above 12.72 on volume; best entry location. But it's low-beta Ford: a
+  realistic measured-move target (~12.88) only gives ~1:1 with a sane stop; forcing 2:1 needs 13.05 (+3.6%, unlikely). Fails R:R.
+- HL — strong higher-lows trend, sector-confirmed. But entry now (18.14) is mid-range AFTER a +3% run =
+  chase location (the RIVN mistake), and 2:1 needs an aggressive new-high push. Marginal.
+→ Keep real $20 flat rather than force a sub-2:1 or chase. Capital preserved.
+
+**STEP B (paper): 3 valid longs opened** (structure finally present; still selective — 3 valid, not 8 forced):
+- P-2026-0019 HL 18.14, stop 17.88, tgt 18.66 (153sh) — extended-trend-continuation entry.
+- P-2026-0020 F 12.735, stop 12.57, tgt 13.065 (242sh) — base-breakout-AT-the-break (best location).
+- P-2026-0021 NCLH 14.29, stop 14.10, tgt 14.67 (210sh) — pullback-reclaim after the flush.
+Deliberate A/B: three DIFFERENT entry locations (extended / at-breakout / reclaim) on the same green tape —
+tests whether entry location again separates winners from losers (CLF-coil vs RIVN-chase thesis).
+
+**Tally (9/25):** REAL 0 trades (flat, $20 preserved). PAPER 3 open (HL/F/NCLH). Tape: gap-fade then recovery to soft-green.
