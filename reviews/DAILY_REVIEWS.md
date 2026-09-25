@@ -403,3 +403,37 @@ and MARA outright reversed. Buying any of these here would be chasing a fading g
 RIVN-chase mistake). A valid entry needs a name to pull back, coil, and RE-break with the tape — which the
 all-day engine (STEP A) will catch if it develops. Zero real trade at the open is the correct call.
 Logged 4 rejections to REJECTED_TRADES.csv. Options/crypto/margin OFF.
+
+---
+
+## 2026-09-25 (Fri) — EOD WRAP
+
+**Tape:** GREEN day, first of the week. SPY +0.54%, QQQ +0.45%. BUT the shape mattered: gapped up +0.3%,
+FADED the whole gap to flat by 10:15 ET, then recovered and ground higher all afternoon. A "fade-then-grind" day.
+
+**REAL $20: 0 trades — flat, $20.00 preserved.** Decisions in order:
+- 9:47 OR decision → PASS (gap-up faded; no name held its opening-range high; MARA reversed −3%).
+- Mid-morning, when structure finally appeared, the affordable leaders either FAILED the 2:1 gate (F = clean
+  base-breakout but low-beta Ford can't realistically deliver 2:1) or were EXTENDED after a +3-4% run
+  (AAL/NCLH/HL = chase location). No clean, affordable (≤~$19), non-chase, ≥2:1 setup ever lined up.
+- **Structural finding:** on GREEN momentum days the leaders extend fast and the clean pullback entry tends
+  to appear only AFTER the affordable names have run past a good entry. The real-account constraint that bites
+  is the intersection (affordable ≤$19) ∩ (not extended) ∩ (≥2:1 achievable). Worth watching whether this
+  keeps producing 0-real-trade green days; if so, the fix is patience for a mid-day leader pullback-coil, not
+  loosening the gate.
+
+**PAPER: clean 3-way entry-LOCATION A/B on the SAME green tape (all entered 11:13 ET):**
+| Entry style | Name | Result | MAE (heat) | Note |
+|---|---|---|---|---|
+| Reclaim-after-flush | NCLH 14.29→14.67 | **+2.00R WIN** | ~0R | reached target first, never underwater |
+| Extended-trend | HL 18.14→18.195 (EOD) | +0.21R | −0.52R | valid trend, worst ride, barely green |
+| At-breakout | F 12.735→12.705 (EOD) | −0.18R | −0.27R | cleanest location but low-beta = no 2:1 |
+Net paper day: **+2.03R (+$80.96 sim)**. Lifetime paper: 21 closed, 9W/12L.
+
+**Lesson (reconfirmed 3rd time):** ENTRY LOCATION is the edge. Ranked by both target-reach and heat taken:
+reclaim/pullback > at-breakout > extended/chase. Agrees with CLF-coil +2R vs RIVN-chase −1R. The reclaim
+entry (buy the flush-and-reclaim, not the extension) is now the highest-conviction pattern in the book.
+
+**Weekly (9/21–9/25):** Mon PASS / Tue CLF +$0.05 real WIN / Wed 0 (red) / Thu 0 (red) / Fri 0 (green, no clean
+affordable entry). Real: 1 trade all week (CLF win), capital intact $20.00, lifetime real P&L −$0.01. Paper did
+the heavy lifting on learning: the entry-location edge is now well-supported. Options/crypto/margin OFF.

@@ -5,7 +5,7 @@
 > intent and status; it is NOT the brokerage record (that comes from
 > reconciliation).
 
-**Last updated:** 2026-09-24 (16:00 ET EOD — flat & done. 3rd RED day. REAL: 0 trades (correct PASS), $20.00 preserved. PAPER: RIVN −1R (RS-in-downtape test #2, CHASED entry — lesson: entry location > the RS name itself).)
+**Last updated:** 2026-09-25 (16:13 ET EOD — flat & done. GREEN day (SPY +0.54%), first of the week. REAL: 0 trades, $20.00 preserved (open faded; mid-day leaders extended or failed 2:1 → no clean affordable non-chase entry). PAPER: 3-way entry-location A/B → NCLH reclaim +2.0R WIN, HL extended +0.2R, F breakout −0.2R. Net +2.03R. Reclaim/pullback entry won on both target-reach AND least heat.)
 
 ---
 
@@ -16,7 +16,7 @@
 | Development phase         | **MICRO-LIVE (real $20) + HIGH-VOLUME PAPER** (owner: "trade as much as possible to learn") |
 | Trading mode              | Real $20: **MICRO-LIVE, setup-gated**. Learning volume: **PAPER** (sim $20k, many trades/day, real data, zero risk) via hourly engine |
 | Paper engine              | Hourly 14:00–20:00Z (10am–4pm ET, 7 passes) weekdays; now STEP A real-$20 setup check (every pass, all day) + STEP B high-volume paper; logs to data/PAPER_TRADES.csv (kept separate from live) |
-| Paper results             | 18 closed: 7 wins / 11 losers, net ~−$17 sim lifetime. 9/24: RIVN −1R (RS-in-downtape test #2, CHASED the extension → MFE 0). A/B now clean: CLF coil +2R vs RIVN chase −1R → the edge is ENTRY LOCATION (coil, not chase), not merely the RS name. Regime gate stays: red tape → real PASS. |
+| Paper results             | 21 closed: 9 wins / 12 losers (net ~+$64 sim lifetime after today's +$80.96). 9/25 green-tape A/B (same tape, 3 entry LOCATIONS): NCLH reclaim-after-flush +2.0R WIN (MAE ~0) · HL extended-trend +0.2R (MAE −0.52R, worst ride) · F at-breakout −0.2R (low-beta stalled, no 2:1). Entry-location edge reconfirmed a 3rd time (CLF coil +2R / RIVN chase −1R / NCLH reclaim +2R all agree). Regime gate stays; new note: on GREEN momentum days affordable leaders extend fast, so a clean non-chase real entry rarely appears ≤$19. |
 | Sizing basis              | Real equity (~$19.90) per RISK_RULES §9; $20,000 is a mental reference only, never sizes a live order |
 | Live authorization        | **YES** — micro-live approved; equity order tools pre-approved |
 | Options / crypto / margin | **NOT enabled** — options only after separate testing + explicit owner approval (owner: "later we can trade options") |
