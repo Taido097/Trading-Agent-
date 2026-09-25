@@ -540,3 +540,10 @@ No clean non-chase affordable entry clearing 2:1. Keep $20 flat.
 **No new paper adds** — everything is either extended (chase) or stalling; no fresh coil/pullback setup. Discipline over volume.
 
 **Tally (9/25):** REAL 0 trades (flat, $20 preserved). PAPER 3 taken → 1 WIN (+2R NCLH), 2 open/stalling (F, HL).
+
+---
+### Engine pass 2026-09-25 14:13 ET (18:13Z) — REAL: PASS · PAPER: 2 open (grinding into EOD)
+Regime steady green (SPY +0.54%, QQQ +0.56%). F 12.77 (range 12.70-12.78, target 13.065 unreached) and
+HL 18.135 (range 18.05-18.19, target 18.66 far) both still chopping — neither near stop or target; both
+likely EOD-flatten candidates. Real FLAT, leaders extended/fading (NCLH back to 14.55), no clean entry → PASS.
+No new paper adds. Tally 9/25: REAL 0 (flat, $20 preserved); PAPER 1 WIN (+2R NCLH) + 2 open (F/HL grinding).
