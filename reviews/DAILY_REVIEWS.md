@@ -346,3 +346,41 @@ was right and only the ENTRY was wrong.
 **Weekly context:** Mon PASS / Tue CLF +$0.05 real WIN / Wed 0 real (red) / Thu 0 real (red). Real
 account: 2-for-2 on edge-based trades, capital intact at $20.00 through a 3-day red stretch. Paper is
 doing its job — turning would-be real mistakes (chases) into free lessons.
+
+---
+
+## 2026-09-25 (Fri) — PRE-MARKET PREP (9:18 ET / 13:18Z)
+
+**Reconciliation:** Agentic ••••4713 — FLAT. Cash $20.00, equity $0, buying power $20.00,
+0 positions, 0 open orders. Matches internal state (no discrepancies).
+
+**Regime (pre-market):** SPY 769.45 vs 767.18 close = **+0.30%**; QQQ 744.13 vs 741.10 = **+0.41%**.
+GREEN / risk-on open shaping up — first non-red tape after a 3-day red stretch (Wed/Thu were both red).
+This is the tape momentum longs actually work in. Confirm it HOLDS after the open (pre-market ramps fade).
+
+**Event risk:** Last-Friday-of-month → PCE (Fed's preferred inflation gauge) is the likely 8:30 ET print.
+Indices green pre-market ⇒ any data already out was digested favorably / market-friendly. No FOMC today.
+Stay alert for a post-open fade if the ramp was just a data-relief pop.
+
+**Wide screen (pre-market %, affordability, spread):**
+Hard screen = 1 whole share ≤ ~$19 w/ buffer, liquid, tight spread. Pre-mkt spreads run wide — real
+spread test is at the open.
+
+RANKED RS LEADERS (affordable + tradable):
+- **AAL** ~13.62 (+2.0%) — top RS, tight spread (13.61/13.63 ≈0.15%), very liquid. #1 name. (Prior real WIN 9/21.)
+- **NCLH** ~14.45 (+1.83%) — strong RS, spread ~0.6%, affordable.
+- **MARA** ~13.10 (+1.39%) — crypto-momentum, tight spread (13.09/13.11), affordable.
+- **HL** ~18.15 (+1.17%) — gold/silver momentum, ~$18 (near ceiling), spread ~0.5%.
+- **CLF** ~12.61 (+0.88%) — affordable but wide pre-mkt spread (to 12.82); watch after open. (Prior real WIN 9/22.)
+- **F** ~12.63 (+0.24%) — inline, ultra-liquid, tightest spread; backup only if it takes RS lead.
+
+DISQUALIFIED: CHPT (bid/ask 8.87/9.76 ≈9% spread — illiquid), HBAN (14.50/16.28 — junk pre-mkt spread),
+KGC/RIOT/CCL/KEY/RF/SIRI/AMCR (>$19, can't buy 1 whole share w/ buffer). Laggards (SOFI −0.1%, SNAP,
+VALE, RIG) — not leading, skip.
+
+**Plan:** Do NOT trade in prep. The 9:47 ET decision routine looks at the top few (AAL / NCLH / MARA / HL)
+for a real setup: an RS leader making & HOLDING a new intraday high on volume, a valid ORB break-and-hold,
+or a coil/higher-lows continuation near HOD — never the vertical spike bar (O002). If the green tape holds
+and a top name gives a clean NON-CHASE entry, this is a green-tape day where the real $20 can work (unlike
+the last 3 red days). Stop first (risk $0.15–0.50, wider than the immediate base), target ≥2:1. If nothing
+clean → PASS, never force. Options/crypto/margin OFF.
