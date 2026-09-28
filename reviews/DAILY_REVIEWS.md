@@ -460,3 +460,38 @@ and its OR shows a spike to 12.74 then fade to 12.65 (below OR high) = no clean 
 its OR high. No valid ORB long on a supportive regime. Standing rule (red tape → real PASS) applies; forcing the
 one green name here would be the exact O002/thin-whipsaw mistake. Logged MARA + CCL to REJECTED_TRADES.csv.
 Paper engine (all-day) will still catch any coil/reclaim that develops. Options/crypto/margin OFF.
+
+---
+
+## 2026-09-28 (Mon) — EOD WRAP
+
+**Tape:** RED / risk-off all day. SPY 765.56 = **−0.75%**, QQQ 736.54 = **−1.07%** (tech-led, closed near lows).
+Shape: gapped down, faded worse to −0.8% by noon, a weak midday dead-cat bounce (to −0.35%), then leaked back to
+new lows into the close. A genuine down day.
+
+**REAL $20: 0 trades — flat, $20.00 preserved.** Reconciled flat (0 pos / 0 orders). Passed every check:
+- 9:47 OR decision: PASS (only green name MARA was a spike-and-fade; it closed −1.6%, vindicated).
+- All-day: the only RS names (CCL, SIRI, KVUE) were either >$19 (unaffordable for 1 share) or thin/weak defensives.
+  No affordable, clean, ≥2:1 setup on a supportive tape ever appeared. Red-tape→PASS gate held.
+
+**PAPER: 2 RS-in-downtape coils, BOTH stopped −1R (net −2R / −$79.92):**
+- P-2026-0022 CCL 22.395 → stop 22.09 (−1R). MFE ~0 (bought the breakout tick).
+- P-2026-0023 SIRI 26.03 → stop 25.66 (−1R). MFE ~0.05R.
+
+**KEY LESSON (regime-conditions the RS-in-downtape thesis):** the RS-in-downtape LONG only works with a
+STABILIZING backdrop (flat/basing SPY). The winners — CLF +2R (9/22), NCLH +2R (9/25) — were flat/recovering
+tapes. Today's tape was RED and actively DETERIORATING, and both RS names got dragged down with it; relative
+strength did NOT protect the long. Plus both entries were at the coil-breakout tick (MFE ~0) — reclaim/pullback
+beats breakout, again. Refinement: require SPY not making fresh intraday lows before taking an RS-in-downtape long.
+
+**Why today matters for the real account:** the two best setups of the day BOTH lost. Because they were paper-only
+and the real $20 passed the red tape, capital is fully intact. This is the capital-preservation gate doing exactly
+its job — a red-day PASS isn't a missed opportunity, it's an avoided loss.
+
+**Ops note:** the safety classifier had intermittent outages through the session (blocked the 9:15 prep pass and the
+11:13 management pass). Handled by combining prep into the 9:47 decision and reconstructing the missed management
+window from historical 5-min bars — no data lost, no positions left unmanaged (real account was flat throughout).
+
+**Weekly-to-date:** Fri 9/25 GREEN (real 0, paper +2R) → Mon 9/28 RED (real 0, paper −2R). Real account: still
+$20.00, lifetime real P&L −$0.01, untouched across both a green and a red day. Paper lifetime: 23 closed, 9W/14L.
+Options/crypto/margin OFF.
