@@ -606,3 +606,8 @@ The 1pm bounce faded — SPY back to −0.52%, QQQ −0.82% (choppy red, no foll
 green but stalling; no clean RS progress. Real FLAT → PASS (red tape, no affordable leader). No paper adds — the
 "stabilization" was a dead-cat bounce; the no-long read from 12:14 holds. Book flat. Tally 9/28: REAL 0 (flat, $20);
 PAPER 2 closed −2R, 0 open.
+
+---
+### Engine pass 2026-09-28 15:13 ET (19:13Z) — REAL: PASS · PAPER: 0 new (weak into close)
+Tape leaking to new lows into the last hour: SPY −0.69%, QQQ −0.98%. Only KVUE +0.3% (defensive) still green; rest red.
+No clean setup. Real FLAT → PASS. Book flat, no paper adds. Next pass = post-close EOD wrap. Tally 9/28: REAL 0 (flat, $20); PAPER 2 closed −2R, 0 open.
