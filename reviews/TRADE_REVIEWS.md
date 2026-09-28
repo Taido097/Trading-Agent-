@@ -568,3 +568,25 @@ that work are too pricey for the $20 account.)
 Both are the core "RS-in-downtape coil" test (the CLF-coil-wins pattern). Same-session pair for clean comparison.
 
 **Tally (9/28):** REAL 0 (flat, $20 preserved, red tape). PAPER 2 open (CCL, SIRI). Book was flat coming in.
+
+---
+### Engine pass 2026-09-28 12:14 ET (16:14Z) — REAL: PASS · PAPER: both coils STOPPED −1R each; 0 new
+**Regime:** RED and DETERIORATING. SPY −0.78% (from −0.5% at 10am), QQQ −1.23%. A grind-lower tape.
+
+**PAPER management (covering the classifier-outage gap at 11:13 — reconstructed from 5-min bars):**
+- P-2026-0022 CCL (coil-breakout 22.395) → STOPPED 22.09 at ~11:00 ET. −1.00R. MFE ~0 (bought the breakout tick, faded instantly).
+- P-2026-0023 SIRI (coil 26.03) → STOPPED 25.66 at ~12:00 ET. −1.00R. MFE ~0.05R (entered near HOD).
+- Both RS-in-downtape LONGS failed. Net −2R (−$79.92).
+
+**KEY LESSON (new, important):** RS-in-downtape longs are regime-sensitive. The WINNERS (CLF +2R 9/22,
+NCLH +2R 9/25) were in FLAT-to-RECOVERING tapes. Today's tape was RED and actively DETERIORATING (−0.5%→−0.8%),
+and both RS names got dragged down with it — the relative strength did NOT protect the long. Refinement to the
+RS-in-downtape thesis: it needs a STABILIZING backdrop (flat/basing SPY), NOT a tape making fresh lows. Also both
+entries were at the coil-BREAKOUT tick (MFE ~0) — reinforces reclaim/pullback > breakout yet again.
+
+**STEP A (real $20): PASS.** FLAT. Deteriorating red tape, no affordable RS leader holding up. Correct — and today
+is exactly why the red-tape→PASS gate protects the real $20: both "best" setups of the day lost. Capital intact.
+
+**No new paper adds** — a red, deteriorating tape is a no-long environment; forcing more longs = more −1R donations.
+
+**Tally (9/28):** REAL 0 (flat, $20 preserved). PAPER 2 closed, both −1R (CCL, SIRI) = −2R on the day. Lifetime paper: 23 closed, 9W/14L.
