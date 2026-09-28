@@ -551,3 +551,20 @@ No new paper adds. Tally 9/25: REAL 0 (flat, $20 preserved); PAPER 1 WIN (+2R NC
 ---
 ### Engine pass 2026-09-25 15:13 ET (19:13Z) — REAL: PASS · PAPER: 2 open (hold into EOD)
 Green (SPY +0.49%). HL 18.28 grinding to new HOD 18.30 (+0.54R) but tgt 18.66 far; F 12.724 back below entry (dead money). Neither at stop/target. Real FLAT → PASS. Next pass = EOD flatten. Tally: REAL 0 (flat, $20); PAPER 1 WIN + 2 open.
+
+---
+### Engine pass 2026-09-28 10:14 ET (14:14Z) — REAL: PASS · PAPER: 2 new RS-in-downtape coils
+**Regime:** RISK-OFF, worsening. SPY −0.51%, QQQ −1.16% (tech-led). MARA's morning pop already faded to red
+(−0.6%) — the 9:47 pass on it was correct. RS names bucking the tape: CCL +0.9%, SIRI +0.68%, KVUE +0.22%.
+
+**STEP A (real $20): PASS.** FLAT (0/0). The RS leaders (CCL ~$22.4, SIRI ~$26) are BOTH >$19 → can't buy 1
+share w/ buffer on $20. KVUE affordable ($17.84) but thin volume + only +0.2% (weak defensive drift), not a
+leader. No affordable RS momentum name on a red tape → PASS. (Same structural constraint as Fri: the RS names
+that work are too pricey for the $20 account.)
+
+**STEP B (paper): 2 valid RS-in-downtape coils opened** (tightened for red tape → coils only, no breakouts-into-air):
+- P-2026-0022 CCL 22.395, stop 22.09, tgt 23.00 (131sh) — 30-min higher-lows coil then new HOD, green +0.9% vs QQQ −1.16%.
+- P-2026-0023 SIRI 26.03, stop 25.66, tgt 26.77 (108sh) — higher-lows grind to new HOD, defensive RS.
+Both are the core "RS-in-downtape coil" test (the CLF-coil-wins pattern). Same-session pair for clean comparison.
+
+**Tally (9/28):** REAL 0 (flat, $20 preserved, red tape). PAPER 2 open (CCL, SIRI). Book was flat coming in.
