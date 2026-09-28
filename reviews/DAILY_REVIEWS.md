@@ -437,3 +437,26 @@ entry (buy the flush-and-reclaim, not the extension) is now the highest-convicti
 **Weekly (9/21–9/25):** Mon PASS / Tue CLF +$0.05 real WIN / Wed 0 (red) / Thu 0 (red) / Fri 0 (green, no clean
 affordable entry). Real: 1 trade all week (CLF win), capital intact $20.00, lifetime real P&L −$0.01. Paper did
 the heavy lifting on learning: the entry-location edge is now well-supported. Options/crypto/margin OFF.
+
+---
+
+## 2026-09-28 (Mon) — PRE-MARKET PREP + 9:47 OR DECISION (combined) → **PASS (real $20)**
+
+NOTE: the 9:15 prep pass was skipped — a transient server-side safety-classifier outage blocked all live-data
+& write calls (~9:15-9:45 ET). Nothing at risk (account flat, no overnight holds). Recovered by 9:47; ran the
+full reconcile + screen + OR decision together here.
+
+**Reconciliation:** Agentic ••••4713 — FLAT. 0 positions, 0 open orders. Matches internal state (unchanged over weekend).
+
+**Regime (9:48 ET):** RISK-OFF. SPY 767.99 vs 771.35 = **−0.44%**; QQQ 738.20 vs 744.50 = **−0.85%** (tech leading down).
+First red open after Friday's green day. No FOMC today; watch for month-end/quarter-end flows (Tue = 9/30 quarter-end).
+
+**Wide screen (vs Fri close):** Broadly RED — CLF −3.9%, HL −4.2% (round-tripping Fri's gold pop), BTG −2.6%,
+AAL −2.8%, SOFI −2.0%, RIVN −1.4%, NCLH −1.4%, VALE −1.0%, RIG −0.9%, HBAN −0.8%, F −1.2%. Flat: CCL −0.2%,
+KVUE −0.4%. **Only green: MARA +0.8%** — but it's the repeat spike-and-fade crypto-proxy (reversed −5% Fri),
+and its OR shows a spike to 12.74 then fade to 12.65 (below OR high) = no clean break-and-hold.
+
+**Decision: PASS (real $20).** Red/risk-off tape + the sole RS name is a known whipsaw trap that isn't holding
+its OR high. No valid ORB long on a supportive regime. Standing rule (red tape → real PASS) applies; forcing the
+one green name here would be the exact O002/thin-whipsaw mistake. Logged MARA + CCL to REJECTED_TRADES.csv.
+Paper engine (all-day) will still catch any coil/reclaim that develops. Options/crypto/margin OFF.
