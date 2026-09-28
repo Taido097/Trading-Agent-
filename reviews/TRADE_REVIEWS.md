@@ -590,3 +590,12 @@ is exactly why the red-tape→PASS gate protects the real $20: both "best" setup
 **No new paper adds** — a red, deteriorating tape is a no-long environment; forcing more longs = more −1R donations.
 
 **Tally (9/28):** REAL 0 (flat, $20 preserved). PAPER 2 closed, both −1R (CCL, SIRI) = −2R on the day. Lifetime paper: 23 closed, 9W/14L.
+
+---
+### Engine pass 2026-09-28 13:13 ET (17:13Z) — REAL: PASS · PAPER: 0 new (bounce, but unstable)
+Tape bounced off lows, still red: SPY −0.35% (from −0.78%), QQQ −0.70% (from −1.23%). CCL reclaimed to +0.67%,
+KVUE +0.39% (affordable, steady defensive), VALE +0.26%; laggards still bleeding (CLF −7.5%, HL −4.9%, RIVN −3%).
+STEP A real: PASS — still red; only affordable green name is KVUE (thin/weak defensive drift, not a leader). STEP B:
+no adds — CCL is back at 22.40, the exact level it FAILED at an hour ago (−1R); re-buying prior resistance on a
+bouncing-but-red tape = low conviction, repeats the loss. Wait for a clean green-tape reclaim. Tally 9/28: REAL 0
+(flat, $20 preserved); PAPER 2 closed −2R (CCL, SIRI), 0 open.
