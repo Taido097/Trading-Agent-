@@ -645,3 +645,9 @@ underwater keeps validating the regime pass (would be −0.8R if it had been rea
 Tape firmed: SPY −0.26% (off lows), QQQ +0.08%. RIVN never hit 14.93 stop (low ~14.98), bounced to 15.23 then 15.165
 = ~breakeven vs 15.16 entry (MFE +0.30R, tgt 15.62 far). Still OPEN — coil survived the bleed. Real FLAT → PASS. No adds.
 Tally 9/29: REAL 0 (flat, $20); PAPER 1 open (RIVN ~BE).
+
+---
+### Engine pass 2026-09-29 15:13 ET (19:13Z) — REAL: PASS · PAPER: RIVN open (grinding ~BE into EOD), 0 new
+Tape firming: SPY −0.14% (off lows), QQQ +0.24%. RIVN chopped 15.13-15.265 all afternoon, holding just above 15.16
+entry (now 15.145 ~BE); MFE +0.46R (15.265) but never reached 15.62 tgt, never hit 14.93 stop. Still OPEN → EOD flatten
+next pass. Real FLAT → PASS. No adds. Tally 9/29: REAL 0 (flat, $20); PAPER 1 open (RIVN ~BE).
