@@ -639,3 +639,9 @@ validating the real-PASS: the coil isn't following through in a red/weakening ta
 Tape soft: SPY −0.39%, QQQ −0.08%. RIVN paper drifting down with the tape: 15.16 entry → 14.98 now (~−0.78R
 unrealized), hovering just above 14.93 stop (not hit). Coil held ~1h then rolling over. Real FLAT → PASS; RIVN
 underwater keeps validating the regime pass (would be −0.8R if it had been real). No new adds. Tally 9/29: REAL 0 (flat, $20); PAPER 1 open (RIVN, weak).
+
+---
+### Engine pass 2026-09-29 14:13 ET (18:13Z) — REAL: PASS · PAPER: RIVN open (held stop, back to BE), 0 new
+Tape firmed: SPY −0.26% (off lows), QQQ +0.08%. RIVN never hit 14.93 stop (low ~14.98), bounced to 15.23 then 15.165
+= ~breakeven vs 15.16 entry (MFE +0.30R, tgt 15.62 far). Still OPEN — coil survived the bleed. Real FLAT → PASS. No adds.
+Tally 9/29: REAL 0 (flat, $20); PAPER 1 open (RIVN ~BE).
