@@ -525,3 +525,12 @@ HOLDING a new intraday high on volume, valid ORB break-and-hold, or coil/higher-
 O002). This is the first day in a while with a strong AFFORDABLE leader (AAL), so the real $20 could actually get a
 clean shot IF the green tape holds and AAL gives a non-chase entry. Stop first (risk $0.15–0.50, wider than base),
 target ≥2:1. If the bounce fails or entries are chasey → PASS. Options/crypto/margin OFF.
+
+### 2026-09-29 (Tue) — 9:47 ET OPENING-RANGE DECISION → **PASS (real $20)**
+Reconciled FLAT (0/0). Regime FADED at open: SPY +0.14%→−0.06%, QQQ +0.34%→+0.11% (bounce deflating, echo of Fri).
+All 3 affordable watchlist names gapped up & FADED below their opening ranges:
+- AAL opened 13.83 (=pre-mkt high) → dumped to 13.59 → 13.60 (below OR high 13.835); +0.6% only. No break-and-hold.
+- NCLH opened 15.11, spiked 15.275, faded to 14.77, choppy 15.06 below OR high.
+- MARA opened 12.41 → 11.98 → grind to 12.25 (repeat whipsaw, O002).
+CCL now +12% but >$19 & extended (untradable for real). DECISION: PASS — buying a fading gap on a fading tape is the
+exact mistake. Logged 3 rejections. All-day engine still watches for a coil/reclaim if the tape stabilizes. Options/crypto/margin OFF.
