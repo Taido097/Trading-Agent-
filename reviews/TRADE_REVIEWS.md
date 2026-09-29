@@ -626,3 +626,10 @@ STEP B (paper): P-2026-0024 RIVN 15.16, stop 14.93, tgt 15.62 (173sh) — tests 
 in a mixed tape; explicit contrast to P-2026-0018 (RIVN spike-CHASE, −1R). Same name, opposite entry location.
 
 Tally (9/29): REAL 0 (flat, $20 preserved). PAPER 1 open (RIVN). Book was flat coming in.
+
+---
+### Engine pass 2026-09-29 12:14 ET (16:14Z) — REAL: PASS · PAPER: RIVN open (stalling), 0 new
+Tape weakening: SPY −0.35% (new lows), QQQ +0.02% (flat). RIVN paper coil holding 15.04-15.20 but STALLING — never
+approached 15.62 tgt (MFE ~+0.17R), now 15.03 near range low as SPY drops (stop 14.93 intact, still OPEN). This is
+validating the real-PASS: the coil isn't following through in a red/weakening tape (same regime lesson as Mon). AAL
+−0.5%, NCLH faded to +3.5% rangebound. Real FLAT → PASS. No new adds (weakening tape). Tally 9/29: REAL 0 (flat, $20); PAPER 1 open (RIVN).
