@@ -534,3 +534,26 @@ All 3 affordable watchlist names gapped up & FADED below their opening ranges:
 - MARA opened 12.41 → 11.98 → grind to 12.25 (repeat whipsaw, O002).
 CCL now +12% but >$19 & extended (untradable for real). DECISION: PASS — buying a fading gap on a fading tape is the
 exact mistake. Logged 3 rejections. All-day engine still watches for a coil/reclaim if the tape stabilizes. Options/crypto/margin OFF.
+
+---
+
+## 2026-09-29 (Tue) — EOD WRAP
+
+**Tape:** Choppy/soft. Opened +0.3% then faded midday, recovered late. Close: SPY 764.28 = **−0.17%**, QQQ 737.96 =
+**+0.19%**. Third straight day the opening move faded (Fri, Mon, Tue).
+
+**REAL $20: 0 trades — flat, $20.00 preserved.** Closest call of the week: AAL (+2.3% pre-mkt) gapped up & faded →
+9:47 PASS. Mid-morning RIVN set up cleanly (coil-after-breakout-hold, affordable ~$15.15) — structurally qualified,
+but the REGIME gate wants a supportive tape and SPY was RED → PASS. Validated: RIVN drifted to −0.87R in paper. Day's
+real winner CCL +12% on news was >$19 (untradable for $20) — affordability wall again.
+
+**PAPER: RIVN coil-after-breakout-hold −0.87R (−$34.60), EOD flatten.** Never hit 15.62 tgt or 14.93 stop (low 14.95
+just held); MFE +0.46R, MAE −0.91R. Behaved BETTER than the prior RIVN spike-CHASE (P-18, −1R, MFE ~0) but STILL lost.
+Takeaway: entry-location is the edge, REGIME is the ceiling.
+
+**Real account winning by NOT playing:** 3rd straight session paper "best setups" lost/scratched while the real $20
+sat out. $20.00 intact across a green, a red, and a choppy day.
+
+**Week-to-date (real):** Fri 0 / Mon 0 / Tue 0 — all correct passes; $20.00 intact; lifetime real P&L −$0.01. Paper
+lifetime: 24 closed, 9W/15L. Watch item: real rarely gets a shot because the day's leader keeps printing >$19 — lever
+is account size, not looser rules. Options/crypto/margin OFF.

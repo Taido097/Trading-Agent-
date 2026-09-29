@@ -5,7 +5,7 @@
 > intent and status; it is NOT the brokerage record (that comes from
 > reconciliation).
 
-**Last updated:** 2026-09-28 (16:12 ET EOD — flat & done. RED risk-off day (SPY −0.75%, QQQ −1.07%). REAL: 0 trades, $20.00 preserved (red tape all day; only RS names >$19 unaffordable; MARA morning pop faded). PAPER: 2 RS-in-downtape coils (CCL, SIRI) BOTH stopped −1R = −2R. New lesson: RS-in-downtape needs a STABILIZING tape; in a DETERIORATING one even RS names get dragged down. Classifier had intermittent outages; prep pass skipped, all managed on later passes, nothing at risk.)
+**Last updated:** 2026-09-29 (16:13 ET EOD — flat & done. Choppy/soft day (SPY −0.17%, QQQ +0.19%; opened +0.3% then faded). REAL: 0 trades, $20.00 preserved. Closest call yet: RIVN was a clean affordable coil-after-breakout but SPY was RED → regime gate → PASS (validated: RIVN faded to a loss). PAPER: RIVN coil-after-breakout-hold −0.87R (EOD flatten; better than the prior spike-chase but soft tape capped it). Recurring wall: the day's true leader (CCL +12% on news) was >$19, untradable for $20.)
 
 ---
 
@@ -16,7 +16,7 @@
 | Development phase         | **MICRO-LIVE (real $20) + HIGH-VOLUME PAPER** (owner: "trade as much as possible to learn") |
 | Trading mode              | Real $20: **MICRO-LIVE, setup-gated**. Learning volume: **PAPER** (sim $20k, many trades/day, real data, zero risk) via hourly engine |
 | Paper engine              | Hourly 14:00–20:00Z (10am–4pm ET, 7 passes) weekdays; now STEP A real-$20 setup check (every pass, all day) + STEP B high-volume paper; logs to data/PAPER_TRADES.csv (kept separate from live) |
-| Paper results             | 23 closed: 9 wins / 14 losers (net ~−$16 sim lifetime after 9/28's −$79.92). 9/28 red-tape test: CCL & SIRI RS-in-downtape coils BOTH stopped −1R (both entered near breakout tick, MFE ~0). LESSON: RS-in-downtape longs need a STABILIZING backdrop (flat/basing SPY) — in a DETERIORATING red tape (−0.5%→−0.8%) even RS names get dragged down; the long-side edge disappears. Winners (CLF +2R, NCLH +2R) were all flat/recovering tapes. Regime gate for the real $20 fully vindicated: both "best" setups lost, real $20 untouched. |
+| Paper results             | 24 closed: 9 wins / 15 losers (net ~−$51 sim lifetime after 9/29's −$34.60). 9/29: RIVN coil-after-breakout-HOLD −0.87R (MFE +0.46R, MAE −0.91R nearly held, EOD flatten). Better-behaved than the prior RIVN spike-chase (P-18, −1R, MFE ~0) — entry location helped — but STILL a loss because SPY was soft/red. REINFORCED LESSON: entry-location is the edge, but REGIME is the ceiling; a good coil entry still loses when the tape won't cooperate. Real-$20 regime gate keeps proving out (RIVN passed real, then lost in paper). |
 | Sizing basis              | Real equity (~$19.90) per RISK_RULES §9; $20,000 is a mental reference only, never sizes a live order |
 | Live authorization        | **YES** — micro-live approved; equity order tools pre-approved |
 | Options / crypto / margin | **NOT enabled** — options only after separate testing + explicit owner approval (owner: "later we can trade options") |
