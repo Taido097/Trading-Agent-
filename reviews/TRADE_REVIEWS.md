@@ -611,3 +611,18 @@ PAPER 2 closed −2R, 0 open.
 ### Engine pass 2026-09-28 15:13 ET (19:13Z) — REAL: PASS · PAPER: 0 new (weak into close)
 Tape leaking to new lows into the last hour: SPY −0.69%, QQQ −0.98%. Only KVUE +0.3% (defensive) still green; rest red.
 No clean setup. Real FLAT → PASS. Book flat, no paper adds. Next pass = post-close EOD wrap. Tally 9/28: REAL 0 (flat, $20); PAPER 2 closed −2R, 0 open.
+
+---
+### Engine pass 2026-09-29 ~11:17 ET (15:17Z, fired late) — REAL: PASS · PAPER: 1 new (RIVN coil-after-breakout)
+Reconciled FLAT. Tape mixed/soft: SPY −0.20% (red), QQQ +0.24%. Open gap-up faded (AAL back to red −0.15%).
+NCLH still +4.5% but rangebound 14.90-15.10 all session (no breakout). RIVN turned RS leader +2.5%: based 14.70 →
+higher-lows → broke base on 2x-vol bar to HOD 15.34 → now HOLDING the breakout in a 15.05-15.19 coil. Affordable ~$15.15.
+
+STEP A (real $20): PASS. RIVN is structurally the cleanest affordable setup in days (coil-after-breakout-hold, not a
+spike), BUT the pre-trade gate wants a SUPPORTIVE regime and SPY is RED on a proven fade-day. Regime gate → PASS.
+Capital preserved. (This is a genuine borderline — noting it: on a green SPY this likely would have been a real take.)
+
+STEP B (paper): P-2026-0024 RIVN 15.16, stop 14.93, tgt 15.62 (173sh) — tests the coil-after-breakout-HOLD entry
+in a mixed tape; explicit contrast to P-2026-0018 (RIVN spike-CHASE, −1R). Same name, opposite entry location.
+
+Tally (9/29): REAL 0 (flat, $20 preserved). PAPER 1 open (RIVN). Book was flat coming in.
