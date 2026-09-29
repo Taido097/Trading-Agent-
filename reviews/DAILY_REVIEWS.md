@@ -495,3 +495,33 @@ window from historical 5-min bars — no data lost, no positions left unmanaged 
 **Weekly-to-date:** Fri 9/25 GREEN (real 0, paper +2R) → Mon 9/28 RED (real 0, paper −2R). Real account: still
 $20.00, lifetime real P&L −$0.01, untouched across both a green and a red day. Paper lifetime: 23 closed, 9W/14L.
 Options/crypto/margin OFF.
+
+---
+
+## 2026-09-29 (Tue) — PRE-MARKET PREP (9:18 ET / 13:18Z)
+
+**Reconciliation:** Agentic ••••4713 — FLAT. Cash $20.00, 0 positions, 0 open orders. Matches internal state.
+
+**Regime (pre-market):** Bounce-back. SPY 766.71 vs 765.61 = **+0.14%**; QQQ 739.01 vs 736.53 = **+0.34%** (tech
+recovering after Monday's −1%). Cautiously risk-on — but confirm it HOLDS after the open (Fri's green open faded, Mon's whole day was red).
+
+**Event risk:** Tue before quarter-end (9/30). Watch ~10am ET data (JOLTS job openings / Consumer Confidence). No FOMC.
+Month/quarter-end rebalancing flows all week.
+
+**Wide screen (pre-market %, affordability, spread):**
+STANDOUT SECTOR = cruise/travel gapping up (likely CCL news): CCL +7.8% (~$23.9, >$19), NCLH +3.5% (~$14.8), AAL +2.3% (~$13.83).
+
+RANKED AFFORDABLE RS (≤~$19, 1 share on $20):
+- **AAL** ~13.83 (+2.3%) — TOP affordable leader; travel/cruise sympathy; liquid, tight spread; prior real WIN (9/21). #1 for 9:47.
+- **NCLH** ~14.81 (+3.5%) — strongest cruise that's affordable, BUT pre-mkt spread wide (14.71/15.10 ~2.6%); needs to tighten at open.
+- **MARA** ~12.32 (+1.7%) — crypto bounce; affordable but the repeat spike-and-fade whipsaw — treat with caution (O002).
+- SOFI ~16.07 (+0.9%), RIVN ~14.89 (+0.7%), VALE ~13.67 (+0.6%), HL ~17.08 (+0.4%) — secondary, mild.
+
+TOO EXPENSIVE (>$19, real-untradable, paper-only): CCL ~23.9, RIOT ~22.1, KGC ~24.5, SIRI ~26.
+DISQUALIFIED: KVUE (bid/ask 17.75/19.20 junk spread), CLF (11.09/11.46 wide + weak −0.3%), RIG (weak).
+
+**Plan:** No trade in prep. 9:47 decision looks at AAL (top) / NCLH / MARA for a clean setup — RS leader making &
+HOLDING a new intraday high on volume, valid ORB break-and-hold, or coil/higher-lows near HOD (never the spike bar,
+O002). This is the first day in a while with a strong AFFORDABLE leader (AAL), so the real $20 could actually get a
+clean shot IF the green tape holds and AAL gives a non-chase entry. Stop first (risk $0.15–0.50, wider than base),
+target ≥2:1. If the bounce fails or entries are chasey → PASS. Options/crypto/margin OFF.
