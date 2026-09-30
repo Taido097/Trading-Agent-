@@ -591,3 +591,38 @@ under 13.48 but light vol), RIVN 15.04 (OR high 15.18, mid-range). MARA reversed
 DECISION: PASS at 9:47 — no valid ORB break-and-hold yet. BUT this is "not yet," not "faded": tape is supportive, so the
 all-day engine watches for an OR-high break-and-hold (esp. VALE thru 13.48, NCLH thru 15.11) → could be a REAL entry today.
 Logged 3 as setup-timing PASS. Options/crypto/margin OFF.
+
+### 2026-09-30 (Wed, quarter-end) — EOD WRAP → **1 REAL trade (loss, capped), capital intact**
+
+**Close reconciliation:** Agentic ••••4713 — FLAT. Total value $19.79, cash $19.79, 0 positions, 0 open orders.
+Matches internal state. No naked orders (VALE stop consumed at fill). No overnight position (rule held).
+
+**Regime (close):** GREEN held all day (rare this week). SPY 766.55 (+0.31% vs 764.20 prior close); QQQ 743.56 (+0.76%).
+First genuinely supportive+broadening open in a week — and it HELD past 9:45 instead of fading (unlike Fri/Mon/Tue).
+
+**REAL — 1 trade (T-2026-0005 VALE):** After the 9:47 "not yet" PASS, VALE broke its OR high on a 2x-vol bar to a new
+HOD and HELD, while NCLH and RIVN broke their ORs at the same time = broad, affordable RS participation, not a lone
+spike. That satisfied the regime gate that correctly forced PASS Fri/Mon/Tue. Entered long 1 share @ 13.6472 (10:16 ET),
+broker stop 13.44 set immediately, target 14.06 (2:1). Marginal new high 13.655 right after entry, then faded straight
+back through the stop → filled 13.4437 at 10:58 ET. **−$0.20 / −0.98R. GOOD DECISION + LOSS (execution).**
+- What the loss teaches: MFE ~0 — I bought the breakout TICK near HOD, the weakest entry location, same low-follow-
+  through signature as the week's failed paper breakouts. The entry gate said "supportive tape + broad participation"
+  (correct) but the entry LOCATION was breakout-chase, not a reclaim/pullback. Reinforces the hardened lesson:
+  **entry location is the edge, regime is the ceiling** — a supportive tape is necessary, not sufficient; it does not
+  rescue a chase entry.
+- What went RIGHT: stop set first and wider than the immediate base; loss capped at plan (~1R / ~1%); NO revenge
+  re-entry after the stop (watched VALE + NCLH + RIVN chop the rest of the day, took nothing); flat by EOD.
+
+**PAPER — 0 new trades:** Post-VALE, the affordable leaders (VALE/NCLH/RIVN) chopped sideways / faded into the
+afternoon with no clean reclaim or coil-near-HOD; every intraday pass logged REAL PASS + no paper add rather than
+force a spike-chase. Correct restraint given the midday stall.
+
+**Capital:** $19.79 (all cash), flat. Lifetime real P&L: F −0.11, AAL +0.05, CLF +0.05, VALE −0.20 = **−$0.21**
+(2W / 2L). Real wins are both coil/HOLD-above entries; both losses are no-edge (F) and breakout-chase (VALE) — the
+record itself is teaching the same lesson.
+
+**Week-to-date (real):** Fri PASS / Mon PASS / Tue PASS / Wed 1 trade (−$0.20). Three correct passes in bad tape, then
+one real shot taken the moment the tape finally cooperated — that is the system working, even though the trade lost.
+The loss was in execution (entry location), not in the decision to engage. Paper lifetime: 24 closed, 9W/15L.
+Structural watch item persists: the day's true leader keeps printing >$19 (untradable on $20) — the lever for more
+real shots is account size, not looser gating. Options/crypto/margin OFF.
