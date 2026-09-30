@@ -5,7 +5,7 @@
 > intent and status; it is NOT the brokerage record (that comes from
 > reconciliation).
 
-**Last updated:** 2026-09-30 (10:16 ET — REAL TRADE OPEN: T-2026-0005 long 1 VALE @ 13.6472, stop 13.44, tgt 14.06 (2:1). First supportive+broadening tape in a week (SPY +0.53%, QQQ +0.69%; 3 affordable names broke ORs together); VALE = RS leader ORB break-and-hold on 2x vol. Regime gate that forced Fri/Mon/Tue passes is finally satisfied. Managing to breakeven on a favorable move; flatten by EOD, no overnight.)
+**Last updated:** 2026-09-30 (11:00 ET — T-2026-0005 VALE STOPPED −$0.20 (−0.98R). Breakout failed: marginal new high 13.655 right after entry then faded through the 13.44 stop (fill 13.4437, 10:58 ET). MFE ~0 = bought the breakout tick near HOD — same low-follow-through as the week's paper breakouts; reinforces reclaim/pullback > breakout-chase even on a supportive tape. Stop worked perfectly, loss capped at plan (~1R/1%). FLAT now, ~$19.80. No revenge re-entry.)
 
 ---
 
@@ -30,11 +30,11 @@
 
 | Field                     | Value                     |
 | ------------------------- | ------------------------- |
-| Account total value       | ~$20.00 (1 VALE share ~$13.65 + ~$6.35 cash) |
-| Cash                      | ~$6.35 (after 1-share VALE buy)  |
-| Open positions            | **1 — LONG 1 VALE @ 13.6472** (T-2026-0005) |
-| Open orders               | **1 — GTC stop-market sell 1 VALE @ 13.44** (id 6abd19c6, mandatory protective stop) |
-| Status                    | **IN A REAL TRADE (T-2026-0005 VALE).** Entry 13.6472, stop 13.44 (risk $0.21/~1%), target 14.06 (2:1). 3rd edge-based real trade; FIRST on a supportive/broadening tape (regime gate satisfied after Fri/Mon/Tue passes). Manage to breakeven on favorable move; flatten by EOD — NO overnight. Prior lifetime real P&L −$0.01 (F −0.11, AAL +0.05, CLF +0.05). |
+| Account total value       | ~$19.80 (all cash)        |
+| Cash                      | ~$19.80                   |
+| Open positions            | 0 (flat — VALE stopped out) |
+| Open orders               | 0 (stop 6abd19c6 filled/consumed; no naked orders) |
+| Status                    | **FLAT.** T-2026-0005 VALE stopped −$0.20 (−0.98R): breakout failed, MFE ~0 (bought breakout tick near HOD). Lifetime real P&L: F −0.11, AAL +0.05, CLF +0.05, VALE −0.20 = **−$0.21**. Real record: 2 wins (AAL/CLF coil+HOD-hold) / 2 losses (F no-edge, VALE breakout-chase). Lesson reinforced: reclaim/pullback entry > breakout-at-HOD, even on a green tape. |
 
 ## Active Strategies
 

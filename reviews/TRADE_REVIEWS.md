@@ -669,3 +669,27 @@ next pass. Real FLAT → PASS. No adds. Tally 9/29: REAL 0 (flat, $20); PAPER 1 
 - **Why take it (vs the week of passes):** it clears ALL gates the mandate lists — supportive regime, valid
   break-and-hold on volume, affordable 1-share, tight spread. Passing this would be over-applying the
   choppy-tape "reclaim-only" lesson to a genuinely trending tape. n=small; a win won't validate, a loss won't refute.
+
+---
+### REAL TRADE CLOSED 2026-09-30 10:58 ET — T-2026-0005 VALE STOPPED −$0.20 (−0.98R)
+Entry 13.6472 → stop 13.4437 (10:58 ET). 1 share. Loss −$0.20, ~1% of account. Account $20.00 → ~$19.80.
+
+**What happened:** VALE printed a marginal new high (13.655) in the first minute after entry, then rolled straight
+over and faded through the 13.44 stop within ~40 min. MFE ~+0.04R (basically zero). The broad tape STAYED green
+(SPY +0.5%, QQQ +0.7%) — this was a VALE-specific fade, not a regime failure.
+
+**Honest self-critique:** the entry LOCATION was the flaw. I bought the breakout tick near the HOD (+2.4% already
+run) rather than waiting for a pullback-to-shelf-and-hold. MFE ~0 is the exact signature of the week's failed
+breakouts (F, RIVN spike, CCL, SIRI paper). I overrode my own "reclaim/pullback > breakout-chase" edge on the
+reasoning that a supportive tape justifies a breakout entry — and it still failed. LESSON, hardened: even on a
+green/broadening tape, buying the breakout extension near HOD has poor follow-through; the edge is the
+pullback/reclaim entry, not the break itself.
+
+**What went RIGHT (process):** all gates were checked (supportive regime, affordable, tight spread, ≥2:1);
+mandatory broker stop attached immediately; loss capped at exactly the plan (~1R / ~1%); no overnight risk; no
+averaging down. The system contained a losing idea to $0.20. This is capital preservation working — a bad entry
+cost 1% of the account, not a meaningful drawdown.
+
+**Decision now:** FLAT. NO revenge re-entry — VALE just failed the same breakout pattern; chasing NCLH/RIVN
+breakouts here would repeat the mistake. One real trade taken today, it lost small, capital intact. Real record
+2W/2L; the 2 wins (AAL HOD-hold, CLF coil) and this loss (breakout-chase) all point the same way on entry location.
