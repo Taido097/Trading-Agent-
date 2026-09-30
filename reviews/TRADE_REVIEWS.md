@@ -714,3 +714,7 @@ midday despite a green tape — reinforces the day's lesson. Tally 9/30: REAL 1 
 ---
 ### Engine pass 2026-09-30 14:13 ET (17:12Z) — REAL: PASS (flat) · PAPER: 0 new
 Tape green (SPY +0.51%, QQQ +0.80%); affordable names chopping — VALE 13.515 (+1.6%, no new high), NCLH 14.70 (red), RIVN 15.09 (mid-range). No qualifying setup. Real FLAT → PASS. No paper adds. Book flat. Tally 9/30: REAL 1 (VALE -$0.20), PAPER 0.
+
+---
+### Engine pass 2026-09-30 15:13 ET (18:13Z) — REAL: PASS (flat) · PAPER: 0 new
+Tape green, easing (SPY +0.42%, QQQ +0.80%). Affordable names chopping/fading (VALE +1.8% no clean setup, NCLH red, RIVN flat). No qualifying entry → PASS. No paper adds. Book flat (nothing to flatten EOD). Next pass = EOD wrap. Tally 9/30: REAL 1 (VALE -$0.20), PAPER 0.
