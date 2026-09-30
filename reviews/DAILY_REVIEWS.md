@@ -592,20 +592,24 @@ DECISION: PASS at 9:47 — no valid ORB break-and-hold yet. BUT this is "not yet
 all-day engine watches for an OR-high break-and-hold (esp. VALE thru 13.48, NCLH thru 15.11) → could be a REAL entry today.
 Logged 3 as setup-timing PASS. Options/crypto/margin OFF.
 
-### 2026-09-30 (Wed, quarter-end) — NEAR-CLOSE WRAP (written at the 3:15pm ET pass) → **1 REAL trade (loss, capped), capital intact**
+### 2026-09-30 (Wed, quarter-end) — EOD WRAP (finalized at the post-close 4:12pm ET pass) → **1 REAL trade (loss, capped), capital intact**
 
-> ⚠️ TIMING CORRECTION: this block was first written at the ~3:15pm ET engine pass, mislabeled "EOD" (the day's
-> intraday passes were all labeled ~1h ahead of true ET). Market was still open ~43 min. It stands as a valid wrap
-> because the day's P&L was already fully locked — account FLAT, VALE closed, zero open paper positions — so nothing
-> could still change the result; only the exact closing index prints were pending. Re-confirmed at the 3:17pm pass:
-> REAL PASS + PAPER PASS (all affordable RS names had faded — NCLH turned red, MARA −4%, VALE off its HOD; late-day
-> O003 caution). Final closing prints to be appended by the true post-close (~20:12Z / 4:12pm ET) pass.
+> ⚠️ TIMING CORRECTION: this block was first drafted at the ~3:15pm ET engine pass, mislabeled "EOD" (the day's
+> intraday passes were all labeled ~1h ahead of true ET). Market was still open ~43 min. The draft stood as a valid
+> wrap because the day's P&L was already fully locked — account FLAT, VALE closed, zero open paper positions — so
+> nothing could still change the result; only the exact closing index prints were pending. Re-confirmed at the 3:17pm
+> pass (REAL PASS + PAPER PASS). NOW FINALIZED at the true post-close (20:12Z / 4:12pm ET) pass with official closes.
+> KEY UPDATE: the tape FADED HARD into the bell — the "green & holding" I saw at 3:17pm did NOT survive to the close.
 
-**Reconciliation (3:17pm ET):** Agentic ••••4713 — FLAT. Total value $19.79, cash $19.79, 0 positions, 0 open orders.
+**Reconciliation (post-close, 4:12pm ET):** Agentic ••••4713 — FLAT. Total value $19.79, cash $19.79, 0 positions, 0 open orders.
 Matches internal state. No naked orders (VALE stop consumed at fill). No overnight position (rule held).
 
-**Regime (as of ~3:17pm ET, near close):** GREEN held all day (rare this week). SPY 766.67 (+0.32% vs 764.20 prior close); QQQ 743.55 (+0.76%).
-First genuinely supportive+broadening open in a week — and it HELD past 9:45 instead of fading (unlike Fri/Mon/Tue).
+**Regime (OFFICIAL 4pm CLOSE):** Faded into the close on quarter-end. SPY **762.36 (−0.24% vs 764.20)** — closed RED
+after being +0.32% at 3:17pm (a ~0.55% late-day fade); QQQ 739.71 (+0.24%, down from +0.76%). The open WAS genuinely
+supportive+broadening and it held past 9:45 (unlike Fri/Mon/Tue) — but the quarter-end afternoon-reversal risk I flagged
+in the VALE devil's-advocate MATERIALIZED: by the bell SPY was red. VALE closed 13.405, i.e. it kept bleeding all day
+below my 13.6472 entry — the 10:58am stop-out protected me from a name that never recovered. Powerful confirmation of
+"regime is the ceiling": the tape I leaned on for the entry didn't even hold green to the close.
 
 **REAL — 1 trade (T-2026-0005 VALE):** After the 9:47 "not yet" PASS, VALE broke its OR high on a 2x-vol bar to a new
 HOD and HELD, while NCLH and RIVN broke their ORs at the same time = broad, affordable RS participation, not a lone

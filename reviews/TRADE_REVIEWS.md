@@ -718,3 +718,16 @@ Tape green (SPY +0.51%, QQQ +0.80%); affordable names chopping — VALE 13.515 (
 ---
 ### Engine pass 2026-09-30 15:13 ET (18:13Z) — REAL: PASS (flat) · PAPER: 0 new
 Tape green, easing (SPY +0.42%, QQQ +0.80%). Affordable names chopping/fading (VALE +1.8% no clean setup, NCLH red, RIVN flat). No qualifying entry → PASS. No paper adds. Book flat (nothing to flatten EOD). Next pass = EOD wrap. Tally 9/30: REAL 1 (VALE -$0.20), PAPER 0.
+
+## 2026-09-30 (Wed) — post-close note: the fade vindicated the stop
+Official 4pm closes: SPY 762.36 (−0.24%, RED), QQQ 739.71 (+0.24%), VALE 13.405. At my VALE entry (10:16am) the tape
+was genuinely green+broadening (SPY +0.53%) and it held past 9:45 — but it FADED into the bell (SPY gave back ~0.55%
+from the 3:17pm +0.32% to close red). VALE never recovered above my 13.6472 entry and closed 13.405. Takeaways:
+(1) The 10:58am stop-out at 13.4437 was not just "loss capped" — it removed me from a name that bled all day; holding
+    would have been worse, and any revenge re-entry would have compounded the mistake. No-revenge rule paid off.
+(2) The quarter-end afternoon-reversal risk I explicitly wrote in the T-2026-0005 devil's-advocate MATERIALIZED. When
+    a named tail risk is real, size/stop for it (I did: tiny risk, mandatory stop, no overnight) — that's why a correct
+    decision + a lost trade + a fading tape still left capital fully intact.
+(3) "Entry location is the edge, regime is the ceiling" got a clean live datapoint: the ceiling itself dropped (green→red
+    into the close), so even a better entry location likely loses today. The regime gate is necessary; the close proves
+    a supportive OPEN is not a guaranteed supportive DAY.
