@@ -651,3 +651,21 @@ Tally 9/29: REAL 0 (flat, $20); PAPER 1 open (RIVN ~BE).
 Tape firming: SPY −0.14% (off lows), QQQ +0.24%. RIVN chopped 15.13-15.265 all afternoon, holding just above 15.16
 entry (now 15.145 ~BE); MFE +0.46R (15.265) but never reached 15.62 tgt, never hit 14.93 stop. Still OPEN → EOD flatten
 next pass. Real FLAT → PASS. No adds. Tally 9/29: REAL 0 (flat, $20); PAPER 1 open (RIVN ~BE).
+
+---
+### REAL TRADE OPENED 2026-09-30 10:16 ET (14:16Z) — T-2026-0005 LONG 1 VALE @ 13.6472
+**First real trade since 9/22 (CLF).** Setup: ORB break-and-hold on a genuinely supportive+broadening tape.
+- **Regime (the differentiator):** SPY +0.53%, QQQ +0.69% — green AND strengthening, with 3 affordable names
+  (VALE/NCLH/RIVN) breaking their opening ranges TOGETHER = broad risk-on. This is the supportive regime my own
+  lessons require and that was ABSENT Fri/Mon/Tue (all correctly passed). Regime gate finally satisfied.
+- **Setup:** VALE coiled 13.41-13.48 (OR), then broke the OR high on a 2x-vol bar (439k) to a new HOD 13.61 and
+  HELD — valid RS-leader ORB break-and-hold (+2.4% vs SPY +0.53%). Not a vertical spike; controlled coil→break.
+- **Execution:** buy 1 share (order 6abd19b6) filled 13.6472; IMMEDIATELY attached mandatory GTC stop-market
+  @13.44 (order 6abd19c6). Risk $0.21 (~1.04% of $20). Target 14.06 = exactly 2:1. Spread 0.07%, liquid.
+- **Devil's advocate logged:** entry near HOD after a +2.4% run; quarter-end afternoon-reversal risk; breakout
+  entries stalled all week — BUT those were choppy/red tapes, and risk is capped tiny ($0.21) with a hard stop.
+- **Management:** raise stop to breakeven at ~+1R (asymmetry rule = reduce risk only); bank green / flatten by EOD;
+  NEVER hold overnight. Managed on every hourly engine pass + EOD.
+- **Why take it (vs the week of passes):** it clears ALL gates the mandate lists — supportive regime, valid
+  break-and-hold on volume, affordable 1-share, tight spread. Passing this would be over-applying the
+  choppy-tape "reclaim-only" lesson to a genuinely trending tape. n=small; a win won't validate, a loss won't refute.

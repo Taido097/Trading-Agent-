@@ -1,0 +1,23 @@
+{
+  "trade_id": "T-2026-0005",
+  "frozen_at": "2026-09-30T14:16:40Z",
+  "symbol": "VALE",
+  "direction": "long",
+  "mode": "live",
+  "account": "563174713",
+  "entry_time": "2026-09-30T14:16:23Z",
+  "entry_price": 13.6472,
+  "position_size": 1,
+  "stop": 13.44,
+  "target": 14.06,
+  "planned_risk_usd": 0.21,
+  "planned_risk_pct": "1.04%",
+  "rr": 2.0,
+  "regime": {"SPY_pct": 0.53, "QQQ_pct": 0.69, "note": "GREEN & broadening; quarter-end 9/30; first supportive open in a week"},
+  "setup": "ORB break-and-hold: coiled 13.41-13.48, broke OR high on 2x-vol bar (439k) to new HOD 13.61 and HELD",
+  "orders": {"buy": "6abd19b6-f648-49e0-885c-d1989179eef6", "stop": "6abd19c6-4808-448e-a6bb-97057e5c52f3"},
+  "watchlist_context": "3 affordable RS names broke opening ranges together (VALE/NCLH/RIVN) = broad risk-on participation, not a lone spike",
+  "thesis": "RS leader (+2.4% vs SPY +0.53%) breakout-and-hold on the FIRST genuinely supportive+broadening tape in a week; regime gate (which correctly forced PASS Fri/Mon/Tue) finally satisfied; affordable 1-share, tight spread 0.07%",
+  "devils_advocate": "quarter-end afternoon reversal risk; entry near HOD after +2.4% run; breakout entries stalled all week — BUT those were choppy/red tapes; today's tape is supportive & broadening. Mitigated by tiny risk ($0.21 / ~1%), mandatory broker stop, no overnight hold, and breakeven-trail on favorable move.",
+  "management_plan": "Manage every hourly engine pass; raise stop to breakeven if it reaches ~+1R (asymmetry rule allows reducing risk only); bank green / flatten by EOD 20:00Z — NEVER hold the $20 position overnight."
+}

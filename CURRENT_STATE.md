@@ -5,7 +5,7 @@
 > intent and status; it is NOT the brokerage record (that comes from
 > reconciliation).
 
-**Last updated:** 2026-09-29 (16:13 ET EOD — flat & done. Choppy/soft day (SPY −0.17%, QQQ +0.19%; opened +0.3% then faded). REAL: 0 trades, $20.00 preserved. Closest call yet: RIVN was a clean affordable coil-after-breakout but SPY was RED → regime gate → PASS (validated: RIVN faded to a loss). PAPER: RIVN coil-after-breakout-hold −0.87R (EOD flatten; better than the prior spike-chase but soft tape capped it). Recurring wall: the day's true leader (CCL +12% on news) was >$19, untradable for $20.)
+**Last updated:** 2026-09-30 (10:16 ET — REAL TRADE OPEN: T-2026-0005 long 1 VALE @ 13.6472, stop 13.44, tgt 14.06 (2:1). First supportive+broadening tape in a week (SPY +0.53%, QQQ +0.69%; 3 affordable names broke ORs together); VALE = RS leader ORB break-and-hold on 2x vol. Regime gate that forced Fri/Mon/Tue passes is finally satisfied. Managing to breakeven on a favorable move; flatten by EOD, no overnight.)
 
 ---
 
@@ -30,11 +30,11 @@
 
 | Field                     | Value                     |
 | ------------------------- | ------------------------- |
-| Account total value       | ~$20.00 (all cash)        |
-| Cash                      | ~$20.00                   |
-| Open positions            | 0 (flat)                  |
-| Open orders               | 0 (both CLF stops cancelled cleanly) |
-| Status                    | **FLAT.** T-2026-0004 CLF closed +$0.05 (+0.30R), 2nd edge-based real WIN. Lifetime real P&L: F −$0.11, AAL +$0.05, CLF +$0.05 = **−$0.01** (basically flat). 2 real wins in a row. |
+| Account total value       | ~$20.00 (1 VALE share ~$13.65 + ~$6.35 cash) |
+| Cash                      | ~$6.35 (after 1-share VALE buy)  |
+| Open positions            | **1 — LONG 1 VALE @ 13.6472** (T-2026-0005) |
+| Open orders               | **1 — GTC stop-market sell 1 VALE @ 13.44** (id 6abd19c6, mandatory protective stop) |
+| Status                    | **IN A REAL TRADE (T-2026-0005 VALE).** Entry 13.6472, stop 13.44 (risk $0.21/~1%), target 14.06 (2:1). 3rd edge-based real trade; FIRST on a supportive/broadening tape (regime gate satisfied after Fri/Mon/Tue passes). Manage to breakeven on favorable move; flatten by EOD — NO overnight. Prior lifetime real P&L −$0.01 (F −0.11, AAL +0.05, CLF +0.05). |
 
 ## Active Strategies
 
