@@ -557,3 +557,29 @@ sat out. $20.00 intact across a green, a red, and a choppy day.
 **Week-to-date (real):** Fri 0 / Mon 0 / Tue 0 — all correct passes; $20.00 intact; lifetime real P&L −$0.01. Paper
 lifetime: 24 closed, 9W/15L. Watch item: real rarely gets a shot because the day's leader keeps printing >$19 — lever
 is account size, not looser rules. Options/crypto/margin OFF.
+
+---
+
+## 2026-09-30 (Wed, quarter-end) — PRE-MARKET PREP (9:17 ET / 13:17Z)
+
+**Reconciliation:** Agentic ••••4713 — FLAT. Cash $20.00, 0 positions, 0 open orders. Matches internal state.
+
+**Regime (pre-market):** GREEN, bounce continuing. SPY 766.97 vs 764.20 = **+0.36%**; QQQ 740.71 vs 737.93 = **+0.38%**.
+Better backdrop than Mon/Tue — but the last 3 opens all FADED, so confirm it HOLDS past 9:45 before trusting it.
+
+**Event risk:** QUARTER-END (9/30) — window-dressing flows can distort the last hour. Watch ~8:15 ADP and ~10am ISM/JOLTS.
+
+**Wide screen (pre-market %, affordable ≤~$19):** More affordable RS candidates than recent days —
+- **NCLH** ~15.14 (+2.3%) — cruise strength persisting (CCL group), affordable, decent liquidity. #1.
+- **VALE** ~13.55 (+1.9%) — miner, fresh RS mover, affordable, tightish spread. #2.
+- **RIVN** ~15.15 (+1.2%) — affordable, bouncing back after yesterday's fade (yesterday's paper coil scratched −0.87R).
+- **MARA** ~12.29 (+2.5%) — crypto bounce, affordable, BUT the repeat spike-and-fade whipsaw → caution (O002).
+- HL ~17.34 (+1.1%), F +0.6%, RIG +1.0% — secondary.
+
+TOO EXPENSIVE (>$19, paper-only): CCL ~25.4 (still elevated post-news), RIOT ~22, SIRI ~26.
+DISQUALIFIED: KVUE (bid/ask 17.93/19.62 junk), CLF (weak + wide).
+
+**Plan:** No trade in prep. 9:47 decision checks NCLH / VALE / RIVN for a clean HOLD-above-OR-high, ORB break-and-hold,
+or coil near HOD — never the spike bar (O002). Green tape + several affordable leaders = best real-shot setup this
+week IF the open holds and one gives a non-chase entry. Stop first (risk $0.15–0.50, wider than base), target ≥2:1.
+If the open fades again (as Fri/Mon/Tue did) or entries are chasey → PASS. Options/crypto/margin OFF.
