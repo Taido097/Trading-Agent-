@@ -710,3 +710,7 @@ FADED from morning breakouts: VALE 13.44 (+1.1%, chopping near my stop, no new h
 cruise gains), RIVN 15.10 (mid-range). No new highs / no clean coil-reclaim = no qualifying setup. Real FLAT → PASS (no
 revenge after the VALE stop). No paper adds. Note: today's affordable morning-breakouts (VALE/NCLH/RIVN) ALL faded by
 midday despite a green tape — reinforces the day's lesson. Tally 9/30: REAL 1 (VALE -$0.20), PAPER 0. Book flat.
+
+---
+### Engine pass 2026-09-30 14:13 ET (17:12Z) — REAL: PASS (flat) · PAPER: 0 new
+Tape green (SPY +0.51%, QQQ +0.80%); affordable names chopping — VALE 13.515 (+1.6%, no new high), NCLH 14.70 (red), RIVN 15.09 (mid-range). No qualifying setup. Real FLAT → PASS. No paper adds. Book flat. Tally 9/30: REAL 1 (VALE -$0.20), PAPER 0.
