@@ -583,3 +583,11 @@ DISQUALIFIED: KVUE (bid/ask 17.93/19.62 junk), CLF (weak + wide).
 or coil near HOD — never the spike bar (O002). Green tape + several affordable leaders = best real-shot setup this
 week IF the open holds and one gives a non-chase entry. Stop first (risk $0.15–0.50, wider than base), target ≥2:1.
 If the open fades again (as Fri/Mon/Tue did) or entries are chasey → PASS. Options/crypto/margin OFF.
+
+### 2026-09-30 (Wed) — 9:47 ET OPENING-RANGE DECISION → **PASS (real $20), but supportive — actively watching**
+Reconciled FLAT (0/0). Regime GREEN & HOLDING (unlike Fri/Mon/Tue fades): SPY +0.28%, QQQ +0.40% at 9:48. Watchlist
+names coiling INSIDE opening ranges, no break-and-hold yet: NCLH 14.91 (OR high 15.11, choppy), VALE 13.425 (tight coil
+under 13.48 but light vol), RIVN 15.04 (OR high 15.18, mid-range). MARA reversed to −1.5% (pre-mkt pop faded, flagged).
+DECISION: PASS at 9:47 — no valid ORB break-and-hold yet. BUT this is "not yet," not "faded": tape is supportive, so the
+all-day engine watches for an OR-high break-and-hold (esp. VALE thru 13.48, NCLH thru 15.11) → could be a REAL entry today.
+Logged 3 as setup-timing PASS. Options/crypto/margin OFF.
