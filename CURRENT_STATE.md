@@ -5,7 +5,7 @@
 > intent and status; it is NOT the brokerage record (that comes from
 > reconciliation).
 
-**Last updated:** 2026-09-30 (EOD / 16:12 ET — DAY CLOSED FLAT, capital intact $19.79. REAL: 1 trade, T-2026-0005 VALE −$0.20 (−0.98R), GOOD DECISION + LOSS (execution): breakout-at-HOD chase, MFE ~0, stop worked, loss capped at plan. Regime gate satisfied (first green+broadening tape in a week, held past 9:45) → correctly engaged; the loss was entry LOCATION (chase, not reclaim/pullback), reinforcing "entry location is the edge, regime is the ceiling." No revenge re-entry; PAPER 0 adds (leaders chopped/faded midday). SPY closed +0.31%, QQQ +0.76%. Lifetime real P&L −$0.21 (2W/2L). No overnight position.)
+**Last updated:** 2026-09-30 (15:17 ET, near-close pass — ~43 min to bell; market still OPEN. Account FLAT, day's P&L already LOCKED (all positions closed, no paper opens): capital intact $19.79. REAL: 1 trade, T-2026-0005 VALE −$0.20 (−0.98R), GOOD DECISION + LOSS (execution): breakout-at-HOD chase, MFE ~0, stop worked, loss capped at plan. Regime gate satisfied (first green+broadening tape in a week, held past 9:45) → correctly engaged; the loss was entry LOCATION (chase, not reclaim/pullback), reinforcing "entry location is the edge, regime is the ceiling." No revenge re-entry; PAPER 0 adds (affordable leaders faded/rolled over into the afternoon — NCLH red, MARA −4%). SPY +0.32%, QQQ +0.76% (near close). Lifetime real P&L −$0.21 (2W/2L). No overnight position. Final closing prints confirmed at the post-close ~20:12Z pass.)
 
 ---
 
