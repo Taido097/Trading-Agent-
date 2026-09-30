@@ -693,3 +693,12 @@ cost 1% of the account, not a meaningful drawdown.
 **Decision now:** FLAT. NO revenge re-entry — VALE just failed the same breakout pattern; chasing NCLH/RIVN
 breakouts here would repeat the mistake. One real trade taken today, it lost small, capital intact. Real record
 2W/2L; the 2 wins (AAL HOD-hold, CLF coil) and this loss (breakout-chase) all point the same way on entry location.
+
+---
+### Engine pass 2026-09-30 12:16 ET (15:13Z) — REAL: PASS (flat, post-stop) · PAPER: 0 new
+Tape still green (SPY +0.58%, QQQ +0.76%) but the morning leaders STALLED into midday chop: VALE 13.475 (bounced
+after stopping me — whipsaw, now chopping 13.45-13.48, no new high), NCLH 14.99 & RIVN 15.13 chopping mid-range below
+HODs, AAL/F red. No clean break-and-hold or pullback-reclaim anywhere. STEP A real: PASS — no qualifying setup AND
+no revenge re-entry after the VALE stop (discipline: one real shot taken, it lost small, stand aside). STEP B: 0 paper
+adds — nothing clean; the morning breakouts all stalling by midday (even on a green tape) is the day's data point
+(quarter-end mean-reversion). FLAT ~$19.80. Tally 9/30: REAL 1 trade (VALE -$0.20), PAPER 0.
