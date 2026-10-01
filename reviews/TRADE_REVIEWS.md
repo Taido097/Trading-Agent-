@@ -750,3 +750,17 @@ case the journal flagged: such longs need a STABILIZING tape and fail in a deter
 so HL's relative strength is NOT a green light. SNAP flat (+0.1%), no momentum. STEP A (real): PASS — no leader at new
 highs, red deteriorating tape. STEP B (paper): PASS — long-only, no valid long setup in a downtrend; not chasing for
 volume. 3rd straight PASS today (9:47 / 10:13 / 11:13) — correct restraint on a red day. Account FLAT $19.79, 0/0.
+
+## 2026-10-01 (Thu) — Engine pass 12:13 ET → REAL TRADE OPENED (T-2026-0006 HL) + PAPER PASS
+Tape stabilized off the 11:13 lows (SPY -0.28%/760.47 vs -0.37% prior; QQQ -0.25%) — still red but no longer making new
+lows. HL emerged as the day's one genuine RS leader: silver/gold miner, GREEN +0.9% against a red tape, printed a new
+HOD 17.29 at 10:35 ET on 2x volume, then coiled tightly 17.08-17.29 for ~90 min HOLDING near its highs.
+WHY THIS CLEARED THE REAL GATE (and the morning passes did not): (1) RS leader HOLDING near a new HOD, not fading;
+(2) GOOD entry location — coil-continuation, not a breakout-tick chase (the VALE fix); (3) counter-cyclical thesis —
+HL is a risk-OFF asset, so its RS is DRIVEN by the same flow pressuring equities, which neutralizes the usual
+"RS-in-a-downtape fails" lesson (that came from risk-ON names needing broad appetite); (4) affordable 1 share, 0.06%
+spread, tiny capped risk. ENTRY long 1 @ 17.1699; stop 16.88 (BELOW day low 16.90, wider than the 17.08 coil base per
+the whipsaw lesson) = risk $0.29/1.46%; target 17.75 (2:1). Mandatory GTC stop 6abe876f confirmed live.
+STEP B paper: PASS — HL taken REAL (one real position at a time; not duplicating in paper), nothing else is a clean
+non-chase long in a red tape. This trade is itself the day's key learning sample: does a counter-cyclical RS leader
+hold up in a red-but-stabilizing tape? Manage each pass; breakeven-trail at +1R (17.46); flatten by EOD, never overnight.

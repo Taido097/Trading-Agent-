@@ -5,7 +5,7 @@
 > intent and status; it is NOT the brokerage record (that comes from
 > reconciliation).
 
-**Last updated:** 2026-09-30 (EOD, post-close 4:12pm ET — market CLOSED, DAY DONE. Account FLAT, capital intact $19.79 (0 positions, 0 orders, no overnight). REAL: 1 trade, T-2026-0005 VALE −$0.20 (−0.98R), GOOD DECISION + LOSS (execution): breakout-at-HOD chase, MFE ~0, stop worked, loss capped at plan. Regime gate satisfied at entry (first green+broadening tape in a week, held past 9:45) → correctly engaged; loss was entry LOCATION (chase, not reclaim/pullback). NO revenge re-entry; PAPER 0 adds. KEY: tape FADED into the bell — SPY closed 762.36 −0.24% (RED, down from +0.32% at 3:17pm); QQQ 739.71 +0.24%. VALE closed 13.405, bled all day below my entry → the 10:58am stop protected me. Quarter-end afternoon-reversal risk I flagged MATERIALIZED; "regime is the ceiling" confirmed hard — the tape I leaned on didn't even hold green to the close. Lifetime real P&L −$0.21 (2W/2L).)
+**Last updated:** 2026-10-01 (12:17 ET — REAL TRADE OPEN: T-2026-0006 long 1 HL @ 17.1699, stop 16.88 (GTC, confirmed), target 17.75 (2:1), risk ~$0.29/1.46%. Setup: RS-leader (silver/gold miner) coil-near-HOD continuation — made new HOD 17.29 at 10:35 then coiled ~90min holding near highs while SPY red. Counter-cyclical thesis: metals RS driven by the same risk-off flow pressuring equities, so the usual RS-in-downtape caution is weakened; entry is the GOOD (non-chase) location per the VALE fix. Tape red but stabilized off lows (SPY -0.28%). Earlier today: 9:47 + 10:13 + 11:13 all PASS. Manage each pass; breakeven-trail at +1R (17.46); flatten by EOD, NEVER overnight.)
 
 ---
 

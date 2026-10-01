@@ -1,0 +1,22 @@
+{
+  "trade_id": "T-2026-0006",
+  "frozen_at": "2026-10-01T16:17:00Z",
+  "symbol": "HL",
+  "direction": "long",
+  "mode": "live",
+  "account": "563174713",
+  "entry_time": "2026-10-01T16:16:34Z",
+  "entry_price": 17.1699,
+  "position_size": 1,
+  "stop": 16.88,
+  "target": 17.75,
+  "planned_risk_usd": 0.29,
+  "planned_risk_pct": "1.46%",
+  "rr": 2.0,
+  "regime": {"SPY_pct": -0.28, "QQQ_pct": -0.25, "note": "RED equity tape but STABILIZED off the 11:13 lows (stopped making new lows); still not green"},
+  "setup": "RS-leader coil-near-HOD continuation. HL (silver/gold miner) made a NEW intraday high 17.29 at 10:35 ET on a 2x-vol bar, then coiled tightly 17.08-17.29 for ~90 min HOLDING near the highs while SPY stayed red. Entry on the coil continuation (non-chase), not a breakout tick.",
+  "orders": {"buy": "6abe8761-7391-47df-ac35-0a04ccc1c54f", "stop": "6abe876f-93cb-4332-9de4-477487a55f02"},
+  "thesis": "Counter-cyclical RS leader: HL is a precious-metals miner, so its relative strength (+0.9% vs SPY -0.28%) is being DRIVEN by the same risk-off flow pressuring equities (flight-to-safety / Oct-1 shutdown uncertainty). This materially weakens the usual 'RS-in-a-red-tape fails' lesson, which was derived from risk-ON names (EVs/airlines) that need broad risk appetite; a metals bid on risk-off is thesis-consistent, not a fragile divergence. Entry location is the GOOD kind (coil-continuation near HOD, the VALE fix). Affordable 1 share, 0.06% spread, tiny capped risk.",
+  "devils_advocate": "Red index tape is still a headwind if risk-off flips to risk-on (gold gives back its bid). Pre-NFP positioning tomorrow could cause metals profit-taking into the close. HOD 17.29 is overhead resistance; target 17.75 is +0.46 above HOD (needs a real continuation leg). Mitigated: stop 16.88 is BELOW the day low 16.90 (wider than the immediate 17.08 coil base, per the whipsaw lesson), risk capped ~$0.29/1.46%, mandatory GTC stop, flatten by EOD (never hold overnight).",
+  "management_plan": "Manage every engine pass. Raise stop to breakeven only if it reaches ~+1R (17.46) (asymmetry rule: autonomy may only REDUCE risk). Bank at target 17.75 or flatten by EOD 20:00Z. NEVER hold overnight. If SPY breaks to new intraday lows AND HL loses the 17.08 coil, the thesis is weakening even above the stop — tighten/exit discretionarily."
+}
