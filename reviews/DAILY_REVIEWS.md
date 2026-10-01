@@ -677,3 +677,14 @@ reclaim/pullback entry over a breakout-chase (the VALE lesson). Given (a) this i
 10am, and (c) NFP tomorrow, the bar for a REAL entry is HIGHER than usual: want the tape clearly holding green past 9:45
 AND a non-chase entry location. If the open fades (like yesterday) or entries are chasey → PASS. Capital preservation
 first; a zero-real-trade day is fine. Options/crypto/margin OFF.
+
+### 2026-10-01 (Thu) — 9:47 ET OPENING-RANGE DECISION → **PASS (real $20)**
+Reconciled FLAT (0/0, $19.79). Regime: the pre-market bounce FADED to flat in the first 18 min — SPY ran 764.36→765.33
+then gave it all back to 763.04 (+0.05%); QQQ +0.12% (off +0.5%). Exactly the low-base-rate "bounce off a red close" risk
+flagged in prep. Watchlist opening ranges (9:30–9:45): NONE held above its OR high — SNAP 5.465 (below 5.50 OR high,
+choppy, only one still ~green); HL rejected its 17.23 OR high back to 17.03 (gave up all RS); RIVN −1.1%, HBAN −1.4%,
+RIG −2.1%, BTG −0.4% all BROKE DOWN through their opening ranges. No valid ORB break-and-hold; most reversed red in sync
+with the index fade. Add event risk: ISM Manufacturing at 10am (12 min out) + NFP tomorrow (pre-report de-risking).
+DECISION: PASS at 9:47 — no setup clears the gate; a fade is not a setup. Logged 5 names to REJECTED_TRADES.csv. The
+all-day engine still watches in case a genuine reclaim/coil develops later, but the bar stays high today. No revenge,
+no forcing. Capital preservation first. Options/crypto/margin OFF.
