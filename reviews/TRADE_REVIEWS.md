@@ -776,3 +776,19 @@ My written exit trigger ("SPY new lows AND HL loses the 17.08 coil") is NOT met 
 whipsaw range — violating the whipsaw lesson. So keep the whipsaw-safe 16.88 stop (risk tiny/capped) and cut next pass
 only if HL decisively loses 17.00 or keeps lagging. No second position (one real at a time). STEP B paper: PASS (real
 position open; tape soft, HL fading — no clean new long). Flatten HL by EOD regardless; never overnight.
+
+## 2026-10-01 (Thu) — Engine pass 2:12 ET → CLOSED HL (T-2026-0006), thesis-invalidation exit
+Entry 17.1699 (11:16 ET) → exit 17.0601 (2:13 ET). **−$0.11 / −0.38R. GOOD DECISION + LOSS (thesis invalidation).**
+MFE +0.10 (17.27, ~11:30 ET), MAE −0.20 (16.97) — never near the 16.88 stop. Account 19.79 → 19.68, FLAT.
+WHY EXITED EARLY (not stopped): the whole thesis was "RS leader." By 2:12 the tape had RECOVERED to GREEN (SPY +0.05%,
+QQQ +0.16%) and HL — the supposed leader — was sitting near its lows, lagging. It became a laggard in BOTH regimes: the
+risk-off gold bid that justified it evaporated when risk-off eased, and it failed to join the risk-on bounce. When the
+reason for a trade disappears, exit; cutting at −0.38R preserved ~0.6R of the risk budget vs donating it to a dead setup.
+Cancelled the GTC stop FIRST (freed the share), then sold — clean, no naked orders.
+LESSON (new sample, loss_class THESIS_INVALIDATION): a COUNTER-CYCLICAL RS leader is only a leader while the risk-off
+flow feeding it persists. HL's edge was real at 12:13 (green vs red tape) but regime-contingent; when the tape reverted
+to green, the edge inverted within ~90 min. Takeaways: (1) counter-cyclical RS has a SHORT half-life — it must be managed
+tighter and exited the moment the driving regime flips, not given full-stop room; (2) the entry was still defensible
+(best setup of the day, good non-chase location), and disciplined early-exit turned a potential −1R into −0.38R — the
+management, not the entry, was the win here. Lifetime real: F −0.11, AAL +0.05, CLF +0.05, VALE −0.20, HL −0.11 = −0.32
+(2W/3L). No revenge; one real position at a time respected. Flatten-by-EOD moot (already flat).

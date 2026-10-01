@@ -5,7 +5,7 @@
 > intent and status; it is NOT the brokerage record (that comes from
 > reconciliation).
 
-**Last updated:** 2026-10-01 (12:17 ET — REAL TRADE OPEN: T-2026-0006 long 1 HL @ 17.1699, stop 16.88 (GTC, confirmed), target 17.75 (2:1), risk ~$0.29/1.46%. Setup: RS-leader (silver/gold miner) coil-near-HOD continuation — made new HOD 17.29 at 10:35 then coiled ~90min holding near highs while SPY red. Counter-cyclical thesis: metals RS driven by the same risk-off flow pressuring equities, so the usual RS-in-downtape caution is weakened; entry is the GOOD (non-chase) location per the VALE fix. Tape red but stabilized off lows (SPY -0.28%). Earlier today: 9:47 + 10:13 + 11:13 all PASS. Manage each pass; breakeven-trail at +1R (17.46); flatten by EOD, NEVER overnight.)
+**Last updated:** 2026-10-01 (14:13 ET — HL CLOSED, FLAT, capital $19.68. T-2026-0006 long 1 HL 17.1699->17.0601 = −$0.11/−0.38R, GOOD DECISION + LOSS (THESIS_INVALIDATION): exited early (not stopped) when the RS-leader thesis broke — tape recovered to GREEN (SPY +0.05%) while HL lagged near its lows, so the counter-cyclical gold bid that justified the entry had evaporated. Disciplined cut at −0.38R preserved ~0.6R vs the 16.88 stop; cancelled stop first then sold, no naked orders. LESSON: counter-cyclical RS has a SHORT half-life — manage tighter, exit the moment the driving regime flips. Earlier today: 9:47/10:13/11:13 PASS. Lifetime real P&L: F −0.11, AAL +0.05, CLF +0.05, VALE −0.20, HL −0.11 = −$0.32 (2W/3L). No overnight, no revenge.)
 
 ---
 
