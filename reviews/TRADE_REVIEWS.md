@@ -731,3 +731,13 @@ from the 3:17pm +0.32% to close red). VALE never recovered above my 13.6472 entr
 (3) "Entry location is the edge, regime is the ceiling" got a clean live datapoint: the ceiling itself dropped (green→red
     into the close), so even a better entry location likely loses today. The regime gate is necessary; the close proves
     a supportive OPEN is not a guaranteed supportive DAY.
+
+## 2026-10-01 (Thu) — Engine pass 10:13 ET → REAL PASS + PAPER PASS
+Tape rolled over after the 10am ISM print: SPY 760.40 (−0.29%, down from +0.05% at 9:48), QQQ 738.60 (−0.16%) —
+the bounce-off-red open failed and flipped to a downtrend. Affordable universe ALL red: HBAN −2.5%, MARA −2.4%,
+RIVN −1.4%, AAL −1.4%, VALE −1.2%, NCLH −1.0%, BTG/HL/CLF/F red; only SNAP +0.2% / SOFI flat (neither a setup).
+STEP A (real $20): PASS — no RS leader making/holding new highs; red deteriorating tape = regime gate forces pass.
+STEP B (paper): PASS — long-only engine, and a red trending-down tape has no valid long setups (everything making
+intraday lows, nothing coiling with higher lows). Per the standing lesson (tighten/avoid chasing in red tape;
+regime is the ceiling), forcing paper longs for volume here would be low-edge chasing. Account FLAT $19.79, 0/0.
+Next pass re-evaluates; a reclaim/coil could still set up if the tape stabilizes.
