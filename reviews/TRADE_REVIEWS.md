@@ -764,3 +764,15 @@ the whipsaw lesson) = risk $0.29/1.46%; target 17.75 (2:1). Mandatory GTC stop 6
 STEP B paper: PASS — HL taken REAL (one real position at a time; not duplicating in paper), nothing else is a clean
 non-chase long in a red tape. This trade is itself the day's key learning sample: does a counter-cyclical RS leader
 hold up in a red-but-stabilizing tape? Manage each pass; breakeven-trail at +1R (17.46); flatten by EOD, never overnight.
+
+## 2026-10-01 (Thu) — Engine pass 1:13 ET → MANAGE HL (hold), PAPER PASS
+Position: long 1 HL @ 17.17, stop 16.88 GTC confirmed resting. HL now 17.075 (unrealized ≈ −$0.10 / −0.33R; MFE +0.05
+to 17.22, MAE −0.11 to 17.06). Tape RECOVERED toward flat: SPY 761.93 (−0.09%, up from −0.28% at 12:13), QQQ −0.04%.
+KEY OBSERVATION: as equities recovered (risk-off easing), HL's precious-metals bid FADED — it's now drifting below a
+recovering tape, so the "RS leader" edge has weakened. This is the counter-cyclical thesis working in reverse (the exact
+risk flagged in the snapshot devil's-advocate: if risk-off flips to risk-on, gold gives back its bid). DECISION: HOLD.
+My written exit trigger ("SPY new lows AND HL loses the 17.08 coil") is NOT met — SPY recovered, HL is sitting ON the
+17.06 support, not decisively through it. Tightening the stop now would require moving ABOVE the day low 16.90 into
+whipsaw range — violating the whipsaw lesson. So keep the whipsaw-safe 16.88 stop (risk tiny/capped) and cut next pass
+only if HL decisively loses 17.00 or keeps lagging. No second position (one real at a time). STEP B paper: PASS (real
+position open; tape soft, HL fading — no clean new long). Flatten HL by EOD regardless; never overnight.
