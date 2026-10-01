@@ -741,3 +741,12 @@ STEP B (paper): PASS — long-only engine, and a red trending-down tape has no v
 intraday lows, nothing coiling with higher lows). Per the standing lesson (tighten/avoid chasing in red tape;
 regime is the ceiling), forcing paper longs for volume here would be low-edge chasing. Account FLAT $19.79, 0/0.
 Next pass re-evaluates; a reclaim/coil could still set up if the tape stabilizes.
+
+## 2026-10-01 (Thu) — Engine pass 11:13 ET → REAL PASS + PAPER PASS
+Tape still trending down: SPY 759.82 (−0.37%, lower than 10:13's −0.29%), QQQ 737.54 (−0.30%). Universe deeper red
+(MARA −2.9%, AAL −2.1%, RIVN −2.0%, VALE −1.7%, NCLH −1.7%, SOFI −1.0%). Lone RS name: HL +0.44% (green vs red tape),
+but choppy BELOW its 17.23 OR high — no new intraday high, not a clean coil near HOD. This is the "RS-in-a-downtape"
+case the journal flagged: such longs need a STABILIZING tape and fail in a deteriorating one (tape still making lows),
+so HL's relative strength is NOT a green light. SNAP flat (+0.1%), no momentum. STEP A (real): PASS — no leader at new
+highs, red deteriorating tape. STEP B (paper): PASS — long-only, no valid long setup in a downtrend; not chasing for
+volume. 3rd straight PASS today (9:47 / 10:13 / 11:13) — correct restraint on a red day. Account FLAT $19.79, 0/0.
