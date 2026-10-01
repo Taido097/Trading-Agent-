@@ -688,3 +688,35 @@ with the index fade. Add event risk: ISM Manufacturing at 10am (12 min out) + NF
 DECISION: PASS at 9:47 — no setup clears the gate; a fade is not a setup. Logged 5 names to REJECTED_TRADES.csv. The
 all-day engine still watches in case a genuine reclaim/coil develops later, but the bar stays high today. No revenge,
 no forcing. Capital preservation first. Options/crypto/margin OFF.
+
+### 2026-10-01 (Thu, Q4 day 1) — EOD WRAP → **1 REAL trade (small managed loss), capital intact**
+
+**Close reconciliation:** Agentic ••••4713 — FLAT. Total value $19.68, cash $19.68, 0 positions, 0 open orders.
+No overnight, no naked orders. Internal = broker.
+
+**Regime (official 4pm close):** V-REVERSAL day. Opened green, faded RED through the 10am ISM print (SPY −0.37% at the
+lows ~11:13), then reversed and closed GREEN: SPY 764.03 (+0.18% vs 762.63); QQQ 742.04 (+0.31%). Pre-NFP (jobs report
+tomorrow). The whole affordable universe was red midday and mostly recovered into the close.
+
+**REAL — 1 trade (T-2026-0005... T-2026-0006 HL):** Passed the open (9:47) and the red morning (10:13, 11:13) correctly.
+At 12:13, as the tape STABILIZED off its lows, HL (silver/gold miner) was the one genuine RS leader — green +0.9% vs a
+red tape, new HOD 17.29 made at 10:35, coiling tightly near HOD. Took it long 1 @ 17.1699, stop 16.88, target 17.75
+(2:1), risk $0.29/1.46% — a GOOD non-chase entry (the VALE fix), with a counter-cyclical thesis (metals bid driven by the
+same risk-off flow pressuring stocks). By 2:12 the tape had RECOVERED to green and HL was LAGGING near its lows — the
+"RS leader" thesis was invalidated — so I cut it at 17.0601 for **−$0.11 / −0.38R (GOOD DECISION + LOSS)** rather than
+donate the rest to the 16.88 stop. VINDICATED: HL closed 16.995, below my exit, never recovered.
+- NEW LESSON (loss_class THESIS_INVALIDATION): a COUNTER-CYCLICAL RS leader has a SHORT half-life — its edge is
+  regime-contingent and inverts the moment the driving regime (risk-off) flips. Manage it tighter and exit on the regime
+  flip, not on the full stop. The entry was sound; the disciplined early exit (−0.38R not −1R) was the win.
+
+**PAPER — 0 trades:** Red morning = no valid longs (long-only engine, nothing coiling). Late-day green reversal came too
+close to the EOD flatten to open anything with runway. Correct restraint; not forcing volume.
+
+**Capital:** $19.68 (all cash), flat. Day P&L −$0.11 (HL). Lifetime real: F −0.11, AAL +0.05, CLF +0.05, VALE −0.20,
+HL −0.11 = **−$0.32** (2W / 3L). Losses are all small and capped; both wins were coil/HOLD entries — the edge remains
+"RS leader + good entry location," now with the refinement that counter-cyclical RS needs regime-flip management.
+
+**Week-to-date (real):** Mon/Tue/Wed(9/30 VALE) + Thu(10/1 HL). Two real trades this week (VALE, HL), both small losses,
+both GOOD DECISIONS executed with discipline (stop-first, no revenge, honest exits). The system is taking genuine setups
+and managing risk well; the P&L is -$0.32 lifetime but behavior is on-model. SNAP was today's true leader (+4.5%) —
+emerged late, on the watchlist for tomorrow. NFP tomorrow = event risk. Options/crypto/margin OFF.

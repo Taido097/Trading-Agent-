@@ -5,7 +5,7 @@
 > intent and status; it is NOT the brokerage record (that comes from
 > reconciliation).
 
-**Last updated:** 2026-10-01 (14:13 ET — HL CLOSED, FLAT, capital $19.68. T-2026-0006 long 1 HL 17.1699->17.0601 = −$0.11/−0.38R, GOOD DECISION + LOSS (THESIS_INVALIDATION): exited early (not stopped) when the RS-leader thesis broke — tape recovered to GREEN (SPY +0.05%) while HL lagged near its lows, so the counter-cyclical gold bid that justified the entry had evaporated. Disciplined cut at −0.38R preserved ~0.6R vs the 16.88 stop; cancelled stop first then sold, no naked orders. LESSON: counter-cyclical RS has a SHORT half-life — manage tighter, exit the moment the driving regime flips. Earlier today: 9:47/10:13/11:13 PASS. Lifetime real P&L: F −0.11, AAL +0.05, CLF +0.05, VALE −0.20, HL −0.11 = −$0.32 (2W/3L). No overnight, no revenge.)
+**Last updated:** 2026-10-01 (EOD, post-close 4:12pm ET — DAY DONE, FLAT, capital $19.68 (0 positions, 0 orders, no overnight). V-REVERSAL day: red AM (SPY -0.37% lows after 10am ISM) -> closed GREEN SPY 764.03 (+0.18%), QQQ +0.31%. REAL: 1 trade T-2026-0006 HL 17.1699->17.0601 = -$0.11/-0.38R, GOOD DECISION + LOSS (THESIS_INVALIDATION): counter-cyclical RS leader, cut early when tape recovered green and HL lagged; VINDICATED — HL closed 16.995 below the exit. 4 PASS passes (9:47/10:13/11:13/3:13). PAPER 0. NEW LESSON: counter-cyclical RS has a short half-life — manage tighter, exit on the regime flip. Lifetime real P&L: F -0.11, AAL +0.05, CLF +0.05, VALE -0.20, HL -0.11 = -$0.32 (2W/3L). SNAP (+4.5%) was the true leader, emerged late -> tomorrow watchlist. NFP tomorrow.)
 
 ---
 
@@ -30,8 +30,8 @@
 
 | Field                     | Value                     |
 | ------------------------- | ------------------------- |
-| Account total value       | $19.79 (all cash)         |
-| Cash                      | $19.79                    |
+| Account total value       | $19.68 (all cash)         |
+| Cash                      | $19.68                    |
 | Open positions            | 0 (flat — VALE stopped out) |
 | Open orders               | 0 (stop 6abd19c6 filled/consumed; no naked orders) |
 | Status                    | **FLAT.** T-2026-0005 VALE stopped −$0.20 (−0.98R): breakout failed, MFE ~0 (bought breakout tick near HOD). Lifetime real P&L: F −0.11, AAL +0.05, CLF +0.05, VALE −0.20 = **−$0.21**. Real record: 2 wins (AAL/CLF coil+HOD-hold) / 2 losses (F no-edge, VALE breakout-chase). Lesson reinforced: reclaim/pullback entry > breakout-at-HOD, even on a green tape. |
