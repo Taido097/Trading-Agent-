@@ -792,3 +792,12 @@ tighter and exited the moment the driving regime flips, not given full-stop room
 (best setup of the day, good non-chase location), and disciplined early-exit turned a potential −1R into −0.38R — the
 management, not the entry, was the win here. Lifetime real: F −0.11, AAL +0.05, CLF +0.05, VALE −0.20, HL −0.11 = −0.32
 (2W/3L). No revenge; one real position at a time respected. Flatten-by-EOD moot (already flat).
+
+## 2026-10-01 (Thu) — Engine pass 3:13 ET → REAL PASS + PAPER PASS (post-HL, late day)
+Account FLAT $19.68, clean (HL closed at 2:13). Day completed a full V-REVERSAL: red morning -> green afternoon.
+SPY 764.50 (+0.25%), QQQ 742.68 (+0.39%). Leaders now: SNAP +3.1% (clear RS leader, new HOD), SOFI +1.0%, F +1.3%.
+HL still lagging at 17.075 — confirms the thesis-invalidation exit was correct (it never rejoined). STEP A real: PASS —
+it's 3:13pm, ~47 min to the mandatory EOD flatten, so no runway for a 2:1 to mature; entering SNAP here would be a
+late-day chase (O003), and I've already taken my one real trade today. STEP B paper: PASS — same late-day logic; EOD
+flatten in <1hr makes a new entry low-value. NOTE for tomorrow's watchlist: SNAP showed strong RS on the reversal
+(+3.1%, leading a green tape) — track it. Next pass (~20:12Z) = post-close EOD wrap.
