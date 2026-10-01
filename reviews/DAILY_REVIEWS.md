@@ -637,3 +637,43 @@ one real shot taken the moment the tape finally cooperated — that is the syste
 The loss was in execution (entry location), not in the decision to engage. Paper lifetime: 24 closed, 9W/15L.
 Structural watch item persists: the day's true leader keeps printing >$19 (untradable on $20) — the lever for more
 real shots is account size, not looser gating. Options/crypto/margin OFF.
+
+---
+
+## 2026-10-01 (Thu, Q4/October day 1) — PRE-MARKET PREP (9:17 ET / 13:17Z)
+
+**Reconciliation:** Agentic ••••4713 — FLAT. Cash $19.79, 0 positions, 0 open orders. Matches internal state.
+
+**Regime (pre-market):** Modestly GREEN — a bounce attempt after yesterday's fade-to-red close. SPY 764.42 vs 762.63 =
+**+0.23%**; QQQ 742.86 vs 739.77 = **+0.42%**. CAUTION: yesterday opened green (+0.5%) and still closed RED (−0.24%) —
+so confirm this holds past 9:45 before trusting it. Bounce-off-a-red-close has lower base rate than a trend-continuation open.
+
+**Event risk (HIGH awareness today):**
+- **Jobs report (NFP) TOMORROW, Fri 10/2** — today is pre-NFP positioning; markets often drift/de-risk into it.
+- **ISM Manufacturing PMI ~10am ET** today — can swing the open's follow-through (right in the 9:47 decision window's wake).
+- Weekly jobless claims ~8:30am ET.
+- **Possible US government-shutdown headline risk** — Oct 1 is the federal fiscal-year start; if funding lapsed, a
+  shutdown can DELAY economic data (incl. Fri NFP) and add headline chop. UNCONFIRMED here (no live news tool) — treat
+  as a reason for extra caution, not a thesis. Quarter/month-turn inflows can also distort the first hour.
+
+**Wide screen (pre-market %, hard screen = 1 whole share ≤~$19 w/ buffer on $19.79 cash, liquid, spread ≤~0.5% at open):**
+Pre-market spreads are unreliable — RE-VERIFY spread + structure at the open. Ranked by pre-market relative strength:
+- **SNAP** 5.48 (+1.48%) — #1 RS; low-priced (mind stop-vs-spread; need ≥~$0.15 stop room), spread ~0.7% pre-mkt.
+- **RIG** 5.30 (+1.15%) — offshore driller; low-priced, spread ~1.1% pre-mkt.
+- **BTG** 5.27 (+0.96%) — gold miner; low-priced, spread ~1.5% pre-mkt (wide — watch).
+- **HL** 17.19 (+0.94%) — silver/gold miner, good share size for the account; spread ~1.3% pre-mkt (watch at open). PM-metals theme.
+- **HBAN** 15.36 (+0.66%) — regional bank; spread wide pre-mkt (~2%), thin — needs tightening at open.
+- **RIVN** 15.00 (+0.40%) — EV, roughly in line with QQQ; tight spread 0.2%. Affordable, clean.
+- **SOFI** 15.74 (+0.13%) / **MARA** 11.33 (0.0%) — flat, watch only (MARA = O002 whipsaw history).
+
+LEAD THEME: precious-metals miners (HL/BTG + KGC up too) showing the cleanest RS; SNAP the single strongest % mover.
+WEAK/AVOID (red pre-mkt): VALE 13.27 (−1.04%, still bleeding from yesterday's stop), CLF −1.00%, NCLH −0.24%, AAL −0.45%, F −0.08%.
+DISQUALIFIED — too expensive (>$19, can't afford 1 share on $19.79): KGC 24.25, RIOT 20.22, KEY, RF 26.88, CCL 24.5, SIRI 25.9, AMCR 41.9.
+DISQUALIFIED — junk/wide spread: CHPT (9.40/10.35), KVUE (17.00/18.78).
+
+**Plan:** No trade in prep. 9:47 decision checks the top affordable RS names (SNAP / HL / RIG / BTG / RIVN) for a clean
+HOLD-above-OR-high, ORB break-and-hold, or coil/higher-lows near HOD — NOT the spike bar (O002), and prefer a
+reclaim/pullback entry over a breakout-chase (the VALE lesson). Given (a) this is a bounce off a RED close, (b) ISM at
+10am, and (c) NFP tomorrow, the bar for a REAL entry is HIGHER than usual: want the tape clearly holding green past 9:45
+AND a non-chase entry location. If the open fades (like yesterday) or entries are chasey → PASS. Capital preservation
+first; a zero-real-trade day is fine. Options/crypto/margin OFF.
