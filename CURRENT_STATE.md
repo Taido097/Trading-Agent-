@@ -5,7 +5,7 @@
 > intent and status; it is NOT the brokerage record (that comes from
 > reconciliation).
 
-**Last updated:** 2026-10-02 (12:16 ET — REAL TRADE OPEN: T-2026-0007 long 1 NCLH @ 15.0299, stop 14.85 (GTC confirmed), target 15.39 (2:1), risk ~$0.18/0.91%. Setup: cleanest break-and-HOLD of the week — NCLH gapped, faded to shake out chasers, then RECLAIMED its 15.00 OR high and held 30+min; RS leader +2.8% vs SPY +0.76%; RISK-ON name in a RISK-ON tape (thesis-coherent, unlike HL); entry on a PULLBACK to the reclaim level (good location, the VALE fix). Jobs-day risk-on gap holding (SPY +0.76%). Earlier today: 9:47/10:13/11:13 PASS (gap-and-faders). Manage each pass; breakeven-trail at +1R (15.21); exit on decisive loss of 15.00 + index roll; flatten by EOD, NEVER overnight. Lifetime real pre-NCLH: -$0.32 (2W/3L).)
+**Last updated:** 2026-10-02 (15:13 ET — NCLH CLOSED (EOD flatten), FLAT, capital $19.65. T-2026-0007 long 1 NCLH 15.0299->15.0001 = −$0.03/−0.17R, GOOD DECISION + SCRATCH: cleanest setup of the week (reclaim-and-hold, RS leader, risk-on name/tape, good pullback entry) but the intraday continuation never came; held its 15.00 level + stayed a day-leader (+2.4% vs SPY) but chopped 3h, so flattened near breakeven at the last in-market window per never-overnight rule. Cancelled stop first then sold, no naked orders. LESSON: a valid setup that holds but does not advance intraday is a SCRATCH, not a loss — the edge is in repetition; not every setup runs. Lifetime real: F −0.11, AAL +0.05, CLF +0.05, VALE −0.20, HL −0.11, NCLH −0.03 = −$0.35 (2W/4L, losses all small/capped). Full EOD wrap + official closes at the post-close ~20:12Z pass.)
 
 ---
 
@@ -30,8 +30,8 @@
 
 | Field                     | Value                     |
 | ------------------------- | ------------------------- |
-| Account total value       | ~$19.68 (1 NCLH + cash)   |
-| Cash                      | ~$4.65 (1 NCLH @ 15.03 held) |
+| Account total value       | $19.65 (all cash)         |
+| Cash                      | $19.65                    |
 | Open positions            | 0 (flat — VALE stopped out) |
 | Open orders               | 0 (stop 6abd19c6 filled/consumed; no naked orders) |
 | Status                    | **FLAT.** T-2026-0005 VALE stopped −$0.20 (−0.98R): breakout failed, MFE ~0 (bought breakout tick near HOD). Lifetime real P&L: F −0.11, AAL +0.05, CLF +0.05, VALE −0.20 = **−$0.21**. Real record: 2 wins (AAL/CLF coil+HOD-hold) / 2 losses (F no-edge, VALE breakout-chase). Lesson reinforced: reclaim/pullback entry > breakout-at-HOD, even on a green tape. |

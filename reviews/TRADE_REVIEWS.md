@@ -846,3 +846,18 @@ on the day vs SPY +0.66%, i.e. still a day-leader consolidating gains, not break
 +0.93%). Exit trigger (decisive loss of 15.00 AND index roll) NOT met → HOLD, stop unchanged 14.85 (no tightening into
 the chop, whipsaw risk). STEP B paper: PASS (one real position). NOTE: next pass (3:13pm) is the LAST in-market window to
 flatten before the 4pm close — will exit NCLH there if not already stopped/targeted (never hold the $20 overnight).
+
+## 2026-10-02 (Fri) — Engine pass 3:13 ET → CLOSED NCLH (T-2026-0007), EOD flatten (scratch)
+Entry 15.0299 (12:15 ET) → exit 15.0001 (3:13 ET). **−$0.03 / −0.17R. GOOD DECISION + SCRATCH.** MFE +0.06 (15.09),
+MAE −0.12 (14.91) — never near the 14.85 stop. Account 19.68 → 19.65, FLAT.
+WHY FLATTENED (not stopped/targeted): it chopped 14.91-15.09 for 3 hours, held its 15.00 reclaim level and stayed a
+day-leader (+2.4% vs SPY), but the intraday CONTINUATION never came. This was the last in-market window before the 4pm
+close, so per the never-overnight rule I flattened near breakeven rather than carry risk into the close/overnight.
+Cancelled the GTC stop first (freed the share), then sold — clean, no naked orders.
+ASSESSMENT: the ENTRY was the best of the week (genuine reclaim-and-hold, RS leader, risk-on name in risk-on tape, good
+pullback location). It simply didn't follow through — not every valid setup pays. Outcome is a near-zero scratch, which is
+exactly what good risk management produces on a no-follow-through trade: tiny defined risk, held the level, exited flat.
+NEW DATAPOINT (loss_class EOD_FLATTEN / NO_FOLLOWTHROUGH): a clean setup that holds its level but doesn't advance within
+the session is a scratch, not a loss to agonize over — the edge is in taking many such setups; this one just didn't run.
+Lifetime real: F −0.11, AAL +0.05, CLF +0.05, VALE −0.20, HL −0.11, NCLH −0.03 = −$0.35 (2W/4L; losses all small/capped).
+Final day totals + official closes to be logged at the post-close (~20:12Z) pass.
