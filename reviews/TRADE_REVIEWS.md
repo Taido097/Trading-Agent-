@@ -810,3 +810,12 @@ F red, MARA +7.6% (extended, O002). No clean pullback-and-hold reclaim triggered
 paper: PASS — green index but no non-chase affordable setup; not forcing volume. Watching SNAP (reclaim of 5.72 OR high)
 and NCLH (reclaim of 15.00) for a later trigger. Jobs-day gap that faded at the stock level = exactly the "index risk-on
 ≠ tradable affordable setup" pattern.
+
+## 2026-10-02 (Fri) — Engine pass 11:13 ET → REAL PASS + PAPER PASS
+Account FLAT $19.68. Index gap now COOLING: SPY 768.45 (+0.58%, off +1.0%), QQQ 749.22 (+0.97%, off +1.48%) — giving
+back ~half the gap. O002 VALIDATION: MARA collapsed +8% -> +1.9% (12.24 -> 11.42), textbook spike-and-fade — chasing it
+at the open (as tempting as +8% looked) would have been a loss; the no-spike-chase rule paid off. SNAP 5.73 (right AT its
+5.72 OR high, not clearly held above) and NCLH 14.945 (near 15.00 OR high) are the only two coiling near breakout levels,
+but a fresh breakout into a COOLING tape is lower-odds (standing lesson: fading tape -> favor pullbacks, don't chase
+breakouts). SOFI/AAL now red; HL faded to +0.5%. STEP A real: PASS. STEP B paper: PASS — no clean hold-above reclaim +
+cooling tape = not chasing. Watching SNAP/NCLH for a decisive hold-above; otherwise a quiet jobs-day for the book.
