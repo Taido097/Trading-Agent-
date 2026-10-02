@@ -763,3 +763,36 @@ gap did not produce a clean non-chase entry in any AFFORDABLE name; the leaders 
 REJECTED_TRADES. Lesson reinforced: index risk-on ≠ tradable affordable setup; gap-ups fade at the stock level, and
 entry location still rules (won't chase MARA's vertical). All-day engine keeps watching for a pullback-and-hold reclaim.
 Options/crypto/margin OFF.
+
+### 2026-10-02 (Fri, jobs day) — EOD WRAP → **1 REAL trade (scratch), capital intact; disciplined but a late-continuation lesson**
+
+**Close reconciliation:** Agentic ••••4713 — FLAT. Total value $19.65, cash $19.65, 0 positions, 0 open orders. No
+overnight, no naked orders. Internal = broker.
+
+**Regime (official 4pm close):** RISK-ON held all day. SPY 769.65 (+0.74% vs 763.99); QQQ 749.53 (+1.01%). Jobs-day gap
+up that, unlike recent days, HELD green into the close (gapped +0.9%, cooled midday, firmed back). A genuine trend-up day
+at the index level.
+
+**REAL — 1 trade (T-2026-0007 NCLH):** Passed the morning gap-and-faders (9:47/10:13/11:13). At 12:13, NCLH set up the
+cleanest break-and-hold of the week — reclaimed its 15.00 OR high after shaking out gap-chasers, held 30+ min; RS leader,
+risk-on name in a risk-on tape, bought on the PULLBACK to 15.00 (good entry location). Long 1 @ 15.0299, stop 14.85,
+target 15.39, risk $0.18/0.91%. It then chopped 14.91-15.09 for 3 hours without advancing; at the last in-market window
+(3:13pm) I flattened at 15.0001 for **−$0.03 / −0.17R (GOOD DECISION + SCRATCH)** per the never-overnight rule.
+- LATE-CONTINUATION LESSON: NCLH then ran to close 15.14 (+3.4%) in the final 45 min — i.e. +$0.11 / +0.6R had I held to
+  the bell (still short of the 15.39 target). This is the accepted COST of the hard never-overnight flatten: the last
+  guaranteed management window is ~3:13pm, so a late-day continuation after that is forgone to guarantee no overnight
+  gap risk on the $20. The flatten was the correct process call (3h of no follow-through, hard safety rule); the late pop
+  is variance, not an error. Note for refinement: when a position is holding its level with a supportive tape into the
+  last window, consider leaving the GTC stop + a resting limit at target and flattening only if neither fills by ~3:55 —
+  but only if a reliable near-close management tick exists; otherwise the 3:13 hard-flatten stays correct.
+
+**PAPER — 0 trades:** Morning gap-faders offered no clean long; afternoon was the single real position (one at a time).
+
+**Capital:** $19.65 (all cash), flat. Day P&L −$0.03 (NCLH scratch). Lifetime real: F −0.11, AAL +0.05, CLF +0.05,
+VALE −0.20, HL −0.11, NCLH −0.03 = **−$0.35** (2W / 4L; every loss small and capped, two of the four are scratches).
+
+**Week recap (real):** Mon/Tue PASS, Wed VALE −0.20 (breakout chase), Thu HL −0.11 (counter-cyclical, cut early), Fri
+NCLH −0.03 (cleanest setup, scratch on no-follow-through). 3 real trades, all GOOD DECISIONS, all small; the entries kept
+improving (chase → counter-cyclical → clean reclaim-and-hold with a pullback entry). Process is on-model; the P&L edge
+needs the winners to run, which requires more at-bats. SNAP (yesterday's leader) faded to 5.58 today — right to have
+dropped it. Options/crypto/margin OFF.
