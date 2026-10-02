@@ -801,3 +801,12 @@ it's 3:13pm, ~47 min to the mandatory EOD flatten, so no runway for a 2:1 to mat
 late-day chase (O003), and I've already taken my one real trade today. STEP B paper: PASS — same late-day logic; EOD
 flatten in <1hr makes a new entry low-value. NOTE for tomorrow's watchlist: SNAP showed strong RS on the reversal
 (+3.1%, leading a green tape) — track it. Next pass (~20:12Z) = post-close EOD wrap.
+
+## 2026-10-02 (Fri) — Engine pass 10:13 ET → REAL PASS + PAPER PASS
+Account FLAT $19.68. Tape still risk-on (SPY +0.98%, QQQ +1.48%) but affordable names remain choppy/mixed post-gap-fade:
+HL +1.35% (near OR high but gold = thesis-incoherent in risk-on + recency/revenge caution after yesterday's HL loss),
+NCLH +1.2% / SNAP +0.6% (green but below OR highs), SOFI +0.5% (faded), AAL +0.3% (flat), RIVN -3.0% (still collapsing),
+F red, MARA +7.6% (extended, O002). No clean pullback-and-hold reclaim triggered anywhere. STEP A real: PASS. STEP B
+paper: PASS — green index but no non-chase affordable setup; not forcing volume. Watching SNAP (reclaim of 5.72 OR high)
+and NCLH (reclaim of 15.00) for a later trigger. Jobs-day gap that faded at the stock level = exactly the "index risk-on
+≠ tradable affordable setup" pattern.
