@@ -1,0 +1,22 @@
+{
+  "trade_id": "T-2026-0007",
+  "frozen_at": "2026-10-02T16:16:00Z",
+  "symbol": "NCLH",
+  "direction": "long",
+  "mode": "live",
+  "account": "563174713",
+  "entry_time": "2026-10-02T16:15:20Z",
+  "entry_price": 15.0299,
+  "position_size": 1,
+  "stop": 14.85,
+  "target": 15.39,
+  "planned_risk_usd": 0.18,
+  "planned_risk_pct": "0.91%",
+  "rr": 2.0,
+  "regime": {"SPY_pct": 0.76, "QQQ_pct": 1.19, "note": "RISK-ON (jobs-day gap up, holding firm midday). NCLH is a risk-ON name in a risk-ON tape = thesis-coherent (unlike 10/1 HL counter-cyclical)"},
+  "setup": "ORB reclaim-and-HOLD. NCLH gapped +2.7%, faded to 14.58 at the open (shook out gap-chasers), then RECOVERED and reclaimed its 15.00 OR high at ~11:40 ET and HELD 15.00-15.07 for 30+ min (6 bars). Entry on a pullback to the 15.00 reclaim level (15.03) = good entry location, not a chase.",
+  "orders": {"buy": "6abfd898-a025-4fa7-a59f-095b435e832d", "stop": "6abfd8a5-763f-4db6-8ca5-72b69a43d790"},
+  "thesis": "RS leader (+2.8% vs SPY +0.76%), cruise sector, in a genuinely risk-on tape (jobs-day gap). Unlike the morning's gap-and-faders (RIVN/SNAP/MARA), NCLH round-tripped its gap-fade and reclaimed to a NEW HOD, then held the level for 30+ min = real demand, not a fading gap. Entry location is the GOOD kind (pullback to the reclaimed 15.00, not a vertical chase). Affordable 1 share, 0.07% spread, tiny capped risk.",
+  "devils_advocate": "Entry near HOD 15.07 carries some chase risk; the broad gap could still fade into the afternoon (it cooled once at 11:13 before firming). Cruise/travel can be headline-sensitive. Mitigated: stop 14.85 is below the 14.95-15.00 hold base (wider than immediate base per whipsaw lesson), risk tiny ($0.18/0.91%), mandatory GTC stop, flatten by EOD (never overnight). Target 15.39 is only +0.32 above HOD = achievable on continuation.",
+  "management_plan": "Manage every engine pass. Raise stop to breakeven only at ~+1R (15.21) (asymmetry: reduce risk only). Bank target 15.39 or flatten by EOD 20:00Z. NEVER overnight. If NCLH loses the 15.00 reclaim level decisively AND the index rolls over, the thesis is weakening even above the stop -> tighten/exit discretionarily (the HL lesson: exit on thesis break, don't wait for the full stop)."
+}

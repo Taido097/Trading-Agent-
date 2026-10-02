@@ -819,3 +819,14 @@ at the open (as tempting as +8% looked) would have been a loss; the no-spike-cha
 but a fresh breakout into a COOLING tape is lower-odds (standing lesson: fading tape -> favor pullbacks, don't chase
 breakouts). SOFI/AAL now red; HL faded to +0.5%. STEP A real: PASS. STEP B paper: PASS — no clean hold-above reclaim +
 cooling tape = not chasing. Watching SNAP/NCLH for a decisive hold-above; otherwise a quiet jobs-day for the book.
+
+## 2026-10-02 (Fri) — Engine pass 12:13 ET → REAL TRADE OPENED (T-2026-0007 NCLH) + PAPER PASS
+After passing the gap-and-faders all morning, NCLH set up the cleanest break-and-hold of the week: gapped +2.7%, faded to
+14.58 at the open (shook out chasers), then RECOVERED, reclaimed its 15.00 OR high at ~11:40 ET and HELD 15.00-15.07 for
+30+ min. RS leader +2.8% vs SPY +0.76% — and critically a RISK-ON name in a RISK-ON tape (thesis-coherent, unlike 10/1's
+counter-cyclical HL). Entry long 1 @ 15.0299 on a PULLBACK to the 15.00 reclaim level (good entry location, the VALE fix),
+stop 14.85 (below the 14.95-15.00 hold base), target 15.39 (2:1), risk $0.18/0.91%. GTC stop 6abfd8a5 confirmed.
+WHY THIS CLEARED THE GATE when the 9:47/10:13/11:13 passes didn't: the morning names CHASED their gaps and faded; NCLH
+instead round-tripped and RECLAIMED on real demand, holding the level — a confirmed break-and-hold, not a gap chase, with
+a pullback entry. Manage each pass; breakeven-trail at +1R (15.21); exit on a decisive loss of 15.00 + index roll (HL
+lesson); flatten by EOD, never overnight. STEP B paper: PASS (real position open; one at a time).
