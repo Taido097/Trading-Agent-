@@ -752,3 +752,14 @@ clean ORB break-and-hold or a pullback-and-hold — NOT a gap chase (VALE/HL les
 the most aligned backdrop in a while (affordable RS leaders + a genuinely risk-on tape), SO IF the gap holds past 9:45
 and one gives a non-chase entry, it's a real-trade candidate. But NFP gap days fade often — if it reverses or entries are
 chasey, PASS. Stop first (wider than base), target ≥2:1. Capital preservation first. Options/crypto/margin OFF.
+
+### 2026-10-02 (Fri, jobs day) — 9:47 ET OPENING-RANGE DECISION → **PASS (real $20)**
+Reconciled FLAT (0/0, $19.68). Regime: index gap HELD & extended — SPY 771.88 (+1.03%), QQQ 752.33 (+1.39%), near
+session highs; genuinely risk-on past 9:45. BUT the affordable high-beta leaders GAPPED-AND-FADED at the single-stock
+level: RIVN collapsed 15.26->14.43 (−2.2%, red, worst), SNAP 5.62 (−0.5%, red), AAL +0.4% / SOFI +1.1% / NCLH +1.0% all
+BELOW their OR highs with no break-and-hold. Only MARA held/extended (+8%, 12.11 near HOD) — but that's an entry AFTER an
++8% vertical run on my O002 spike/whipsaw-flagged name = a chase, not a setup. DECISION: PASS at 9:47 — a strong INDEX
+gap did not produce a clean non-chase entry in any AFFORDABLE name; the leaders crapped out of their gaps. Logged 5 to
+REJECTED_TRADES. Lesson reinforced: index risk-on ≠ tradable affordable setup; gap-ups fade at the stock level, and
+entry location still rules (won't chase MARA's vertical). All-day engine keeps watching for a pullback-and-hold reclaim.
+Options/crypto/margin OFF.
