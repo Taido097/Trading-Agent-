@@ -838,3 +838,11 @@ basing above the reclaim, just no next leg yet. Tape still risk-on (SPY +0.71%, 
 unchanged 14.85. Not near +1R (15.21) so no breakeven move yet. Behaving as a continuation setup should (consolidate
 above reclaim). STEP B paper: PASS (one real position at a time). Flatten by EOD; exit early only if it decisively loses
 15.00 AND the index rolls.
+
+## 2026-10-02 (Fri) — Engine pass 2:13 ET → MANAGE NCLH (hold), PAPER PASS
+Position: long 1 NCLH @ 15.03, stop 14.85 GTC resting. NCLH 14.985 (unrealized −$0.045 / −0.25R). Chopped 14.91-15.09
+for 2h (one dip to 14.91 recovered, one push to 15.09 faded), now just below 15.00 — dead money intraday BUT still +2.4%
+on the day vs SPY +0.66%, i.e. still a day-leader consolidating gains, not breaking down. Tape firm (SPY +0.66%, QQQ
++0.93%). Exit trigger (decisive loss of 15.00 AND index roll) NOT met → HOLD, stop unchanged 14.85 (no tightening into
+the chop, whipsaw risk). STEP B paper: PASS (one real position). NOTE: next pass (3:13pm) is the LAST in-market window to
+flatten before the 4pm close — will exit NCLH there if not already stopped/targeted (never hold the $20 overnight).
