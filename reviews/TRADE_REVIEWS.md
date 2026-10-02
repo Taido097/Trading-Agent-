@@ -861,3 +861,9 @@ NEW DATAPOINT (loss_class EOD_FLATTEN / NO_FOLLOWTHROUGH): a clean setup that ho
 the session is a scratch, not a loss to agonize over — the edge is in taking many such setups; this one just didn't run.
 Lifetime real: F −0.11, AAL +0.05, CLF +0.05, VALE −0.20, HL −0.11, NCLH −0.03 = −$0.35 (2W/4L; losses all small/capped).
 Final day totals + official closes to be logged at the post-close (~20:12Z) pass.
+
+## 2026-10-02 (Fri) — Engine pass 3:13 ET (19:12Z) → confirmation only (already flat)
+This engine notification (19:12Z) coincided with the NCLH flatten already executed this same window (sold 15.0001 at
+19:12:56Z). Reconfirmed: account FLAT, 0 positions, 0 open orders, $19.65. NCLH 15.04 just after exit (+$0.04 vs fill —
+immaterial, EOD flatten was mandatory regardless). STEP A real: PASS (flat, ~3:15pm late day, no re-entry after the day's
+trade). STEP B paper: PASS (no opens). No new action. Full EOD wrap + official closes at the post-close ~20:12Z pass.
