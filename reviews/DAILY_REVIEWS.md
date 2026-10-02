@@ -720,3 +720,35 @@ HL −0.11 = **−$0.32** (2W / 3L). Losses are all small and capped; both wins 
 both GOOD DECISIONS executed with discipline (stop-first, no revenge, honest exits). The system is taking genuine setups
 and managing risk well; the P&L is -$0.32 lifetime but behavior is on-model. SNAP was today's true leader (+4.5%) —
 emerged late, on the watchlist for tomorrow. NFP tomorrow = event risk. Options/crypto/margin OFF.
+
+---
+
+## 2026-10-02 (Fri, JOBS DAY) — PRE-MARKET PREP (9:17 ET / 13:17Z)
+
+**Reconciliation:** Agentic ••••4713 — FLAT. Cash $19.68, 0 positions, 0 open orders. Matches internal state.
+
+**Regime (pre-market):** STRONG RISK-ON GAP UP. SPY 770.82 vs 763.99 = **+0.89%**; QQQ 751.68 vs 742.03 = **+1.30%**
+(tech leading). This is the NFP (jobs-report) reaction — actual number not visible to me here (and a possible Oct-1
+federal shutdown may have delayed the release); regardless, the tape is decisively risk-on. CAUTION: (1) it's a GAP day —
+gaps can continue OR fade ("gap-and-crap"), confirm it HOLDS past 9:45; (2) NFP-reaction days can whipsaw two-sided;
+(3) buying the pre-market gap is a CHASE — want an ORB break-and-hold or a pullback/hold entry, not the gap itself.
+
+**Leadership FLIPPED from yesterday:** today high-beta RISK-ON names lead; gold/defensives lag (opposite of 10/1 when
+HL/metals led a red tape). Clean inversion — good confirmation that the regime gate reads real rotation.
+
+**Wide screen (pre-market %, affordable ≤~$19 w/ buffer on $19.68, liquid, spread ≤~0.5% — RE-VERIFY at open):**
+- **RIVN** 15.30 (+3.66%) — EV, risk-on leader, affordable, spread ~0.2%. Clean. #1.
+- **MARA** 11.64 (+3.84%) — crypto-miner, biggest % but O002 spike/whipsaw history → caution, needs a non-spike entry.
+- **NCLH** 15.04 (+2.73%) — cruise, affordable, spread ~0.3%.
+- **AAL** 13.45 (+2.44%) — airline, affordable, tight spread 0.1%. (Prior real winner on a coil.)
+- **SOFI** 16.18 (+2.15%) — fintech, affordable, breaking out.
+- **SNAP** 5.76 (+1.95%) — continuation of yesterday's leadership (+4.5% Thu); low-priced (mind stop vs spread).
+- HL 17.32 (+1.88%) — gold bouncing but WIDE pre-mkt spread (17.21/17.52); yesterday's laggard. VALE +0.97%.
+LAGGARDS/AVOID: F −0.98% (red), RIG −0.97% (red) — defensives/old-economy lagging the risk-on move.
+TOO EXPENSIVE (>$19): KGC 24.51, RIOT, CCL, SIRI, RF, KEY, AMCR.
+
+**Plan:** No trade in prep. 9:47 decision checks the top affordable RS leaders (RIVN / NCLH / AAL / SOFI / SNAP) for a
+clean ORB break-and-hold or a pullback-and-hold — NOT a gap chase (VALE/HL lessons: entry location is the edge). This is
+the most aligned backdrop in a while (affordable RS leaders + a genuinely risk-on tape), SO IF the gap holds past 9:45
+and one gives a non-chase entry, it's a real-trade candidate. But NFP gap days fade often — if it reverses or entries are
+chasey, PASS. Stop first (wider than base), target ≥2:1. Capital preservation first. Options/crypto/margin OFF.
