@@ -830,3 +830,11 @@ WHY THIS CLEARED THE GATE when the 9:47/10:13/11:13 passes didn't: the morning n
 instead round-tripped and RECLAIMED on real demand, holding the level — a confirmed break-and-hold, not a gap chase, with
 a pullback entry. Manage each pass; breakeven-trail at +1R (15.21); exit on a decisive loss of 15.00 + index roll (HL
 lesson); flatten by EOD, never overnight. STEP B paper: PASS (real position open; one at a time).
+
+## 2026-10-02 (Fri) — Engine pass 1:13 ET → MANAGE NCLH (hold), PAPER PASS
+Position: long 1 NCLH @ 15.03, stop 14.85 GTC confirmed resting. NCLH 15.045 (~flat, +$0.02). Since entry it's
+consolidated tightly 14.97-15.07, HOLDING the 15.00 reclaim level (dips to 14.975-14.985 bought back) — thesis intact,
+basing above the reclaim, just no next leg yet. Tape still risk-on (SPY +0.71%, QQQ +0.98%). DECISION: HOLD, stop
+unchanged 14.85. Not near +1R (15.21) so no breakeven move yet. Behaving as a continuation setup should (consolidate
+above reclaim). STEP B paper: PASS (one real position at a time). Flatten by EOD; exit early only if it decisively loses
+15.00 AND the index rolls.
