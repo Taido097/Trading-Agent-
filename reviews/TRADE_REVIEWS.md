@@ -867,3 +867,14 @@ This engine notification (19:12Z) coincided with the NCLH flatten already execut
 19:12:56Z). Reconfirmed: account FLAT, 0 positions, 0 open orders, $19.65. NCLH 15.04 just after exit (+$0.04 vs fill —
 immaterial, EOD flatten was mandatory regardless). STEP A real: PASS (flat, ~3:15pm late day, no re-entry after the day's
 trade). STEP B paper: PASS (no opens). No new action. Full EOD wrap + official closes at the post-close ~20:12Z pass.
+
+## 2026-10-05 (Mon) — Engine pass 10:13 ET → REAL PASS + PAPER OPEN (P-2026-0025 SOFI)
+Account FLAT $19.65. Tape firmed to mild green (SPY +0.30%, QQQ +0.36%). Gappers stayed faded (HL -1.3%, VALE choppy
+14.30). Two RS leaders emerged: SOFI +2.3% (16.13) and SNAP +2.5% (5.72, low-priced/whippy). SOFI structure = clean
+staircase, built a 15.87-16.00 base and broke to new HOD 16.14 on its biggest-vol bar.
+STEP A (real): PASS — entry at 16.12 is on the breakout bar AT the HOD = the extended location the VALE lesson flags;
+real waits for a pullback-to-16.00-hold or a base-above-16.00 re-break (the better entry). SOFI is the #1 live candidate.
+STEP B (paper): OPENED SOFI long 16.13, stop 15.84 (below base), target 16.71 (2:1), 137 sim shares — taken to TEST the
+entry-location question (does a base-break-at-HOD entry pay, or does waiting for the pullback win?). Zero real risk; useful
+datapoint either way. Manage each pass; flatten EOD. This is the clean split: paper takes the valid-but-marginal-location
+setup for learning volume; real holds out for the ideal entry.
