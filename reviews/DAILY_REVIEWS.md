@@ -835,3 +835,29 @@ trap flagged in prep. Strong vindication of the discipline: not chasing VALE's g
 off the open already). Logged 3 to REJECTED_TRADES. Lesson reinforced (4th session running): a big pre-market gap in an
 affordable name is a FADE risk, not a setup — wait for the hold that didn't come. All-day engine keeps watching for a
 genuine reclaim/coil if one develops. Options/crypto/margin OFF.
+
+### 2026-10-05 (Mon) — EOD WRAP → **0 REAL trades (correct no-trade day), capital intact**
+
+**Close reconciliation:** Agentic ••••4713 — FLAT. Total value $19.65, cash $19.65, 0 positions, 0 open orders. No
+overnight, no naked orders. Internal = broker.
+
+**Regime (official 4pm close):** Green day, index at NEW HIGHS — SPY 774.94 (+0.69% vs 769.64), QQQ 756.18 (+0.88%). But
+the strength was concentrated in the index/mega-caps; the AFFORDABLE universe was choppy/laggy all day.
+
+**REAL — 0 trades (correct PASS day).** The morning's affordable movers all FADED: VALE gapped +7.4% pre-market then
+bled at the open (closed ~+4% but well off highs); HL/MARA reversed −3%; SOFI built a base, broke to a new HOD, then
+FAILED (closed 15.905, off its 16.19 high). No affordable name offered a clean non-chase entry at any pass (9:47 + 6
+engine passes all PASS). Two standing lessons re-validated: (1) a big pre-market gap in an affordable name is a FADE risk,
+not a setup (VALE) — not chasing it saved a loss; (2) buy the pullback, not the base-break at HOD (SOFI).
+
+**PAPER — 1 trade (P-2026-0025 SOFI, −0.53R).** Deliberately opened to TEST the base-break-at-HOD entry that real passed;
+it failed (topped immediately, lost its base), closing the experiment with a clean, zero-real-risk confirmation that the
+real-side discipline (wait for the pullback) was correct. Exactly what the paper engine is for.
+
+**Capital:** $19.65 (all cash), flat. Day real P&L $0.00. Lifetime real: F −0.11, AAL +0.05, CLF +0.05, VALE −0.20,
+HL −0.11, NCLH −0.03 = **−$0.35** (2W / 4L, unchanged — no real trade today).
+
+**Takeaway:** A disciplined zero-real-trade day. The gating worked — nothing affordable set up without a chase, so the
+$20 stayed untouched while the paper engine did the learning. Structural note persists: on green/new-high days the
+tradable strength keeps being in unaffordable mega-caps or in affordable names that fade; the real edge needs account
+size or a genuinely clean affordable reclaim. Options/crypto/margin OFF.
