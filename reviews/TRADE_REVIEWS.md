@@ -888,3 +888,14 @@ which held above the 15.87 base, was the better entry location). STEP A real: PA
 16.06 is mid-range = neither a break-and-hold (want 16.19+) nor a clean pullback-hold (want 15.93). No trigger. Still the
 #1 watch for a range resolution. STEP B: manage SOFI paper (open); no new paper (SNAP faded to 5.655, nothing else clean).
 Flatten paper at EOD.
+
+## 2026-10-05 (Mon) — Engine pass 12:13 ET → REAL PASS + CLOSED PAPER SOFI (P-0025, entry-location test)
+Real FLAT $19.65, tape still green (SPY +0.46%, QQQ +0.50%) — but SOFI did NOT follow: it topped 16.19 right after the
+16.13 HOD entry, stalled into a 15.93-16.19 range, then lost its 15.87-16.00 base and drifted to 15.975 WHILE SPY made
+new highs = lost its RS. CLOSED paper SOFI at 15.975 = −$21.24 / −0.53R (exited on the base-break-down, thesis-break
+discipline, not waiting for the 15.84 stop). MFE +0.06 (16.19), MAE −0.20.
+KEY LEARNING (the whole point of the P-0025 experiment): buying the base-break AT THE HOD did NOT pay — it topped
+immediately and bled. This directly CONFIRMS the real-side discipline of PASSING that entry (real stayed flat = correct).
+The VALE "don't buy the breakout bar near HOD; wait for the pullback/hold" lesson is now re-validated in a controlled paper
+test. STEP A real: PASS (SOFI setup failed; no other clean setup — morning movers all faded). STEP B: SOFI closed; no new
+paper (nothing clean, SOFI failing). Paper lifetime now 25 closed. Account FLAT, capital intact.
