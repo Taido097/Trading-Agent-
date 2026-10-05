@@ -899,3 +899,11 @@ immediately and bled. This directly CONFIRMS the real-side discipline of PASSING
 The VALE "don't buy the breakout bar near HOD; wait for the pullback/hold" lesson is now re-validated in a controlled paper
 test. STEP A real: PASS (SOFI setup failed; no other clean setup — morning movers all faded). STEP B: SOFI closed; no new
 paper (nothing clean, SOFI failing). Paper lifetime now 25 closed. Account FLAT, capital intact.
+
+## 2026-10-05 (Mon) — Engine pass 1:13 ET → REAL PASS + PAPER PASS
+Account FLAT $19.65, no open paper (SOFI closed). Index grinding to new highs (SPY 774.14 +0.58%, QQQ 754.35 +0.64%) but
+the AFFORDABLE universe is lagging/mixed: SOFI 15.98 (failed base), NCLH 14.925 (-1.4%, red), AAL 12.865 (-0.6% red),
+RIVN flat, VALE 14.11 (+2.5% but choppy off highs); only SNAP +2.3% holds green (low-priced/whippy, no clean setup).
+Recurring structural read: the strength is in the index/mega-caps, not in clean affordable names — the day's tradable
+RS leaders keep being unaffordable or failing. STEP A real: PASS (no affordable non-chase setup). STEP B paper: PASS
+(nothing clean; SNAP too whippy). Capital intact, no forcing. All-day engine keeps watching; EOD wrap at the post-close pass.
