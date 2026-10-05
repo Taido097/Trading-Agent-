@@ -878,3 +878,13 @@ STEP B (paper): OPENED SOFI long 16.13, stop 15.84 (below base), target 16.71 (2
 entry-location question (does a base-break-at-HOD entry pay, or does waiting for the pullback win?). Zero real risk; useful
 datapoint either way. Manage each pass; flatten EOD. This is the clean split: paper takes the valid-but-marginal-location
 setup for learning volume; real holds out for the ideal entry.
+
+## 2026-10-05 (Mon) — Engine pass 11:13 ET → REAL PASS + MANAGE PAPER SOFI (open)
+Real FLAT $19.65. Tape still firming green (SPY +0.35%, QQQ +0.47%). PAPER SOFI (P-0025, entry 16.13): popped to HOD 16.19
+right after entry then FADED and chopped 15.93-16.19 for an hour; now 16.055 (unrealized ~−$0.08; MFE +0.06 to 16.19, MAE
+−0.20 to 15.93). Did NOT hit target 16.71 or stop 15.84 → stays OPEN. EARLY DATAPOINT: buying the base-break AT THE HOD
+stalled into a pullback/range immediately — vindicates the real-side "wait for the pullback" discipline (the 15.93 pullback,
+which held above the 15.87 base, was the better entry location). STEP A real: PASS — SOFI stalled into a 15.93-16.19 range;
+16.06 is mid-range = neither a break-and-hold (want 16.19+) nor a clean pullback-hold (want 15.93). No trigger. Still the
+#1 watch for a range resolution. STEP B: manage SOFI paper (open); no new paper (SNAP faded to 5.655, nothing else clean).
+Flatten paper at EOD.
