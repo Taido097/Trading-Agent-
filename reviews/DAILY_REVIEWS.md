@@ -796,3 +796,32 @@ NCLH −0.03 (cleanest setup, scratch on no-follow-through). 3 real trades, all 
 improving (chase → counter-cyclical → clean reclaim-and-hold with a pullback entry). Process is on-model; the P&L edge
 needs the winners to run, which requires more at-bats. SNAP (yesterday's leader) faded to 5.58 today — right to have
 dropped it. Options/crypto/margin OFF.
+
+---
+
+## 2026-10-05 (Mon) — PRE-MARKET PREP (9:20 ET / 13:20Z)
+
+**Reconciliation:** Agentic ••••4713 — FLAT. Cash $19.65, 0 positions, 0 open orders. Matches internal state.
+
+**Regime (pre-market):** FLAT-to-slightly-RED, consolidative after Friday's strong risk-on day. SPY 769.33 vs 769.64 =
+−0.04%; QQQ 748.44 vs 749.58 = −0.15%. No broad directional lean. Leadership is SECTOR-specific (materials/commodities),
+not broad-market — a stock-picker's tape.
+
+**Event risk:** Possible ongoing federal shutdown (Oct 1 start) → economic-data releases may be delayed/absent; Fed
+speakers through the week; CPI ~mid-month (not today). Monday is typically light on scheduled data.
+
+**Wide screen (pre-market %, affordable ≤~$19 w/ buffer on $19.65, liquid, spread ≤~0.5% — RE-VERIFY at open):**
+- **VALE** 14.78 (**+7.4%**) — the big gapper (materials/iron-ore news); affordable, tight spread 0.07%. #1 FOCUS, but a
+  +7.4% GAP = do NOT chase; wait for an ORB break-and-hold or a pullback-and-hold (O002 + Friday's gap-fade lesson).
+  (Note: VALE was the 9/30 real loss — judge fresh, no bias, and no revenge either way.)
+- **HL** 17.40 (+1.2%) — silver/gold miner RS; affordable (fits $19.65 w/ buffer), watch spread at open. Gold complex bid.
+- **MARA** 11.37 (+1.2%) — crypto; O002 spike/whipsaw caution.
+- **RIG** 5.20 (+0.6%) / **BTG** 5.22 (+0.4%) — low-priced driller/gold miner; secondary.
+- **SNAP** 5.60 (+0.4%) / **AAL** 12.99 (+0.4%) / **NCLH** 15.16 (+0.1%, holding Fri gains) / **RIVN** 14.32 (flat) — flat watch.
+WEAK/FLAT: SOFI 15.77 (0%), F 12.11 (0%). 
+DISQUALIFIED — wide/junk spread: CLF (11.21/11.94). TOO EXPENSIVE (>$19): KGC 24.05.
+
+**Plan:** No trade in prep. 9:47 decision focuses on VALE (does the +7.4% gap HOLD and build an ORB, or fade like Friday's
+gappers?) + HL (gold RS). Flat broad tape = lean on genuine stock/sector strength, but the bar is high: want a clean
+hold-above-OR or pullback-and-hold (NON-chase entry, the VALE/HL lessons), stop first (wider than base), target ≥2:1. If
+VALE gaps-and-fades or entries are chasey → PASS. A commodity gap can be a one-bar spike — patience. Options/crypto/margin OFF.
