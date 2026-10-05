@@ -907,3 +907,8 @@ RIVN flat, VALE 14.11 (+2.5% but choppy off highs); only SNAP +2.3% holds green 
 Recurring structural read: the strength is in the index/mega-caps, not in clean affordable names — the day's tradable
 RS leaders keep being unaffordable or failing. STEP A real: PASS (no affordable non-chase setup). STEP B paper: PASS
 (nothing clean; SNAP too whippy). Capital intact, no forcing. All-day engine keeps watching; EOD wrap at the post-close pass.
+
+## 2026-10-05 (Mon) — Engine pass 2:13 ET → REAL PASS + PAPER PASS
+FLAT $19.65, no open paper. Unchanged from 1:13pm: index new highs (SPY 774.71 +0.66%, QQQ +0.71%), affordable universe
+lagging/choppy (SOFI ~16 failed base, NCLH 14.93 -1.4%, AAL -0.4%, VALE/SNAP choppy). No clean affordable non-chase
+setup. STEP A PASS, STEP B PASS. Capital intact. EOD wrap at post-close pass.
