@@ -825,3 +825,13 @@ DISQUALIFIED — wide/junk spread: CLF (11.21/11.94). TOO EXPENSIVE (>$19): KGC 
 gappers?) + HL (gold RS). Flat broad tape = lean on genuine stock/sector strength, but the bar is high: want a clean
 hold-above-OR or pullback-and-hold (NON-chase entry, the VALE/HL lessons), stop first (wider than base), target ≥2:1. If
 VALE gaps-and-fades or entries are chasey → PASS. A commodity gap can be a one-bar spike — patience. Options/crypto/margin OFF.
+
+### 2026-10-05 (Mon) — 9:47 ET OPENING-RANGE DECISION → **PASS (real $20)**
+Reconciled FLAT (0/0, $19.65). Regime: broad tape mildly GREEN & firming (SPY 770.65 +0.13%, QQQ 752.21 +0.35%, tech-led).
+BUT the affordable movers GAPPED AND FADED — textbook: VALE pre-mkt +7.4% -> opened 14.72 -> bled to 14.285 making lows
+(OR high 14.73 abandoned); HL 17.42 -> 16.67 (−3.1%, gold bid flipped); MARA -3.1% (reversed). NCLH just chopping flat
+(15.08). DECISION: PASS at 9:47 — no valid ORB break-and-hold; the gappers reversed, which is EXACTLY the +7.4%-gap chase
+trap flagged in prep. Strong vindication of the discipline: not chasing VALE's gap saved a near-certain loss (it's −3.4%
+off the open already). Logged 3 to REJECTED_TRADES. Lesson reinforced (4th session running): a big pre-market gap in an
+affordable name is a FADE risk, not a setup — wait for the hold that didn't come. All-day engine keeps watching for a
+genuine reclaim/coil if one develops. Options/crypto/margin OFF.
