@@ -861,3 +861,31 @@ HL −0.11, NCLH −0.03 = **−$0.35** (2W / 4L, unchanged — no real trade to
 $20 stayed untouched while the paper engine did the learning. Structural note persists: on green/new-high days the
 tradable strength keeps being in unaffordable mega-caps or in affordable names that fade; the real edge needs account
 size or a genuinely clean affordable reclaim. Options/crypto/margin OFF.
+
+---
+
+## 2026-10-06 (Tue) — PRE-MARKET PREP (9:17 ET / 13:17Z)
+
+**Reconciliation:** Agentic ••••4713 — FLAT. Cash $19.65, 0 positions, 0 open orders. Matches internal state.
+
+**Regime (pre-market):** RISK-ON gap up, uptrend continuing. SPY 777.93 vs 774.83 = **+0.40%**; QQQ 760.12 vs 756.20 =
+**+0.52%** (new highs again). Materials/steel leading.
+
+**Event risk:** Possible ongoing federal shutdown (data delays) persists; Fed speakers through the week; bank earnings
+season kicks off ~next week; CPI ~mid-month (not today). Light scheduled data today.
+
+**Wide screen (pre-market %, affordable ≤~$19 w/ buffer on $19.65, liquid, spread ≤~0.5% — RE-VERIFY at open):**
+- **CLF** 12.89 (**+5.7%**) — big steel gapper; affordable, BUT +5.7% gap = FADE RISK (same trap that caught VALE 10/2 &
+  10/5); spread wide pre-mkt (12.89/12.95). #1 focus but do NOT chase — need a clean ORB hold or pullback.
+- **VALE** 14.46 (+2.2%) — materials, continuing; affordable, tight spread. Faded the last two sessions off its gaps —
+  judge the open fresh.
+- **AAL** 13.02 (+1.5%) — airline; affordable, tight spread 0.2%.
+- **SOFI** 16.08 (+1.0%) — fintech, bouncing (failed yesterday's base; watch for a cleaner reclaim this time).
+- **HL** 17.20 (+1.1%) / **MARA** 11.25 (+0.7%) / **NCLH** 14.98 (+0.7%) / **BTG** 5.20 (+1.0%) / **SNAP** 5.675 (+1.2%) — secondary.
+FLAT/WEAK: F +0.3%, RIVN −0.3%, RIG −0.7%. TOO EXPENSIVE (>$19): KGC 23.72.
+
+**Plan:** No trade in prep. 9:47 decision focuses on CLF (does the +5.7% gap HOLD and build an ORB, or fade like VALE did
+two days running?) + VALE/AAL/SOFI for a cleaner reclaim/coil. The gap-fade lesson is now repeated (VALE 10/2, 10/5), so
+the bar on CLF's gap is HIGH: want a hold-above-OR or pullback-and-hold, NON-chase entry, stop first (wider than base),
+≥2:1. Risk-on tape helps, but a +5.7% affordable gap is a fade until it proves otherwise. If it fades or entries are
+chasey → PASS. Options/crypto/margin OFF.
