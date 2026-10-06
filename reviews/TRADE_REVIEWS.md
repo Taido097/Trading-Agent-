@@ -917,3 +917,24 @@ setup. STEP A PASS, STEP B PASS. Capital intact. EOD wrap at post-close pass.
 FLAT $19.65, no position. Index closing strong at new highs (SPY 775.89 +0.81%, QQQ 756.31 +0.90%) but affordable names
 stayed choppy all day (SOFI 16.05, SNAP 5.675, VALE 14.33 — none a clean setup); late day (O003). PASS both. No flatten
 needed (flat). Clean no-real-trade day — correct given no affordable non-chase setup materialized. EOD wrap at post-close.
+
+---
+## 2026-10-06 (Tue) — Intraday engine pass ~10:14 ET (14:14Z)
+
+**Regime:** RISK-ON at new highs. SPY 780.19 (+0.69%), QQQ 761.21 (+0.66%). Clear risk-on rotation: nuclear/uranium theme LEADING (UEC +6.1%, SMR +6.8%, OKLO +7.5%, CCJ +5.3%), cruise strong (NCLH +3.8%, CCL +3.4%), while metals/gold miners are RED (GOLD/AG/KGC/FCX) — money rotating out of defensives into high-beta growth themes.
+
+**STEP A — REAL $20: PASS.** Reconciled FLAT ($19.65, 0/0). Scanned the affordable universe:
+- **NCLH** (+3.8%, 15.43) — the #1 real watch — already made its vertical move in the first 15 min (spiked to HOD 15.6103 at 9:45 ET) and has since DRIFTED lower on FADING volume (15.56→15.42→15.46→15.43), now mid/low of its range. Buying here = chasing an extended name mid-consolidation (violates O002 + entry-location rule). No clean trigger. Would need a reclaim-and-hold of 15.56–15.61 on volume, OR a pullback-hold ~15.30 with a reclaim. Still #1 watch.
+- **AAL** (now +1.7%, 13.07) — faded from its 9:47 high, rolling over: last bar broke the 13.11–13.16 base to 13.04 on rising volume (665k). Failed-breakout fade. PASS.
+- **UEC/SMR/OKLO** — leading but >$8–$38 is fine affordability-wise for UEC/SMR; however these are better expressed in paper (theme concentration + first-pop-then-grind; the real $20 wants ONE clean, affordable, high-conviction setup, not a thematic basket). On the real side I stay patient.
+- CLF (+1.2%, faded gapper stabilizing), VALE (red), SOFI (in-line), RIOT/F/HBAN/RIG — no clean affordable non-chase setup.
+→ **PASS. Zero-forced-trade discipline holds.** NCLH = #1 watch for the next pass.
+
+**STEP B — PAPER: opened 4 longs** (theme-coherent book across the 2 leading themes; tests whether mid-morning theme-leader continuations follow through on a risk-on new-high day):
+- **P-2026-0026 UEC** 9.92, stop 9.68, tgt 10.40 (166sh) — uranium leader, clean base-break to new HOD on 2x vol.
+- **P-2026-0027 SMR** 8.20, stop 8.05, tgt 8.50 (266sh) — nuclear, higher-lows continuation toward HOD after morning shakeout.
+- **P-2026-0028 OKLO** 38.65, stop 38.05, tgt 39.85 (66sh) — nuclear, same HL recovery structure.
+- **P-2026-0029 CCL** 26.43, stop 26.15, tgt 26.99 (142sh) — cruise RS, coil near HOD (B-grade: vol fading into the coil).
+All: stop-first, ≥2:1, wider-than-immediate-base stops per whipsaw lesson. PASSED on IONQ (quantum, lower highs/fading), NCLH (drift/fading vol — same read as real side), SOFI (in-line RS), LCID (thin), RIOT/AAL (rolling over).
+
+**Note:** 0 open paper trades carried into this pass (P-0025 closed 10/5). These 4 are the only open paper positions now.
