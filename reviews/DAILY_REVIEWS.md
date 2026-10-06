@@ -889,3 +889,13 @@ two days running?) + VALE/AAL/SOFI for a cleaner reclaim/coil. The gap-fade less
 the bar on CLF's gap is HIGH: want a hold-above-OR or pullback-and-hold, NON-chase entry, stop first (wider than base),
 ≥2:1. Risk-on tape helps, but a +5.7% affordable gap is a fade until it proves otherwise. If it fades or entries are
 chasey → PASS. Options/crypto/margin OFF.
+
+### 2026-10-06 (Tue) — 9:47 ET OPENING-RANGE DECISION → **PASS (real $20)**
+Reconciled FLAT (0/0, $19.65). Regime: RISK-ON, holding (SPY 778.80 +0.51%, QQQ 760.42 +0.56%, new highs). The big
+affordable gapper FADED for the 3rd straight session: CLF +5.7% pre-mkt -> opened 12.865 -> bled to 12.20 (flat, -5% off
+open); VALE also faded -1.2%; SOFI flat/choppy (failed again). The lone holder: AAL +2.6% (13.165) — opened 13.03, popped
+to 13.28, pulled to 13.11 and bounced = real RS, BUT mid-OR-range, no clean break-and-hold above the 13.295 OR high yet.
+DECISION: PASS at 9:47 — no clean ORB trigger; CLF is the gap-fade trap (avoid), AAL not yet a clean entry. Logged CLF +
+VALE to REJECTED_TRADES. AAL is the #1 live watch: a break-and-hold over 13.295 OR a pullback-hold ~13.05 = a real trigger
+the all-day engine can take. Gap-fade lesson now 3-for-3 (VALE 10/2, VALE 10/5, CLF 10/6) — a big affordable pre-mkt gap
+is a FADE, not a setup. Options/crypto/margin OFF.
