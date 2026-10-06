@@ -938,3 +938,22 @@ needed (flat). Clean no-real-trade day — correct given no affordable non-chase
 All: stop-first, ≥2:1, wider-than-immediate-base stops per whipsaw lesson. PASSED on IONQ (quantum, lower highs/fading), NCLH (drift/fading vol — same read as real side), SOFI (in-line RS), LCID (thin), RIOT/AAL (rolling over).
 
 **Note:** 0 open paper trades carried into this pass (P-0025 closed 10/5). These 4 are the only open paper positions now.
+
+---
+## 2026-10-06 (Tue) — Intraday engine pass ~11:13 ET (15:13Z) — REAL TRADE TAKEN
+
+**Regime:** RISK-ON grinding higher. SPY 780.93 (+0.79%), QQQ 762.71 (+0.86%), new highs. Nuclear/uranium + cruise still leading; metals red.
+
+**STEP A — REAL $20: TOOK T-2026-0008 NCLH long.** Reconciled FLAT first (0/0, $19.65).
+- The 10:14 #1 watch (NCLH) resolved into the clean trigger I was waiting for. After spiking to 15.61 at the open and fading to 15.37 (10:15), it built a 45-min HIGHER-LOWS base (15.37→15.44→15.47→15.50→15.515), coiled 15.50–15.59, then at 15:05Z BROKE to a new HOD 15.635 on the largest coil-bar volume (161k). 
+- **Bought 1 share @ 15.6274** (break-and-hold, NOT the open spike — the O002/entry-location fix I've been drilling). **Stop-first GTC stop-market @ 15.43** (below the 15.50 coil floor + 15.44 HL shelf, wider than the immediate base per whipsaw lesson), risk $0.20/1.26%. **Target 16.03** (2.04:1). Orders: buy 6ac51085 / stop 6ac51092 (confirmed, broker-held). Snapshot T-2026-0008.json frozen.
+- Thesis: strongest affordable RS leader (+4.9%) in a risk-on tape, cruise=risk-on (coherent), fresh-HOD break on volume = real accumulation. Mirrors the well-executed NCLH 10/2 reclaim.
+- EOD flatten check scheduled 19:50Z (never overnight; cancel stop FIRST then sell).
+- Mgmt plan: breakeven stop only at ~+1R (15.83); exit on thesis-break (loses 15.50 coil + index rolls) per the HL lesson.
+
+**STEP B — PAPER management (4 opened at 10:14):**
+- **P-2026-0027 SMR — STOPPED OUT −1.00R** (−$39.90). Low wicked to exactly 8.050 at 14:50Z = my 8.05 stop. Honored the exact-touch wick (no benefit-of-doubt). Lesson: on cheap high-beta names, round-number stops get wicked — place a hair below the obvious level next time. Setup (HL continuation) was valid; a theme-wide midday pullback took it. A 2–3c wider stop (8.03) would have survived (14:55 low 8.10 held) — noting for calibration, not as regret.
+- **P-2026-0026 UEC** (9.98, from 9.92): holding, pushed to 10.01 HOD, no target(10.40)/stop(9.68). OPEN.
+- **P-2026-0028 OKLO** (38.60, from 38.65): chopped 38.49–39.22, no target(39.85)/stop(38.05). OPEN (~flat).
+- **P-2026-0029 CCL** (26.565, from 26.43): ground up to 26.56, no target(26.99)/stop(26.15). OPEN (+).
+→ 3 paper OPEN (UEC/OKLO/CCL), 1 closed (SMR −1.00R). Interesting: nuclear names split — UEC (base-breaker to new HOD) held, SMR (laggard HL) stopped; the stronger structure held, the weaker gave back. Entry-quality-within-theme matters.

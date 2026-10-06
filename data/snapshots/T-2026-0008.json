@@ -1,0 +1,22 @@
+{
+  "trade_id": "T-2026-0008",
+  "frozen_at": "2026-10-06T15:16:00Z",
+  "symbol": "NCLH",
+  "direction": "long",
+  "mode": "live",
+  "account": "563174713",
+  "entry_time": "2026-10-06T15:15:17Z",
+  "entry_price": 15.6274,
+  "position_size": 1,
+  "stop": 15.43,
+  "target": 16.03,
+  "planned_risk_usd": 0.20,
+  "planned_risk_pct": "1.26%",
+  "rr": 2.04,
+  "regime": {"SPY_pct": 0.79, "QQQ_pct": 0.86, "note": "RISK-ON at new highs, grinding higher through the morning. Clear risk-on rotation: nuclear/uranium + cruise leading, metals/gold miners RED. NCLH (cruise) is a risk-ON name in a risk-ON tape = thesis-coherent."},
+  "setup": "New-intraday-high break-AND-hold after a higher-lows coil. NCLH gapped +2.7% pre-open, spiked to 15.6103 in the first 15 min (9:45 ET), then FADED to 15.37 (10:15). From 15.37 it built a clean 45-min series of HIGHER LOWS (15.37->15.44->15.47->15.50->15.515) and coiled 15.50-15.59 for ~30 min, then at 15:05Z (11:05 ET) BROKE to a new HOD 15.635 on expanding volume (161k, the largest coil bar). Entry 15.6274 is a HOLD just under the breakout = good entry location, NOT the open spike (the O002/entry-location fix: passed the 9:45 vertical, waited for the pullback-reclaim).",
+  "orders": {"buy": "6ac51085-461e-4308-a5c0-4414e59d4581", "stop": "6ac51092-2915-49a8-a0e3-e94cee97a812"},
+  "thesis": "Strongest affordable RS leader on the board (+4.9% vs SPY +0.79%) in a genuinely risk-on tape at new highs. Cruise/travel is a risk-ON beneficiary, so the RS is thesis-coherent (not a fragile divergence). Unlike the morning gap-and-faders, NCLH round-tripped its open fade, rebuilt a higher-lows base, and broke to a NEW HOD on volume = real accumulation. Entry location is the GOOD kind (break-and-hold of the coil, not a vertical chase). Affordable 1 share ($15.63 of $19.65), 0.06% spread, tiny capped risk. This mirrors the well-executed NCLH 10/2 reclaim.",
+  "devils_advocate": "NCLH is +4.9% on the day = extended on an absolute basis; a broad-tape stall into midday could trigger profit-taking in the highest-beta movers. Cruise/travel is headline-sensitive. HOD 15.635 is fresh overhead; target 16.03 needs a real continuation leg (+0.40 above HOD). Mitigated: stop 15.43 is below the 15.50 coil floor AND the 15.44 higher-low shelf (wider than the immediate base per the whipsaw lesson), risk tiny ($0.20/1.26%), mandatory GTC stop live, flatten by EOD (never overnight).",
+  "management_plan": "Manage every engine pass. Raise stop to breakeven only at ~+1R (15.83) (asymmetry: reduce risk only, never add). Bank target 16.03 or flatten by EOD 20:00Z. NEVER overnight. If NCLH loses the 15.50 coil floor decisively AND the index rolls over, the thesis is weakening even above the stop -> tighten/exit discretionarily (the HL lesson: exit on thesis break, don't wait for the full stop). Scheduled EOD close-management check will flatten if still open (cancel the GTC stop FIRST to free the share, then sell)."
+}
