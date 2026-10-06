@@ -986,3 +986,18 @@ All: stop-first, ≥2:1, wider-than-immediate-base stops per whipsaw lesson. PAS
 - New entries: PASSED again. Afternoon tape cooling (O003 late-day caution) + book already expresses the theme + no clean non-extended structure. Discipline over volume.
 
 **Running note:** nuclear/power theme held its gains (UEC +11%, still leading) even as the index cooled — a genuine sector trend, not just beta. NCLH (cruise) is the weaker expression and has stalled; that's the tell to watch for the real position.
+
+---
+## 2026-10-06 (Tue) — Intraday engine pass ~14:13 ET (18:13Z) — MANAGEMENT
+
+**Regime:** RISK-ON, index recovered from the 1pm dip. SPY 780.12 (+0.68%), QQQ 761.34 (+0.68%).
+
+**STEP A — REAL $20: HOLD NCLH (T-2026-0008).** 1 NCLH @ 15.6274, GTC stop 15.43 CONFIRMED. NCLH drifted down all afternoon off its 15.74 peak (lower highs/lows) and is now TESTING the 15.50 breakout-support floor (15.527, chopping 15.49-15.54; ~-0.5R unrealized).
+- **Judgment: normal pullback to the breakout level, NOT a thesis-break.** NCLH is still +4.4% (≈6x SPY's +0.68%) = still a big RS name; index is green/recovered; it's testing BUT holding 15.50. My 15.43 stop was deliberately set BELOW the 15.50 floor for exactly this test — so HOLD and keep the stop, don't get twitched out at the level I pre-planned for (the discipline is to let the buffer do its job; the HL-style early exit applies to a DECISIVE break + index roll, which hasn't happened). If 15.50 breaks decisively next pass, the stop takes the small planned loss.
+- MFE peaked +0.57R (15.74), never hit +1R, so no breakeven move was ever warranted. Two checkpoints left (~15:13 ET pass + 19:50Z EOD flatten).
+
+**STEP B — PAPER:** all 3 OPEN, none hit target/stop.
+- P-0026 UEC 10.305 (from 9.92): tagged 10.39 — ONE PENNY under the 10.40 target (MFE ~+1.96R). Maddening but rules are rules: not filled, stays OPEN.
+- P-0028 OKLO 39.01 (from 38.65): finally broke higher, high 39.30 (MFE ~+1.1R). OPEN — the laggard woke up.
+- P-0029 CCL 26.465 (from 26.43): gave back the midday gain to ~flat. OPEN.
+- New entries: PASSED (late-day O003 + full book). 
