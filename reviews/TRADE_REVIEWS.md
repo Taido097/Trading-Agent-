@@ -971,3 +971,18 @@ All: stop-first, ≥2:1, wider-than-immediate-base stops per whipsaw lesson. PAS
   - P-0029 CCL 26.585 (from 26.43): tagged 26.71, below 26.99 target, MFE ~+1.0R. OPEN.
   - P-0028 OKLO 38.756 (from 38.65): chopping ~flat (38.38-39.22 range). OPEN.
 - New entries: PASSED (no new paper this pass). Rationale: the dominant theme is already expressed by 3 open positions (UEC/OKLO nuclear + CCL cruise); the fresh leaders (VST +11%, LEU +12%, DNN +6%) are all extended into midday — adding correlated longs at stretched levels = chasing (O002) + over-concentration, not a new learning sample. Discipline: let the open book resolve; midday momentum mean-reverts. Market observation logged: powerful nuclear/power trend day.
+
+---
+## 2026-10-06 (Tue) — Intraday engine pass ~13:13 ET (17:13Z) — MANAGEMENT
+
+**Regime:** RISK-ON but COOLING into the afternoon. SPY 779.62 (+0.62%, off the +0.80% midday high), QQQ 760.12 (+0.52%, fading). Not red, but momentum easing.
+
+**STEP A — REAL $20: HOLD NCLH (T-2026-0008).** 1 NCLH long @ 15.6274, GTC stop 15.43 CONFIRMED. NCLH made a new HOD 15.74 (16:35Z/12:35 ET) then eased back to the ~15.63 entry area as the tape cooled. MFE ~+0.57R (peak 15.74), still BELOW the +1R breakeven trigger (15.83) → NO stop change (asymmetry rule; don't tighten into noise). Still above the 15.50-15.60 breakout zone = thesis intact, but momentum stalled. Watch: if it loses 15.50 AND the index weakens next pass, tighten/exit discretionarily (HL lesson). Else hold; flatten EOD (check armed 19:50Z).
+
+**STEP B — PAPER:** all 3 OPEN, none hit target/stop.
+- P-0026 UEC 10.38 (from 9.92): NEARLY at 10.40 target, MFE ~+1.9R (high 10.38). OPEN — uranium leader working beautifully.
+- P-0029 CCL 26.645 (from 26.43): MFE ~+0.8R (high 26.69). OPEN.
+- P-0028 OKLO 38.835 (from 38.65): still chopping ~flat (38.58-39.06). OPEN — the laggard of the nuclear trio.
+- New entries: PASSED again. Afternoon tape cooling (O003 late-day caution) + book already expresses the theme + no clean non-extended structure. Discipline over volume.
+
+**Running note:** nuclear/power theme held its gains (UEC +11%, still leading) even as the index cooled — a genuine sector trend, not just beta. NCLH (cruise) is the weaker expression and has stalled; that's the tell to watch for the real position.
