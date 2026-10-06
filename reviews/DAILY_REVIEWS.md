@@ -899,3 +899,19 @@ DECISION: PASS at 9:47 — no clean ORB trigger; CLF is the gap-fade trap (avoid
 VALE to REJECTED_TRADES. AAL is the #1 live watch: a break-and-hold over 13.295 OR a pullback-hold ~13.05 = a real trigger
 the all-day engine can take. Gap-fade lesson now 3-for-3 (VALE 10/2, VALE 10/5, CLF 10/6) — a big affordable pre-mkt gap
 is a FADE, not a setup. Options/crypto/margin OFF.
+
+---
+# 2026-10-06 (Tuesday) — EOD WRAP
+
+**Market:** RISK-ON trend day, index green most of the session then eased slightly into the close. SPY ~779.4 (+0.59%), QQQ ~760.2 (+0.53%). The story of the day was a **powerful nuclear/uranium/power theme** (VST +11%, LEU +12%, CCJ +7%, UEC +9%, SMR/OKLO +6–7%) while metals/gold miners went red — a clean risk-on rotation into high-beta growth themes. Cruise (NCLH/CCL +4%) rode the same bid.
+
+**REAL $20 — 1 trade, −$0.10 (−0.52R). FLAT at close, no overnight.**
+- **T-2026-0008 NCLH** long 1 @ 15.6274 → 15.5244 (EOD flatten). The 9:47 PASS watch (NCLH) matured at 11:15 ET into a clean break-and-hold of a 45-min higher-lows coil to a new HOD — my best-quality affordable setup of the week, taken with full discipline (entry location, stop-first below the coil, never-overnight). It ran +0.57R, then faded to its breakout floor and chopped; held the 15.50 floor (stop never hit) but no second leg before the close. Small controlled loss. **Process A, outcome small-negative.**
+- Key process win: at the 2pm test of 15.50 I correctly held (distinguished pullback-to-support from thesis-break) rather than panic-exit — the floor then held, validating the pre-planned stop buffer.
+- Recurring structural truth: affordable RS-leader breakouts give clean entries, but a $15 name moving $0.10–0.30 rarely reaches 2:1 intraday, and the never-overnight cap flattens before the follow-through leg (NCLH ran post-exit on 10/2). The edge is in the entries; the $20 size + EOD cap limits realization.
+
+**PAPER — 4 trades, net +0.48R (+$18.95 sim), 3W/1L.** UEC +0.81R, CCL +0.50R, OKLO +0.17R, SMR −1.00R. All theme-coherent (nuclear + cruise). Lesson: on a trend day the theme-leaders all worked but gave back most of their MFE into the afternoon under flat EOD-flatten — a midday partial/trail would have captured materially more. Strongest structure (UEC base-break) > weakest (SMR laggard).
+
+**Capital:** FLAT. ~$19.55 cash (started $19.65; real −$0.10). 0 positions, 0 orders, no overnight. Lifetime real: **−$0.45 (2W/5L)**. Options/crypto/margin OFF.
+
+**Carry-forward for tomorrow:** (1) Watch whether the nuclear/power theme follows through (trend days often have day-2 continuation) — UEC/SMR/DNN affordable, VST/LEU/OKLO/CCJ expensive. (2) Consider proposing a real-side management tweak to the owner: on a clean breakout that reaches +1R intraday, the current rule only moves to breakeven — a small partial/trail might better capture trend-day follow-through within the never-overnight constraint (NOTE: this is a rule-change idea to RAISE with the owner, not to self-authorize). (3) NCLH remains a go-to clean-structure affordable name.

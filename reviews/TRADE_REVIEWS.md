@@ -1016,3 +1016,20 @@ All: stop-first, ≥2:1, wider-than-immediate-base stops per whipsaw lesson. PAS
 - No new paper (last hourly pass; O003).
 
 **Next:** 19:50Z EOD flatten — close NCLH real (cancel stop first), flatten paper at EOD mark, full post-mortems + EOD wrap in DAILY_REVIEWS, update CURRENT_STATE, commit.
+
+---
+## 2026-10-06 (Tue) — EOD FLATTEN (19:51Z / 3:51pm ET) — DAY DONE, FLAT
+
+**REAL — T-2026-0008 NCLH CLOSED: −$0.10 (−0.52R). "GOOD DECISION + LOSS."**
+- Entry 15.6274 (11:15 ET break-and-hold of a 45-min higher-lows coil to a new HOD), stop-first GTC 15.43, target 16.03. Exit 15.5244 at EOD flatten (cancelled stop 6ac51092 first → verified cancelled → sold 1, price-improved to 15.5244 vs 15.50 limit). Flat, no naked orders.
+- Path: ran to +0.57R (15.74) by 12:35 ET, then faded with the broad tape back to the 15.50 breakout floor and chopped 15.48–15.55 all afternoon. HELD the floor (never stopped — the 15.43 buffer did its job) but produced no second leg. Flattened per never-overnight rule.
+- **What was RIGHT (repeat):** (1) Entry location — waited out the 9:45 open spike (O002), took the pullback-reclaim break-and-hold. (2) Stop-first, placed BELOW the 15.50 coil floor (whipsaw buffer) so the afternoon test of 15.50 didn't shake me out. (3) Did NOT get twitched into an early exit at the pre-planned level at 2pm — correctly distinguished "pullback to support" from "thesis-break." (4) Never-overnight discipline executed cleanly (cancel-first then sell).
+- **What to learn:** This is the SECOND NCLH trade (10/2 and 10/6) that was well-executed but scratched/small-lossed at EOD because the breakout didn't extend before the close. Pattern: my affordable RS-leader breakouts are getting GOOD entries but the follow-through leg often comes after my EOD flatten (NCLH 10/2 ran to 15.14 post-exit) or just doesn't come same-day. The edge is real (entries are clean) but the $20/never-overnight constraint caps it — the 2:1 target rarely hits intraday on a $15 name moving $0.10-0.30. Candidly: on a +0.57R MFE, a move to breakeven-stop at +1R never triggered (peak was +0.57R), so there was nothing to bank. Not a mistake — just the math of a slow-follow-through name under an EOD cap.
+- MFE +0.57R / MAE −0.75R (low 15.48; stop 15.43 never hit). Lifetime real now: F −0.11, AAL +0.05, CLF +0.05, VALE −0.20, HL −0.11, NCLH(10/2) −0.03, NCLH(10/6) −0.10 = **−$0.45 (2W/5L)**.
+
+**PAPER — 4 closed today (all flattened EOD): net +0.48R (+$18.95 sim), 3W/1L.**
+- P-0026 UEC +0.81R (+$32.37): uranium leader, clean base-break to new HOD on 2x vol. Tagged 10.39 (1¢ under the 10.40 target!) then faded with the theme; EOD +0.81R. Best setup of the book.
+- P-0029 CCL +0.50R (+$19.88): cruise coil-near-HOD, held gains best.
+- P-0028 OKLO +0.17R (+$6.60): nuclear laggard, ran to 39.30 (+1.08R) then faded to ~entry; scratch-win.
+- P-0027 SMR −1.00R (−$39.90, closed midday): exact-touch stop wick at 8.05.
+- **Paper lesson of the day:** On a powerful theme-trend day (nuclear/uranium VST+11/LEU+12/UEC+9), the theme-leader continuations all WORKED but every one gave back most of its MFE into the afternoon (UEC +1.96R→+0.81R, OKLO +1.08R→+0.17R, CCL +1.0R→+0.5R). A midday partial/trailing rule would have captured far more than the EOD-flatten-at-mark. Also: within one theme, the strongest STRUCTURE (UEC base-break) outperformed the weakest (SMR laggard, stopped) — entry-quality-within-theme is a real edge. Flat-flatten-at-EOD is a blunt exit on a trend day.
