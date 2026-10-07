@@ -1033,3 +1033,12 @@ All: stop-first, ≥2:1, wider-than-immediate-base stops per whipsaw lesson. PAS
 - P-0028 OKLO +0.17R (+$6.60): nuclear laggard, ran to 39.30 (+1.08R) then faded to ~entry; scratch-win.
 - P-0027 SMR −1.00R (−$39.90, closed midday): exact-touch stop wick at 8.05.
 - **Paper lesson of the day:** On a powerful theme-trend day (nuclear/uranium VST+11/LEU+12/UEC+9), the theme-leader continuations all WORKED but every one gave back most of its MFE into the afternoon (UEC +1.96R→+0.81R, OKLO +1.08R→+0.17R, CCL +1.0R→+0.5R). A midday partial/trailing rule would have captured far more than the EOD-flatten-at-mark. Also: within one theme, the strongest STRUCTURE (UEC base-break) outperformed the weakest (SMR laggard, stopped) — entry-quality-within-theme is a real edge. Flat-flatten-at-EOD is a blunt exit on a trend day.
+
+---
+## 2026-10-07 (Wed) — Intraday engine pass ~10:13 ET (14:13Z) — STAND ASIDE
+
+**Regime:** RISK-OFF down-day, persisting. SPY 774.18 (−0.63%), QQQ 753.29 (−0.84%). Whole board red; yesterday's momentum leaders bleeding hard (SMR −6.6%, UEC −4.9%, MARA −4.4%, HL −4.2%, RIOT −2.7%). Classic post-trend-day mean-reversion in full force.
+
+**STEP A — REAL $20: PASS.** Reconciled FLAT ($19.54, 0/0). No affordable name making a genuine supported new high in a uniformly red tape. Nothing to do. NOTE: NCLH broke to −3.1% (15.035) — the 9:47 counter-trend bounce FAILED exactly as flagged → validates both the 9:47 PASS and the "RS-in-a-red-tape fails" lesson. Glad we didn't catch that knife.
+
+**STEP B — PAPER: NO NEW LONGS (deliberate stand-aside).** On a broad red down-day where every candidate is making lower lows, there are no valid long setups. Per the standing lesson (red/flat tape → tighten criteria, momentum mean-reverts, favor coils/pullbacks over breakouts), the correct action is to stand aside rather than manufacture paper longs for volume. Long-only strategy + down tape = cash is the position. This disciplined zero-entry IS the learning record: the regime filter earns its keep by keeping us out of a down day. 0 open paper trades carried in (all closed at yesterday's EOD).
