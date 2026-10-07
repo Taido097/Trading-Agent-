@@ -915,3 +915,28 @@ is a FADE, not a setup. Options/crypto/margin OFF.
 **Capital:** FLAT. ~$19.55 cash (started $19.65; real −$0.10). 0 positions, 0 orders, no overnight. Lifetime real: **−$0.45 (2W/5L)**. Options/crypto/margin OFF.
 
 **Carry-forward for tomorrow:** (1) Watch whether the nuclear/power theme follows through (trend days often have day-2 continuation) — UEC/SMR/DNN affordable, VST/LEU/OKLO/CCJ expensive. (2) Consider proposing a real-side management tweak to the owner: on a clean breakout that reaches +1R intraday, the current rule only moves to breakeven — a small partial/trail might better capture trend-day follow-through within the never-overnight constraint (NOTE: this is a rule-change idea to RAISE with the owner, not to self-authorize). (3) NCLH remains a go-to clean-structure affordable name.
+
+---
+# 2026-10-07 (Wednesday) — PRE-MARKET PREP (~9:17 ET / 13:17Z)
+
+**Reconciliation:** FLAT — $19.54 cash, 0 positions, 0 open orders. Matches internal state (post-NCLH −$0.10). Lifetime real −$0.45 (2W/5L). Options/crypto/margin OFF.
+
+**Regime (pre-market vs 10/6 close):** RISK-OFF LEAN / broad pullback. SPY 776.07 (−0.39%), QQQ 754.27 (−0.71%, tech leading down). After yesterday's risk-on trend day, futures are giving back — and it's BROAD de-risking: yesterday's momentum leaders are down the most (UEC −2.9%, SMR −3.1%, RIOT −2.7%, MARA −3.3%) AND metals also sold off (HL −4.6%, AG −3.8%, BTG −3.1%), so there's no risk-off rotation into gold — just everything red. Classic post-trend-day mean-reversion. → Engine lesson applies: TIGHTEN criteria, favor coils/pullbacks/reclaims over breakouts, no chasing; lean toward PASS unless a clean higher-low reclaim develops after the open shakeout.
+
+**Event risk:** No FOMC today (next meeting late Oct). CPI/PPI not scheduled today (monthly cadence is mid-month). NFP was last Fri (10/2). Primary near-term risk: Q3 EARNINGS SEASON begins ramping next week (big banks ~Oct 14–15) — not today, but travel/cruise (NCLH/CCL) and others become headline-sensitive into their prints. No live econ-calendar tool pulled this pass; regime-based caution stands.
+
+**WIDE-SCREEN WATCHLIST** (hard screen: 1 share ≤ ~$19, liquid, tight spread — pre-market spreads are wide so judged at open; ranked by RS vs SPY −0.39%):
+| Rank | Sym | Pre-mkt | vs close | Note |
+|---|---|---|---|---|
+| 1 | **RIG** | 5.46 | **+1.1%** | ONLY green name; oil driller bucking the red tape = genuine RS (different theme). $5 name — need stop > spread; watch hold/reclaim. |
+| 2 | KVUE | 17.59 | ~0% | Defensive consumer-health; firm but thin/wide pre-mkt spread. |
+| 3 | HBAN | 15.30 | −0.2% | Firmest bank; defensive RS. |
+| 4 | F | 12.20 | −0.7% | Relatively firm. |
+| 5 | SNAP | 5.73 | −0.9% | — |
+| 6 | RIVN | 14.37 | −1.0% | — |
+| 7 | SOFI | 15.56 | −1.3% | — |
+| 8 | NCLH | 15.17 | −2.2% | Yesterday's real trade; giving back. Watch ONLY for a higher-low reclaim of ~15.50, not a knife-catch. |
+| — | UEC/SMR/DNN | 9.82/7.77/2.65 | −2.9/−3.1/−2.2% | Nuclear leaders mean-reverting; watch for washout+reclaim only, else avoid. |
+| excl | CCL/KEY/RF/KGC/SIRI/AMCR/GOLD | >$19 | — | Fail affordability (1 share > ~$19). |
+
+**Decision stance for the 9:47 routine:** LEAN PASS / highly selective. Red-leaning tape + broad mean-reversion = low-probability for longs. Only a clean post-open reclaim/higher-low hold in an affordable RS name (RIG the #1 watch; or a yesterday-leader that holds a higher low and reclaims) would clear the gate — stop-first, ≥2:1, never chase a falling knife. A zero-trade day is the likely correct outcome. Do NOT trade this step.
