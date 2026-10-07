@@ -1064,3 +1064,14 @@ All: stop-first, ≥2:1, wider-than-immediate-base stops per whipsaw lesson. PAS
 **Regime:** Still RISK-OFF but grinding back. SPY 777.12 (−0.25%), QQQ 756.94 (−0.36%). Recovering steadily off the lows but not yet green.
 **STEP A — REAL: PASS.** FLAT ($19.54, 0/0). No affordable name making a genuine supported new high; tape still red. SNAP firmest but flat.
 **STEP B — PAPER: hold SNAP (P-0030), no new entries.** SNAP tagged 5.80 after entry then settled to 5.775, holding above its 5.75 base (higher than the earlier 5.70 base) — OPEN, ~flat (MFE +0.2R, no target/stop). Nothing else breaking cleanly; one rep is enough on a still-red day. Watching for SNAP continuation if SPY reclaims green.
+
+---
+## 2026-10-07 (Wed) — Intraday engine pass ~14:13 ET (18:13Z) — SKIPPED (platform transient) [logged retroactively]
+Could not pull live quotes/positions/git that pass: the broker-tool auto-mode classifier returned no verdict on repeated attempts (transient platform failure affecting ALL action tools incl. Bash). Stopped retrying per guidance. No action taken; nothing at risk (REAL flat/PASS all day, SNAP paper-only). Resolved by the ~15:13 ET pass.
+
+## 2026-10-07 (Wed) — Intraday engine pass ~15:13 ET (19:13Z) — REAL PASS / SNAP paper WORKING
+
+**Regime:** Still RISK-OFF but stabilized. SPY 777.38 (−0.22%), QQQ 756.90 (−0.36%). Grinding sideways-up off the lows; not green.
+**STEP A — REAL: PASS.** FLAT ($19.54, 0/0). No new supported new high in the affordable universe; not chasing SNAP at +2% extended into late day (O003). Tape still red.
+**STEP B — PAPER: hold SNAP (P-0030), no new entries.** SNAP climbed 5.78→HOD 5.90 (+2.1% on day), MFE ~+1.2R; target 5.98 NOT hit, stop 5.68 never threatened. OPEN, strongly in profit. **The stabilization-reclaim thesis is validating**: the green-in-red RS leader LED the afternoon bounce while the broad tape stayed red — a clean confirmation that an RS leader that refuses to go down in a weak tape can lead the turn. Hold into the EOD flatten (~20:00Z); if it tags 5.98 it closes a WIN, else flatten at the EOD mark.
+**Learning note (real side):** SNAP would have been a profitable real trade, but the 12:13 real-PASS was still correct process (regime was red + RS was marginal +0.1% at decision time). Refinement to consider raising with owner: when the broad tape is clearly BASING/turning (not just red) AND an affordable name holds green with a clean higher-lows reclaim, that can warrant real consideration — distinct from a counter-trend bounce. Not a rule change to self-apply; a hypothesis to test in paper first.
