@@ -1057,3 +1057,10 @@ All: stop-first, ≥2:1, wider-than-immediate-base stops per whipsaw lesson. PAS
 **STEP A — REAL: PASS.** FLAT ($19.54, 0/0). SNAP is a valid-ish setup (see below) but real-side PASSED: broad regime still red + SNAP RS marginal (+0.1%) = not enough conviction to commit real capital counter to the day's down-trend before the tape confirms green. Nuclear still crushed (UEC −6.4%, SMR −7.4%).
 **STEP B — PAPER: opened 1 — P-2026-0030 SNAP** 5.78, stop 5.68, tgt 5.98 (400sh). First valid long of the day: green-in-red RS leader, clean higher-lows base off the 5.645 midday low, broke to a new intraday HOD ~5.78 on rising volume as the tape stabilized. Controlled grind (not a spike, O002 ok). Tests the "stabilization + RS reclaim" thesis — the kind of setup that leads a turn if the tape keeps recovering. (KVUE dead-flat/no trend, SOFI chopping — skipped.)
 **Housekeeping:** the 11:13 journal push (stuck on a GitHub 500) went through at the start of this pass; repo current.
+
+---
+## 2026-10-07 (Wed) — Intraday engine pass ~13:13 ET (17:13Z) — REAL PASS / hold
+
+**Regime:** Still RISK-OFF but grinding back. SPY 777.12 (−0.25%), QQQ 756.94 (−0.36%). Recovering steadily off the lows but not yet green.
+**STEP A — REAL: PASS.** FLAT ($19.54, 0/0). No affordable name making a genuine supported new high; tape still red. SNAP firmest but flat.
+**STEP B — PAPER: hold SNAP (P-0030), no new entries.** SNAP tagged 5.80 after entry then settled to 5.775, holding above its 5.75 base (higher than the earlier 5.70 base) — OPEN, ~flat (MFE +0.2R, no target/stop). Nothing else breaking cleanly; one rep is enough on a still-red day. Watching for SNAP continuation if SPY reclaims green.
