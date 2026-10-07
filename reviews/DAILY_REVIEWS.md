@@ -940,3 +940,14 @@ is a FADE, not a setup. Options/crypto/margin OFF.
 | excl | CCL/KEY/RF/KGC/SIRI/AMCR/GOLD | >$19 | — | Fail affordability (1 share > ~$19). |
 
 **Decision stance for the 9:47 routine:** LEAN PASS / highly selective. Red-leaning tape + broad mean-reversion = low-probability for longs. Only a clean post-open reclaim/higher-low hold in an affordable RS name (RIG the #1 watch; or a yesterday-leader that holds a higher low and reclaims) would clear the gate — stop-first, ≥2:1, never chase a falling knife. A zero-trade day is the likely correct outcome. Do NOT trade this step.
+
+## 2026-10-07 (Wed) — 9:47 ET OPENING-RANGE DECISION: **PASS**
+
+**Reconciled:** FLAT, $19.54, 0/0. **Regime at the open: RISK-OFF, WEAKENING.** SPY 774.38 (−0.60%, worse than the −0.39% pre-mkt), QQQ 752.30 (−0.97%). Market opened red and is deteriorating — NOT a supportive regime for ORB longs.
+
+**Opening-range scan (9:30–9:45 ET):**
+- **RIG** (#1 pre-mkt watch, +1.1% pre-mkt) — FADED: OR 5.42–5.50, now 5.415 BELOW the OR high. Pre-market green evaporated at the open (gap-fade pattern). REJECT.
+- **NCLH** — firmest affordable name (bouncing 15.19→15.29 toward OR high 15.30) BUT it's −1.6% on the day = a counter-trend bounce within a down-gap in a red tape. ORB gate requires a supportive regime (fails); "RS-in-a-red-tape fails" for risk-on names (hardened lesson). REJECT (not a genuine supported new high).
+- UEC 9.56 (gapped down, dumped from 9.795→9.485 first bar), SMR 7.55 (dumped), AAL 12.73 (faded from 12.83 OR high), HBAN 15.045 (rolling over), F 12.13 (weak), SOFI 15.58 (mid-range, below 15.67 OR high) — all weak/fading. No clean supported break.
+
+**DECISION: PASS (real $20).** Red/weakening regime + no affordable name making a genuine regime-supported new high + the pre-market RS leader (RIG) faded. Forcing a long here fails the regime gate and the RS-in-red-tape lesson. A zero-trade day is the correct outcome. 2 rejections logged (RIG, NCLH). The hourly engine remains the safety net if a clean reclaim develops later; otherwise paper-only for learning.
