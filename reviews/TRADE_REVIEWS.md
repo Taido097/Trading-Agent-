@@ -1075,3 +1075,14 @@ Could not pull live quotes/positions/git that pass: the broker-tool auto-mode cl
 **STEP A — REAL: PASS.** FLAT ($19.54, 0/0). No new supported new high in the affordable universe; not chasing SNAP at +2% extended into late day (O003). Tape still red.
 **STEP B — PAPER: hold SNAP (P-0030), no new entries.** SNAP climbed 5.78→HOD 5.90 (+2.1% on day), MFE ~+1.2R; target 5.98 NOT hit, stop 5.68 never threatened. OPEN, strongly in profit. **The stabilization-reclaim thesis is validating**: the green-in-red RS leader LED the afternoon bounce while the broad tape stayed red — a clean confirmation that an RS leader that refuses to go down in a weak tape can lead the turn. Hold into the EOD flatten (~20:00Z); if it tags 5.98 it closes a WIN, else flatten at the EOD mark.
 **Learning note (real side):** SNAP would have been a profitable real trade, but the 12:13 real-PASS was still correct process (regime was red + RS was marginal +0.1% at decision time). Refinement to consider raising with owner: when the broad tape is clearly BASING/turning (not just red) AND an affordable name holds green with a clean higher-lows reclaim, that can warrant real consideration — distinct from a counter-trend bounce. Not a rule change to self-apply; a hypothesis to test in paper first.
+
+---
+## 2026-10-07 (Wed) — EOD (20:13Z / 4:13pm ET) — DAY DONE, FLAT
+
+**REAL $20: 0 trades — PASS all day (correct).** Risk-off red day (SPY opened −0.63%, closed ~−0.25%; QQQ −0.26%). No regime-supported new high in the affordable universe at any pass; the 9:47 watch (RIG faded, NCLH counter-trend bounce) and all later scans failed the gate. Reconciled FLAT ($19.54, 0/0) at the close. Lifetime real UNCHANGED: −$0.45 (2W/5L). This is exactly the capital-preservation outcome the regime filter is for — a down day with no forced trades.
+
+**PAPER: 1 trade — P-0030 SNAP +0.30R (+$12 sim), "GOOD DECISION + WIN."** Entered 5.78 at 12:13 as the first valid long of the day (green-in-red RS leader, higher-lows reclaim as the tape stabilized); EOD-flattened 5.81. Thesis CONFIRMED on direction — SNAP LED the afternoon bounce, running to 5.90 (+1.2R MFE) while the broad tape stayed red. But EOD-flatten captured only +0.30R of that +1.2R. **2nd straight session where MFE >> realized under the flat EOD exit (NCLH 10/6, SNAP 10/7)** — strong, repeated evidence that a midday partial/trail would materially improve capture. (Rule-change idea for owner, not self-applied.)
+
+**Platform note:** the ~14:13 ET engine pass was skipped (broker-tool classifier transient, no verdict on all action tools); recovered by 15:13. No impact — real flat, SNAP paper-only.
+
+**Day tally:** REAL 0 trades (−$0.45 lifetime, 2W/5L). PAPER 10/7: 1W (SNAP +0.30R). Correct no-real-trade day in a risk-off tape; the one paper rep validated the stabilization-reclaim read and added another data point for the trail-vs-flat-EOD question.

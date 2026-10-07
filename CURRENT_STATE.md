@@ -5,9 +5,7 @@
 > intent and status; it is NOT the brokerage record (that comes from
 > reconciliation).
 
-**Last updated:** 2026-10-07 (Wed, ~13:13pm ET / 17:13Z — **FLAT**, $19.54, 0/0. Risk-off but RECOVERING (SPY −0.25% off the −0.63% low, QQQ −0.36%). REAL: PASS all day (no supported new high in affordable universe; tape red). PAPER: 1 OPEN — P-0030 SNAP long 5.78 (green-in-red RS leader, new-HOD off higher-lows base; stop 5.68, tgt 5.98), currently ~flat 5.775. No new entries (still-red tape). Lifetime real −$0.45 (2W/5L). Options/crypto/margin OFF. Prior status below. ⟶
-
-> _earlier 10/7 (10:13–12:13):_ stand-aside on the down-day; SNAP paper added at 12:13 as the tape stabilized.
+**Last updated:** 2026-10-07 (Wed, EOD 4:13pm ET / 20:13Z — **DAY DONE, FLAT**, $19.54 cash, 0 positions, 0 orders, no overnight). RISK-OFF pullback day (SPY opened −0.63%, closed −0.25%; QQQ −0.26%) after Tue's trend-up; momentum leaders + metals mean-reverted hard (UEC −6%, SMR −7%). REAL: 0 trades — PASS all day (correct). No regime-supported new high in a red/weakening tape at any pass; 9:47 RIG/NCLH rejections validated (RIG faded, NCLH −3%). Capital preserved; lifetime real UNCHANGED −$0.45 (2W/5L). PAPER: 1 trade — P-0030 SNAP +0.30R (+$12 sim), green-in-red RS leader that LED the afternoon bounce (ran +1.2R MFE, EOD-flattened +0.30R). 2 recurring lessons: (1) regime filter earns its keep — 0 forced trades on a down day = correct; (2) flat EOD-flatten keeps giving back MFE (2nd straight day MFE>>realized: NCLH 10/6, SNAP 10/7) → midday-partial/trail is a well-supported refinement to raise with owner (not self-applied). Platform note: 14:13 ET pass skipped on a transient broker-tool classifier outage (recovered 15:13; no impact — real flat). Options/crypto/margin OFF.)
 
 ---
 

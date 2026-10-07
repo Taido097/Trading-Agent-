@@ -951,3 +951,19 @@ is a FADE, not a setup. Options/crypto/margin OFF.
 - UEC 9.56 (gapped down, dumped from 9.795→9.485 first bar), SMR 7.55 (dumped), AAL 12.73 (faded from 12.83 OR high), HBAN 15.045 (rolling over), F 12.13 (weak), SOFI 15.58 (mid-range, below 15.67 OR high) — all weak/fading. No clean supported break.
 
 **DECISION: PASS (real $20).** Red/weakening regime + no affordable name making a genuine regime-supported new high + the pre-market RS leader (RIG) faded. Forcing a long here fails the regime gate and the RS-in-red-tape lesson. A zero-trade day is the correct outcome. 2 rejections logged (RIG, NCLH). The hourly engine remains the safety net if a clean reclaim develops later; otherwise paper-only for learning.
+
+---
+# 2026-10-07 (Wednesday) — EOD WRAP
+
+**Market:** RISK-OFF pullback day after Tuesday's trend-up. SPY opened −0.63%, closed ~777.17 (−0.25%); QQQ −0.26%. Broad de-risking at the open (yesterday's momentum leaders + metals all hit), then a steady grind back that recovered most of the drop but stayed red. Nuclear/uranium (Tue's leaders) mean-reverted hard (UEC −6%, SMR −7%).
+
+**REAL $20 — 0 trades, FLAT at close. CORRECT no-trade day.** Both the 9:47 OR decision and all 6 engine passes PASSED: no affordable name made a genuine regime-supported new high in a red/weakening tape. The 9:47 RIG/NCLH rejections were validated (RIG faded, NCLH broke −3%). Capital preserved; the regime filter did its job keeping us out of a down day. Lifetime real: **−$0.45 (2W/5L)**, unchanged.
+
+**PAPER — 1 trade, +0.30R (+$12 sim), 1W/0L.** SNAP long (green-in-red RS leader, stabilization reclaim) — the ONE valid long of the day, taken as the tape stopped going down. Led the afternoon bounce to +1.2R MFE, EOD-flattened +0.30R.
+
+**Two recurring lessons reinforced:**
+1. **Regime filter earns its keep on down days** — zero forced real trades in a red tape = the correct, disciplined outcome.
+2. **Flat EOD-flatten keeps leaving money on the table** — 2nd straight day (NCLH 10/6, SNAP 10/7) where MFE (+0.6R / +1.2R) >> realized (−0.5R / +0.3R). A midday partial/trail is now a well-supported refinement to propose to the owner.
+
+**Capital:** FLAT, $19.54 cash, 0 positions/orders, no overnight. Options/crypto/margin OFF.
+**Carry-forward:** watch for a follow-through bounce tomorrow (if SPY reclaims green, the SNAP-type RS leaders that held today become real candidates); nuclear names deeply oversold after the 2-day reversal (UEC/SMR) — watch for a washout-reclaim, not a knife-catch.
