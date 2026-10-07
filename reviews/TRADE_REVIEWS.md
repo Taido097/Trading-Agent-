@@ -1042,3 +1042,10 @@ All: stop-first, ≥2:1, wider-than-immediate-base stops per whipsaw lesson. PAS
 **STEP A — REAL $20: PASS.** Reconciled FLAT ($19.54, 0/0). No affordable name making a genuine supported new high in a uniformly red tape. Nothing to do. NOTE: NCLH broke to −3.1% (15.035) — the 9:47 counter-trend bounce FAILED exactly as flagged → validates both the 9:47 PASS and the "RS-in-a-red-tape fails" lesson. Glad we didn't catch that knife.
 
 **STEP B — PAPER: NO NEW LONGS (deliberate stand-aside).** On a broad red down-day where every candidate is making lower lows, there are no valid long setups. Per the standing lesson (red/flat tape → tighten criteria, momentum mean-reverts, favor coils/pullbacks over breakouts), the correct action is to stand aside rather than manufacture paper longs for volume. Long-only strategy + down tape = cash is the position. This disciplined zero-entry IS the learning record: the regime filter earns its keep by keeping us out of a down day. 0 open paper trades carried in (all closed at yesterday's EOD).
+
+---
+## 2026-10-07 (Wed) — Intraday engine pass ~11:13 ET (15:13Z) — STAND ASIDE (cont.)
+
+**Regime:** Still RISK-OFF, weak bounce off the lows. SPY 774.88 (−0.54%, off −0.63% low), QQQ 755.17 (−0.59%). Red, not supportive.
+**STEP A — REAL: PASS.** FLAT ($19.54, 0/0). Board still red (NCLH −3.7%, UEC −5.1%, CLF −2.7%). Firmest affordable name KVUE −0.14% (defensive, flat) = "not going down," NOT a breakout/volume-thrust long. No genuine supported new high → nothing qualifies.
+**STEP B — PAPER: no new longs (stand-aside cont.).** A weak bounce within a downtrend isn't a long setup; long-only + red tape = cash. No open paper. Holding discipline; watching for a real reclaim-with-volume later, else quiet no-trade day.
