@@ -1093,3 +1093,10 @@ Could not pull live quotes/positions/git that pass: the broker-tool auto-mode cl
 **Regime:** RISK-OFF day 2, stabilizing. SPY 776.04 (−0.15%, off the −0.33% open), QQQ 754.46 (−0.43%). Still red.
 **STEP A — REAL: PASS.** FLAT ($19.54, 0/0). **9:47 metals watch VINDICATED**: HL popped to HOD 16.57 then FADED to 16.48 within 40 min (counter-cyclical RS short half-life, exactly as flagged); VALE same (13.715→13.63). No volume-backed hold → correctly avoided. RIG (below) is the one real WATCH but regime still red + it faded once this week → paper first, real only on tape confirmation.
 **STEP B — PAPER: opened 1 — P-0031 RIG** 5.53, stop 5.44, tgt 5.71 (444sh). RIG broke its 5.53 OR high to 5.57 on a genuine VOLUME SURGE (265k→579k→410k vs ~80-130k earlier) and is holding the breakout — day's clearest RS leader (green 2nd day in a red tape), volume CONFIRMED (the discriminator vs the failed metals bounce). Tests whether a volume-confirmed OR-break-hold by the RS leader follows through on a red-but-stabilizing tape.
+
+---
+## 2026-10-08 (Thu) — Intraday engine pass ~11:13 ET (15:13Z) — REAL PASS / hold RIG paper
+
+**Regime:** Still RISK-OFF, choppy. SPY 775.01 (−0.28%, ticked back down from −0.15%), QQQ 754.34 (−0.45%). Not green.
+**STEP A — REAL: PASS.** FLAT ($19.54, 0/0). RIG (real watch) held + extended but (1) regime never confirmed green (my stated condition), and (2) it's now mid-pullback after a +0.89R run → a real entry here = chase, not clean location. Correct to keep waiting for a higher-low reclaim with the tape stabilizing, or a new-HOD break on a green tape. Metals (HL 16.43/VALE 13.64) stayed faded — 9:47 pass remains vindicated.
+**STEP B — PAPER: hold RIG (P-0031), no new entries.** RIG climbed 5.53→HOD 5.61 (+0.89R MFE) on higher-lows, now 5.565 (~+0.4R); target 5.71 unhit, stop 5.44 never near. KEY OBSERVATION: RIG has held its breakout ~1.5 hrs — genuinely MORE durable RS than the metals bounces (HL/VALE faded in 40 min). The oil RS is proving stickier than the metals oversold-bounce. Nothing else breaking cleanly; one rep (RIG) is enough on a red day.
