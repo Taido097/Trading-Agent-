@@ -1107,3 +1107,10 @@ Could not pull live quotes/positions/git that pass: the broker-tool auto-mode cl
 **Regime:** Still RISK-OFF, lunchtime drift lower. SPY 774.80 (−0.31%), QQQ 752.97 (−0.63%). Not green.
 **STEP A — REAL: PASS.** FLAT ($19.54, 0/0). Tape never confirmed green (my RIG real condition); RIG chopping sideways = no clean new entry. Metals (HL 16.40 flat, VALE 13.55 red) fully faded — 9:47 pass fully vindicated.
 **STEP B — PAPER: hold RIG (P-0031), no new entries.** RIG consolidated 5.55–5.59 through lunch, holding the breakout but momentum stalled; 5.565 (~+0.4R), MFE 5.61 (+0.89R) earlier, target 5.71 unhit, stop 5.44 never near. Durable hold (now ~2h above breakout) but no fresh thrust. Quiet midday; nothing else clean — one rep stands.
+
+---
+## 2026-10-08 (Thu) — Intraday engine pass ~13:13 ET (17:13Z) — REAL PASS / hold RIG paper
+
+**Regime:** RISK-OFF INTENSIFYING. SPY 772.99 (−0.54%), QQQ 747.83 (−1.30% — tech breaking down into the afternoon, not recovering). Day-2 pullback accelerating.
+**STEP A — REAL: PASS.** FLAT ($19.54, 0/0). Regime red AND worsening = the opposite of my green-tape condition; buying a long into an accelerating selloff violates capital-preservation #1. Clear PASS. (Note: HL came back to a new HOD 16.62 (+1.4%) as the safe-haven bid reasserted on the QQQ breakdown — but re-entering it now, extended + late-day into a worsening tape, would be a chase; not doing it.)
+**STEP B — PAPER: hold RIG (P-0031), no new entries.** RIG is the standout — STILL green +3.7% (5.589), firming while QQQ craters −1.3%; held its 5.52 support through a 463k-vol dip. ~+0.4R, MFE +0.89R, target 5.71 unhit, stop 5.44 never near. Impressively DURABLE counter-cyclical RS (oil holding green against an accelerating tech selloff) — a cleaner example than the metals. Hold to target or EOD flatten; if it loses 5.52 with the tape still cratering next pass, flatten early. No new longs into a worsening tape (O003).
