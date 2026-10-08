@@ -1086,3 +1086,10 @@ Could not pull live quotes/positions/git that pass: the broker-tool auto-mode cl
 **Platform note:** the ~14:13 ET engine pass was skipped (broker-tool classifier transient, no verdict on all action tools); recovered by 15:13. No impact — real flat, SNAP paper-only.
 
 **Day tally:** REAL 0 trades (−$0.45 lifetime, 2W/5L). PAPER 10/7: 1W (SNAP +0.30R). Correct no-real-trade day in a risk-off tape; the one paper rep validated the stabilization-reclaim read and added another data point for the trail-vs-flat-EOD question.
+
+---
+## 2026-10-08 (Thu) — Intraday engine pass ~10:13 ET (14:13Z) — REAL PASS / 1 PAPER (RIG)
+
+**Regime:** RISK-OFF day 2, stabilizing. SPY 776.04 (−0.15%, off the −0.33% open), QQQ 754.46 (−0.43%). Still red.
+**STEP A — REAL: PASS.** FLAT ($19.54, 0/0). **9:47 metals watch VINDICATED**: HL popped to HOD 16.57 then FADED to 16.48 within 40 min (counter-cyclical RS short half-life, exactly as flagged); VALE same (13.715→13.63). No volume-backed hold → correctly avoided. RIG (below) is the one real WATCH but regime still red + it faded once this week → paper first, real only on tape confirmation.
+**STEP B — PAPER: opened 1 — P-0031 RIG** 5.53, stop 5.44, tgt 5.71 (444sh). RIG broke its 5.53 OR high to 5.57 on a genuine VOLUME SURGE (265k→579k→410k vs ~80-130k earlier) and is holding the breakout — day's clearest RS leader (green 2nd day in a red tape), volume CONFIRMED (the discriminator vs the failed metals bounce). Tests whether a volume-confirmed OR-break-hold by the RS leader follows through on a red-but-stabilizing tape.
