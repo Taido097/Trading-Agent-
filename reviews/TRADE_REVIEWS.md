@@ -1100,3 +1100,10 @@ Could not pull live quotes/positions/git that pass: the broker-tool auto-mode cl
 **Regime:** Still RISK-OFF, choppy. SPY 775.01 (−0.28%, ticked back down from −0.15%), QQQ 754.34 (−0.45%). Not green.
 **STEP A — REAL: PASS.** FLAT ($19.54, 0/0). RIG (real watch) held + extended but (1) regime never confirmed green (my stated condition), and (2) it's now mid-pullback after a +0.89R run → a real entry here = chase, not clean location. Correct to keep waiting for a higher-low reclaim with the tape stabilizing, or a new-HOD break on a green tape. Metals (HL 16.43/VALE 13.64) stayed faded — 9:47 pass remains vindicated.
 **STEP B — PAPER: hold RIG (P-0031), no new entries.** RIG climbed 5.53→HOD 5.61 (+0.89R MFE) on higher-lows, now 5.565 (~+0.4R); target 5.71 unhit, stop 5.44 never near. KEY OBSERVATION: RIG has held its breakout ~1.5 hrs — genuinely MORE durable RS than the metals bounces (HL/VALE faded in 40 min). The oil RS is proving stickier than the metals oversold-bounce. Nothing else breaking cleanly; one rep (RIG) is enough on a red day.
+
+---
+## 2026-10-08 (Thu) — Intraday engine pass ~12:13 ET (16:13Z) — REAL PASS / hold RIG paper (quiet)
+
+**Regime:** Still RISK-OFF, lunchtime drift lower. SPY 774.80 (−0.31%), QQQ 752.97 (−0.63%). Not green.
+**STEP A — REAL: PASS.** FLAT ($19.54, 0/0). Tape never confirmed green (my RIG real condition); RIG chopping sideways = no clean new entry. Metals (HL 16.40 flat, VALE 13.55 red) fully faded — 9:47 pass fully vindicated.
+**STEP B — PAPER: hold RIG (P-0031), no new entries.** RIG consolidated 5.55–5.59 through lunch, holding the breakout but momentum stalled; 5.565 (~+0.4R), MFE 5.61 (+0.89R) earlier, target 5.71 unhit, stop 5.44 never near. Durable hold (now ~2h above breakout) but no fresh thrust. Quiet midday; nothing else clean — one rep stands.

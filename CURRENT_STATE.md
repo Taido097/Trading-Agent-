@@ -5,7 +5,7 @@
 > intent and status; it is NOT the brokerage record (that comes from
 > reconciliation).
 
-**Last updated:** 2026-10-07 (Wed, EOD 4:13pm ET / 20:13Z — **DAY DONE, FLAT**, $19.54 cash, 0 positions, 0 orders, no overnight). RISK-OFF pullback day (SPY opened −0.63%, closed −0.25%; QQQ −0.26%) after Tue's trend-up; momentum leaders + metals mean-reverted hard (UEC −6%, SMR −7%). REAL: 0 trades — PASS all day (correct). No regime-supported new high in a red/weakening tape at any pass; 9:47 RIG/NCLH rejections validated (RIG faded, NCLH −3%). Capital preserved; lifetime real UNCHANGED −$0.45 (2W/5L). PAPER: 1 trade — P-0030 SNAP +0.30R (+$12 sim), green-in-red RS leader that LED the afternoon bounce (ran +1.2R MFE, EOD-flattened +0.30R). 2 recurring lessons: (1) regime filter earns its keep — 0 forced trades on a down day = correct; (2) flat EOD-flatten keeps giving back MFE (2nd straight day MFE>>realized: NCLH 10/6, SNAP 10/7) → midday-partial/trail is a well-supported refinement to raise with owner (not self-applied). Platform note: 14:13 ET pass skipped on a transient broker-tool classifier outage (recovered 15:13; no impact — real flat). Options/crypto/margin OFF.)
+**Last updated:** 2026-10-08 (Thu, ~12:13pm ET / 16:13Z — **FLAT**, $19.54, 0/0. RISK-OFF day 2 (SPY −0.31%, QQQ −0.63%), pullback extending. REAL: PASS all day — 9:15 prep + 9:47 OR + all engine passes; metals bounce (HL/VALE) faded = vindicated; RIG is the day's RS leader (oil, green 2nd day) and a real WATCH but gated on tape-green (not met) + no clean entry. PAPER: 1 OPEN — P-0031 RIG long 5.53 (volume-confirmed OR break-hold; stop 5.44, tgt 5.71), ~+0.4R, MFE +0.89R, durable ~2h hold. Lifetime real −$0.45 (2W/5L). Options/crypto/margin OFF. Prior 10/7 EOD below. ⟶
 
 ---
 
