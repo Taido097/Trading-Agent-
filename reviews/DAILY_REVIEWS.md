@@ -967,3 +967,27 @@ is a FADE, not a setup. Options/crypto/margin OFF.
 
 **Capital:** FLAT, $19.54 cash, 0 positions/orders, no overnight. Options/crypto/margin OFF.
 **Carry-forward:** watch for a follow-through bounce tomorrow (if SPY reclaims green, the SNAP-type RS leaders that held today become real candidates); nuclear names deeply oversold after the 2-day reversal (UEC/SMR) — watch for a washout-reclaim, not a knife-catch.
+
+---
+# 2026-10-08 (Thursday) — PRE-MARKET PREP (~9:18 ET / 13:18Z)
+
+**Reconciliation:** FLAT — $19.54 cash, 0 positions, 0 open orders. Matches internal state. Lifetime real −$0.45 (2W/5L). Options/crypto/margin OFF.
+
+**Regime (pre-market vs 10/7 close):** RISK-OFF again — SPY 774.64 (−0.33%), QQQ 753.66 (−0.54%, tech weaker). 2nd straight down/red open after Tuesday's trend-up; the pullback is extending. Broadly red across the universe again.
+
+**Event risk:** No FOMC today; no CPI/PPI scheduled (mid-month cadence). Q3 earnings season starts ramping next week (big banks ~Oct 14–15) — travel/cruise & financials become headline-sensitive into prints. No live econ-calendar tool pulled; regime-based caution stands.
+
+**WIDE-SCREEN WATCHLIST** (hard screen: 1 share ≤ ~$19, liquid, tight spread; ranked by RS vs SPY −0.33%):
+| Rank | Sym | Pre-mkt | vs close | Note |
+|---|---|---|---|---|
+| 1 | **RIG** | 5.51 | **+2.2%** | Lone strong green again (oil driller, 2nd day pre-mkt RS). BUT faded at the open yesterday (gap-fade) → this time require a genuine break-AND-HOLD over the OR high, NOT just pre-mkt green. #1 watch, prove-it. |
+| 2 | HL | 16.35 | −0.2% | Metals stabilizing after a brutal 2-day selloff (−4.6% Tue); watch for an oversold reversal/reclaim, not a knife-catch. |
+| 2 | VALE | 13.55 | −0.4% | Same metals-stabilizing theme; firmer than the tape. |
+| 4 | HBAN | 15.10 | −0.5% | Firm bank, defensive RS. |
+| 5 | F | 12.05 | −0.6% | Relatively firm. |
+| 6 | SNAP | 5.79 | −0.3% | Yesterday's paper winner; gave it back to ~flat. Watch for a reclaim of 5.81. |
+| — | NCLH/CCL/AAL | 14.73/25.58/12.59 | −2.0/−2.2/−2.0% | Still bleeding; avoid. |
+| — | UEC/SMR/MARA/RIOT | 9.36/7.50/10.19/18.18 | −1.2/−2.2/−1.6/−1.9% | Nuclear/crypto still soft (less awful than Tue). |
+| excl | CCL/KVUE(illiquid pre-mkt) | — | — | CCL>$19... wait CCL 25.58>$19 excl; KVUE $17.53 ok but wide stale pre-mkt spread. |
+
+**Decision stance for 9:47:** LEAN PASS / selective, 2nd straight red tape. Only a clean post-open break-and-hold in an affordable RS name clears the gate. RIG is #1 but on PROBATION after yesterday's open-fade — needs to hold its OR high on volume, not just gap green. Metals (HL/VALE) oversold-bounce is a secondary watch (reclaim only). A zero-real-trade day is again the likely correct outcome. Do NOT trade this step.
