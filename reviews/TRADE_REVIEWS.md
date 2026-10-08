@@ -1118,3 +1118,7 @@ Could not pull live quotes/positions/git that pass: the broker-tool auto-mode cl
 ---
 ## 2026-10-08 (Thu) — Intraday engine pass ~14:13 ET (18:13Z) — REAL PASS / hold RIG paper
 **Regime:** RISK-OFF deepening. SPY 772.22 (−0.64%), QQQ 746.33 (−1.50%). **STEP A REAL: PASS** (FLAT $19.54; red+worsening tape = no-long). **STEP B PAPER: hold RIG (P-0031)** — ground to 5.61 then eased to 5.57, still green +3.3%, holding its range vs a −1.5% QQQ (model counter-cyclical RS durability). ~+0.3R, target 5.71 unhit, stop 5.44 never near. No new entries (tape worsening, O003). EOD flatten next (~20:00Z).
+
+---
+## 2026-10-08 (Thu) — Intraday engine pass ~15:13 ET (19:13Z) — REAL PASS / hold RIG (last hourly pre-EOD)
+**Regime:** RISK-OFF into the close. SPY 772.83 (−0.56%), QQQ 745.70 (−1.59%). **STEP A REAL: PASS** (FLAT $19.54; red tape all day). **STEP B PAPER: hold RIG (P-0031)** — drifted back to ~entry (5.549, ~+0.1R); held green +3.0% all day as the RS leader but momentum faded, topped 5.61 (+0.89R MFE), never reached the 5.71 target. Stop 5.44 never near. Hold into the 20:00Z EOD flatten. No new entries (last hour, red tape, O003).
