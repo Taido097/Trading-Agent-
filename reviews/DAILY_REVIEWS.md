@@ -1004,3 +1004,20 @@ is a FADE, not a setup. Options/crypto/margin OFF.
 
 **DECISION: PASS (real $20).** HL/VALE broke their OR highs, but the full gate fails: ORB needs break-and-hold + ABOVE-AVERAGE volume + supportive regime. HL/VALE are breaking on FADING volume into a RED/worsening tape, after metals fell 2 straight days (oversold-bounce/knife-catch risk). My hardened lesson from the near-identical HL 10/1 trade is explicit: **counter-cyclical RS has short half-life.** 2 of 3 conditions fail → PASS and require volume-backed confirmation. 3 rejections logged (HL #1-watch, VALE #2-watch, RIG faded).
 **Live watch for the hourly engine:** HL on a VOLUME-BACKED break-and-hold of ~16.52 (precious-metals safe-haven is the cleanest affordable thesis today); VALE secondary. If the tape stabilizes AND volume confirms, that's a real-trade candidate this is NOT a no, it's a not-yet.
+
+---
+# 2026-10-08 (Thursday) — EOD WRAP
+
+**Market:** 2nd straight RISK-OFF day, tech-led. SPY closed ~773.88 (−0.43%), QQQ 747.57 (−1.34%). Opened red, tried to stabilize mid-morning, then sold off harder into the afternoon (QQQ −1.5% intraday) before a small bounce into the close. The 2-day pullback from Tuesday's highs extended.
+
+**REAL $20 — 0 trades, FLAT. CORRECT no-trade day (2nd running).** Every gate PASSED: 9:47 OR (metals HL/VALE broke OR highs but on fading volume → faded, vindicated), and all 6 engine passes. RIG (oil, the day's clearest RS leader, green +3% all day) was a genuine real WATCH but the gate condition (supportive/green tape) never triggered and every potential entry after the first break would've been a chase. No forced trades into an accelerating selloff = capital-preservation #1 working. Lifetime real: **−$0.45 (2W/5L)**, unchanged.
+
+**PAPER — 1 trade, RIG +0.06R (+$2.22 sim), scratch.** Volume-confirmed OR-break-hold; held green all day as the model counter-cyclical RS name (vs the metals bounce that faded in 40 min) but a $5 name never reached 2:1; EOD-flattened near entry.
+
+**Two reinforced lessons:**
+1. **Regime filter + patience = the edge on down days.** Two consecutive red days, zero forced real trades, zero drawdown. The discipline is the performance.
+2. **Exit management is the biggest open improvement.** 3 straight days of MFE >> realized under flat 2:1 + EOD-flatten (NCLH +0.6→−0.5R, SNAP +1.2→+0.3R, RIG +0.89→+0.06R). A midday partial or trailing stop is now a well-evidenced, specific proposal for the owner.
+3. (Bonus) Counter-cyclical RS durability is sector-dependent: oil (RIG) held all day; precious/base metals (HL/VALE) faded fast.
+
+**Capital:** FLAT, $19.54 cash, 0 positions/orders, no overnight. Options/crypto/margin OFF.
+**Carry-forward:** 2-day pullback — watch for either (a) a stabilization/reclaim bounce (SNAP-type green-in-red leaders), or (b) continued risk-off (oil/RIG + defensives the RS). Still no affordable clean real setup until the tape stabilizes; patience remains correct.

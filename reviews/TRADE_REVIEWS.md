@@ -1122,3 +1122,13 @@ Could not pull live quotes/positions/git that pass: the broker-tool auto-mode cl
 ---
 ## 2026-10-08 (Thu) — Intraday engine pass ~15:13 ET (19:13Z) — REAL PASS / hold RIG (last hourly pre-EOD)
 **Regime:** RISK-OFF into the close. SPY 772.83 (−0.56%), QQQ 745.70 (−1.59%). **STEP A REAL: PASS** (FLAT $19.54; red tape all day). **STEP B PAPER: hold RIG (P-0031)** — drifted back to ~entry (5.549, ~+0.1R); held green +3.0% all day as the RS leader but momentum faded, topped 5.61 (+0.89R MFE), never reached the 5.71 target. Stop 5.44 never near. Hold into the 20:00Z EOD flatten. No new entries (last hour, red tape, O003).
+
+---
+## 2026-10-08 (Thu) — EOD (20:13Z / 4:13pm ET) — DAY DONE, FLAT
+
+**REAL $20: 0 trades — PASS all day (correct).** 2nd straight RISK-OFF day: SPY closed ~773.88 (−0.43%), QQQ 747.57 (−1.34%, tech-led). No regime-supported setup at any pass; 9:47 metals bounce (HL/VALE) faded = vindicated; RIG (RS leader) stayed a watch but tape never confirmed green + entries would've been chases. FLAT ($19.54, 0/0). Lifetime real UNCHANGED: −$0.45 (2W/5L). Capital preserved across a 2-day pullback — the regime filter earning its keep again.
+
+**PAPER: 1 trade — P-0031 RIG +0.06R (+$2.22 sim), "GOOD DECISION + SCRATCH."** Entered 5.53 (10:13, volume-confirmed OR-break-hold); EOD-flattened 5.535. RIG was the model counter-cyclical RS name — held green all day (+3%) while QQQ fell 1.3%, FAR stickier than the metals bounce (which faded in 40 min). But as a $5 name it never reached the 2:1 target (topped 5.61, +0.89R MFE) and drifted to ~entry by the close.
+
+**Lesson reinforced (3rd straight day):** MFE >> realized under the flat 2:1-target + EOD-flatten — NCLH 10/6 (+0.6R→−0.5R), SNAP 10/7 (+1.2R→+0.3R), RIG 10/8 (+0.89R→+0.06R). Three consecutive sessions now show a midday partial/trail would have captured materially more. This is a well-supported, specific refinement to propose to the owner (a trail or partial at ~+0.75R, say), NOT self-applied.
+**Also:** sector matters for counter-cyclical RS durability — oil (RIG) held all day; metals (HL/VALE) faded fast. Worth weighting in future "green-in-red" reads.
