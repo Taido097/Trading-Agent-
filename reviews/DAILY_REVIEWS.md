@@ -991,3 +991,16 @@ is a FADE, not a setup. Options/crypto/margin OFF.
 | excl | CCL/KVUE(illiquid pre-mkt) | — | — | CCL>$19... wait CCL 25.58>$19 excl; KVUE $17.53 ok but wide stale pre-mkt spread. |
 
 **Decision stance for 9:47:** LEAN PASS / selective, 2nd straight red tape. Only a clean post-open break-and-hold in an affordable RS name clears the gate. RIG is #1 but on PROBATION after yesterday's open-fade — needs to hold its OR high on volume, not just gap green. Metals (HL/VALE) oversold-bounce is a secondary watch (reclaim only). A zero-real-trade day is again the likely correct outcome. Do NOT trade this step.
+
+## 2026-10-08 (Thu) — 9:47 ET OPENING-RANGE DECISION: **PASS** (metals bounce = watch, not yet)
+
+**Reconciled:** FLAT, $19.54, 0/0. **Regime: RISK-OFF day 2.** SPY 774.99 (−0.29%), QQQ 753.42 (−0.57%). Red and slightly worsening — not supportive.
+
+**OR scan (9:30–9:45):** The notable rotation = METALS turning green (safe-haven bid reasserting as equities fall a 2nd day):
+- **HL** 16.53 (+0.86%) — broke OR high 16.515 to new HOD; precious-metals safe-haven (thesis-coherent counter-cyclical, the 10/1 rationale). BUT on FADING volume (202k→90k→75k).
+- **VALE** 13.70 (+0.66%) — broke OR high 13.685; iron-ore (cyclical, weaker thesis than HL).
+- **RIG** 5.52 — FADED again (chopping 5.46–5.53, no clean break); gap-green-then-fade 2 days running.
+- HBAN 15.15 / F 12.04 / SNAP 5.80 — flat/below OR, no break.
+
+**DECISION: PASS (real $20).** HL/VALE broke their OR highs, but the full gate fails: ORB needs break-and-hold + ABOVE-AVERAGE volume + supportive regime. HL/VALE are breaking on FADING volume into a RED/worsening tape, after metals fell 2 straight days (oversold-bounce/knife-catch risk). My hardened lesson from the near-identical HL 10/1 trade is explicit: **counter-cyclical RS has short half-life.** 2 of 3 conditions fail → PASS and require volume-backed confirmation. 3 rejections logged (HL #1-watch, VALE #2-watch, RIG faded).
+**Live watch for the hourly engine:** HL on a VOLUME-BACKED break-and-hold of ~16.52 (precious-metals safe-haven is the cleanest affordable thesis today); VALE secondary. If the tape stabilizes AND volume confirms, that's a real-trade candidate this is NOT a no, it's a not-yet.
