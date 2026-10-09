@@ -1132,3 +1132,10 @@ Could not pull live quotes/positions/git that pass: the broker-tool auto-mode cl
 
 **Lesson reinforced (3rd straight day):** MFE >> realized under the flat 2:1-target + EOD-flatten — NCLH 10/6 (+0.6R→−0.5R), SNAP 10/7 (+1.2R→+0.3R), RIG 10/8 (+0.89R→+0.06R). Three consecutive sessions now show a midday partial/trail would have captured materially more. This is a well-supported, specific refinement to propose to the owner (a trail or partial at ~+0.75R, say), NOT self-applied.
 **Also:** sector matters for counter-cyclical RS durability — oil (RIG) held all day; metals (HL/VALE) faded fast. Worth weighting in future "green-in-red" reads.
+
+---
+## 2026-10-09 (Fri) — Intraday engine pass ~10:13 ET (14:13Z) — REAL PASS / 1 PAPER (SNAP)
+
+**Regime:** GREEN, holding/firming. SPY 776.21 (+0.29%), QQQ 749.38 (+0.24%). Relief bounce day 3 confirmed supportive.
+**STEP A — REAL: PASS.** FLAT ($19.54, 0/0). SNAP fired trigger (b) — broke 6.12 to HOD 6.16 on volume — BUT then stalled/drifted to 6.11 mid-consolidation (lower highs), so the clean entry location passed. Real wants a pullback-to-$6.00-6.05-hold OR a fresh 6.16 re-break on volume, not a chase of a stalling breakout (entry-location edge: NCLH win vs VALE loss). HL same posture (broke 17.36 → drifted 17.22). Both still armed watches.
+**STEP B — PAPER: opened 1 — P-0032 SNAP** 6.12, stop 5.95, tgt 6.46 (235sh). Breakout-hold rep to capture the learning: does a green-day RS-leader breakout follow through (would've validated a real entry), or stall/fade (validates the real-side patience)? Either outcome is a useful data point on my "wait for the pullback" discipline vs "take the breakout-hold."
