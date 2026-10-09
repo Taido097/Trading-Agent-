@@ -1171,3 +1171,17 @@ Running tally after this pass: REAL lifetime −$0.45 (2W/5L), FLAT, capital pre
 - Scanned fresh movers: NIO +5.3% but dead-flat gap (pinned 3.59–3.62 on huge volume = fade risk, thin) → PASS; AAL/F/LCID/TLRY/MARA/CLSK red; SOFI/BAC modest. PLTR the only clean A-setup among them.
 
 Running tally: REAL lifetime −$0.45 (2W/5L), FLAT, preserved. PAPER open: P-0032 SNAP, P-0033 CCL, P-0034 PLTR.
+
+### 2026-10-09 (Fri) ~1:13 ET / 17:13Z — Intraday engine pass
+**Regime:** GREEN, still firming. SPY 778.05 (+0.53%), QQQ 750.47 (+0.39%).
+
+**REAL $20 (563174713): FLAT ($19.54) → PASS (4th assessment today).** SNAP now consolidating tight 6.25–6.30 for an hour (6.26, +6.9%), volume fading, no pullback to the 6.20 shelf = still extended. Chasing a +6.9% name into a tightening midday range isn't the edge. Keep armed for a genuine 6.20-hold; otherwise it's done for real today. No other affordable clean setup. Capital preserved.
+
+**PAPER — managed 3 open, all HOLD:**
+- P-0032 SNAP (6.12/5.95/6.46): +0.85R unrealized, MFE +1.35R (6.35). Stalling into a 6.25–6.30 range but holding gains; target 0.20 away. HOLD.
+- P-0033 CCL (26.34/26.22/26.58): recovered to ~entry (26.33–26.34 on the 17:00 bar), still no breakout, stop intact. ~flat. HOLD.
+- P-0034 PLTR (206.05/204.80/208.55): faded after entry to 205.19 (MAE −0.86R), now 205.47 = −0.46R, stop intact. LESSON: I entered on the push INTO the 206.0 resistance (it had rejected 206.1/206.04/206.33) rather than waiting for a clean break-and-clear — a chase-adjacent entry location even on a clean trend. Reinforces: on a breakout-hold, enter on the HOLD above cleared resistance, not the tag of it.
+
+**Scan:** COIN +5.7% ($181) the only fresh leader but extended midday w/o a confirmable fresh base → PASS (no blind chase). IONQ/RGTI (quantum) and AMD (chips) RED — strength narrow (SNAP/PLTR/COIN). Already hold 2 of 3 leaders; declined a 4th marginal rep (quality-over-quantity + O003 midday caution). No new paper.
+
+Running tally: REAL lifetime −$0.45 (2W/5L), FLAT. PAPER open (3): P-0032 SNAP +0.85R, P-0033 CCL ~flat, P-0034 PLTR −0.46R.
