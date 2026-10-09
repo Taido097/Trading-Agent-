@@ -1198,3 +1198,15 @@ Running tally: REAL lifetime −$0.45 (2W/5L), FLAT. PAPER open (3): P-0032 SNAP
 - No new entries: 2pm + O003 late-day-breakout caution; holding the 2 open into EOD.
 
 Running tally: REAL lifetime −$0.45 (2W/5L), FLAT. PAPER today: P-0032 SNAP (open +0.88R), P-0033 CCL (closed −1.00R), P-0034 PLTR (open −0.17R). Day paper realized so far: −1.00R (CCL).
+
+### 2026-10-09 (Fri) ~3:13 ET / 19:13Z — Intraday engine pass
+**Regime:** GREEN, firming into the close. SPY 779.01 (+0.66%), QQQ 751.45 (+0.52%).
+
+**REAL $20 (563174713): FLAT ($19.54) → PASS (6th/final intraday assessment).** SNAP dead-flat 6.24–6.28 (6.26), no setup; 3pm O003. Confirmed clean zero-real-trade day: supportive green tape all day but no affordable clean entry ever set up AT a pass. Capital 100% preserved. Lifetime real −$0.45 unchanged.
+
+**PAPER — both open, HOLD into EOD:**
+- P-0034 PLTR (206.05/204.80/208.55): RECOVERED and broke out — ran 206.44→207.85 (18:30–18:55 on rising vol 260–337k), now 207.07 = +0.82R, MFE +1.44R, target 208.55 only 0.70 away. The "entered into resistance" worry resolved as the trend reasserted; it's now a working large-cap continuation. HOLD (may tag target before close).
+- P-0032 SNAP (6.12/5.95/6.46): dead-flat 6.24–6.28 all afternoon (digesting +7%), now 6.26 = +0.82R. Target 0.20 away but momentum gone. HOLD; likely EOD-flatten short of target.
+- No new entries (3pm + O003 late-day caution).
+
+Running tally: REAL lifetime −$0.45 (2W/5L), FLAT. PAPER today: P-0032 SNAP (open +0.82R), P-0033 CCL (closed −1.00R), P-0034 PLTR (open +0.82R). Next pass ~4:13 ET = EOD flatten both at the official close mark + daily wrap.
