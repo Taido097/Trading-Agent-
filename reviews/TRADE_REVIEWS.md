@@ -1185,3 +1185,16 @@ Running tally: REAL lifetime −$0.45 (2W/5L), FLAT, preserved. PAPER open: P-00
 **Scan:** COIN +5.7% ($181) the only fresh leader but extended midday w/o a confirmable fresh base → PASS (no blind chase). IONQ/RGTI (quantum) and AMD (chips) RED — strength narrow (SNAP/PLTR/COIN). Already hold 2 of 3 leaders; declined a 4th marginal rep (quality-over-quantity + O003 midday caution). No new paper.
 
 Running tally: REAL lifetime −$0.45 (2W/5L), FLAT. PAPER open (3): P-0032 SNAP +0.85R, P-0033 CCL ~flat, P-0034 PLTR −0.46R.
+
+### 2026-10-09 (Fri) ~2:13 ET / 18:13Z — Intraday engine pass
+**Regime:** GREEN, best levels of day. SPY 778.51 (+0.59%), QQQ 751.13 (+0.47%).
+
+**REAL $20 (563174713): FLAT ($19.54) → PASS (5th assessment today).** SNAP still ranging 6.24–6.28 (6.27, +7%), extended, no 6.20 pullback; now 2pm (O003 late-day caution) = effectively done for real today. Capital preserved — a clean zero-real-trade day on a green tape because entry location never set up affordably at a pass.
+
+**PAPER:**
+- P-0033 CCL CLOSED −1.00R (stopped 26.22). The coil resolved DOWN: breached the stop on the 17:25 bar (low 26.20) and fell to 26.14 as the cruise theme cooled. CONFIRMED LESSON: the mid-coil anticipation entry (bought the upper shelf BEFORE the 26.46 break) caught the chop then the fade — MFE ~0.00R. A break-AND-hold trigger would never have fired here = no loss. Reinforces O002/entry-location: enter on confirmation, not anticipation.
+- P-0032 SNAP (6.12/5.95/6.46): +0.88R, chopping 6.24–6.28, target 0.19 away. HOLD.
+- P-0034 PLTR (206.05/204.80/208.55): recovered the midday dip, now 205.84 = −0.17R, stop safe. HOLD.
+- No new entries: 2pm + O003 late-day-breakout caution; holding the 2 open into EOD.
+
+Running tally: REAL lifetime −$0.45 (2W/5L), FLAT. PAPER today: P-0032 SNAP (open +0.88R), P-0033 CCL (closed −1.00R), P-0034 PLTR (open −0.17R). Day paper realized so far: −1.00R (CCL).
