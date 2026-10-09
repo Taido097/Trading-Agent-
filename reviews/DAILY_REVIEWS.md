@@ -1045,3 +1045,17 @@ is a FADE, not a setup. Options/crypto/margin OFF.
 | excl | KGC/CCL | >$19 | — | Fail affordability. |
 
 **Decision stance for 9:47:** MORE CONSTRUCTIVE than the last 2 days IF the green open holds. Want a clean ORB break-and-hold on volume in an affordable RS leader with the tape confirmed green. Prefer genuine multi-day RS (SNAP, HL) over pure oversold bouncers (nuclear/crypto — those are knife-catches in the other direction). If the bounce fades red at the open → back to PASS. Do NOT trade this step.
+
+## 2026-10-09 (Fri) — 9:47 ET OPENING-RANGE DECISION: **PASS** (regime finally green; SNAP/HL = actionable watches)
+
+**Reconciled:** FLAT, $19.54, 0/0. **Regime: GREEN — relief bounce holding.** SPY 775.61 (+0.22%), QQQ 749.11 (+0.20%) — supportive at last (off the pre-mkt highs but green). This is the first supportive tape in 3 sessions → the gate's regime condition can finally pass.
+
+**OR scan (9:30–9:45):**
+- **SNAP** 6.095 (+4.0%) — #1 RS leader, high volume, cleared $6, HOD 6.12. Near-HOD/mid-range at 9:48 (+6% over 2 days) = chase if bought now.
+- **HL** 17.225 (+3.0%) — new HOD, durable multi-day gold-miner RS, but on FADING volume + 2 days of intraday fades.
+- UEC 9.19 / SOFI 15.66 / RIOT 16.68 (red) — faded from opens (oversold bounces fizzling); RIG 5.595 firm but modest.
+
+**DECISION: PASS now, but SNAP (#1) and HL (#2) are armed watches — regime is finally supportive, so I'm LOOKING to buy the next clean pullback-hold (not the 9:48 near-HOD chase).** My sharpest edge is entry location (NCLH pullback-reclaim WIN vs VALE breakout-chase LOSS), so I wait for the location.
+- **SNAP trigger:** pullback to ~6.00–6.03 that holds/reclaims, OR break-and-hold >6.12 on volume → buy 1, stop ~5.89 (risk ~0.20), target 2:1 ~6.50.
+- **HL trigger:** pullback-hold ~16.95–17.05 reclaim, OR volume-backed break >17.16 → buy 1, stop ~16.83, target 2:1.
+3 rejections logged (SNAP/HL watch, RIOT faded). The hourly engine executes if a trigger hits; else PASS stands.
