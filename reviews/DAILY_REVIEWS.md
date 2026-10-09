@@ -1059,3 +1059,27 @@ is a FADE, not a setup. Options/crypto/margin OFF.
 - **SNAP trigger:** pullback to ~6.00–6.03 that holds/reclaims, OR break-and-hold >6.12 on volume → buy 1, stop ~5.89 (risk ~0.20), target 2:1 ~6.50.
 - **HL trigger:** pullback-hold ~16.95–17.05 reclaim, OR volume-backed break >17.16 → buy 1, stop ~16.83, target 2:1.
 3 rejections logged (SNAP/HL watch, RIOT faded). The hourly engine executes if a trigger hits; else PASS stands.
+
+---
+
+## 2026-10-09 (Fri) — EOD WRAP
+
+**Tape:** GREEN relief-bounce day 3, held into the close. SPY 778.53 (+0.59%), QQQ 751.24 (+0.49%). Best, most sustained-green session of the week after Tue's highs + the Wed/Thu pullback. Leadership narrow but clean: social (SNAP +6–7%), large-cap momentum (PLTR +5%), crypto-proxy (COIN +5.7%); laggards/red: nuclear (SMR/OKLO), chips (AMD), quantum (IONQ/RGTI), metals faded (HL round-tripped).
+
+**REAL $20 (563174713): 0 trades — PASS all day. FLAT $19.54, no overnight. Lifetime real UNCHANGED −$0.45 (2W/5L).**
+- Assessed the real setup gate at every pass (9:47 open + 6 engine passes). SNAP was the one affordable RS leader and its break-AND-hold trigger DID fire (~10:35–10:40, >6.16 on 430–880k vol, ran to 6.29) — but it filled BETWEEN hourly passes; by the time I could act it was +6–7% and extended, and it never offered a clean pullback-to-6.20-hold at a pass. HL tagged its 17.30 trigger but failed to hold (metals fade). 
+- **Verdict: correct clean zero-real-trade day.** Supportive tape ≠ a reason to chase an extended entry. Capital 100% preserved. The "and-hold" discipline explicitly saved the HL chase.
+- **Standing owner note (NOT self-applied):** the hourly cadence structurally misses clean mid-bar fills on fast movers (SNAP today). Options for the owner: (a) keep pass-time-only real entries (conservative, misses some), or (b) tighter cadence / a resting buy-stop-limit at the armed trigger with the GTC protective stop pre-planned.
+
+**PAPER (learning): 3 traded, 2W/1L, net +1.68R (+$67 sim).**
+- P-0034 PLTR +2.00R WIN (large-cap RS breakout-hold → full 2:1 target 208.55). First target-reach in days.
+- P-0032 SNAP +0.68R (EOD-flatten in profit; MFE +1.35R, stalled after the morning spike).
+- P-0033 CCL −1.00R (coil-anticipation entry, resolved DOWN; stopped).
+
+**Lessons banked today:**
+1. **Enter on confirmation, not anticipation (CCL).** Buying a coil's upper shelf BEFORE the break caught the chop then the fade (MFE ~0, −1R). A break-AND-hold trigger would never have fired = no loss.
+2. **Entry location on breakout-holds (PLTR).** Entered INTO the 206 resistance (tag) rather than on the hold above cleared resistance → immediate −0.86R MAE before it worked. It recovered to +2R, but the clean entry was the hold, not the tag.
+3. **MFE>>realized confirmed again, but nuanced (PLTR vs SNAP/CCL/RIG).** The ONE trade that reached full 2:1 was the quality large-cap on the strongest-green tape; cheap/small-cap names keep under-realizing and fading to flat. The midday-partial/trail idea stays a well-evidenced OWNER proposal; today adds that it's most needed on cheap/choppy names + weak tapes, least on quality leaders in strong tapes.
+4. **Trigger-timing limitation (SNAP real)** — logged as the owner note above.
+
+**Carry-forward:** Real account flat, capital intact 5 straight sessions of the pullback+bounce. Monday: re-assess regime at the open; SNAP/PLTR/COIN are the current momentum leaders if the green tape continues — take a REAL trade only on a clean affordable entry AT a pass (RS leader holding a new high on volume, or a pullback-hold), stop-first GTC, 2:1, flatten EOD.
