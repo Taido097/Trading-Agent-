@@ -1139,3 +1139,19 @@ Could not pull live quotes/positions/git that pass: the broker-tool auto-mode cl
 **Regime:** GREEN, holding/firming. SPY 776.21 (+0.29%), QQQ 749.38 (+0.24%). Relief bounce day 3 confirmed supportive.
 **STEP A — REAL: PASS.** FLAT ($19.54, 0/0). SNAP fired trigger (b) — broke 6.12 to HOD 6.16 on volume — BUT then stalled/drifted to 6.11 mid-consolidation (lower highs), so the clean entry location passed. Real wants a pullback-to-$6.00-6.05-hold OR a fresh 6.16 re-break on volume, not a chase of a stalling breakout (entry-location edge: NCLH win vs VALE loss). HL same posture (broke 17.36 → drifted 17.22). Both still armed watches.
 **STEP B — PAPER: opened 1 — P-0032 SNAP** 6.12, stop 5.95, tgt 6.46 (235sh). Breakout-hold rep to capture the learning: does a green-day RS-leader breakout follow through (would've validated a real entry), or stall/fade (validates the real-side patience)? Either outcome is a useful data point on my "wait for the pullback" discipline vs "take the breakout-hold."
+
+### 2026-10-09 (Fri) ~11:13 ET / 15:13Z — Intraday engine pass
+**Regime:** GREEN day 3, firming. SPY 777.18 (+0.42%), QQQ 749.69 (+0.28%). Supportive tape, best of the 3 bounce days.
+
+**REAL $20 (563174713): FLAT ($19.54, 0 pos, 0 orders) → PASS (2nd assessment today).**
+- SNAP armed trigger (b) — a fresh break-AND-hold above 6.16 on volume — DID fire, at 14:35–14:40 (bars broke 6.16→6.20→6.22 on 430k/880k volume), then ran to HOD **6.29** (15:00) and is now 6.225 (+6.2% on day). The trigger worked exactly as framed — but it fired *between* the 14:13 and 15:13 engine passes. By this pass SNAP is +6.2% and extended, pulling back off the HOD. Entering real capital at 6.225 now = chasing an extended move after the clean entry location already passed (O002 / entry-location lesson). PASS, re-arm.
+- **Re-armed SNAP (real):** buy 1 share on a FIRST-PULLBACK to the 6.16–6.20 breakout shelf that HOLDS (doesn't lose 6.15) → stop below 6.05 (~risk 0.18–0.22), target 2:1 (~6.60). That is a lower-risk continuation entry WITH the established trend, not a chase. If it sets up at a future pass, take it real.
+- HL (real watch): chopping 17.10–17.30 all morning, no clean hold (17.30 intraday high from 14:15 not exceeded). PASS. Re-armed: volume-backed break-AND-hold >17.30, OR a pullback to the 17.10 shelf that holds.
+- **Owner note (structural, not self-applied):** the hourly engine cadence MISSED the clean SNAP real entry because the trigger filled mid-bar between passes on a fast mover. This is a genuine limitation, not a judgment error. Options for the owner to weigh: (a) accept the real account only takes setups that are clean AT a scheduled pass (current behavior — conservative, misses some), or (b) tighter intraday cadence / a resting buy-stop-limit at the armed trigger with the GTC protective stop pre-planned. Flagging; NOT changing autonomy on my own.
+
+**PAPER:**
+- P-2026-0032 SNAP (entry 6.12, stop 5.95, tgt 6.46): MFE +1.0R (tagged 6.29 at 15:00), now 6.225 = +0.62R unrealized. Target 6.46 not hit, stop 5.95 never threatened (low 6.09). HOLD.
+- NEW P-2026-0033 CCL long 26.34, stop 26.22, target 26.58, 333 sh ($39.96 risk). Tight coil near HOD (26.25–26.46) on the cruise sector theme (CCL+NCLH both green), accumulation bar (335k) at 15:05. Coil-continuation rep.
+- Quality-over-quantity: one dominant RS leader (SNAP, already booked) + one clean sector-confirmed coil (CCL), rather than forcing 6 marginal reps on a day where most names are only +0.5–0.9% and choppy. Nuclear rotated red (SMR −1.8%, OKLO −0.6%); UEC choppy; HL mid-chop — all passed.
+
+Running tally after this pass: REAL lifetime −$0.45 (2W/5L), FLAT, capital preserved. PAPER open: P-0032 SNAP, P-0033 CCL.
