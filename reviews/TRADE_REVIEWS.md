@@ -1155,3 +1155,19 @@ Could not pull live quotes/positions/git that pass: the broker-tool auto-mode cl
 - Quality-over-quantity: one dominant RS leader (SNAP, already booked) + one clean sector-confirmed coil (CCL), rather than forcing 6 marginal reps on a day where most names are only +0.5–0.9% and choppy. Nuclear rotated red (SMR −1.8%, OKLO −0.6%); UEC choppy; HL mid-chop — all passed.
 
 Running tally after this pass: REAL lifetime −$0.45 (2W/5L), FLAT, capital preserved. PAPER open: P-0032 SNAP, P-0033 CCL.
+
+### 2026-10-09 (Fri) ~12:13 ET / 16:13Z — Intraday engine pass
+**Regime:** GREEN day 3, firming. SPY 777.47 (+0.46%), QQQ 750.39 (+0.38%).
+
+**REAL $20 (563174713): FLAT ($19.54) → PASS (3rd assessment today).**
+- SNAP: ran again to 6.35 (15:50), now 6.26 (+6.8% on day). It keeps ranging 6.20–6.35 and never printed a clean pullback-to-6.20-that-HOLDS at a pass; still extended +6.8%. PASS — chasing a +6.8% name mid-range isn't the edge. Still affordable (1 sh $6.26); keep armed for a genuine 6.20-shelf hold.
+- HL: tagged my 17.30 trigger (17.34 at 15:30, 519k vol) but FAILED to hold — rolled back to 17.21. Classic metals-bounce fade (the exact pattern logged 10/8). Good that I waited for the "and-hold"; drop the chase.
+- Net: green tape but no clean affordable entry at a pass. Capital preserved.
+
+**PAPER:**
+- P-0032 SNAP (6.12 / stop 5.95 / tgt 6.46): MFE now +1.35R (hit 6.35 @ 15:50), now 6.26 = +0.82R unrealized. Target 0.11 away, stop never threatened. HOLD.
+- P-0033 CCL (26.34 / stop 26.22 / tgt 26.58): the coil did NOT break up — faded sideways-down, low 26.225 just missed the 26.22 stop (by 0.005). Now 26.285, ~−0.46R unrealized. HOLD, stop intact. LESSON forming: the mid-coil anticipation entry (buying before the break) caught the chop; a break-AND-hold trigger entry would've avoided it. Marginal rep.
+- NEW P-0034 PLTR long 206.05, stop 204.80, target 208.55, 32 sh ($40 risk). Clean large-cap RS continuation: 842k-vol breakout (15:25) → tight higher base 205.0–205.8 held → new HOD. Controlled grind (O002 ok). Diversity rep vs small-cap SNAP.
+- Scanned fresh movers: NIO +5.3% but dead-flat gap (pinned 3.59–3.62 on huge volume = fade risk, thin) → PASS; AAL/F/LCID/TLRY/MARA/CLSK red; SOFI/BAC modest. PLTR the only clean A-setup among them.
+
+Running tally: REAL lifetime −$0.45 (2W/5L), FLAT, preserved. PAPER open: P-0032 SNAP, P-0033 CCL, P-0034 PLTR.
