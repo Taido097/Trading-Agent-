@@ -1021,3 +1021,27 @@ is a FADE, not a setup. Options/crypto/margin OFF.
 
 **Capital:** FLAT, $19.54 cash, 0 positions/orders, no overnight. Options/crypto/margin OFF.
 **Carry-forward:** 2-day pullback — watch for either (a) a stabilization/reclaim bounce (SNAP-type green-in-red leaders), or (b) continued risk-off (oil/RIG + defensives the RS). Still no affordable clean real setup until the tape stabilizes; patience remains correct.
+
+---
+# 2026-10-09 (Friday) — PRE-MARKET PREP (~9:22 ET / 13:22Z)
+
+**Session note:** container reset overnight — re-cloned the memory repo (add_repo + git clone, HEAD 11f9b80), git identity reset. Repo ready.
+
+**Reconciliation:** FLAT — $19.54 cash, 0 positions, 0 open orders. Matches internal state. Lifetime real −$0.45 (2W/5L). Options/crypto/margin OFF.
+
+**Regime (pre-market vs 10/8 close): GREEN — relief bounce after 2 red days.** SPY 776.48 (+0.33%), QQQ 753.20 (+0.75%, tech leading the bounce). This is the stabilization/bounce scenario flagged yesterday. CAVEAT: a bounce after a 2-day selloff can be a bear rally that fades — need the open to HOLD green before trusting it; a green-but-failing open = back to no-trade.
+
+**Event risk:** Friday 10/9. No FOMC. CPI likely ~mid-month (not confirmed today — no live calendar pulled). Bank earnings begin next week. Treat an unexplained sharp move as possible headline risk.
+
+**WIDE-SCREEN WATCHLIST** (affordable ≤~$19, ranked by RS vs SPY +0.33%):
+| Rank | Sym | Pre-mkt | vs close | Note |
+|---|---|---|---|---|
+| 1 | **SNAP** | 5.99 | +2.2% | Stabilization-reclaim leader (worked as paper 10/7), green 2 of 3 days, bouncing toward $6. Cleanest multi-day RS. WATCH the $6.00 round-number resistance. |
+| 2 | **HL** | 17.15 | +2.5% | Gold/silver miner — bid in BOTH red tapes (safe-haven) AND today's bounce = durable RS (unlike the intraday metal fades). KGC +2.2% confirms the gold complex. |
+| 3 | UEC/DNN/SMR | 9.37/2.42/7.45 | +2.5/+2.7/+1.8% | Nuclear/uranium bouncing off a hard 2-day oversold dump — oversold-bounce (lower quality; can fail). |
+| 4 | RIOT/MARA | 17.21/10.15 | +2.2/+2.4% | Crypto miners bouncing (oversold). |
+| 5 | SOFI/RIG | 15.75/5.59 | +0.9/+0.85% | SOFI firm; RIG (this week's RS leader) lagging the bounce today. |
+| — | RIVN/AAL | 14.25/12.64 | −0.6/−1.3% | RED, lagging — avoid. |
+| excl | KGC/CCL | >$19 | — | Fail affordability. |
+
+**Decision stance for 9:47:** MORE CONSTRUCTIVE than the last 2 days IF the green open holds. Want a clean ORB break-and-hold on volume in an affordable RS leader with the tape confirmed green. Prefer genuine multi-day RS (SNAP, HL) over pure oversold bouncers (nuclear/crypto — those are knife-catches in the other direction). If the bounce fades red at the open → back to PASS. Do NOT trade this step.
