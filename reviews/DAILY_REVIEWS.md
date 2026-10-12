@@ -1083,3 +1083,32 @@ is a FADE, not a setup. Options/crypto/margin OFF.
 4. **Trigger-timing limitation (SNAP real)** — logged as the owner note above.
 
 **Carry-forward:** Real account flat, capital intact 5 straight sessions of the pullback+bounce. Monday: re-assess regime at the open; SNAP/PLTR/COIN are the current momentum leaders if the green tape continues — take a REAL trade only on a clean affordable entry AT a pass (RS leader holding a new high on volume, or a pullback-hold), stop-first GTC, 2:1, flatten EOD.
+
+---
+
+## 2026-10-12 (Mon) — PRE-MARKET PREP (9:15 ET / 13:15Z)
+
+**Reconciliation:** Agentic ••••4713 FLAT — $19.54 cash, 0 positions, 0 orders, BP $19.54. Matches internal state (no overnight). ✅
+
+**Regime (pre-market vs Fri close):** SPY 778.91 (+0.04%, flat), QQQ 749.96 (−0.17%, tech soft). MIXED/flat open — not Friday's clean green. Pre-market breadth SOFT: most of the universe red; green narrow (SNAP, RIG). Caveat: pre-market prints are thin/noisy and spreads are wide today — real read comes at the open + 9:47 decision.
+
+**Event risk:** COLUMBUS DAY — equities OPEN, but BOND MARKET CLOSED + banks/gov closed → expect lighter/thinner volume and wider spreads (already visible pre-mkt). No US data today. CPI/inflation data later this week = event risk building → keep size/discipline tight, favor clean setups only.
+
+**Wide screen (pre-market % vs Fri close; ✓=passes hard screen affordable≤~$19 + liquid):**
+| Rank | Sym | Pre-mkt | %chg | Affordable | Note |
+|---|---|---|---|---|---|
+| 1 | SNAP | 6.39 | +2.6% | ✓ $6.39 | Fri's leader following through; tight 0.3% spread. TOP watch. |
+| 2 | RIG | 5.60 | +1.6% | ✓ $5.60 | Oil RS again (durable per lessons); cheap/thin caution. |
+| — | CHPT | 8.00 | +1.0% | ✓ $8.00 | Illiquid pre-mkt (spread 7.49/8.09) — need RTH confirm. |
+| — | HBAN | 15.36 | +0.3% | ✓ $15.36 | Bank; stale/wide pre-mkt print. RTH only. |
+| — | KEY | 20.08 | +0.6% | ✗ >$19 | Bank; borderline unaffordable. |
+| — | F | 12.16 | flat | ✓ | No edge. |
+| — | SOFI | 15.43 | −2.3% | ✓ | Red. |
+| — | NCLH | 15.38 | −1.2% | ✓ | Cruise, red; only if reclaims. |
+| — | HL | 16.86 | −1.2% | ✓ | Metals fade continues (lesson). |
+| — | RIVN/VALE/CLF/MARA/RIOT/AAL/BTG/KVUE | — | −0.7 to −2.3% | mix | All red pre-mkt. |
+| — | CCL/KGC/RF/SIRI/AMCR | — | — | ✗ >$19 | Unaffordable. |
+
+**Top few for the 9:47 decision:** (1) **SNAP** $6.39 — primary; wants a clean RTH continuation entry (pullback-hold of the 6.23–6.35 zone, or a volume break-hold of the pre-mkt high) — NOT a gap-chase (O002). (2) **RIG** $5.60 — secondary; oil RS, watch an ORB break-and-hold. Everything else red/unaffordable/thin. 
+
+**Posture:** flat tape + bond holiday (thin) + CPI later this week → take a REAL trade ONLY on a genuinely clean affordable setup at a pass; a zero-trade day is fine. Stop-first GTC, ≥2:1, flatten EOD, never overnight. Options/crypto/margin OFF.
