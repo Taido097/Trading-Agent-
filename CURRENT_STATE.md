@@ -5,7 +5,7 @@
 > intent and status; it is NOT the brokerage record (that comes from
 > reconciliation).
 
-**Last updated:** 2026-10-12 (Mon, ~1:13 ET / 17:13Z — intraday engine pass). Account **FLAT** ($19.54 cash, 0 positions, 0 orders). Regime tech-weak: SPY 777.90 (−0.09%), QQQ 746.21 (−0.67%, near lows). REAL: PASS (5th today) — no setup, weak tape, capital preserved. Lifetime real −$0.45 (2W/5L). PAPER: P-0035 SNAP (6.44/6.33/6.66) dead-flat 6.41–6.46 ≈ breakeven, pinned by red QQQ (RS-in-red-tape thesis confirmed: can't advance); HOLD, EOD-flatten on the last pass. 0 real trades today across 5 passes — clean disciplined zero-trade day on a weak tech tape; Columbus Day thin + CPI later this week. Options/crypto/margin OFF. Prior EOD history below. ⟶
+**Last updated:** 2026-10-12 (Mon, ~2:13 ET / 18:13Z — intraday engine pass). Account **FLAT** ($19.54 cash, 0 positions, 0 orders). Regime tech-weak: SPY 777.60 (−0.12%), QQQ 745.93 (−0.71%, near lows). REAL: PASS (6th today) — no setup, weak tape, capital preserved. Lifetime real −$0.45 (2W/5L). PAPER: P-0035 SNAP (6.44/6.33/6.66) grinding to 6.478 = +0.35R unrealized, short of target, stop safe; HOLD, EOD-flatten next pass. Mild RS persisting but QQQ −0.71% caps it. 0 real trades today across 6 passes — clean disciplined zero-trade day on a weak tech tape. Options/crypto/margin OFF. Prior EOD history below. ⟶
 
 ---
 

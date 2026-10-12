@@ -1236,3 +1236,6 @@ Tally: REAL lifetime −$0.45 (2W/5L), FLAT, 0 real trades today. PAPER open: P-
 
 ### 2026-10-12 (Mon) ~1:13 ET / 17:13Z — Intraday engine pass
 **Regime:** SPY 777.90 (−0.09%), QQQ 746.21 (−0.67%) — back near lows, tech-weak. **REAL: FLAT → PASS (5th today).** No setup. **PAPER:** P-0035 SNAP (6.44/6.33/6.66) dead-flat 6.41–6.46, now 6.445 ≈ breakeven; HOLD (pinned by red QQQ). No new entries. Tally: REAL −$0.45 lifetime, FLAT, 0 trades today; PAPER open P-0035 SNAP ~breakeven.
+
+### 2026-10-12 (Mon) ~2:13 ET / 18:13Z — Intraday engine pass
+**Regime:** SPY 777.60 (−0.12%), QQQ 745.93 (−0.71%) — tech weak, near lows. **REAL: FLAT → PASS (6th today).** No setup. **PAPER:** P-0035 SNAP (6.44/6.33/6.66) grinding to 6.478 = +0.35R unrealized, short of target, stop safe. HOLD (mild RS persisting but QQQ caps it). No new entries. Tally: REAL −$0.45 lifetime, FLAT, 0 trades today; PAPER open P-0035 SNAP +0.35R.
