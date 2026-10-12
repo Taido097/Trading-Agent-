@@ -1112,3 +1112,12 @@ is a FADE, not a setup. Options/crypto/margin OFF.
 **Top few for the 9:47 decision:** (1) **SNAP** $6.39 — primary; wants a clean RTH continuation entry (pullback-hold of the 6.23–6.35 zone, or a volume break-hold of the pre-mkt high) — NOT a gap-chase (O002). (2) **RIG** $5.60 — secondary; oil RS, watch an ORB break-and-hold. Everything else red/unaffordable/thin. 
 
 **Posture:** flat tape + bond holiday (thin) + CPI later this week → take a REAL trade ONLY on a genuinely clean affordable setup at a pass; a zero-trade day is fine. Stop-first GTC, ≥2:1, flatten EOD, never overnight. Options/crypto/margin OFF.
+
+### 2026-10-12 (Mon) — 9:47 ET OPENING-RANGE DECISION
+**Reconciled:** FLAT, 0 pos, 0 orders. ✅
+**Regime (17 min in):** SPY 778.75 (+0.02% flat), QQQ 747.91 (−0.45% RED). Split/weak, tech-soft tape — NOT supportive for high-beta longs.
+**Opening ranges & assessment:**
+- SNAP: OR 6.27–6.48, pushing OR high 6.488 (+4.1%) on steady 330–430k vol = a technically valid ORB. REJECTED: risk-on high-beta name w/ FRAGILE RS in a red-tech tape (logged lesson); extended +4% on a multi-day run into 6.46–6.50 resistance; entry = breakout-AT-OR-high (worst location, O002/VALE); thin holiday + CPI risk.
+- RIG: at OR high 5.675 (+3%, oil RS) but continuation volume FADING (417k→115k→176k) = unconfirmed. REJECTED.
+- NCLH: red −2.7%, breaking down. No setup.
+**DECISION: REAL PASS.** Regime is the ceiling (QQQ −0.45%); no candidate clears the gate with a clean entry. Logged both to REJECTED_TRADES.csv. SNAP armed ONLY for a pullback-to-6.35–6.40-hold with QQQ stabilizing — not the OR-high chase. Zero-trade day is the correct default here; capital preserved. Paper engine continues to track intraday.
