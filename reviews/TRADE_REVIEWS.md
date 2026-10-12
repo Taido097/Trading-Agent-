@@ -1210,3 +1210,14 @@ Running tally: REAL lifetime −$0.45 (2W/5L), FLAT. PAPER today: P-0032 SNAP (o
 - No new entries (3pm + O003 late-day caution).
 
 Running tally: REAL lifetime −$0.45 (2W/5L), FLAT. PAPER today: P-0032 SNAP (open +0.82R), P-0033 CCL (closed −1.00R), P-0034 PLTR (open +0.82R). Next pass ~4:13 ET = EOD flatten both at the official close mark + daily wrap.
+
+### 2026-10-12 (Mon) ~10:17 ET / 14:17Z — Intraday engine pass (1st of day)
+**Regime:** RED/deteriorating. SPY 777.88 (−0.09%), QQQ 746.27 (−0.67%, worse than the −0.45% at 9:47). Tech-weak. Columbus Day (bonds closed, thin).
+
+**REAL $20 (563174713): FLAT ($19.54) → PASS.** SNAP's armed pullback-hold trigger DID set up (pulled to 6.36, held, reclaiming 6.44) — but the paired condition "QQQ stabilizing" FAILED (QQQ deteriorating to −0.67%). The fragile-RS-in-red-tape veto holds, so no real entry. RIG faded/rolled over (5.70→5.57). No clean affordable setup. Capital preserved.
+
+**PAPER:** none open (Fri all closed). Red tape → tighten, favor pullbacks. Opened ONE focused rep:
+- P-0035 SNAP long 6.44, stop 6.33, target 6.66, 363 sh ($39.93 risk). Pullback-hold of the OR (held 6.36 → reclaim 6.44). PAPER-only BECAUSE it's the exact RS-in-deteriorating-tech-tape case my lesson flags as fragile — taking it to TEST the rule directly (does the pullback-hold follow through, or does QQQ −0.67% drag it down?). Clean data point either way.
+- Passed everything else: RIG faded; PLTR −0.9% (giving back Fri); SOFI/RIVN red; COIN +1.6% but no clean base shown. No forcing in a red tape.
+
+Running tally: REAL lifetime −$0.45 (2W/5L), FLAT, 0 real trades today (9:47 PASS + this PASS). PAPER open: P-0035 SNAP.
