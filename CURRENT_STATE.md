@@ -5,7 +5,7 @@
 > intent and status; it is NOT the brokerage record (that comes from
 > reconciliation).
 
-**Last updated:** 2026-10-12 (Mon, ~2:13 ET / 18:13Z — intraday engine pass). Account **FLAT** ($19.54 cash, 0 positions, 0 orders). Regime tech-weak: SPY 777.60 (−0.12%), QQQ 745.93 (−0.71%, near lows). REAL: PASS (6th today) — no setup, weak tape, capital preserved. Lifetime real −$0.45 (2W/5L). PAPER: P-0035 SNAP (6.44/6.33/6.66) grinding to 6.478 = +0.35R unrealized, short of target, stop safe; HOLD, EOD-flatten next pass. Mild RS persisting but QQQ −0.71% caps it. 0 real trades today across 6 passes — clean disciplined zero-trade day on a weak tech tape. Options/crypto/margin OFF. Prior EOD history below. ⟶
+**Last updated:** 2026-10-12 (Mon, ~3:13 ET / 19:13Z — intraday engine pass). Account **FLAT** ($19.54 cash, 0 positions, 0 orders). Regime tech-weak: SPY 777.28 (−0.17%), QQQ 745.05 (−0.83%, worse). REAL: PASS (7th today) — not chasing SNAP +5.8% near HOD into the close (O003 + extended); capital preserved. Lifetime real −$0.45 (2W/5L). PAPER: P-0035 SNAP (6.44/6.33/6.66) BROKE OUT to new HOD 6.605 (now 6.588, +5.8%) = +1.35R unrealized, target 0.07 away; HOLD into EOD-flatten next pass. NUANCE banked: SNAP advanced while QQQ fell −0.83% — RS proved MORE durable than the 'RS-in-red-tape fails' rule; refinement = a genuine idiosyncratic single-name leader CAN decouple from a weak tech tape (rule holds on average / for correlated high-beta, not absolute). Real-side veto still process-correct (don't chase extended). 0 real trades today — clean disciplined zero-trade day. Options/crypto/margin OFF. Prior EOD history below. ⟶
 
 ---
 

@@ -1239,3 +1239,10 @@ Tally: REAL lifetime −$0.45 (2W/5L), FLAT, 0 real trades today. PAPER open: P-
 
 ### 2026-10-12 (Mon) ~2:13 ET / 18:13Z — Intraday engine pass
 **Regime:** SPY 777.60 (−0.12%), QQQ 745.93 (−0.71%) — tech weak, near lows. **REAL: FLAT → PASS (6th today).** No setup. **PAPER:** P-0035 SNAP (6.44/6.33/6.66) grinding to 6.478 = +0.35R unrealized, short of target, stop safe. HOLD (mild RS persisting but QQQ caps it). No new entries. Tally: REAL −$0.45 lifetime, FLAT, 0 trades today; PAPER open P-0035 SNAP +0.35R.
+
+### 2026-10-12 (Mon) ~3:13 ET / 19:13Z — Intraday engine pass
+**Regime:** SPY 777.28 (−0.17%), QQQ 745.05 (−0.83%, worse). Tech weak.
+**REAL: FLAT → PASS (7th today).** Not chasing SNAP +5.8% near HOD into the close (O003 late-day + extended-chase). Real reasoning stays process-correct. Capital preserved.
+**PAPER:** P-0035 SNAP (6.44/6.33/6.66) BROKE OUT to a new HOD 6.605 (now 6.588, +5.8% day) = +1.35R unrealized, MFE +1.5R, target 0.07 away. HOLD into EOD.
+**NUANCE worth banking:** SNAP ADVANCED while QQQ fell to −0.83% — its RS proved MORE durable than the "RS-in-red-tape fails" rule predicts. This is an honest counter-data-point: a strong-enough single-name RS story (social/SNAP-specific) CAN pull away from a weak tech tape intraday. Refinement forming: "RS-in-red-tape fails" holds on average / for correlated high-beta, but a genuine idiosyncratic leader can decouple — the real-side veto was still correct process (don't chase extended into a weak tape), but the paper rep usefully shows the RS rule isn't absolute.
+Tally: REAL −$0.45 lifetime, FLAT, 0 trades today (7 passes); PAPER open P-0035 SNAP +1.35R (flatten next pass / may tag 6.66).
