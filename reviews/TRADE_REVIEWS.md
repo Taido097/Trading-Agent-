@@ -1233,3 +1233,6 @@ Running tally: REAL lifetime −$0.45 (2W/5L), FLAT, 0 real trades today. PAPER 
 **REAL: FLAT → PASS (4th today).** No fresh affordable setup; SNAP chopping, tape weak. Capital preserved.
 **PAPER:** P-0035 SNAP (6.44/6.33/6.66) chopped sideways 6.39–6.46, now 6.435 ≈ breakeven; target/stop both safe. HOLD. The red QQQ is capping the RS leader — can't advance, won't break (thesis-consistent). No new entries.
 Tally: REAL lifetime −$0.45 (2W/5L), FLAT, 0 real trades today. PAPER open: P-0035 SNAP (~breakeven).
+
+### 2026-10-12 (Mon) ~1:13 ET / 17:13Z — Intraday engine pass
+**Regime:** SPY 777.90 (−0.09%), QQQ 746.21 (−0.67%) — back near lows, tech-weak. **REAL: FLAT → PASS (5th today).** No setup. **PAPER:** P-0035 SNAP (6.44/6.33/6.66) dead-flat 6.41–6.46, now 6.445 ≈ breakeven; HOLD (pinned by red QQQ). No new entries. Tally: REAL −$0.45 lifetime, FLAT, 0 trades today; PAPER open P-0035 SNAP ~breakeven.
