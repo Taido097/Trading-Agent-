@@ -5,7 +5,7 @@
 > intent and status; it is NOT the brokerage record (that comes from
 > reconciliation).
 
-**Last updated:** 2026-10-12 (Mon, ~11:13 ET / 15:13Z — intraday engine pass). Account **FLAT** ($19.54 cash, 0 positions, 0 orders). Regime tech-weak: SPY 778.26 (−0.04%), QQQ 746.30 (−0.66%), no improvement. Columbus Day (thin); CPI later this week. REAL: PASS (3rd today) — SNAP faded off 6.515 (no fresh entry), RIG red, COIN unaffordable/fading; weak tape, no clean affordable setup, capital preserved. Lifetime real −$0.45 (2W/5L). PAPER: P-0035 SNAP (6.44/6.33/6.66) popped to 6.515 (MFE +0.68R) then FADED to 6.415 (−0.27R) = the RS-in-red-tape drag playing out live (QQQ −0.66% capping the risk-on leader); stop safe, HOLD. Real-side correctly passed the same name. Standing lessons: regime is the ceiling; RS-in-red-tape fails for risk-on names. Options/crypto/margin OFF. Prior EOD history below. ⟶
+**Last updated:** 2026-10-12 (Mon, ~12:13 ET / 16:13Z — intraday engine pass). Account **FLAT** ($19.54 cash, 0 positions, 0 orders). Regime mixed-weak: SPY 778.77 (+0.03%), QQQ 747.39 (−0.52%, off lows but red). REAL: PASS (4th today) — no fresh affordable setup, SNAP chopping, tape weak; capital preserved. Lifetime real −$0.45 (2W/5L). PAPER: P-0035 SNAP (6.44/6.33/6.66) chopping sideways 6.39–6.46, now 6.435 ≈ breakeven; HOLD. Red QQQ capping the RS leader (thesis-consistent: can't advance, won't break). 0 real trades today across 4 passes; clean disciplined zero-trade day on a weak tech tape. Options/crypto/margin OFF. Prior EOD history below. ⟶
 
 ---
 
