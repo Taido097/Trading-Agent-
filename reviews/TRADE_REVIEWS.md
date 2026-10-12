@@ -1221,3 +1221,9 @@ Running tally: REAL lifetime −$0.45 (2W/5L), FLAT. PAPER today: P-0032 SNAP (o
 - Passed everything else: RIG faded; PLTR −0.9% (giving back Fri); SOFI/RIVN red; COIN +1.6% but no clean base shown. No forcing in a red tape.
 
 Running tally: REAL lifetime −$0.45 (2W/5L), FLAT, 0 real trades today (9:47 PASS + this PASS). PAPER open: P-0035 SNAP.
+
+### 2026-10-12 (Mon) ~11:13 ET / 15:13Z — Intraday engine pass
+**Regime:** SPY 778.26 (−0.04%), QQQ 746.30 (−0.66%) — still tech-weak, flat-to-red, no improvement.
+**REAL $20 (563174713): FLAT → PASS (3rd today).** No clean affordable setup: SNAP faded off its 6.515 push (no fresh entry), RIG red (5.55), COIN unaffordable + fading. Tape won't support a long. Capital preserved.
+**PAPER:** P-0035 SNAP (6.44/6.33/6.66): popped to 6.515 (MFE +0.68R) then FADED to 6.415 = −0.27R unrealized; stop 6.33 safe (low 6.38). HOLD. The lesson is playing out in real time — the risk-on RS leader can't sustain upside while QQQ bleeds −0.66%; exactly the RS-in-red-tape drag. No new entries (red tape, not forcing).
+Running tally: REAL lifetime −$0.45 (2W/5L), FLAT, 0 real trades today. PAPER open: P-0035 SNAP (−0.27R, MFE +0.68R).
