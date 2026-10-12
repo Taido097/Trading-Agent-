@@ -1121,3 +1121,25 @@ is a FADE, not a setup. Options/crypto/margin OFF.
 - RIG: at OR high 5.675 (+3%, oil RS) but continuation volume FADING (417k→115k→176k) = unconfirmed. REJECTED.
 - NCLH: red −2.7%, breaking down. No setup.
 **DECISION: REAL PASS.** Regime is the ceiling (QQQ −0.45%); no candidate clears the gate with a clean entry. Logged both to REJECTED_TRADES.csv. SNAP armed ONLY for a pullback-to-6.35–6.40-hold with QQQ stabilizing — not the OR-high chase. Zero-trade day is the correct default here; capital preserved. Paper engine continues to track intraday.
+
+---
+
+## 2026-10-12 (Mon) — EOD WRAP
+
+**Tape:** Tech-weak all day. SPY closed ~778.07 (−0.06%, flat), QQQ ~746.02 (−0.70%, down). Columbus Day (bond market closed → thin, lighter volume). Breadth narrow; strength was idiosyncratic (SNAP) not broad.
+
+**REAL $20 (563174713): 0 trades — PASS all day. FLAT $19.54, no overnight. Lifetime real UNCHANGED −$0.45 (2W/5L).**
+- 9:47 OR decision: PASSED SNAP (valid ORB but breakout-AT-OR-high entry, extended +4% multi-day, fragile RS in a red-tech tape, thin holiday) + RIG (volume fading). Logged both to REJECTED_TRADES.
+- All 7 engine passes: PASS. Weak tape never offered a clean affordable entry at a pass.
+- **Verdict: correct clean zero-real-trade day.** Capital 100% preserved for the 6th straight session.
+- **Cost-of-pass check (honest):** SNAP (the one we passed at 9:47 @ 6.49) closed 6.54, intraday high 6.635 — a real 1-share entry there would NOT have hit a 2:1 target and would've EOD-flattened at ~+$0.05. The pass cost essentially nothing; the entry-location discipline was both cheap and correct.
+
+**PAPER (learning): 1 trade — P-0035 SNAP +0.91R (+$36 sim). 1W/0L.**
+- Entered 6.44 (pullback-hold of the OR) PAPER-ONLY to TEST the "RS-in-red-tape fails" rule. Result: SNAP FOLLOWED THROUGH to 6.635 (MFE +1.77R), EOD-flatten 6.54 = +0.91R.
+
+**Lessons banked:**
+1. **"RS-in-red-tape fails" is NOT absolute — refined.** SNAP (idiosyncratic single-name leader) DECOUPLED from a −0.70% QQQ tape and was a clean winner. The rule holds for correlated high-beta on average; a genuine single-name RS story can buck a weak tech tape. (Real-side veto was still process-correct — it was about entry location + not chasing extended, a separate axis from "is the RS real.")
+2. **Entry location edge, re-confirmed.** The paper pullback-hold entry (6.44) BEAT the breakout-at-OR-high (6.49) the real side rejected — the better entry won by ~0.8%. Keep preferring pullback/reclaim over breakout-at-high.
+3. **MFE>>realized again** (SNAP +1.77R MFE → +0.91R EOD-flatten) — the midday partial/trail idea stays a live owner proposal.
+
+**Carry-forward:** Real flat, capital intact. Tue: re-assess at the open. SNAP is now 2 days extended (+5% today on top of last week) — watch for either a continuation pullback-hold OR exhaustion. Broader tape tech-soft; want QQQ to stabilize before trusting high-beta longs for REAL capital. Same gate: clean affordable entry AT a pass, stop-first GTC, 2:1, flatten EOD, never overnight. CPI later this week = event risk.
