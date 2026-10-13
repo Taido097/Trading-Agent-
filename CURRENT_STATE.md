@@ -5,7 +5,7 @@
 > intent and status; it is NOT the brokerage record (that comes from
 > reconciliation).
 
-**Last updated:** 2026-10-13 (Tue, ~2:17 ET / 18:13Z — engine pass, managing real). Account: **1 RIG long @ $5.74** (T-2026-0009); GTC stop 5.60 LIVE (6ace3723), target 6.02. RIG RECLAIMED 5.70, now 5.702 (−0.27R, +1.8% day), grinding 5.68→5.72 = constructive recovery toward entry. Not at +1R (5.88) so stop stays 5.60 (no premature BE move). HOLD. Regime SPY −0.02% (~flat), QQQ −0.39% (firming). Lifetime real BEFORE this trade −$0.45 (2W/5L). EOD flatten scheduled 19:50Z (cancel stop FIRST, verify, sell) — NEVER overnight. PAPER none open. CPI this week. Options/crypto/margin OFF. Prior EOD history below. ⟶
+**Last updated:** 2026-10-13 (Tue, ~3:13 ET / 19:14Z — **REAL TRADE CLOSED, FLAT**). Account FLAT ($19.47 cash, 0 positions, 0 orders, no overnight). T-2026-0009 RIG closed −0.47R (−$0.07): entry 5.7399 → exit 5.6738; cancel-stop-first (6ace3723 cancelled) then sold (6ace8311) at the 3:13 pass with a buffer before close. Volume-confirmed ORB that never followed through (poked 5.78 +0.29R then oscillated 5.64–5.72 ~5.5h). GOOD DECISION + LOSS: sound process (cleanest valid ORB in a week, durable-cyclical RS in rotation, stop-first, tiny risk, disciplined flatten) but RIG = '$5 name grinds/no follow-through' (the entry devil's-advocate concern). **Lifetime real now −$0.52 (2W/6L).** UNIVERSE-REFINEMENT (owner proposal, not self-applied): 3rd data point sub-$6 names under-deliver on 2:1 even clean + tailwind → de-prioritize sub-$6 for REAL, or tighter profit-take. 3:50 EOD backstop deleted (flat early). Regime: tech-off rotation (SPY +0.02%, QQQ −0.44%); CPI this week. PAPER none open. Options/crypto/margin OFF. Prior EOD history below. ⟶
 
 ---
 
