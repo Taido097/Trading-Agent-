@@ -5,7 +5,7 @@
 > intent and status; it is NOT the brokerage record (that comes from
 > reconciliation).
 
-**Last updated:** 2026-10-13 (Tue, ~1:17 ET / 17:13Z — engine pass, managing real). Account: **1 RIG long @ $5.74** (T-2026-0009); GTC stop 5.60 LIVE (6ace3723), target 6.02. RIG 5.675 (−0.46R, +1.3% day), coiling 5.65–5.71 above 5.64 support; stop intact, not at +1R. HOLD. Regime SPY −0.11%, QQQ −0.51% stable-soft. Lifetime real BEFORE this trade −$0.45 (2W/5L). EOD flatten scheduled 19:50Z (cancel stop FIRST, verify, sell) — NEVER overnight. PAPER none open. CPI this week. Options/crypto/margin OFF. Prior EOD history below. ⟶
+**Last updated:** 2026-10-13 (Tue, ~2:17 ET / 18:13Z — engine pass, managing real). Account: **1 RIG long @ $5.74** (T-2026-0009); GTC stop 5.60 LIVE (6ace3723), target 6.02. RIG RECLAIMED 5.70, now 5.702 (−0.27R, +1.8% day), grinding 5.68→5.72 = constructive recovery toward entry. Not at +1R (5.88) so stop stays 5.60 (no premature BE move). HOLD. Regime SPY −0.02% (~flat), QQQ −0.39% (firming). Lifetime real BEFORE this trade −$0.45 (2W/5L). EOD flatten scheduled 19:50Z (cancel stop FIRST, verify, sell) — NEVER overnight. PAPER none open. CPI this week. Options/crypto/margin OFF. Prior EOD history below. ⟶
 
 ---
 
