@@ -1171,3 +1171,23 @@ is a FADE, not a setup. Options/crypto/margin OFF.
 **Top few for the 9:47 decision:** (1) **NCLH** $15.43 — primary; cruise-sector RS in a tech-off ROTATION = durable RS (the GOOD kind, unlike yesterday's SNAP). Want an ORB break-hold or pullback-hold, NOT a gap-chase. (2) **RIG** $5.65 — oil RS, watch volume-confirmed ORB. (3) **HBAN** $15.53 — bank rotation play if spread tightens RTH.
 
 **Posture:** tech-off rotation into cyclicals is a genuinely MORE tradable tape for the affordable universe than yesterday — the RS names today are durable (cyclical), not fragile (risk-on). BUT: QQQ −0.79% could drag everything if it worsens, + CPI risk. So: a REAL trade is live IF a cyclical RS leader gives a clean affordable entry at a pass; else PASS. Stop-first GTC, ≥2:1, flatten EOD, never overnight. Options/crypto/margin OFF.
+
+---
+
+## 2026-10-13 (Tue) — EOD WRAP
+
+**Tape:** Tech-off VALUE ROTATION all day. SPY closed 778.04 (−0.01%, flat), QQQ 743.63 (−0.32%, red). Growth/tech/crypto sold, cyclicals (oil/banks/cruise/gold) bid — the rotation thesis from pre-market held.
+
+**REAL $20 (563174713): 1 trade — T-2026-0009 RIG −0.47R (−$0.07). Account FLAT $19.47, no overnight. Lifetime real now −$0.52 (2W/6L).**
+- First real trade in 5 sessions. Took RIG at 9:47 on a volume-confirmed opening-range break (5.70→5.765 on a 424k/2.6× bar), the durable-cyclical RS leader in the rotation. Stop-first GTC @ 5.60 (risk $0.14), target 6.02 (2:1).
+- RIG poked +0.29R (5.78) in the first 10 min, then oscillated 5.64–5.72 for ~5.5h, never near target. Flattened at the 3:13 pass (buffer before the close; cancel-stop-first → verified → sold 5.6738) rather than risk the tight 3:50 window amid MCP disconnects. Never overnight.
+- **Verdict: GOOD DECISION + LOSS.** Process was textbook — the cleanest valid ORB in a week, durable-RS (not fragile like Monday's SNAP), stop-first, tiny risk, disciplined early flatten. The loss came from RIG being a "$5 name that grinds / doesn't follow through" — the exact devil's-advocate concern logged at entry. −$0.07 = 0.36% of account: the controlled-loss learning micro-live exists for.
+
+**PAPER: 0 trades.** Focused the day on managing the live position; no clean paper setups worth forcing in a rotational/choppy tape.
+
+**Lessons banked:**
+1. **Entry/thesis framework worked, but the INSTRUMENT let it down.** Durable-cyclical-RS-in-a-rotation is a valid real setup (correctly distinguished from Monday's fragile SNAP). The volume confirmation correctly separated RIG from NCLH's gap-and-fade. The gate did its job.
+2. **Sub-$6 names under-deliver on 2:1 — now 3 data points** (RIG paper 10/8 +0.89R MFE→+0.06R; RIG real today +0.29R MFE→−0.47R). **Owner proposal (not self-applied):** for REAL capital, either de-prioritize sub-$6 names even on clean setups, OR use a tighter (<2:1) profit-take so the grind-then-fade doesn't round-trip. A higher-priced leader (like PLTR Fri) reached its full target; the cheap names don't.
+3. **EOD discipline held** — flattened early with margin, cancel-stop-first, nothing overnight, no naked orders.
+
+**Carry-forward:** Flat, capital intact ($19.47). Wed: CPI likely (event risk — may gap the tape). Re-assess at the open; if the rotation persists, cyclical RS leaders are the setup, but favor $8+ names for real per today's lesson. Same gate: clean affordable entry at a pass, stop-first GTC, ≥2:1 (or tighter on cheap names), flatten EOD, never overnight.
