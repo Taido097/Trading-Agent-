@@ -1143,3 +1143,31 @@ is a FADE, not a setup. Options/crypto/margin OFF.
 3. **MFE>>realized again** (SNAP +1.77R MFE → +0.91R EOD-flatten) — the midday partial/trail idea stays a live owner proposal.
 
 **Carry-forward:** Real flat, capital intact. Tue: re-assess at the open. SNAP is now 2 days extended (+5% today on top of last week) — watch for either a continuation pullback-hold OR exhaustion. Broader tape tech-soft; want QQQ to stabilize before trusting high-beta longs for REAL capital. Same gate: clean affordable entry AT a pass, stop-first GTC, 2:1, flatten EOD, never overnight. CPI later this week = event risk.
+
+---
+
+## 2026-10-13 (Tue) — PRE-MARKET PREP (9:15 ET / 13:15Z)
+
+**Reconciliation:** Agentic ••••4713 FLAT — $19.54 cash, 0 positions, 0 orders, BP $19.54. Matches internal state (no overnight). ✅
+
+**Regime (pre-market vs Mon close):** SPY 777.28 (−0.11%), QQQ 740.17 (−0.79%, sharply red). KEY INSIGHT: this is a ROTATION, not broad risk-off — tech/growth/crypto SOLD (RIOT −3.5%, MARA −2.0%, SNAP/SOFI/RIVN red) while VALUE/CYCLICALS GREEN: banks (HBAN +0.8%, KEY +1.0%, RF +0.8%), cruise (CCL +1.1%, NCLH +0.5%), oil (RIG +0.9%), gold miners (BTG +1.1%, KGC flat). Caveat: pre-market thin/noisy, wide spreads — confirm at the open + 9:47.
+
+**Event risk:** CPI expected this week (Wed/Thu). Today's tech-off rotation may be CPI-positioning. Keep size/discipline tight; clean setups only.
+
+**Wide screen (pre-market % vs Mon close; ✓=affordable≤~$19 + liquid):**
+| Rank | Sym | Pre-mkt | %chg | Afford | Note |
+|---|---|---|---|---|---|
+| 1 | NCLH | 15.43 | +0.5% | ✓ $15.43 | Cruise; sector green (CCL+NCLH). Cyclical RS, liquid. TOP. |
+| 2 | RIG | 5.65 | +0.9% | ✓ $5.65 | Oil RS (durable per lessons). Cheap/thin, wide pre-mkt spread. |
+| 3 | HBAN | 15.53 | +0.8% | ✓ $15.53 | Bank; rotation beneficiary. RTH-confirm spread. |
+| 4 | BTG | 5.30 | +1.1% | ✓ $5.30 | Gold miner; cheap/thin. |
+| — | CCL | 26.78 | +1.1% | ✗ >$19 | Cruise leader but unaffordable. |
+| — | KEY/RF | — | +0.8–1.0% | ✗ >$19 | Banks, unaffordable. |
+| — | AAL | 12.68 | +0.5% | ✓ | Airline, mild. |
+| — | SNAP | 6.51 | −0.3% | ✓ | 2-day-extended, now giving back — AVOID (was yesterday's fragile RS). |
+| — | SOFI/RIVN/VALE/HL/CLF | — | −0.7 to −1.2% | mix | Red. |
+| — | MARA/RIOT | — | −2 to −3.5% | ✓ | Crypto SOLD hard — avoid. |
+
+**Top few for the 9:47 decision:** (1) **NCLH** $15.43 — primary; cruise-sector RS in a tech-off ROTATION = durable RS (the GOOD kind, unlike yesterday's SNAP). Want an ORB break-hold or pullback-hold, NOT a gap-chase. (2) **RIG** $5.65 — oil RS, watch volume-confirmed ORB. (3) **HBAN** $15.53 — bank rotation play if spread tightens RTH.
+
+**Posture:** tech-off rotation into cyclicals is a genuinely MORE tradable tape for the affordable universe than yesterday — the RS names today are durable (cyclical), not fragile (risk-on). BUT: QQQ −0.79% could drag everything if it worsens, + CPI risk. So: a REAL trade is live IF a cyclical RS leader gives a clean affordable entry at a pass; else PASS. Stop-first GTC, ≥2:1, flatten EOD, never overnight. Options/crypto/margin OFF.
