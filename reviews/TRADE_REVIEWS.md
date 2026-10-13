@@ -1258,3 +1258,8 @@ Tally: REAL −$0.45 lifetime, FLAT, 0 trades today (7 passes); PAPER open P-003
 **Regime:** SPY 777.36 (−0.10%), QQQ 743.23 (−0.38%). Rotation intact, tape slightly softer.
 **REAL T-2026-0009 RIG (1 @ 5.74, stop 5.60, tgt 6.02):** poked to 5.78 post-entry (+0.29R MFE) then pulled back; now 5.68 = −0.43R unrealized. Holding above the 5.64 OR low + 5.60 prior close, still green (+1.4%). Not at +1R (5.88) so no BE move; stop 5.60 intact; thesis (oil rotation leader) intact. HOLD, no order change. Yellow flag: the volume-confirmed break did NOT extend (5.78→5.68) — watching; a decisive loss of 5.64 would weaken it toward the stop and I'd consider a discretionary tighten (HL exit-on-thesis-break lesson). EOD flatten still scheduled 19:50Z.
 **PAPER:** none open; cyclicals choppy post-open — no forced reps while managing the live position.
+
+### 2026-10-13 (Tue) ~11:17 ET / 15:13Z — Engine pass (managing real RIG)
+**Regime:** SPY 777.04 (−0.14%), QQQ 741.91 (−0.55%, softening). Rotation on but broad tape weaker.
+**REAL T-2026-0009 RIG (1 @ 5.74, stop 5.60, tgt 6.02):** now 5.655 = −0.61R unrealized, +1.0% on day. Oscillated 5.64–5.70 for ~1.5h; the 5.64 OR low is HOLDING as support (tested 5+ times). Hasn't reclaimed the 5.70 breakout = the "$5 name grinds/doesn't follow through" pattern (as flagged in devil's advocate). HOLD, stop 5.60 unchanged: no thesis BREAK (support holding, still green) — just a stall; risk capped $0.14, exiting a stall early = over-trading. Stop does its job or it works. EOD flatten still scheduled 19:50Z.
+**PAPER:** none open; not forcing reps while managing the live trade in a softening tape.
