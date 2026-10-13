@@ -1,0 +1,22 @@
+{
+  "trade_id": "T-2026-0009",
+  "frozen_at": "2026-10-13T13:50:30Z",
+  "symbol": "RIG",
+  "direction": "long",
+  "mode": "live",
+  "account": "563174713",
+  "entry_time": "2026-10-13T13:50:09Z",
+  "entry_price": 5.7399,
+  "position_size": 1,
+  "stop": 5.60,
+  "target": 6.02,
+  "planned_risk_usd": 0.14,
+  "planned_risk_pct_account": "0.72%",
+  "rr": 2.0,
+  "regime": {"SPY_pct": 0.03, "QQQ_pct": -0.37, "note": "ROTATION, not broad risk-off. Tech/growth/crypto SOLD (QQQ -0.37% off a -0.79% pre-mkt low; RIOT -3.5%, MARA -2%, SNAP cooling); value/cyclicals BID (banks, cruise, oil, gold miners green). SPY flat/steady while QQQ lags = classic value rotation. RIG (oil/offshore driller) is a direct rotation beneficiary = DURABLE RS (the good kind), unlike yesterday's SNAP (fragile risk-on RS in a tech-off tape)."},
+  "setup": "Opening-Range Breakout, volume-confirmed. RIG opened 5.66, built the OR 5.64-5.70 over the first 2 bars, then at 13:40Z (9:40 ET) BROKE the 5.70 OR high to 5.765 on a 424k volume bar (2.6x the ~160k prior bars) and HELD (5.73-5.75). Entry 5.7399 is a hold just above the breakout on the volume surge. The volume confirmation is what distinguishes this from NCLH right beside it (gapped, spiked to 15.625 on the open bar, then FADED on declining 68-114k volume = the gap-and-fade to AVOID).",
+  "orders": {"buy": "6ace3711-0d8b-4a60-80ba-1127b96a0f71", "stop": "6ace3723-c39f-4e62-a48a-3da47fbf9e88"},
+  "thesis": "Oil/offshore driller is the day's durable-RS cyclical leader in an active value rotation (tech-off). RIG +2.7% on a volume-confirmed opening-range break while QQQ is red = genuine sector demand, not a fragile divergence. Affordable (1 share $5.74 of $19.54), tight 0.17% spread (bid 5.73 x 21k / ask 5.74 x 15k = deep), tiny capped risk ($0.14 = 0.72% of account). Mirrors the oil-RS-durability lesson (RIG held green all day 10/8 on a red tape). The rotation is the tailwind the prior RIG paper reps lacked.",
+  "devils_advocate": "RIG is a $5.74 cheap/thin name, and my logs flag TWO concerns: (1) thin-name whipsaw, and (2) a $5 name has historically NOT reached 2:1 intraday (RIG paper 10/8: +0.89R MFE but only +0.06R realized). Mitigants: today volume is SURGING on the break (424k, not thin at this moment) and the rotation tailwind is real (vs 10/8's red tape). (3) Entry 5.74 is just past the breakout = slight extension; mitigated by volume confirmation + the break being of a fresh OPENING-RANGE high (not multi-day resistance). (4) QQQ -0.37% could drag everything if tech selling broadens; (5) CPI this week = event risk. Mitigated: stop 5.60 is below the 5.64 OR low AND the 5.60 prior close/round number (wider than the immediate 5.68 base per the whipsaw lesson); risk is trivially small; mandatory GTC stop live; flatten by EOD, NEVER overnight.",
+  "management_plan": "Manage every engine pass. Raise stop to breakeven (5.74) only at ~+1R (6.02... wait +1R = 5.88); at +1R (5.88) move stop to 5.74 breakeven (asymmetry: reduce risk only, never add). Bank target 6.02 (2:1) or flatten by EOD. The '$5 name rarely hits 2:1' lesson = be willing to protect profit if it stalls at +0.75-1R near a round number (6.00) rather than round-trip it (discretionary tighten on a clear stall + rollover, per the HL exit-on-thesis-break lesson). NEVER overnight. EOD close-management: CANCEL the GTC stop 6ace3723 FIRST, verify cancelled, THEN sell 1 share — scheduled via send_later for ~19:50Z (3:50pm ET) as a backstop to the engine passes."
+}
