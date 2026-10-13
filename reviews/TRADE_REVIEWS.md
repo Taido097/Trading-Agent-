@@ -1263,3 +1263,6 @@ Tally: REAL −$0.45 lifetime, FLAT, 0 trades today (7 passes); PAPER open P-003
 **Regime:** SPY 777.04 (−0.14%), QQQ 741.91 (−0.55%, softening). Rotation on but broad tape weaker.
 **REAL T-2026-0009 RIG (1 @ 5.74, stop 5.60, tgt 6.02):** now 5.655 = −0.61R unrealized, +1.0% on day. Oscillated 5.64–5.70 for ~1.5h; the 5.64 OR low is HOLDING as support (tested 5+ times). Hasn't reclaimed the 5.70 breakout = the "$5 name grinds/doesn't follow through" pattern (as flagged in devil's advocate). HOLD, stop 5.60 unchanged: no thesis BREAK (support holding, still green) — just a stall; risk capped $0.14, exiting a stall early = over-trading. Stop does its job or it works. EOD flatten still scheduled 19:50Z.
 **PAPER:** none open; not forcing reps while managing the live trade in a softening tape.
+
+### 2026-10-13 (Tue) ~12:17 ET / 16:13Z — Engine pass (managing real RIG)
+**Regime:** SPY 776.86 (−0.16%), QQQ 742.27 (−0.51%), stable-soft. **REAL T-2026-0009 RIG (1 @ 5.74, stop 5.60, tgt 6.02):** now 5.68 = −0.43R, +1.4% day. Coiled tight 5.65–5.68 for ~1h above the 5.64 support; still green, stop intact, not at +1R. HOLD, no change — dead-flat grind ("$5 name" behavior). PAPER none open. EOD flatten 19:50Z.
