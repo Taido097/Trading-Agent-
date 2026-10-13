@@ -1266,3 +1266,6 @@ Tally: REAL −$0.45 lifetime, FLAT, 0 trades today (7 passes); PAPER open P-003
 
 ### 2026-10-13 (Tue) ~12:17 ET / 16:13Z — Engine pass (managing real RIG)
 **Regime:** SPY 776.86 (−0.16%), QQQ 742.27 (−0.51%), stable-soft. **REAL T-2026-0009 RIG (1 @ 5.74, stop 5.60, tgt 6.02):** now 5.68 = −0.43R, +1.4% day. Coiled tight 5.65–5.68 for ~1h above the 5.64 support; still green, stop intact, not at +1R. HOLD, no change — dead-flat grind ("$5 name" behavior). PAPER none open. EOD flatten 19:50Z.
+
+### 2026-10-13 (Tue) ~1:17 ET / 17:13Z — Engine pass (managing real RIG)
+**Regime:** SPY 777.27 (−0.11%), QQQ 742.22 (−0.51%), stable-soft. **REAL T-2026-0009 RIG (1 @ 5.74, stop 5.60, tgt 6.02):** 5.675 = −0.46R, +1.3% day; still coiling 5.65–5.71 above 5.64 support, stop intact, not at +1R. HOLD, no action. PAPER none open. EOD flatten 19:50Z.
