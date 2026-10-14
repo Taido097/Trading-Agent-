@@ -1298,3 +1298,17 @@ Tally: REAL −$0.45 lifetime, FLAT, 0 trades today (7 passes); PAPER open P-003
 **STEP B — PAPER:** No open paper positions to manage. **0 new paper longs opened.** No sector showed genuine upside RS (even safe havens red). Opening longs into a broad de-grossing liquidation = fighting the tape; zero valid longs is the honest/disciplined outcome. Learning note reinforced: on a broad de-grossing day where even gold/miners sell off with risk assets, there are NO valid long setups — stand aside, don't manufacture losers.
 
 **Running tally:** Lifetime real −$0.52 (2W/6L); account FLAT. Paper 24 closed (9W/15L). Clean disciplined zero-trade day continuing on the CPI-aftermath risk-off tape.
+
+---
+
+### 2026-10-14 (Wed) ~1:13 ET / 17:13Z — Intraday engine pass
+
+**Regime:** Risk-off PLATEAU at the lows. SPY 769.41 (−1.11%), QQQ 730.58 (−1.75%) — essentially flat vs 12:13 (−1.08%/−1.77%); selloff stabilized at the lows, not recovering. Gold/miners still red (GLD −2.0%, GDX −4.7%, NEM −4.1%). Broad de-grossing intact.
+
+**STEP A — REAL $20:** Reconciled 563174713 → **FLAT** ($19.47, 0 pos, 0 orders). **PASS (5th assessment today).**
+- Best structure of the day = **KVUE** (+1.15%, 17.965): coiled tight 17.88–17.945 for >1hr (16:00–16:55Z), now lifting on rising volume (17:00Z 122k, 17:05Z 98k vs 25–60k coil bars). Genuine defensive RS (≈+2.9% vs QQQ). BUT still **below the 18.035 HOD** (set 13:35Z, held all session). Entering 17.965 = buying $0.07 into a ceiling that's rejected all day. Break-and-hold of 18.035 on volume NOT yet triggered. No real entry into resistance on a low-beta name in a −1.75% tape.
+- **KVUE flagged as trigger-watch:** break + hold > 18.035 on volume next pass = valid entry (real affordability OK: 1 sh ≈$18.04 of $19.47).
+
+**STEP B — PAPER:** No open positions to manage. **0 new longs.** Same read — only KVUE shows constructive RS and it's coiling under resistance, not broken. Anticipating into the ceiling is the entry-location error I keep logging; waiting for the 18.035 break-and-hold is the disciplined rep. Still no broad upside RS (gold red too).
+
+**Running tally:** Lifetime real −$0.52 (2W/6L); FLAT. Paper 24 closed (9W/15L). Disciplined zero-trade day holding; KVUE the one name to watch for a late-session break.

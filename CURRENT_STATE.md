@@ -5,7 +5,7 @@
 > intent and status; it is NOT the brokerage record (that comes from
 > reconciliation).
 
-**Last updated:** 2026-10-14 (Wed, ~12:13 ET / 16:13Z — intraday engine pass). Account **FLAT** ($19.47 cash, 0 positions, 0 orders). Regime risk-off DEEPENING further: SPY 769.60 (−1.08%), QQQ 730.44 (−1.77%) — selloff accelerating; broad DE-GROSSING/liquidation (even safe havens red: GLD −2.1%, GDX −4.8%, NEM −4.1%, KGC −6.3%). REAL: PASS (4th today) — only green affordable name KVUE (+1.0% defensive) is mid-range chop ~$0.10 below HOD, buying into the 18.00 ceiling that rejected 2x; fails entry-location gate. Rest red/making lows. No clean affordable setup; capital preserved. PAPER 0 (no upside RS anywhere — not fighting a liquidation). Lifetime real −$0.52 (2W/6L). Clean disciplined zero-trade day continuing on CPI-aftermath risk-off tape. Options/crypto/margin OFF. Prior EOD history below. ⟶
+**Last updated:** 2026-10-14 (Wed, ~1:13 ET / 17:13Z — intraday engine pass). Account **FLAT** ($19.47 cash, 0 positions, 0 orders). Regime risk-off PLATEAU at lows: SPY 769.41 (−1.11%), QQQ 730.58 (−1.75%) — flat vs 12:13, stabilized at lows; gold still red (GLD −2.0%, GDX −4.7%). REAL: PASS (5th today). Best structure = KVUE (+1.15%, 17.965) coiling under 18.035 HOD on rising volume = genuine defensive RS, but NOT yet broken; no entry into resistance. KVUE = trigger-watch: break+hold >18.035 on volume next pass = valid entry (1 sh ~$18 affordable). PAPER 0 (only KVUE constructive, still under resistance). Lifetime real −$0.52 (2W/6L). Disciplined zero-trade day holding on CPI-aftermath risk-off tape. Options/crypto/margin OFF. Prior EOD history below. ⟶
 
 ---
 
