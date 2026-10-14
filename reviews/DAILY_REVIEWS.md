@@ -1222,3 +1222,17 @@ is a FADE, not a setup. Options/crypto/margin OFF.
 - RIG: pre-mkt +2.8% oil pop GAP-AND-FADED at the open (5.81 → 5.625, now ~5.655 flat) on heavy vol but downward. Failing, not holding. REJECTED.
 - KVUE: popped 18.035 then faded to the OR low 17.87 (no hold). Mild defensive RS, no momentum. REJECTED.
 **DECISION: REAL PASS.** Both green names faded at the open; risk-off tape (regime = ceiling) + CPI day caps everything. Nothing clears the gate. Both logged to REJECTED_TRADES. Zero-trade day is the expected/correct outcome; capital preserved. Paper engine continues to track.
+
+---
+
+## 2026-10-14 (Wed) — EOD WRAP
+
+**Tape:** Broad risk-off de-grossing / liquidation day on the CPI aftermath. SPY closed ~−1.3% (769 open-area → 767.8), QQQ ~−2.2% (743.57 prior → 727.4). Not a rotation — EVERYTHING red together, including the usual safe havens (GLD −2%, GDX −4.7%, NEM −4%, KGC −6%). Classic margin-driven de-risking. High-beta crushed (SOFI −8%, UEC −6%, AAL −5%, CLF −5%, SNAP −5%).
+
+**REAL $20:** **ZERO trades. 7 PASS assessments across the day** (9:47 open-decision + 6 engine passes). Account FLAT all day at $19.47; 0 positions, 0 orders throughout — no naked orders, no overnight risk. Only green affordable name was KVUE (defensive, +1%), but it chopped under its 18.035 opening-range HOD the entire session and never produced a break-and-hold trigger. Flagged it as a watch at 1:13 ET; it faded by 2:13 ET — waiting for confirmation (vs anticipating into resistance) was vindicated: an anticipatory entry would have been an immediate loser.
+
+**PAPER:** **ZERO entries.** No sector showed genuine upside RS (even gold red). Opening longs into an accelerating liquidation would only manufacture losers — the whole lesson of the day.
+
+**Verdict:** This is EXACTLY what capital-preservation-first looks like on a hostile tape. A zero-trade day is the correct outcome, not a failure. Regime is the ceiling; when the ceiling is a −2.2% QQQ de-grossing day with no RS leadership anywhere, the edge is in NOT trading. Discipline held clean across all 7 checks.
+
+**Running lifetime:** Real −$0.52 (2W/6L), account FLAT $19.47. Paper 24 closed (9W/15L).
