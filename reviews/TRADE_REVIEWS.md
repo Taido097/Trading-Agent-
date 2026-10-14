@@ -1281,3 +1281,6 @@ Tally: REAL −$0.45 lifetime, FLAT, 0 trades today (7 passes); PAPER open P-003
 
 ### 2026-10-14 (Wed) ~10:13 ET / 14:13Z — Intraday engine pass
 **Regime:** SPY 772.63 (−0.69%), QQQ 735.77 (−1.05%) — risk-off DEEPENING, genuine down day (likely CPI reaction). **REAL: FLAT → PASS.** RIG bounced to 5.745 (+1.7%) off its open fade but it's the $5-grind name (de-prioritized for real) + a −1% risk-off tape caps it; KVUE mild/no-momentum; rest red (SNAP −1.6%, HL −5.6%). No clean affordable setup. Capital preserved. **PAPER: none opened** — deepening risk-off, momentum mean-reverts, not forcing longs into a −1% tape (quality-over-quantity + regime-is-ceiling). Lifetime real −$0.52 (2W/6L).
+
+### 2026-10-14 (Wed) ~11:13 ET / 15:13Z — Intraday engine pass
+**Regime:** SPY 771.36 (−0.86%), QQQ 733.81 (−1.31%) — risk-off deepening, solid down day (CPI reaction). **REAL: FLAT → PASS (3rd today).** Only green: RIG (+1.1%, $5-grind, de-prioritized) and KVUE (+0.6% defensive, no momentum); rest red (CCL −2.7%, UEC −6%). No clean affordable setup; a −1.3% tape caps everything. **PAPER: none** (not forcing longs into a selloff; momentum mean-reverts). Capital preserved. Lifetime real −$0.52 (2W/6L).
