@@ -1191,3 +1191,26 @@ is a FADE, not a setup. Options/crypto/margin OFF.
 3. **EOD discipline held** — flattened early with margin, cancel-stop-first, nothing overnight, no naked orders.
 
 **Carry-forward:** Flat, capital intact ($19.47). Wed: CPI likely (event risk — may gap the tape). Re-assess at the open; if the rotation persists, cyclical RS leaders are the setup, but favor $8+ names for real per today's lesson. Same gate: clean affordable entry at a pass, stop-first GTC, ≥2:1 (or tighter on cheap names), flatten EOD, never overnight.
+
+---
+
+## 2026-10-14 (Wed) — PRE-MARKET PREP (9:15 ET / 13:15Z)
+
+**Reconciliation:** Agentic ••••4713 FLAT — $19.47 cash, 0 positions, 0 orders, BP $19.47. Matches internal (−$0.07 from Tue RIG loss). ✅
+
+**Regime (pre-market vs Tue close):** SPY 775.45 (−0.33%), QQQ 738.83 (−0.64%) — BROAD RISK-OFF (not a rotation like Tue). Almost everything red incl. yesterday's winners: banks (HBAN −1.1%, KEY −1.3%, RF −1.2%), gold miners (KGC −2.4%, HL −3.2%, BTG −2.3%), crypto (RIOT −3.9%, MARA −3.6%), cruise (CCL −1.0%, NCLH −1.7%), EV (RIVN −1.7%), SOFI −2.3%, SNAP −1.5% (cooling). ONLY green: RIG (oil +2.8%) and KVUE (defensive staple +0.7%). Caveat: pre-mkt thin/noisy.
+
+**Event risk: VERY LIKELY CPI DAY (Wed).** Broad pre-market de-risking (everything red) reads as CPI nerves / hot-print reaction. HIGHEST-CAUTION day — regime is the ceiling; a risk-off CPI tape caps even RS names.
+
+**Wide screen (pre-market % vs Tue close; ✓=affordable≤~$19 + liquid):**
+| Sym | Pre-mkt | %chg | Afford | Note |
+|---|---|---|---|---|
+| RIG | 5.81 | +2.8% | ✓ $5.81 | Oil — lone cyclical green. BUT the "$5 grind" name (just lost on it 10/13); risk-off caps it. Watch, high bar. |
+| KVUE | 17.89 | +0.7% | ✓ $17.89 | Defensive staple green in a risk-off tape = flight-to-safety RS (different, maybe durable kind). Wide pre-mkt spread. Watch. |
+| SNAP | 6.39 | −1.5% | ✓ | Cooling, red. Avoid. |
+| banks/cruise/metals/crypto/EV | — | −1 to −3.9% | mix | All RED. Yesterday's rotation reversed. Avoid. |
+| CCL/KGC/RF/SIRI/AMCR | — | red | ✗ >$19 | Unaffordable + red anyway. |
+
+**Top few for 9:47:** (1) RIG $5.81 — only if it shows a genuinely clean volume-confirmed hold AND the tape isn't deteriorating (but it's the $5-grind name + risk-off = very high bar, lean PASS). (2) KVUE $17.89 — defensive flight-to-safety green; only on a clean RTH setup + tight spread.
+
+**Posture:** BROAD RISK-OFF + likely CPI = lean heavily toward PASS. Capital preservation is rule #1; after yesterday's small loss there is zero reason to force anything into a risk-off event-day tape. A real trade ONLY on an exceptionally clean affordable setup at a pass; a zero-trade day is the expected/correct outcome. Stop-first GTC, ≥2:1, flatten EOD, never overnight. Options/crypto/margin OFF.
