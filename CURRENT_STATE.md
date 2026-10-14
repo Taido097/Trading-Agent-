@@ -5,7 +5,7 @@
 > intent and status; it is NOT the brokerage record (that comes from
 > reconciliation).
 
-**Last updated:** 2026-10-14 (Wed, 9:47 ET / 13:47Z — opening-range decision). Account **FLAT** ($19.47 cash, 0 positions, 0 orders) — reconciled, matches. Regime RISK-OFF: SPY 775.98 (−0.26%), QQQ 740.04 (−0.47%); likely CPI day. REAL: **PASS** at 9:47. Both pre-mkt green names FADED at the open: RIG's +2.8% oil pop gap-and-faded (5.81→5.625, now ~flat); KVUE popped 18.03 then faded to OR low 17.87. Risk-off = regime ceiling; nothing clears the gate. Both logged REJECTED_TRADES. Lifetime real −$0.52 (2W/6L); capital preserved. Zero-trade day = expected/correct on a risk-off CPI tape. Prior: 10/13 RIG real −0.47R (GOOD DECISION + LOSS, '$5 grind'; universe lesson: de-prioritize sub-$6 for real). Options/crypto/margin OFF. Prior EOD history below. ⟶
+**Last updated:** 2026-10-14 (Wed, ~10:13 ET / 14:13Z — intraday engine pass). Account **FLAT** ($19.47 cash, 0 positions, 0 orders). Regime risk-off DEEPENING: SPY 772.63 (−0.69%), QQQ 735.77 (−1.05%); likely CPI reaction. REAL: PASS (2nd today) — RIG bounced to 5.745 (+1.7%) off its open fade but it's the $5-grind name (de-prioritized) + −1% tape caps it; KVUE mild; rest red. No clean affordable setup; capital preserved. PAPER none (not forcing longs into a −1% risk-off tape). Lifetime real −$0.52 (2W/6L). Prior: 10/13 RIG real −0.47R (GOOD DECISION + LOSS). Options/crypto/margin OFF. Prior EOD history below. ⟶
 
 ---
 
