@@ -1214,3 +1214,11 @@ is a FADE, not a setup. Options/crypto/margin OFF.
 **Top few for 9:47:** (1) RIG $5.81 — only if it shows a genuinely clean volume-confirmed hold AND the tape isn't deteriorating (but it's the $5-grind name + risk-off = very high bar, lean PASS). (2) KVUE $17.89 — defensive flight-to-safety green; only on a clean RTH setup + tight spread.
 
 **Posture:** BROAD RISK-OFF + likely CPI = lean heavily toward PASS. Capital preservation is rule #1; after yesterday's small loss there is zero reason to force anything into a risk-off event-day tape. A real trade ONLY on an exceptionally clean affordable setup at a pass; a zero-trade day is the expected/correct outcome. Stop-first GTC, ≥2:1, flatten EOD, never overnight. Options/crypto/margin OFF.
+
+### 2026-10-14 (Wed) — 9:47 ET OPENING-RANGE DECISION
+**Reconciled:** FLAT, 0 pos, 0 orders. ✅
+**Regime (17 min in):** SPY 775.98 (−0.26%), QQQ 740.04 (−0.47%) — RISK-OFF confirmed at the open. CPI day.
+**Assessment:**
+- RIG: pre-mkt +2.8% oil pop GAP-AND-FADED at the open (5.81 → 5.625, now ~5.655 flat) on heavy vol but downward. Failing, not holding. REJECTED.
+- KVUE: popped 18.035 then faded to the OR low 17.87 (no hold). Mild defensive RS, no momentum. REJECTED.
+**DECISION: REAL PASS.** Both green names faded at the open; risk-off tape (regime = ceiling) + CPI day caps everything. Nothing clears the gate. Both logged to REJECTED_TRADES. Zero-trade day is the expected/correct outcome; capital preserved. Paper engine continues to track.
