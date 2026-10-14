@@ -1284,3 +1284,17 @@ Tally: REAL −$0.45 lifetime, FLAT, 0 trades today (7 passes); PAPER open P-003
 
 ### 2026-10-14 (Wed) ~11:13 ET / 15:13Z — Intraday engine pass
 **Regime:** SPY 771.36 (−0.86%), QQQ 733.81 (−1.31%) — risk-off deepening, solid down day (CPI reaction). **REAL: FLAT → PASS (3rd today).** Only green: RIG (+1.1%, $5-grind, de-prioritized) and KVUE (+0.6% defensive, no momentum); rest red (CCL −2.7%, UEC −6%). No clean affordable setup; a −1.3% tape caps everything. **PAPER: none** (not forcing longs into a selloff; momentum mean-reverts). Capital preserved. Lifetime real −$0.52 (2W/6L).
+
+---
+
+### 2026-10-14 (Wed) ~12:13 ET / 16:13Z — Intraday engine pass
+
+**Regime:** Risk-off DEEPENING further. SPY 769.60 (−1.08%), QQQ 730.44 (−1.77%) — selloff accelerating into midday (was −0.86%/−1.31% at 11:13). Broad **de-grossing / liquidation** signature: not a rotation. Tech, cyclicals (CCL −3.0%, CLF −5.1%, AAL −5.4%), financials (SOFI −7.3%), uranium (UEC −6.9%), social (SNAP −4.9%) ALL red — AND the usual safe havens sold off too: GLD −2.1%, GDX −4.8%, NEM −4.1%, KGC −6.3%, AEM −5.9%, AU −4.1%. When even gold/miners bleed with everything else, it's margin-driven de-risking, not a flight to safety.
+
+**STEP A — REAL $20:** Reconciled 563174713 → **FLAT** ($19.47 cash, 0 positions, 0 orders; buying power $19.47). No naked orders, no overnight risk. **DECISION: PASS (4th assessment today).**
+- Only green affordable name: **KVUE +0.99%** (defensive consumer-health). Pulled 5min structure: HOD **18.035 was set in the first 5 minutes**, then faded to 17.76 (14:15Z) and has only ground back to 17.935 — still **~$0.10 BELOW HOD, mid-range**, NOT a new-high breakout. Entry ~17.94 would be buying straight into the 18.00 opening-range ceiling that already rejected twice today. Low-beta defensive = poor 2:1 candidate by nature. Fails the entry-location gate hard.
+- Everything else red/making intraday lows. No valid long. Capital preserved — correct call on a deepening liquidation tape (regime is the ceiling).
+
+**STEP B — PAPER:** No open paper positions to manage. **0 new paper longs opened.** No sector showed genuine upside RS (even safe havens red). Opening longs into a broad de-grossing liquidation = fighting the tape; zero valid longs is the honest/disciplined outcome. Learning note reinforced: on a broad de-grossing day where even gold/miners sell off with risk assets, there are NO valid long setups — stand aside, don't manufacture losers.
+
+**Running tally:** Lifetime real −$0.52 (2W/6L); account FLAT. Paper 24 closed (9W/15L). Clean disciplined zero-trade day continuing on the CPI-aftermath risk-off tape.
