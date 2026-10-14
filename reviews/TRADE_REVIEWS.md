@@ -1312,3 +1312,17 @@ Tally: REAL −$0.45 lifetime, FLAT, 0 trades today (7 passes); PAPER open P-003
 **STEP B — PAPER:** No open positions to manage. **0 new longs.** Same read — only KVUE shows constructive RS and it's coiling under resistance, not broken. Anticipating into the ceiling is the entry-location error I keep logging; waiting for the 18.035 break-and-hold is the disciplined rep. Still no broad upside RS (gold red too).
 
 **Running tally:** Lifetime real −$0.52 (2W/6L); FLAT. Paper 24 closed (9W/15L). Disciplined zero-trade day holding; KVUE the one name to watch for a late-session break.
+
+---
+
+### 2026-10-14 (Wed) ~2:13 ET / 18:12Z — Intraday engine pass
+
+**Regime:** Late-day leg DOWN underway. SPY 767.70 (−1.33%), QQQ 728.35 (−2.05%) — selloff resumed from the 1:13 plateau; QQQ now through −2%, making new session lows into the afternoon. Risk-off intensifying into the close.
+
+**STEP A — REAL $20:** Reconciled 563174713 → **FLAT** ($19.47, 0 pos, 0 orders). **PASS (6th assessment today).**
+- **KVUE trigger-watch did NOT fire:** faded to 17.945 (+1.04%) from 17.965, never broke the 18.035 HOD — rolled back with the tape. Vindicates waiting for the break-and-hold instead of anticipating into resistance (would've been an immediate loser). No valid entry.
+- Everything else red (RIG −0.3%, VALE −1.5%, F −1.6%). No setup.
+
+**STEP B — PAPER:** No open positions. **0 new longs.** QQQ −2% and making new lows into the afternoon + O003 late-day caution = no longs. Fighting an intensifying late-day selloff manufactures losers.
+
+**Running tally:** Lifetime real −$0.52 (2W/6L); FLAT. Paper 24 closed (9W/15L). Clean zero-trade day; the one watch (KVUE) failed to confirm and faded — discipline paid.
