@@ -1236,3 +1236,35 @@ is a FADE, not a setup. Options/crypto/margin OFF.
 **Verdict:** This is EXACTLY what capital-preservation-first looks like on a hostile tape. A zero-trade day is the correct outcome, not a failure. Regime is the ceiling; when the ceiling is a −2.2% QQQ de-grossing day with no RS leadership anywhere, the edge is in NOT trading. Discipline held clean across all 7 checks.
 
 **Running lifetime:** Real −$0.52 (2W/6L), account FLAT $19.47. Paper 24 closed (9W/15L).
+
+---
+
+## 2026-10-15 (Thu) — PRE-MARKET PREP (~9:16 ET / 13:16Z)
+
+**Reconciliation:** Account 563174713 **FLAT** — $19.47 cash, 0 positions, 0 orders, buying power $19.47. Matches internal state (CURRENT_STATE). No overnight exposure carried; no naked orders. ✓
+
+**Regime (pre-market prints vs 10/14 close):** Tech-led risk-off CONTINUING, day 2.
+- SPY ~767.00 (−0.34%) — holding up relatively well
+- QQQ ~719.62 (−1.28%) — growth/tech still under pressure (gapped down after −2.2% yesterday)
+- Read: selling concentrated in growth/tech, NOT broad. Unlike yesterday's everything-red de-grossing, today there IS rotation RS: **gold/silver miners bouncing + defensives holding green.** More constructive tape for finding a leader, but tech weakness caps overall risk appetite — stay selective.
+
+**Event risk:** Bank earnings season (regionals HBAN/RF/KEY + money-center banks reporting mid-Oct) = idiosyncratic gap risk on bank names — AVOID banks around prints. Yesterday was CPI-driven; no specific major macro release confirmed for today from available tools (watch for PPI this week). Treat the tape as event-sensitive.
+
+**WIDE SCREEN — pre-market RS ranking (last_non_reg vs prior close). Hard screen: 1 whole share ≤ ~$18.50 (buffer on $19.47), liquid, spread checked at open (pre-mkt spreads unreliable).**
+
+GREEN / RS leaders:
+| Rank | Ticker | Pre-mkt | %chg | Affordable? | Note |
+|---|---|---|---|---|---|
+| 1 | **KVUE** | $18.40 | +2.17% | ✓ (thin buffer $1.07) | Defensive, 2nd day RS; pre-mkt already > yest 18.035 HOD |
+| 2 | **HL** | $15.22 | +2.15% | ✓ | Silver/gold miner — fresh gold-complex bounce; cleanest affordable momentum |
+| 3 | BTG | $5.07 | +1.58% | ✓ but sub-$6 | Gold miner; de-prioritized (sub-$6 2:1 under-delivery + stop-vs-spread) |
+| 4 | F | $12.11 | +0.50% | ✓ | Large liquid cyclical, mild green |
+| 5 | HBAN | $15.16 | +0.40% | ✓ | Regional bank — EARNINGS RISK, avoid |
+| 6 | NCLH | $14.92 | +0.34% | ✓ | Cruise, mild green |
+
+Excluded >$19: KGC +1.48% ($22.57), RF +1.23% ($27.22), AMCR +1.70% ($43), KEY +0.61% ($19.91), CCL ($26), SIRI ($26.5).
+RED / skip: RIOT −4.4%, MARA −2.5%, SNAP −2.1%, CHPT −2.1%, SOFI −1.9%, CLF −1.8%, VALE −1.7%, RIVN −1.0%, AAL −0.3%, RIG +0.2% (flat, sub-$6).
+
+**THEME:** Gold/silver miner bounce (HL, BTG, KGC all green) + defensive RS (KVUE). These are the day's leadership vs a −1.3% QQQ. 
+
+**Top few to carry to the 9:47 decision:** **HL** (gold-complex RS leader, affordable, clean), **KVUE** (defensive RS, affordable but thin buffer + was HOD-capped yesterday), F (mild cyclical). Watch whether the gold-miner RS holds through the open (if the complex fades, HL/BTG are out). NO trade in this step — decision routine fires ~9:47 ET on an opening-range read of the top names. Capital-preservation gate + RISK_RULES §9 apply; options/crypto/margin OFF.
