@@ -1358,3 +1358,19 @@ Tally: REAL −$0.45 lifetime, FLAT, 0 trades today (7 passes); PAPER open P-003
 **Note:** Caught + fixed a paper-ID scheme error (file uses P-2026-####, not P-####) before commit.
 
 **Running tally:** Lifetime real −$0.52 (2W/6L), FLAT. Paper 24 closed (9W/15L) + 3 now OPEN.
+
+---
+
+### 2026-10-15 (Thu) ~11:13 ET / 15:13Z — Intraday engine pass (2nd)
+
+**Regime:** Risk appetite RETURNING. SPY 770.76 (+0.15%, green) / QQQ 725.16 (−0.52%, recovered hard from −1.75% at open). Constructive turn; gold miners + fintech leading.
+
+**STEP A — REAL $20:** 563174713 **FLAT** ($19.47, 0/0). **PASS.** Leader KGC unaffordable ($23.23); SOFI just went vertical (chasing = O002); KVUE extended (+4%)/thin buffer. No clean affordable pullback entry.
+
+**STEP B — PAPER — manage 3 open:**
+- **P-2026-0036 KGC → CLOSED WIN +2.0R** (+$79.64 sim). Entry 22.80 → tagged target 23.24 at 14:50Z on a straight climb; MAE only −0.23R (never threatened stop). Clean coil-breakout-hold RS leader delivered. ✅ The gold-miner-leadership read was correct.
+- **P-2026-0037 SOFI → OPEN.** 14.30 entry; broke to new highs 14.53 (+1.6%), MFE +0.9R, MAE −0.2R. High-volume pullback-continuation working. Hold.
+- **P-2026-0038 KVUE → OPEN.** 18.62 entry; grinding 18.735 (+0.6%), MFE +0.68R, held every dip. Defensive grind continuing. Hold.
+- No new paper opened — no fresh broad scan this pass; the tape-turn names (SOFI/KGC) already extended. Quality over quota.
+
+**Running tally:** Lifetime real −$0.52 (2W/6L), FLAT. Paper: 25 closed (10W/15L after KGC win) + 2 OPEN (SOFI, KVUE).

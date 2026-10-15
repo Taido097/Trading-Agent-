@@ -5,7 +5,7 @@
 > intent and status; it is NOT the brokerage record (that comes from
 > reconciliation).
 
-**Last updated:** 2026-10-15 (Thu, ~10:13 ET / 14:12Z — engine pass 1). Account **FLAT** ($19.47 cash, 0 positions, 0 orders). Regime tech-led risk-off STABILIZING: SPY −0.30%, QQQ −1.21% (QQQ off the open low); gold miners (KGC +2.5% new highs) + defensive KVUE (+3.4%) leading. REAL: PASS — KVUE extended (no pullback to 18.30-18.40, thin buffer $0.84); clean leader KGC unaffordable ($22.80). PAPER: opened 3 (P-2026-0036 KGC coil-breakout 22.80, P-0037 SOFI pullback-continuation 14.30, P-0038 KVUE defensive-grind 18.62; all 2:1, stop-first). Lifetime real −$0.52 (2W/6L); paper 24 closed (9W/15L) + 3 OPEN. Options/crypto/margin OFF. Prior EOD history below. ⟶
+**Last updated:** 2026-10-15 (Thu, ~11:13 ET / 15:13Z — engine pass 2). Account **FLAT** ($19.47 cash, 0 positions, 0 orders). Regime TURNED constructive: SPY +0.15% (green), QQQ −0.52% (recovered hard from −1.75% open); gold miners + fintech leading. REAL: PASS (leaders KGC unaffordable $23.23, SOFI vertical/O002, KVUE extended/thin buffer). PAPER: **KGC P-2026-0036 CLOSED WIN +2.0R** (+$79.64 sim, clean coil-breakout to 23.24); SOFI (0037) + KVUE (0038) OPEN & green. Lifetime real −$0.52 (2W/6L); paper 25 closed (10W/15L) + 2 OPEN. Options/crypto/margin OFF. Prior EOD history below. ⟶
 
 ---
 
