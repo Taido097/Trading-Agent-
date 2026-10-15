@@ -1374,3 +1374,18 @@ Tally: REAL −$0.45 lifetime, FLAT, 0 trades today (7 passes); PAPER open P-003
 - No new paper opened — no fresh broad scan this pass; the tape-turn names (SOFI/KGC) already extended. Quality over quota.
 
 **Running tally:** Lifetime real −$0.52 (2W/6L), FLAT. Paper: 25 closed (10W/15L after KGC win) + 2 OPEN (SOFI, KVUE).
+
+---
+
+### 2026-10-15 (Thu) ~12:13 ET / 16:13Z — Intraday engine pass (3rd)
+
+**Regime:** Stable. SPY 769.88 (+0.04%, flat), QQQ 724.29 (−0.64%, holding recovery off the open low). Midday chop.
+
+**STEP A — REAL $20:** 563174713 **FLAT** ($19.47, 0/0). **PASS.** SOFI extended + chopping, KVUE fading, KGC leader unaffordable ($23). No fresh clean affordable entry.
+
+**STEP B — PAPER — manage 2 open:**
+- **P-2026-0037 SOFI → OPEN.** Entry 14.30; ran to 14.59, now consolidating 14.50 (+1.4%). MFE +1.16R, MAE −0.2R. Target 14.80 / stop 14.05 both intact. Holding; continuation coil.
+- **P-2026-0038 KVUE → OPEN.** Entry 18.62; peaked 18.76 (+0.68R) then faded to 18.615 ≈ entry. MFE +0.68R, now ~0R. Stop 18.40 intact. STALLING — maxed +0.8% and rolled back = the "low-beta defensive rarely reaches 2:1 intraday" pattern materializing (data point building).
+- No new paper (midday chop, no fresh leader in-hand; quality over quota).
+
+**Running tally:** Lifetime real −$0.52 (2W/6L), FLAT. Paper 25 closed (10W/15L) + 2 OPEN (SOFI green, KVUE ~flat).
