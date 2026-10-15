@@ -5,7 +5,7 @@
 > intent and status; it is NOT the brokerage record (that comes from
 > reconciliation).
 
-**Last updated:** 2026-10-15 (Thu, ~1:13 ET / 17:13Z — engine pass 4). Account **FLAT** ($19.47 cash, 0 positions, 0 orders). Regime stable: SPY +0.05%, QQQ −0.68%. REAL: PASS (SOFI extended + past-midday O003; KGC unaffordable). PAPER manage: SOFI (0037) OPEN +2.1% grinding to highs 14.60 (MFE +1.16R, tgt 14.80); KVUE (0038) OPEN but FAILING — faded to 18.545 below entry (~−0.3R), continuation thesis broken (low-beta 2:1-struggle pattern confirming). No new paper (late-day). Lifetime real −$0.52 (2W/6L); paper 25 closed (10W/15L) + 2 OPEN. Options/crypto/margin OFF. Prior EOD history below. ⟶
+**Last updated:** 2026-10-15 (Thu, ~2:13 ET / 18:13Z — engine pass 5). Account **FLAT** ($19.47 cash, 0 positions, 0 orders). Regime stable: SPY +0.02%, QQQ −0.69%. REAL: PASS (SOFI extended/late-day, KGC unaffordable, KVUE dead). PAPER: **SOFI P-2026-0037 CLOSED WIN +2.0R** (+$80 sim, tagged 14.80 target); KVUE (0038) OPEN at breakeven (never advanced — low-beta 2:1 lesson confirmed). Today's paper: KGC +2.0R + SOFI +2.0R = 2 clean RS wins. Lifetime real −$0.52 (2W/6L); paper 26 closed (11W/15L) + 1 OPEN. Options/crypto/margin OFF. Prior EOD history below. ⟶
 
 ---
 

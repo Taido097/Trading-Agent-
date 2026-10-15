@@ -1404,3 +1404,18 @@ Tally: REAL −$0.45 lifetime, FLAT, 0 trades today (7 passes); PAPER open P-003
 - No new paper (past-midday / O003, no fresh leader in-hand).
 
 **Running tally:** Lifetime real −$0.52 (2W/6L), FLAT. Paper 25 closed (10W/15L) + 2 OPEN (SOFI +2.1%, KVUE fading below entry).
+
+---
+
+### 2026-10-15 (Thu) ~2:13 ET / 18:13Z — Intraday engine pass (5th)
+
+**Regime:** Stable. SPY 769.74 (+0.02%), QQQ 723.92 (−0.69%). Quiet afternoon drift.
+
+**STEP A — REAL $20:** 563174713 **FLAT** ($19.47, 0/0). **PASS.** SOFI extended/late-day, KGC unaffordable, KVUE dead. No fresh affordable entry.
+
+**STEP B — PAPER — manage 2 open:**
+- **P-2026-0037 SOFI → CLOSED WIN +2.0R** (+$80.00 sim). Entry 14.30 → tagged target 14.80 at 17:50Z on a steady afternoon grind after the high-volume pullback base. MAE −0.20R. ✅ Second clean 2:1 winner of the day — high-volume pullback-continuation setup validated.
+- **P-2026-0038 KVUE → OPEN, breakeven.** Entry 18.62, now 18.62. Peaked +0.68R early then chopped at/below entry all day; never advanced. Target 19.06 untouched. The "low-beta defensive peaks small, rarely reaches 2:1" lesson strongly confirmed — will likely flatten ~breakeven at EOD. Stop 18.40 intact.
+- No new paper (post-2pm / O003, nothing fresh).
+
+**Running tally:** Lifetime real −$0.52 (2W/6L), FLAT. Paper: 26 closed (11W/15L after SOFI win) + 1 OPEN (KVUE ~breakeven). Today's paper: KGC +2.0R, SOFI +2.0R — 2 clean RS wins.
