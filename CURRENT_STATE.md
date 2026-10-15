@@ -5,7 +5,7 @@
 > intent and status; it is NOT the brokerage record (that comes from
 > reconciliation).
 
-**Last updated:** 2026-10-15 (Thu, ~9:47 ET / 13:49Z — opening-range decision). Account **FLAT** ($19.47 cash, 0 positions, 0 orders). Regime: tech-led risk-off day 2 — SPY −0.42%, QQQ −1.34% live; not a supportive breakout tape. **REAL: PASS.** Gold-miner RS theme FADED at the open (HL gapped +2.2% pre-mkt then sold, now +0.6% = gap-and-fade; BTG/KGC faded). Only RS holder KVUE +3.2% ($18.59) but entry = chasing extended low-beta staple at HOD (bad location), 2:1 implausible, thin buffer $0.87 → rejected. Logged 2 rejections (KVUE, HL). KVUE watch: reconsider only on a pullback to ~18.30-18.40 that holds. Lifetime real −$0.52 (2W/6L). Hourly engine passes next (real watch + paper). Options/crypto/margin OFF. Prior EOD history below. ⟶
+**Last updated:** 2026-10-15 (Thu, ~10:13 ET / 14:12Z — engine pass 1). Account **FLAT** ($19.47 cash, 0 positions, 0 orders). Regime tech-led risk-off STABILIZING: SPY −0.30%, QQQ −1.21% (QQQ off the open low); gold miners (KGC +2.5% new highs) + defensive KVUE (+3.4%) leading. REAL: PASS — KVUE extended (no pullback to 18.30-18.40, thin buffer $0.84); clean leader KGC unaffordable ($22.80). PAPER: opened 3 (P-2026-0036 KGC coil-breakout 22.80, P-0037 SOFI pullback-continuation 14.30, P-0038 KVUE defensive-grind 18.62; all 2:1, stop-first). Lifetime real −$0.52 (2W/6L); paper 24 closed (9W/15L) + 3 OPEN. Options/crypto/margin OFF. Prior EOD history below. ⟶
 
 ---
 
