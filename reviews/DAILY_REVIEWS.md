@@ -1279,3 +1279,20 @@ RED / skip: RIOT −4.4%, MARA −2.5%, SNAP −2.1%, CHPT −2.1%, SOFI −1.9%
 - **F** +0.8% mild chop, no momentum. Pass.
 
 **DECISION: REAL PASS.** Nothing clears the full gate. Logged 2 rejections (KVUE, HL) to REJECTED_TRADES.csv. Zero-trade start is the correct call — no chasing extended defensives, no fading gold-miner gaps. KVUE flagged: reconsider only on a pullback to ~18.30–18.40 that holds (better location); also a potential paper rep in the engine. Next: hourly engine passes (10:13 ET+) continue the real-$20 watch + high-volume paper. Options/crypto/margin OFF.
+
+---
+
+## 2026-10-15 (Thu) — EOD WRAP
+
+**Tape:** Tech-led weak open (QQQ −1.8%, day 2 of the drawdown) that fully REVERSED intraday — SPY closed ~+0.3% green, QQQ ~−0.2% (near flat). V-shaped recovery; gold miners + fintech led, defensives lagged on the turn.
+
+**REAL $20:** **ZERO trades. 8 PASS assessments** (9:47 open-decision + 6 engine passes + prep). Account FLAT $19.47 all day — 0 positions, 0 orders throughout, no overnight risk. The leaders that worked (KGC gold-miner, SOFI fintech) were either unaffordable (KGC $23) or only enterable by chasing an extended/vertical move (SOFI, O002); the one affordable RS name (KVUE) was an extended low-beta defensive with a thin $0.84 buffer and poor 2:1 odds. Correct to pass — no setup offered a clean affordable pullback entry with real 2:1 headroom.
+
+**PAPER (learning):** 3 trades, **+3.73R net (+$148.78 sim), 2W/1L:**
+- KGC +2.0R — gold-miner RS leader, coil→breakout-and-hold on 2x volume. Clean.
+- SOFI +2.0R — high-beta fintech, high-volume pullback→re-break continuation. Clean.
+- KVUE −0.27R — low-beta defensive grind; peaked +0.68R, never reached 2:1. Confirms the lesson.
+
+**Verdict:** A strong teaching day. The paper engine correctly identified and rode the two real leaders to full 2:1 while the KVUE experiment produced the clean negative data point: beta + sector leadership + volume base delivers 2:1; low-beta defensives don't. The real $20 stayed patient and intact — the affordable universe simply didn't offer those two winners at an ent0ry we could take with real capital (one too pricey, one only via chasing). Capital preserved for a genuine affordable setup.
+
+**Running lifetime:** Real −$0.52 (2W/6L), account FLAT $19.47. Paper 27 closed (11W/16L; +3.73R today).

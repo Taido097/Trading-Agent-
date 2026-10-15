@@ -1419,3 +1419,18 @@ Tally: REAL −$0.45 lifetime, FLAT, 0 trades today (7 passes); PAPER open P-003
 - No new paper (post-2pm / O003, nothing fresh).
 
 **Running tally:** Lifetime real −$0.52 (2W/6L), FLAT. Paper: 26 closed (11W/15L after SOFI win) + 1 OPEN (KVUE ~breakeven). Today's paper: KGC +2.0R, SOFI +2.0R — 2 clean RS wins.
+
+---
+
+### 2026-10-15 (Thu) ~3:13 ET / 19:13Z — Intraday engine pass (6th, last RTH) + EOD
+
+**Regime:** Recovered to green into the close. SPY 772.03 (+0.32%), QQQ 727.56 (−0.19%, nearly flat) — full intraday reversal of the −1.8% open.
+
+**STEP A — REAL $20:** 563174713 **FLAT** ($19.47, 0/0). **PASS** (late-day, recovered tape, no fresh affordable setup). Zero real trades today — 8 PASS assessments across the day.
+
+**STEP B — PAPER — flatten last open at EOD:**
+- **P-2026-0038 KVUE → CLOSED −0.27R** (−$10.86 sim). EOD flatten at 18.56. Peaked +0.68R early, then chopped at/below entry all day; target 19.06 never threatened. loss_class LOW_BETA_DEFENSIVE_NO_FOLLOWTHROUGH. Execution clean (stop-first, defined); the SETUP TYPE is the weak link.
+
+**LESSON (confirmed with live data):** Low-beta defensive names (KVUE) peak small (+0.5–0.7R) and rarely reach a 2:1 intraday target — same failure mode flagged for sub-$6 grinders. Pair with the day's winners: KGC (gold-miner RS leader) and SOFI (high-beta fintech, high-volume pullback) BOTH hit clean 2:1. Takeaway reinforced: **beta + genuine sector leadership + a volume-confirmed base = the 2:1 engine; low-beta defensives are for relative strength signal, not for momentum longs.**
+
+**DAY PAPER RESULT:** 3 trades — KGC +2.0R, SOFI +2.0R, KVUE −0.27R = **+3.73R net (+$148.78 sim), 2W/1L.** Clean, disciplined, all stop-first with documented theses.
