@@ -5,7 +5,7 @@
 > intent and status; it is NOT the brokerage record (that comes from
 > reconciliation).
 
-**Last updated:** 2026-10-15 (Thu, ~9:16 ET / 13:16Z — pre-market prep). Account **FLAT** ($19.47 cash, 0 positions, 0 orders) — clean start, no overnight exposure. Regime: tech-led risk-off CONTINUING day 2 — QQQ ~−1.28% pre-mkt, SPY ~−0.34% (selling concentrated in growth, not broad). Fresh RS leadership today: gold/silver miners bouncing (HL +2.2%, BTG +1.6%, KGC +1.5%) + defensive KVUE +2.2%. Watchlist top: HL (gold-complex RS, affordable $15.2), KVUE (defensive, affordable thin buffer), F. Event risk: bank earnings season (avoid HBAN/RF/KEY). NO trade yet — 9:47 decision routine next. Lifetime real −$0.52 (2W/6L). Options/crypto/margin OFF. Prior EOD history below. ⟶
+**Last updated:** 2026-10-15 (Thu, ~9:47 ET / 13:49Z — opening-range decision). Account **FLAT** ($19.47 cash, 0 positions, 0 orders). Regime: tech-led risk-off day 2 — SPY −0.42%, QQQ −1.34% live; not a supportive breakout tape. **REAL: PASS.** Gold-miner RS theme FADED at the open (HL gapped +2.2% pre-mkt then sold, now +0.6% = gap-and-fade; BTG/KGC faded). Only RS holder KVUE +3.2% ($18.59) but entry = chasing extended low-beta staple at HOD (bad location), 2:1 implausible, thin buffer $0.87 → rejected. Logged 2 rejections (KVUE, HL). KVUE watch: reconsider only on a pullback to ~18.30-18.40 that holds. Lifetime real −$0.52 (2W/6L). Hourly engine passes next (real watch + paper). Options/crypto/margin OFF. Prior EOD history below. ⟶
 
 ---
 

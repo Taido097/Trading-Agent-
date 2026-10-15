@@ -1268,3 +1268,14 @@ RED / skip: RIOT −4.4%, MARA −2.5%, SNAP −2.1%, CHPT −2.1%, SOFI −1.9%
 **THEME:** Gold/silver miner bounce (HL, BTG, KGC all green) + defensive RS (KVUE). These are the day's leadership vs a −1.3% QQQ. 
 
 **Top few to carry to the 9:47 decision:** **HL** (gold-complex RS leader, affordable, clean), **KVUE** (defensive RS, affordable but thin buffer + was HOD-capped yesterday), F (mild cyclical). Watch whether the gold-miner RS holds through the open (if the complex fades, HL/BTG are out). NO trade in this step — decision routine fires ~9:47 ET on an opening-range read of the top names. Capital-preservation gate + RISK_RULES §9 apply; options/crypto/margin OFF.
+
+### 2026-10-15 (Thu) — 9:47 ET OPENING-RANGE DECISION
+
+**Reconcile:** 563174713 FLAT ($19.47, 0 pos, 0 orders). **Regime (live ~9:48 ET):** SPY 766.36 (−0.42%), QQQ 719.15 (−1.34%) — tech still red (QQQ bounced off the 717 open low but soft); not a supportive breakout tape.
+
+**OR read (3 bars, 9:30–9:45):**
+- **HL** — gapped +2.2% pre-mkt then SOLD the open (15.24 open → 14.86 low), now +0.6% off highs = gap-and-fade, no OR break-and-hold. The gold-miner RS theme FADED at the bell (BTG +0.6%, KGC +1.6% but >$19). REJECTED.
+- **KVUE** — the one RS holder: 18.40 open → ran to 18.645, holding 18.54–18.64, now +3.2%. Tight spread (0.05%), affordable (1 sh $18.60). But entry here = chasing the top of a +3.2% extended move in a low-beta staple (bad entry location, the most-reinforced lesson); 2:1 intraday implausible for a defensive; thin buffer $0.87; QQQ −1.3%. REJECTED (entry-location + R:R + regime).
+- **F** +0.8% mild chop, no momentum. Pass.
+
+**DECISION: REAL PASS.** Nothing clears the full gate. Logged 2 rejections (KVUE, HL) to REJECTED_TRADES.csv. Zero-trade start is the correct call — no chasing extended defensives, no fading gold-miner gaps. KVUE flagged: reconsider only on a pullback to ~18.30–18.40 that holds (better location); also a potential paper rep in the engine. Next: hourly engine passes (10:13 ET+) continue the real-$20 watch + high-volume paper. Options/crypto/margin OFF.
