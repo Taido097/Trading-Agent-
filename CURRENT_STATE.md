@@ -5,7 +5,7 @@
 > intent and status; it is NOT the brokerage record (that comes from
 > reconciliation).
 
-**Last updated:** 2026-10-16 (Fri, ~9:47 ET / 13:49Z — opening-range decision). Account **FLAT** ($19.47 cash, 0 positions, 0 orders). Regime: SPY flat (−0.01%), QQQ −0.83% (tech soft, cyclicals bid). **REAL: PASS.** F = clean volume-confirmed ORB break-and-hold, cyclical RS leader +2.8%, good entry/cheap risk $0.24 — BUT sound stop (12.42) → 2:1 target 13.14 (+6.6%/day) beyond a large-cap's range; fails the 2:1-realism gate (KVUE/low-beta lesson applied). NCLH similar (extended). Logged 2 rejections. Taking F + NCLH as PAPER reps to test large-cap ORB 2:1. Lifetime real −$0.52 (2W/6L); paper 27 closed (11W/16L). Hourly engine next. Options/crypto/margin OFF. Prior EOD history below. ⟶
+**Last updated:** 2026-10-16 (Fri, ~10:13 ET / 14:14Z — engine pass 1). Account **FLAT** ($19.47 cash, 0 positions, 0 orders). Regime: SPY −0.06% (flat), QQQ −0.83% (tech soft, cyclicals bid); OPEX Fri. REAL: PASS — F tagged +3.3% then faded, confirming 2:1 unreachable for the large-cap (9:47 PASS validated). PAPER hypothesis test opened: P-2026-0039 F (entry 12.63, stop 12.42, tgt 13.05) + P-0040 NCLH (15.60/15.45/15.90) — measuring whether large-cap cyclical ORBs reach 2:1; result revises or confirms the stance. Lifetime real −$0.52 (2W/6L); paper 27 closed (11W/16L) + 2 OPEN. Options/crypto/margin OFF. Prior EOD history below. ⟶
 
 ---
 

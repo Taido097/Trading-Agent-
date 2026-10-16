@@ -1434,3 +1434,18 @@ Tally: REAL −$0.45 lifetime, FLAT, 0 trades today (7 passes); PAPER open P-003
 **LESSON (confirmed with live data):** Low-beta defensive names (KVUE) peak small (+0.5–0.7R) and rarely reach a 2:1 intraday target — same failure mode flagged for sub-$6 grinders. Pair with the day's winners: KGC (gold-miner RS leader) and SOFI (high-beta fintech, high-volume pullback) BOTH hit clean 2:1. Takeaway reinforced: **beta + genuine sector leadership + a volume-confirmed base = the 2:1 engine; low-beta defensives are for relative strength signal, not for momentum longs.**
 
 **DAY PAPER RESULT:** 3 trades — KGC +2.0R, SOFI +2.0R, KVUE −0.27R = **+3.73R net (+$148.78 sim), 2W/1L.** Clean, disciplined, all stop-first with documented theses.
+
+---
+
+### 2026-10-16 (Fri) ~10:13 ET / 14:14Z — Intraday engine pass (1st)
+
+**Regime:** SPY 771.31 (−0.06% flat), QQQ 721.95 (−0.83% tech soft). Cyclicals bid vs weak tech; monthly OPEX Friday.
+
+**STEP A — REAL $20:** 563174713 **FLAT** ($19.47, 0/0). **PASS.** F tagged 12.71 (+3.3%) then faded to 12.63 — ran hard but stalled far short of the +6.6% a 2:1 needs, confirming the 9:47 real-PASS logic. Same 2:1 problem; nothing new affordable with clean 2:1.
+
+**STEP B — PAPER — HYPOTHESIS TEST (does a large-cap cyclical ORB reach 2:1?):**
+- **P-2026-0039 F** — entry 12.63 (pullback-hold to breakout zone), stop 12.42 (below OR low), tgt 13.05 (2:1, +6% day), 190 sh. The rejected real trade, run in paper to measure the outcome.
+- **P-2026-0040 NCLH** — entry 15.60, stop 15.45, tgt 15.90 (2:1, +3.3% day, more reachable), 266 sh. Same test at a higher-beta mid-cap.
+- Purpose: if these FAIL to reach 2:1 → validates the real PASS + the "large-cap/low-beta rarely hits 2:1" rule. If they HIT → revise the stance and take the next such real.
+
+**Running tally:** Lifetime real −$0.52 (2W/6L), FLAT. Paper 27 closed (11W/16L) + 2 OPEN (F, NCLH test reps).
