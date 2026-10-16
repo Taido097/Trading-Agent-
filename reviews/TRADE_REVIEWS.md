@@ -1506,3 +1506,18 @@ Tally: REAL −$0.45 lifetime, FLAT, 0 trades today (7 passes); PAPER open P-003
 - **P-2026-0039 F → OPEN, −0.67R.** Drifted to 12.49 with the −2.3% QQQ tape; peaked +0.71R, target 13.05 never approached, stop 12.42 just below (not hit). Holding to stop/EOD per the mechanical rule. Hypothesis already answered: cyclical ORB failed to reach 2:1.
 
 **Running tally:** Lifetime real −$0.52 (2W/6L), FLAT. Paper 28 closed (11W/17L) + 1 OPEN (F −0.67R, fading).
+
+---
+
+### 2026-10-16 (Fri) ~3:13 ET / 19:12Z — Intraday engine pass (6th, last RTH) + EOD
+
+**Regime:** Risk-off to the close. SPY 762.12 (−1.25%), QQQ 709.29 (−2.57%) — solidly red.
+
+**STEP A — REAL $20:** 563174713 **FLAT** ($19.47, 0/0 — 0 real orders all day). **PASS.** 8 PASS assessments on the day.
+
+**STEP B — PAPER — flatten last open:**
+- **P-2026-0039 F → CLOSED −0.90R** (−$36.10 sim). EOD flatten 12.44 (≈stop 12.42, low tagged 12.422). Peaked +3.6%/+0.71R then round-tripped and faded with the −2.6% QQQ tape; target never approached. loss_class CYCLICAL_ORB_REVERSAL_NO_2R.
+
+**HYPOTHESIS — COMPLETE & CONCLUSIVE:** Both large/mid-cap cyclical ORBs (F −0.90R, NCLH −1.0R) FAILED to reach 2:1 and ended near-full-stop losses. This VALIDATES the 9:47 real PASS and confirms the 2:1-realism gate: a clean volume-confirmed ORB in a large/mid-cap is NOT sufficient — the name needs enough beta/range (or genuine sector leadership, like 10/15 KGC/SOFI) to make a 2:1 target reachable. Refined rule: for the real $20, require beta + leadership + reachable 2:1, not just a clean breakout on a sluggish large-cap.
+
+**DAY PAPER RESULT:** 2 trades, F −0.90R + NCLH −1.0R = **−1.90R (−$76.00 sim), 0W/2L** — but a high-value learning day: the experiment answered the real-trade question at zero real cost, and kept the real $20 intact through a −2.6% QQQ day.

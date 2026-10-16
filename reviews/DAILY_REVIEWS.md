@@ -1336,3 +1336,17 @@ De-prioritized: KVUE $18.75 (+0.4%, low-beta defensive — yesterday's −0.27R 
 - **RIVN** faded to flat — out.
 
 **DECISION: REAL PASS** — forced cleanly by the gate (no sound-stop ≥2:1 with realistic headroom on a large-cap). Logged 2 rejections (F, NCLH). This is the KVUE/low-beta lesson applied with real discipline: good RS + clean entry ≠ a takeable real trade when the name's range won't support 2:1. **Taking F + NCLH as PAPER reps in the engine to TEST the hypothesis** — if large-cap cyclical ORBs do reach 2:1, revise the stance. Options/crypto/margin OFF.
+
+---
+
+## 2026-10-16 (Fri) — EOD WRAP
+
+**Tape:** Opened quiet/mildly green, then tech-led risk-off built all day — SPY closed ~−1.25%, QQQ ~−2.6% (a weak-to-red Friday; monthly OPEX). Cyclicals led early then faded with the broad tape.
+
+**REAL $20:** **ZERO trades. 8 PASS assessments** (prep + 9:47 + 6 engine passes). Account FLAT $19.47 all day — 0 positions, 0 orders, no overnight risk. The one genuinely clean affordable setup (F, a volume-confirmed cyclical ORB at +2.8%) was correctly PASSED on the 2:1-realism gate: a sound stop (below OR low) put the 2:1 target at +6.6%/day, beyond a large-cap auto's range.
+
+**PAPER (hypothesis test):** F + NCLH opened to TEST whether large/mid-cap cyclical ORBs reach 2:1. Result: **both failed — F −0.90R, NCLH −1.0R, −1.90R total (0W/2L).** F round-tripped +3.6%→stop; NCLH peaked +0.92R then reversed through stop. Conclusive: these setups peak at +0.7–0.9R and reverse, not reaching 2:1.
+
+**Verdict:** A textbook example of the micro-live discipline paying off. The real PASS looked conservative at 9:47 but was vindicated by the paper experiment and the tape — had I taken F real, I'd have booked a near-full-stop loss on a −2.6% QQQ day. Instead: real capital 100% intact, and a concrete, data-backed refinement to the entry gate (beta + leadership + reachable 2:1, not just a clean large-cap breakout). Losing paper trades that buy a correct rule are a good trade.
+
+**Running lifetime:** Real −$0.52 (2W/6L), account FLAT $19.47. Paper 30 closed (11W/19L; −1.90R on 10/16). Week recap: 10/14 zero-trade liquidation day (correct), 10/15 paper +3.73R (KGC/SOFI RS-leaders hit 2:1), 10/16 paper −1.90R (cyclical ORBs failed 2:1 — boundary of the edge mapped). Real account preserved all week.
