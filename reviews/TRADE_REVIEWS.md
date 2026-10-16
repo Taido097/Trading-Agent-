@@ -1449,3 +1449,18 @@ Tally: REAL −$0.45 lifetime, FLAT, 0 trades today (7 passes); PAPER open P-003
 - Purpose: if these FAIL to reach 2:1 → validates the real PASS + the "large-cap/low-beta rarely hits 2:1" rule. If they HIT → revise the stance and take the next such real.
 
 **Running tally:** Lifetime real −$0.52 (2W/6L), FLAT. Paper 27 closed (11W/16L) + 2 OPEN (F, NCLH test reps).
+
+---
+
+### 2026-10-16 (Fri) ~11:13 ET / 15:15Z — Intraday engine pass (2nd)
+
+**Regime:** SPY 769.86 (−0.25%), QQQ 718.04 (−1.37%, tech softening into midday). Cyclicals still relatively firm.
+
+**STEP A — REAL $20:** 563174713 **FLAT** ($19.47, 0/0). **PASS.** F now +3.6% (even more extended vs the 9:47 entry) — no chase; nothing new affordable with clean 2:1.
+
+**STEP B — PAPER — manage 2 open (hypothesis test):**
+- **P-2026-0039 F → OPEN.** Entry 12.63; ground up resiliently to 12.78, now 12.75 (+3.6% day). MFE +0.71R; target 13.05 / stop 12.42 intact. More durable than expected for a large-cap — hypothesis still live, not yet resolved.
+- **P-2026-0040 NCLH → OPEN.** Entry 15.60; pushed to 15.74, now 15.69. MFE +0.92R; target 15.90 (close) / stop 15.45 intact.
+- No new paper (midday, QQQ −1.4%, experiment running).
+
+**Running tally:** Lifetime real −$0.52 (2W/6L), FLAT. Paper 27 closed (11W/16L) + 2 OPEN (F +0.71R MFE, NCLH +0.92R MFE).

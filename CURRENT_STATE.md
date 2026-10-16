@@ -5,7 +5,7 @@
 > intent and status; it is NOT the brokerage record (that comes from
 > reconciliation).
 
-**Last updated:** 2026-10-16 (Fri, ~10:13 ET / 14:14Z — engine pass 1). Account **FLAT** ($19.47 cash, 0 positions, 0 orders). Regime: SPY −0.06% (flat), QQQ −0.83% (tech soft, cyclicals bid); OPEX Fri. REAL: PASS — F tagged +3.3% then faded, confirming 2:1 unreachable for the large-cap (9:47 PASS validated). PAPER hypothesis test opened: P-2026-0039 F (entry 12.63, stop 12.42, tgt 13.05) + P-0040 NCLH (15.60/15.45/15.90) — measuring whether large-cap cyclical ORBs reach 2:1; result revises or confirms the stance. Lifetime real −$0.52 (2W/6L); paper 27 closed (11W/16L) + 2 OPEN. Options/crypto/margin OFF. Prior EOD history below. ⟶
+**Last updated:** 2026-10-16 (Fri, ~11:13 ET / 15:15Z — engine pass 2). Account **FLAT** ($19.47 cash, 0 positions, 0 orders). Regime: SPY −0.25%, QQQ −1.37% (tech softening midday); cyclicals firmer. REAL: PASS (F now +3.6%, more extended; nothing new). PAPER test running: F (0039) OPEN +3.6% day (MFE +0.71R, grinding up resiliently — large-cap hypothesis still live), NCLH (0040) OPEN MFE +0.92R (approaching 15.90 tgt). Lifetime real −$0.52 (2W/6L); paper 27 closed (11W/16L) + 2 OPEN. Options/crypto/margin OFF. Prior EOD history below. ⟶
 
 ---
 
