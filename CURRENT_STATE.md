@@ -5,7 +5,7 @@
 > intent and status; it is NOT the brokerage record (that comes from
 > reconciliation).
 
-**Last updated:** 2026-10-16 (Fri, ~12:13 ET / 16:13Z — engine pass 3). Account **FLAT** ($19.47 cash, 0 positions, 0 orders). Regime weakening: SPY −0.57%, QQQ −1.55% (tech rolling over midday). REAL: PASS (F round-tripped +3.6%→flat, validating the pass). PAPER hypothesis test resolving: NCLH (0040) CLOSED LOSS −1.0R (reached +0.92R then reversed through stop, no 2:1); F (0039) OPEN but fading (peaked +0.71R, back below entry). Both cyclical ORBs peaked +0.7-0.9R then reversed = SUPPORTS the 2:1-realism gate / real PASS. Lifetime real −$0.52 (2W/6L); paper 28 closed (11W/17L) + 1 OPEN. Options/crypto/margin OFF. Prior EOD history below. ⟶
+**Last updated:** 2026-10-16 (Fri, ~1:13 ET / 17:12Z — engine pass 4). Account **FLAT** ($19.47 cash, 0 positions, 0 orders). Regime risk-off intensifying: SPY −1.01%, QQQ −2.06% (afternoon selloff). REAL: PASS. PAPER: F (0039) OPEN fading to 12.535 (−0.45R; peaked +0.71R, target never approached, stop 12.42 intact). HYPOTHESIS ~CONFIRMED: both cyclical ORBs (NCLH −1R stopped, F fading) FAILED to reach 2:1 → validates the 9:47 real PASS + 2:1-realism gate for large/mid-cap ORBs. Lifetime real −$0.52 (2W/6L); paper 28 closed (11W/17L) + 1 OPEN. Options/crypto/margin OFF. Prior EOD history below. ⟶
 
 ---
 

@@ -1479,3 +1479,17 @@ Tally: REAL −$0.45 lifetime, FLAT, 0 trades today (7 passes); PAPER open P-003
 - **HYPOTHESIS UPDATE:** Both cyclical ORBs peaked at +0.7–0.9R then reversed — NOT reaching 2:1. This SUPPORTS the 9:47 real PASS and the 2:1-realism gate for large/mid-cap ORBs. (Awaiting F's final resolution to confirm.)
 
 **Running tally:** Lifetime real −$0.52 (2W/6L), FLAT. Paper: 28 closed (11W/17L after NCLH) + 1 OPEN (F, fading).
+
+---
+
+### 2026-10-16 (Fri) ~1:13 ET / 17:12Z — Intraday engine pass (4th)
+
+**Regime:** Risk-off INTENSIFYING. SPY 763.95 (−1.01%), QQQ 712.97 (−2.06%) — afternoon selloff, tech leading down.
+
+**STEP A — REAL $20:** 563174713 **FLAT** ($19.47, 0/0). **PASS.** F fading with the tape; nothing new.
+
+**STEP B — PAPER — manage 1 open:**
+- **P-2026-0039 F → OPEN, fading.** Drifted to 12.535 (−0.45R from 12.63 entry) with the risk-off tape. Peaked +0.71R (12.78), target 13.05 never approached; stop 12.42 not yet hit. Will resolve at stop or EOD.
+- **HYPOTHESIS ~CONFIRMED:** Both cyclical ORBs FAILED to reach 2:1 (NCLH stopped −1R; F peaked +0.71R then faded). Validates the 9:47 real PASS + the 2:1-realism gate for large/mid-cap ORBs. The edge that DID work (10/15 KGC/SOFI) was higher-beta names with sector leadership; plain large/mid-cap cyclical ORBs under-deliver on 2:1, same family as the sub-$6 and low-beta lessons.
+
+**Running tally:** Lifetime real −$0.52 (2W/6L), FLAT. Paper 28 closed (11W/17L) + 1 OPEN (F −0.45R, fading).
