@@ -5,7 +5,7 @@
 > intent and status; it is NOT the brokerage record (that comes from
 > reconciliation).
 
-**Last updated:** 2026-10-16 (Fri, ~9:21 ET / 13:20Z — pre-market prep). Account **FLAT** ($19.47 cash, 0 positions, 0 orders) — clean start, no overnight exposure. Regime quiet/mildly constructive: SPY +0.19%, QQQ −0.30% pre-mkt. Rotation: gold/miners COOLING (KGC −0.6%, HL −1.0%), cyclicals/consumer LEADING (F +1.7%, RIG +1.6%, RIVN +0.8%, NCLH +0.7%). Watchlist top: F (cyclical RS leader, affordable $12.52, liquid), RIVN, NCLH. Event risk: monthly OPEX Friday + bank earnings (avoid HBAN/KEY/RF). NO trade yet — 9:47 decision next. Lifetime real −$0.52 (2W/6L); paper 27 closed (11W/16L, +3.73R on 10/15). Options/crypto/margin OFF. Prior EOD history below. ⟶
+**Last updated:** 2026-10-16 (Fri, ~9:47 ET / 13:49Z — opening-range decision). Account **FLAT** ($19.47 cash, 0 positions, 0 orders). Regime: SPY flat (−0.01%), QQQ −0.83% (tech soft, cyclicals bid). **REAL: PASS.** F = clean volume-confirmed ORB break-and-hold, cyclical RS leader +2.8%, good entry/cheap risk $0.24 — BUT sound stop (12.42) → 2:1 target 13.14 (+6.6%/day) beyond a large-cap's range; fails the 2:1-realism gate (KVUE/low-beta lesson applied). NCLH similar (extended). Logged 2 rejections. Taking F + NCLH as PAPER reps to test large-cap ORB 2:1. Lifetime real −$0.52 (2W/6L); paper 27 closed (11W/16L). Hourly engine next. Options/crypto/margin OFF. Prior EOD history below. ⟶
 
 ---
 

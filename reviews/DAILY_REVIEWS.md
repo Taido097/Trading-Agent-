@@ -1325,3 +1325,14 @@ De-prioritized: KVUE $18.75 (+0.4%, low-beta defensive — yesterday's −0.27R 
 **THEME:** Cyclical/consumer rotation (F, RIVN, NCLH, RIG) as gold cools. These — esp. a BETA leader like F — are exactly the profile that worked yesterday (KGC/SOFI) vs the low-beta KVUE dud.
 
 **Top few to carry to 9:47 decision:** **F** (cyclical RS leader, affordable, liquid — the cleanest profile), **RIVN**, **NCLH**. Confirm the pre-mkt RS HOLDS through the open (yesterday's gold gap faded at the bell). NO trade this step — decision routine fires ~9:47 ET on an OR read. RISK_RULES §9 + pre-trade gate; options/crypto/margin OFF.
+
+### 2026-10-16 (Fri) — 9:47 ET OPENING-RANGE DECISION
+
+**Reconcile:** 563174713 FLAT ($19.47, 0/0). **Regime (live ~9:48):** SPY 771.75 (−0.01% flat), QQQ 721.96 (−0.83%, tech soft) — cyclical-vs-tech split holding; cyclicals bid.
+
+**OR read (3 bars, 9:30–9:45):**
+- **F** — volume-confirmed ORB: OR 12.43–12.55, broke to 12.67 on 531k (1.5x), HELD 12.63–12.67, now 12.65 (+2.8%). Genuine break-and-hold, cyclical RS leader, good entry location (fresh, not extended), tight spread, cheap risk $0.24. **BUT** sound stop (12.42, below OR low) → 2:1 target 13.14 = +6.6%/day, beyond a large-cap auto's realistic range. Can't tighten stop (whipsaw zone) or lower target (<2:1 gate). REJECTED on 2:1 realism.
+- **NCLH** +1.9% (15.69) — strong but already extended off the open drive; same 2:1-distance issue. REJECTED.
+- **RIVN** faded to flat — out.
+
+**DECISION: REAL PASS** — forced cleanly by the gate (no sound-stop ≥2:1 with realistic headroom on a large-cap). Logged 2 rejections (F, NCLH). This is the KVUE/low-beta lesson applied with real discipline: good RS + clean entry ≠ a takeable real trade when the name's range won't support 2:1. **Taking F + NCLH as PAPER reps in the engine to TEST the hypothesis** — if large-cap cyclical ORBs do reach 2:1, revise the stance. Options/crypto/margin OFF.
