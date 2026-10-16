@@ -1464,3 +1464,18 @@ Tally: REAL −$0.45 lifetime, FLAT, 0 trades today (7 passes); PAPER open P-003
 - No new paper (midday, QQQ −1.4%, experiment running).
 
 **Running tally:** Lifetime real −$0.52 (2W/6L), FLAT. Paper 27 closed (11W/16L) + 2 OPEN (F +0.71R MFE, NCLH +0.92R MFE).
+
+---
+
+### 2026-10-16 (Fri) ~12:13 ET / 16:13Z — Intraday engine pass (3rd)
+
+**Regime:** Weakening. SPY 767.38 (−0.57%), QQQ 716.68 (−1.55%) — tech rolling over into midday, risk-off returning.
+
+**STEP A — REAL $20:** 563174713 **FLAT** ($19.47, 0/0). **PASS.** F round-tripped +3.6%→~flat (back to 12.62, ~where a real entry would've been) — validates passing it. Nothing new affordable.
+
+**STEP B — PAPER — hypothesis test resolving:**
+- **P-2026-0040 NCLH → CLOSED LOSS −1.0R** (−$39.90 sim). Reached +0.92R MFE (15.74) then reversed through the 15.45 stop on a 1.18M volume flush at ~16:00Z. Never approached 2:1. loss_class CYCLICAL_ORB_REVERSAL_NO_2R.
+- **P-2026-0039 F → OPEN but fading.** Peaked +3.6% day (MFE +0.71R, 12.78) then rolled back to 12.615 (below 12.63 entry). Target 13.05 untouched; stop 12.42 intact. Trending toward the same "no 2:1" outcome.
+- **HYPOTHESIS UPDATE:** Both cyclical ORBs peaked at +0.7–0.9R then reversed — NOT reaching 2:1. This SUPPORTS the 9:47 real PASS and the 2:1-realism gate for large/mid-cap ORBs. (Awaiting F's final resolution to confirm.)
+
+**Running tally:** Lifetime real −$0.52 (2W/6L), FLAT. Paper: 28 closed (11W/17L after NCLH) + 1 OPEN (F, fading).
