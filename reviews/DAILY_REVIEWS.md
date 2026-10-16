@@ -1296,3 +1296,32 @@ RED / skip: RIOT −4.4%, MARA −2.5%, SNAP −2.1%, CHPT −2.1%, SOFI −1.9%
 **Verdict:** A strong teaching day. The paper engine correctly identified and rode the two real leaders to full 2:1 while the KVUE experiment produced the clean negative data point: beta + sector leadership + volume base delivers 2:1; low-beta defensives don't. The real $20 stayed patient and intact — the affordable universe simply didn't offer those two winners at an ent0ry we could take with real capital (one too pricey, one only via chasing). Capital preserved for a genuine affordable setup.
 
 **Running lifetime:** Real −$0.52 (2W/6L), account FLAT $19.47. Paper 27 closed (11W/16L; +3.73R today).
+
+---
+
+## 2026-10-16 (Fri) — PRE-MARKET PREP (~9:21 ET / 13:20Z)
+
+**Reconciliation:** Account 563174713 **FLAT** — $19.47 cash, 0 positions, 0 orders, BP $19.47. Matches internal state. No overnight exposure. ✓
+
+**Regime (pre-market last_non_reg vs 10/15 close):** Quiet, mildly constructive — much calmer than yesterday.
+- SPY ~773.25 (+0.19%), QQQ ~725.81 (−0.30%).
+- Rotation: **gold/miners COOLING** after the bounce (KGC −0.6%, HL −1.0%, NEM −0.6%, GDX −0.8%) → yesterday's gold leadership taking a breather. **Cyclicals/autos/consumer LEADING**: F +1.7%, RIG +1.6%, RIVN +0.8%, NCLH +0.7%, CLF +0.6%. Crypto weak (RIOT −2.5%, MARA −1.8%). SOFI −0.7% (digesting yesterday's +6% run).
+
+**Event risk:** Monthly OPTIONS EXPIRATION (3rd Friday) — can cause pinning / midday chop / late-day volatility. Bank earnings season ongoing (avoid HBAN/KEY/RF around prints). No major macro release confirmed.
+
+**WIDE SCREEN — affordable RS ranking (pre-mkt vs prior close; hard screen 1 sh ≤ ~$18.50, liquid, spread at open):**
+| Rank | Ticker | Pre-mkt | %chg | Note |
+|---|---|---|---|---|
+| 1 | **F** | $12.52 | +1.71% | Ford — large liquid cyclical, strongest affordable RS; ~$7 buffer. Top candidate. |
+| 2 | RIG | $5.60 | +1.63% | Offshore driller; sub-$6 (de-prioritized per sub-$6 2:1 lesson) |
+| 3 | **RIVN** | $13.13 | +0.84% | EV, green, liquid |
+| 4 | CHPT | $7.29 | +0.83% | Wide pre-mkt spread (6.64/7.56) — likely illiquid, verify at open |
+| 5 | **NCLH** | $15.50 | +0.73% | Cruise, green |
+| 6 | CLF | $12.22 | +0.58% | Steel, mild green |
+
+Excluded >$19 (unaffordable): KGC $23.71, RF $27.65, CCL $26.5, KEY $19.90, SIRI $27.2, AMCR $43.3, NEM $115.
+De-prioritized: KVUE $18.75 (+0.4%, low-beta defensive — yesterday's −0.27R lesson: peaks small, rarely 2:1; thin buffer). Red/skip: RIOT −2.5%, MARA −1.8%, HL −1.0%, SOFI −0.7%.
+
+**THEME:** Cyclical/consumer rotation (F, RIVN, NCLH, RIG) as gold cools. These — esp. a BETA leader like F — are exactly the profile that worked yesterday (KGC/SOFI) vs the low-beta KVUE dud.
+
+**Top few to carry to 9:47 decision:** **F** (cyclical RS leader, affordable, liquid — the cleanest profile), **RIVN**, **NCLH**. Confirm the pre-mkt RS HOLDS through the open (yesterday's gold gap faded at the bell). NO trade this step — decision routine fires ~9:47 ET on an OR read. RISK_RULES §9 + pre-trade gate; options/crypto/margin OFF.

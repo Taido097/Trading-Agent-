@@ -5,7 +5,7 @@
 > intent and status; it is NOT the brokerage record (that comes from
 > reconciliation).
 
-**Last updated:** 2026-10-15 (Thu, ~3:13 ET / 19:13Z — final RTH engine pass + EOD wrap). Account **FLAT** ($19.47 cash, 0 positions, 0 orders) — flat all day, no overnight risk. Regime: weak tech open (QQQ −1.8%) REVERSED to a green close (SPY +0.3%, QQQ ~flat); V-shaped. **DAY: 0 real / 3 paper (+3.73R, 2W/1L).** REAL: 8 PASS assessments — leaders KGC (gold, $23 unaffordable) + SOFI (chase/O002) not takeable with real capital; KVUE extended low-beta/thin buffer. PAPER: KGC +2.0R, SOFI +2.0R (both clean RS-leader 2:1 wins), KVUE −0.27R (low-beta defensive never reached 2:1 — lesson confirmed). Lifetime real −$0.52 (2W/6L); paper 27 closed (11W/16L). Capital preserved. Options/crypto/margin OFF. Prior EOD history below. ⟶
+**Last updated:** 2026-10-16 (Fri, ~9:21 ET / 13:20Z — pre-market prep). Account **FLAT** ($19.47 cash, 0 positions, 0 orders) — clean start, no overnight exposure. Regime quiet/mildly constructive: SPY +0.19%, QQQ −0.30% pre-mkt. Rotation: gold/miners COOLING (KGC −0.6%, HL −1.0%), cyclicals/consumer LEADING (F +1.7%, RIG +1.6%, RIVN +0.8%, NCLH +0.7%). Watchlist top: F (cyclical RS leader, affordable $12.52, liquid), RIVN, NCLH. Event risk: monthly OPEX Friday + bank earnings (avoid HBAN/KEY/RF). NO trade yet — 9:47 decision next. Lifetime real −$0.52 (2W/6L); paper 27 closed (11W/16L, +3.73R on 10/15). Options/crypto/margin OFF. Prior EOD history below. ⟶
 
 ---
 
