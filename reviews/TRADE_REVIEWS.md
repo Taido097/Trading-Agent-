@@ -1590,3 +1590,8 @@ Tally: REAL −$0.45 lifetime, FLAT, 0 trades today (7 passes); PAPER open P-003
 - **P-2026-0041 CLF → OPEN.** Entry 13.82; consolidating 13.93–14.22 for ~2hrs, now 14.035 (+1.6%). MFE +1.44R; target 14.36 held below, stop 13.55 far safe. Reclaim worked but momentum cooling; stalling under target — likely EOD-flatten near +1.5R if no break.
 
 **Running tally:** Lifetime real −$0.52 (2W/6L), FLAT. Paper 31 closed (11W/20L) + 1 OPEN (CLF +1.44R MFE).
+
+### 2026-10-19 ~3:13 ET (19:07Z) — engine pass 6 (last RTH)
+- **Real:** PASS (8th of the day). Account FLAT — $19.47 cash, 0 positions, 0 resting orders. CLF now +17.8% off prior close (12.12) and fully extended; no fresh, reachable-2:1 real setup. Tape risk-on into the close (SPY +0.60%, QQQ +1.40%).
+- **Paper CLF (P-2026-0041) RESOLVED:** EOD-flattened at 14.27 (last RTH pass rule). Entry 13.82 / stop 13.55 / target 14.36 (never hit; high 14.32). **+1.67R, +$66.60 sim.** MFE +1.85R, MAE ~0 (held above entry all day). Ground sideways 13.93–14.32 for ~4 hrs.
+- **Read:** The reclaim-in-beta/catalyst setup worked and got CLOSEST to a clean 2:1 of all this week's cyclical/reclaim hypothesis reps. It still stalled just shy of the full target because the 14.36 printed into the morning-spike overhang. Lesson for the real gate: beta + sector leadership + genuine catalyst is the combination that *approaches* 2:1 — but set the target below overhead supply, not into it.

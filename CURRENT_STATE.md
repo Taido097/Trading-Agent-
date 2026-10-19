@@ -5,7 +5,7 @@
 > intent and status; it is NOT the brokerage record (that comes from
 > reconciliation).
 
-**Last updated:** 2026-10-19 (Mon, ~2:13 ET / 18:04Z — engine pass 5). Account **FLAT** ($19.47 cash, 0 positions, 0 orders). Regime risk-on easing: SPY +0.53%, QQQ +1.29%. REAL: PASS (CLF +15.8% extended). PAPER: CLF (0041) OPEN +1.6% consolidating 13.93-14.22 (MFE +1.44R, stalling under 14.36 tgt; stop 13.55 safe). Lifetime real −$0.52 (2W/6L); paper 31 closed (11W/20L) + 1 OPEN. Options/crypto/margin OFF. Prior EOD history below. ⟶
+**Last updated:** 2026-10-19 (Mon, ~3:13 ET / 19:07Z — EOD, last RTH pass). Account **FLAT** ($19.47 cash, 0 positions, 0 orders) — 8th straight flat real day; $20 intact. Regime risk-on: SPY +0.60%, QQQ +1.40% (tech leading). REAL today: 0 trades / 8 PASS (leaders CLF/VALE gapped away pre-decision; no reachable-2:1 at size). PAPER today: CLF (0041) CLOSED +1.67R/+$66.60 (reclaim-in-beta+catalyst, best 2:1 approach of the week); RIOT (0042) −1.0R (tight-coil whipsaw). Net paper +0.67R (1W/1L). Lifetime real −$0.52 (2W/6L); paper 32 closed (12W/20L). KEY LESSON (A/B conclusive): reachable-2:1 = beta + sector leadership + real catalyst, target set below overhead supply. Options/crypto/margin OFF. Prior EOD history below. ⟶
 
 ---
 

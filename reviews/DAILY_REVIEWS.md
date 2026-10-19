@@ -1390,3 +1390,23 @@ Excluded >$19: KGC $23.86, RF $27.59, CCL $26, KEY $19.81, SIRI $27, AMCR $43.9,
 - **SOFI** faded 14.75→14.45 (red). **MARA** cooled to +3%. No clean affordable setup.
 
 **DECISION: REAL PASS.** The pre-market caution on CLF ("require sound post-open entry, do not chase the gap") was vindicated — it faded hard. Logged 2 rejections (CLF, VALE). Even in a risk-on tape, the affordable gappers didn't offer a clean break-and-hold with a sound stop + reachable 2:1. Hourly engine next (paper reps). Options/crypto/margin OFF.
+
+---
+
+## 2026-10-19 (Monday) — EOD WRAP
+
+**Regime:** Risk-on all session. SPY +0.60% (767.81 vs 763.25), QQQ +1.40% (719.73 vs 709.80), tech leading. Clean up-tape.
+
+**REAL account: 0 trades / 8 PASS. FLAT all day — $19.47 cash preserved.** Lifetime real unchanged: −$0.52 (2W/6L).
+- Pre-market/open: CLF gapped huge on earnings (12.94 washout → reclaim) and VALE on cyclical strength — both failed the gate at 9:47 (CLF was a gap-and-fade O002 chase risk; logged to REJECTED_TRADES). Nothing offered a fresh, genuinely reachable 2:1 into un-extended price at real-tradeable size. Correct to pass — by midday CLF was already +15%, i.e. the move happened pre-decision.
+- Capital-preservation held: eighth straight flat real day (10/14–10/19). The $20 is intact through a liquidation day, two risk-off days, and now two risk-on days where the leaders gapped away before a sound entry existed.
+
+**PAPER: 2 closed today — net +0.67R (1W / 1L).**
+- CLF (P-2026-0041) — Reclaim after washout, high-beta + earnings catalyst. **+1.67R / +$66.60 sim.** Entry 13.82 on the pullback-hold above the 13.75 base (NOT chasing the 14.01 spike — O002 respected). Reached +1.85R MFE, stalled just under the 14.36 2:1 target (which sat in the morning-spike overhang), EOD-flattened at 14.27. **Best 2:1 approach of the week's cyclical/reclaim reps.**
+- RIOT (P-2026-0042) — High-base coil continuation. **−1.0R / −$40 sim.** Tight ~$0.16 coil gave almost no room; crypto-miner whipsawed through the 14.08 stop (peaked only +0.41R). Lesson: a very tight coil stop = low room-for-error; whippy names need a wider base or a pass.
+
+**Lesson synthesis (refines the REAL gate):** This week's A/B test across F (−0.90R), NCLH (−1.0R), RIOT (−1.0R) and CLF (+1.67R) is now conclusive enough to state plainly — the one setup that *approaches* a clean 2:1 is **beta + genuine sector leadership + a real catalyst, with the target set below overhead supply.** Large/mid-cap, low-beta, and tight-coil names peak around +0.4–0.9R then reverse. CLF is the template for what a REAL candidate should look like; the discipline that remains is only entering when such a name offers that entry at un-extended price — which did not happen at real-tradeable size today.
+
+**Running paper:** 32 closed (12W / 20L). **Running real:** 8 closed lifetime (2W/6L), −$0.52, FLAT.
+
+**Overnight:** FLAT. Nothing held. Real $20 safe. Next: post-close overnight-safety confirm (~4:12 ET), then Tuesday 10/20 pre-market prep.
