@@ -1563,3 +1563,17 @@ Tally: REAL −$0.45 lifetime, FLAT, 0 trades today (7 passes); PAPER open P-003
 - No new paper (2 reps running).
 
 **Running tally:** Lifetime real −$0.52 (2W/6L), FLAT. Paper 30 closed (11W/19L) + 2 OPEN (CLF +1.3R MFE, RIOT flat).
+
+---
+
+### 2026-10-19 (Mon) ~1:13 ET / 17:05Z — Intraday engine pass (4th)
+
+**Regime:** Risk-on holding. SPY 767.45 (+0.55%), QQQ 720.18 (+1.46%).
+
+**STEP A — REAL $20:** 563174713 **FLAT** ($19.47, 0/0). **PASS.** CLF +16.7% (extended/wild); nothing new.
+
+**STEP B — PAPER — manage 2 open:**
+- **P-2026-0042 RIOT → CLOSED LOSS −1.0R** (−$40 sim). Tight high-base coil broke down, stop 14.08 hit ~17:00Z (crypto-miner whipsaw). Peaked only +0.41R. loss_class COIL_BREAKDOWN_THIN_RANGE. Lesson: a very tight coil stop (~$0.16) gives little room; whippy names chop through it — need a wider base or pass.
+- **P-2026-0041 CLF → OPEN, working.** Entry 13.82; chopped 13.86–14.22, now 14.15 (+2.4%). MFE +1.44R; target 14.36 / stop 13.55 intact. Reclaim consolidating just under target.
+
+**Running tally:** Lifetime real −$0.52 (2W/6L), FLAT. Paper 31 closed (11W/20L) + 1 OPEN (CLF +1.44R MFE).
