@@ -5,7 +5,7 @@
 > intent and status; it is NOT the brokerage record (that comes from
 > reconciliation).
 
-**Last updated:** 2026-10-19 (Mon, ~9:47 ET / 13:48Z — opening-range decision). Account **FLAT** ($19.47 cash, 0 positions, 0 orders). Regime risk-on: SPY +0.50%, QQQ +1.35% — but affordable gappers faded at the bell. **REAL: PASS.** CLF (the +15.8% earnings gap) spiked 14.58 then REVERSED to 13.18 = gap-and-fade falling knife (O002); pre-mkt no-gap-chase caution vindicated. VALE mild chop/weak structure; SOFI faded to red. Logged 2 rejections (CLF, VALE). No clean break-and-hold w/ sound stop + reachable 2:1. Lifetime real −$0.52 (2W/6L); paper 30 closed (11W/19L). Hourly engine next. Options/crypto/margin OFF. Prior EOD history below. ⟶
+**Last updated:** 2026-10-19 (Mon, ~10:13 ET / 14:16Z — engine pass 1). Account **FLAT** ($19.47 cash, 0 positions, 0 orders). Regime risk-on strengthening: SPY +0.67%, QQQ +1.49% (new intraday highs); but affordable names choppy post-gap-fade. REAL: PASS — CLF round-tripped its gap (14.58→12.94→13.60) = chaotic earnings whipsaw, too wild; rest choppy/red. PAPER: 0 (post-gap chop + V-bounce whippiness, no clean quality rep). Lifetime real −$0.52 (2W/6L); paper 30 closed (11W/19L), 0 open. Options/crypto/margin OFF. Prior EOD history below. ⟶
 
 ---
 

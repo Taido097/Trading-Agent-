@@ -1521,3 +1521,15 @@ Tally: REAL −$0.45 lifetime, FLAT, 0 trades today (7 passes); PAPER open P-003
 **HYPOTHESIS — COMPLETE & CONCLUSIVE:** Both large/mid-cap cyclical ORBs (F −0.90R, NCLH −1.0R) FAILED to reach 2:1 and ended near-full-stop losses. This VALIDATES the 9:47 real PASS and confirms the 2:1-realism gate: a clean volume-confirmed ORB in a large/mid-cap is NOT sufficient — the name needs enough beta/range (or genuine sector leadership, like 10/15 KGC/SOFI) to make a 2:1 target reachable. Refined rule: for the real $20, require beta + leadership + reachable 2:1, not just a clean breakout on a sluggish large-cap.
 
 **DAY PAPER RESULT:** 2 trades, F −0.90R + NCLH −1.0R = **−1.90R (−$76.00 sim), 0W/2L** — but a high-value learning day: the experiment answered the real-trade question at zero real cost, and kept the real $20 intact through a −2.6% QQQ day.
+
+---
+
+### 2026-10-19 (Mon) ~10:13 ET / 14:16Z — Intraday engine pass (1st)
+
+**Regime:** Risk-on strengthening. SPY 768.36 (+0.67%), QQQ 720.40 (+1.49%, new intraday highs). Supportive broad tape, but affordable names choppy after the open gap-fade.
+
+**STEP A — REAL $20:** 563174713 **FLAT** ($19.47, 0/0). **PASS.** CLF round-tripped the whole gap (14.58→12.94→13.60) = chaotic earnings whipsaw, far too wild for real capital; VALE/SOFI/MARA/RIVN choppy or red. No clean affordable setup.
+
+**STEP B — PAPER:** No open positions. **0 new longs** — post-gap-fade chop + V-bounce whippiness; no clean coil/breakout-hold or high-volume pullback-continuation among affordable names worth a quality rep. CLF reclaim off 12.94 is interesting but too wide/wild a base. Re-scan next pass (quality over quota).
+
+**Running tally:** Lifetime real −$0.52 (2W/6L), FLAT. Paper 30 closed (11W/19L), 0 open.
