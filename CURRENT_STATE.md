@@ -5,7 +5,7 @@
 > intent and status; it is NOT the brokerage record (that comes from
 > reconciliation).
 
-**Last updated:** 2026-10-19 (Mon, ~10:13 ET / 14:16Z — engine pass 1). Account **FLAT** ($19.47 cash, 0 positions, 0 orders). Regime risk-on strengthening: SPY +0.67%, QQQ +1.49% (new intraday highs); but affordable names choppy post-gap-fade. REAL: PASS — CLF round-tripped its gap (14.58→12.94→13.60) = chaotic earnings whipsaw, too wild; rest choppy/red. PAPER: 0 (post-gap chop + V-bounce whippiness, no clean quality rep). Lifetime real −$0.52 (2W/6L); paper 30 closed (11W/19L), 0 open. Options/crypto/margin OFF. Prior EOD history below. ⟶
+**Last updated:** 2026-10-19 (Mon, ~11:13 ET / 15:06Z — engine pass 2). Account **FLAT** ($19.47 cash, 0 positions, 0 orders). Regime risk-on strengthening: SPY +0.71%, QQQ +1.74% (tech leading). REAL: PASS (CLF genuine reclaim but $0.60+ event-driven swings = stop-vs-volatility fails for real; RIOT whippy). PAPER opened 2: P-2026-0041 CLF (reclaim-after-washout, e13.82/s13.55/t14.36) + P-0042 RIOT (high-base coil, e14.24/s14.08/t14.56), both 2:1 stop-first — testing beta+reclaim/coil reaching 2:1. Lifetime real −$0.52 (2W/6L); paper 30 closed (11W/19L) + 2 OPEN. Options/crypto/margin OFF. Prior EOD history below. ⟶
 
 ---
 

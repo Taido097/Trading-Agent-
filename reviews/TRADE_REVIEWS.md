@@ -1533,3 +1533,18 @@ Tally: REAL −$0.45 lifetime, FLAT, 0 trades today (7 passes); PAPER open P-003
 **STEP B — PAPER:** No open positions. **0 new longs** — post-gap-fade chop + V-bounce whippiness; no clean coil/breakout-hold or high-volume pullback-continuation among affordable names worth a quality rep. CLF reclaim off 12.94 is interesting but too wide/wild a base. Re-scan next pass (quality over quota).
 
 **Running tally:** Lifetime real −$0.52 (2W/6L), FLAT. Paper 30 closed (11W/19L), 0 open.
+
+---
+
+### 2026-10-19 (Mon) ~11:13 ET / 15:06Z — Intraday engine pass (2nd)
+
+**Regime:** Risk-on strengthening. SPY 768.68 (+0.71%), QQQ 722.15 (+1.74%, tech leading). Supportive.
+
+**STEP A — REAL $20:** 563174713 **FLAT** ($19.47, 0/0). **PASS.** CLF is a genuine reclaim (beta+catalyst) but swings $0.60+ bars on event risk — a sound tight stop would get noise-whipsawed (stop-vs-volatility fails for the one-shot real acct); RIOT whippy crypto coil. Neither clears the stricter real bar.
+
+**STEP B — PAPER — opened 2 (risk-on, clean structures):**
+- **P-2026-0041 CLF** — reclaim-after-washout. Entry 13.82, stop 13.55, tgt 14.36 (2:1), 148 sh. Washed 14.58→12.94 then reclaimed to HH 14.01; entry on pullback-hold above 13.75 base. Tests reclaim in a high-beta+catalyst name → does it reach 2:1 (refines the real gate).
+- **P-2026-0042 RIOT** — high-base coil continuation. Entry 14.24, stop 14.08, tgt 14.56 (2:1), 250 sh. Tight 14.11-14.32 coil near HOD, +3.6%.
+- Skipped NCLH (low-beta grind, 2:1 a stretch), VALE/SOFI (weak/red).
+
+**Running tally:** Lifetime real −$0.52 (2W/6L), FLAT. Paper 30 closed (11W/19L) + 2 OPEN (CLF, RIOT).
