@@ -1350,3 +1350,32 @@ De-prioritized: KVUE $18.75 (+0.4%, low-beta defensive — yesterday's −0.27R 
 **Verdict:** A textbook example of the micro-live discipline paying off. The real PASS looked conservative at 9:47 but was vindicated by the paper experiment and the tape — had I taken F real, I'd have booked a near-full-stop loss on a −2.6% QQQ day. Instead: real capital 100% intact, and a concrete, data-backed refinement to the entry gate (beta + leadership + reachable 2:1, not just a clean large-cap breakout). Losing paper trades that buy a correct rule are a good trade.
 
 **Running lifetime:** Real −$0.52 (2W/6L), account FLAT $19.47. Paper 30 closed (11W/19L; −1.90R on 10/16). Week recap: 10/14 zero-trade liquidation day (correct), 10/15 paper +3.73R (KGC/SOFI RS-leaders hit 2:1), 10/16 paper −1.90R (cyclical ORBs failed 2:1 — boundary of the edge mapped). Real account preserved all week.
+
+---
+
+## 2026-10-19 (Mon) — PRE-MARKET PREP (~9:23 ET / 13:23Z)
+
+**Reconciliation:** Account 563174713 **FLAT** — $19.47 cash, 0 positions, 0 orders, BP $19.47. Matches internal state. No weekend exposure. ✓
+
+**Regime (pre-market last_non_reg vs 10/16 close): RISK-ON REBOUND.**
+- SPY ~767.11 (+0.51%), QQQ ~719.50 (+1.37%) — tech bouncing hard after Friday's −2.6%.
+- Rotation OUT of safe-havens INTO risk: high-beta/tech/crypto/materials GREEN (MARA +5.2%, RIOT +4.2%, VALE +1.2%, SOFI +0.8%); gold/defensives RED (KGC −0.7%, NEM −0.7%, GDX −0.6%, HL −0.5%, KVUE −0.7%). Friday's defensive bid unwinding. Supportive tape — favorable for the beta+leadership profile (vs last week's sluggish large-cap ORBs).
+
+**Event risk:** **CLF reported — gapping +15.8%** (name-specific earnings/news event; volatile both ways). Bank earnings season continues (avoid HBAN/KEY/RF). Mega-cap tech earnings ramp this week. No major macro confirmed for today.
+
+**WIDE SCREEN — affordable RS ranking (pre-mkt vs prior close; screen 1 sh ≤ ~$18.50, liquid, spread at open):**
+| Rank | Ticker | Pre-mkt | %chg | Note |
+|---|---|---|---|---|
+| 1 | **CLF** | $14.03 | **+15.8%** | Earnings/news gap; high-beta cyclical + real catalyst, affordable. **O002: do NOT chase the gap** — require post-open pullback-hold or clean OR break-and-hold. #1 watch, handle with care. |
+| 2 | MARA | $7.92 | +5.2% | Crypto miner, high-beta risk-on bounce; spike-prone |
+| 3 | RIOT | $14.30 | +4.2% | Crypto miner, same |
+| 4 | **VALE** | $13.22 | +1.23% | Materials, cleaner green, liquid |
+| 5 | AAL | $12.02 | +1.18% | Airline, mild green |
+| 6 | SOFI | $14.67 | +0.82% | Fintech (last week's winner), green |
+| 7 | NCLH/RIVN | $15.15/$12.49 | +0.66/+0.56% | Cruise / EV, mild |
+
+Excluded >$19: KGC $23.86, RF $27.59, CCL $26, KEY $19.81, SIRI $27, AMCR $43.9, NEM $117.8. De-prioritized: KVUE (−0.7%, defensive unwinding), SNAP/BTG/RIG (sub-$6 / red), gold complex (red).
+
+**THEME:** Risk-on rebound, high-beta + catalyst names leading. This is the supportive regime + the beta/leadership profile that the refined rule (and 10/15's KGC/SOFI winners) favor — a better real-trade environment than last week's sluggish-large-cap tape.
+
+**Top few to carry to 9:47 decision:** **CLF** (catalyst + beta + affordable — but ONLY on a sound post-open entry, never the gap/spike), **VALE** (cleaner materials RS), **SOFI/MARA** (beta momentum). Confirm structure holds at the open. NO trade this step. RISK_RULES §9 + pre-trade gate; options/crypto/margin OFF.

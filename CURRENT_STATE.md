@@ -5,7 +5,7 @@
 > intent and status; it is NOT the brokerage record (that comes from
 > reconciliation).
 
-**Last updated:** 2026-10-16 (Fri, ~3:13 ET / 19:12Z — final RTH pass + EOD wrap). Account **FLAT** ($19.47 cash, 0 positions, 0 orders) — 0 real trades all day, no overnight risk. Regime: tech-led risk-off, SPY ~−1.25%, QQQ ~−2.6% close (OPEX Fri). **DAY: 0 real / 2 paper (−1.90R, 0W/2L).** REAL: 8 PASS; F (clean cyclical ORB) correctly passed on 2:1-realism. PAPER hypothesis COMPLETE: F −0.90R + NCLH −1.0R both FAILED 2:1 → validates the real PASS + gate. Refined rule: real $20 needs beta + leadership + reachable 2:1, not just a clean large-cap breakout. Lifetime real −$0.52 (2W/6L); paper 30 closed (11W/19L). Capital preserved all week. Options/crypto/margin OFF. Prior EOD history below. ⟶
+**Last updated:** 2026-10-19 (Mon, ~9:23 ET / 13:23Z — pre-market prep). Account **FLAT** ($19.47 cash, 0 positions, 0 orders) — clean start, no weekend exposure. Regime: RISK-ON REBOUND after Friday's selloff — SPY +0.51%, QQQ +1.37% pre-mkt; rotation into high-beta/tech/crypto/materials (MARA +5.2%, RIOT +4.2%, VALE +1.2%), out of gold/defensives (red). Standout: CLF +15.8% earnings/news gap (high-beta cyclical + catalyst, affordable $14 — O002: NO gap-chase, require sound post-open entry). Watchlist: CLF, VALE, SOFI/MARA. Supportive tape fits the refined beta+leadership+reachable-2:1 rule. Event risk: CLF earnings, bank-earnings szn, mega-cap tech this week. NO trade yet — 9:47 decision next. Lifetime real −$0.52 (2W/6L); paper 30 closed (11W/19L). Options/crypto/margin OFF. Prior EOD history below. ⟶
 
 ---
 
