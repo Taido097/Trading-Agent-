@@ -5,7 +5,7 @@
 > intent and status; it is NOT the brokerage record (that comes from
 > reconciliation).
 
-**Last updated:** 2026-10-19 (Mon, ~9:23 ET / 13:23Z — pre-market prep). Account **FLAT** ($19.47 cash, 0 positions, 0 orders) — clean start, no weekend exposure. Regime: RISK-ON REBOUND after Friday's selloff — SPY +0.51%, QQQ +1.37% pre-mkt; rotation into high-beta/tech/crypto/materials (MARA +5.2%, RIOT +4.2%, VALE +1.2%), out of gold/defensives (red). Standout: CLF +15.8% earnings/news gap (high-beta cyclical + catalyst, affordable $14 — O002: NO gap-chase, require sound post-open entry). Watchlist: CLF, VALE, SOFI/MARA. Supportive tape fits the refined beta+leadership+reachable-2:1 rule. Event risk: CLF earnings, bank-earnings szn, mega-cap tech this week. NO trade yet — 9:47 decision next. Lifetime real −$0.52 (2W/6L); paper 30 closed (11W/19L). Options/crypto/margin OFF. Prior EOD history below. ⟶
+**Last updated:** 2026-10-19 (Mon, ~9:47 ET / 13:48Z — opening-range decision). Account **FLAT** ($19.47 cash, 0 positions, 0 orders). Regime risk-on: SPY +0.50%, QQQ +1.35% — but affordable gappers faded at the bell. **REAL: PASS.** CLF (the +15.8% earnings gap) spiked 14.58 then REVERSED to 13.18 = gap-and-fade falling knife (O002); pre-mkt no-gap-chase caution vindicated. VALE mild chop/weak structure; SOFI faded to red. Logged 2 rejections (CLF, VALE). No clean break-and-hold w/ sound stop + reachable 2:1. Lifetime real −$0.52 (2W/6L); paper 30 closed (11W/19L). Hourly engine next. Options/crypto/margin OFF. Prior EOD history below. ⟶
 
 ---
 

@@ -1379,3 +1379,14 @@ Excluded >$19: KGC $23.86, RF $27.59, CCL $26, KEY $19.81, SIRI $27, AMCR $43.9,
 **THEME:** Risk-on rebound, high-beta + catalyst names leading. This is the supportive regime + the beta/leadership profile that the refined rule (and 10/15's KGC/SOFI winners) favor — a better real-trade environment than last week's sluggish-large-cap tape.
 
 **Top few to carry to 9:47 decision:** **CLF** (catalyst + beta + affordable — but ONLY on a sound post-open entry, never the gap/spike), **VALE** (cleaner materials RS), **SOFI/MARA** (beta momentum). Confirm structure holds at the open. NO trade this step. RISK_RULES §9 + pre-trade gate; options/crypto/margin OFF.
+
+### 2026-10-19 (Mon) — 9:47 ET OPENING-RANGE DECISION
+
+**Reconcile:** 563174713 FLAT ($19.47, 0/0). **Regime (live ~9:48):** SPY 767.04 (+0.50%), QQQ 719.37 (+1.35%) — risk-on holding; but affordable gappers faded at the bell.
+
+**OR read (3 bars, 9:30–9:45):**
+- **CLF** — earnings gap: opened 14.20, spiked 14.58, REVERSED hard to 13.18 (−9.6% off open high; +8.7% day vs +15.8% pre-mkt) on 2.75M vol. Gap-and-fade/blow-off, falling knife. REJECTED (O002).
+- **VALE** +1.3% — mild chop 13.16–13.36, no clean break-and-hold; lower-beta, weak structure. REJECTED.
+- **SOFI** faded 14.75→14.45 (red). **MARA** cooled to +3%. No clean affordable setup.
+
+**DECISION: REAL PASS.** The pre-market caution on CLF ("require sound post-open entry, do not chase the gap") was vindicated — it faded hard. Logged 2 rejections (CLF, VALE). Even in a risk-on tape, the affordable gappers didn't offer a clean break-and-hold with a sound stop + reachable 2:1. Hourly engine next (paper reps). Options/crypto/margin OFF.
