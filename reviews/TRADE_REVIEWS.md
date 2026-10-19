@@ -1577,3 +1577,16 @@ Tally: REAL −$0.45 lifetime, FLAT, 0 trades today (7 passes); PAPER open P-003
 - **P-2026-0041 CLF → OPEN, working.** Entry 13.82; chopped 13.86–14.22, now 14.15 (+2.4%). MFE +1.44R; target 14.36 / stop 13.55 intact. Reclaim consolidating just under target.
 
 **Running tally:** Lifetime real −$0.52 (2W/6L), FLAT. Paper 31 closed (11W/20L) + 1 OPEN (CLF +1.44R MFE).
+
+---
+
+### 2026-10-19 (Mon) ~2:13 ET / 18:04Z — Intraday engine pass (5th)
+
+**Regime:** Risk-on easing slightly. SPY 767.29 (+0.53%), QQQ 718.95 (+1.29%).
+
+**STEP A — REAL $20:** 563174713 **FLAT** ($19.47, 0/0). **PASS.** CLF +15.8% (extended/wild); nothing new.
+
+**STEP B — PAPER — manage 1 open:**
+- **P-2026-0041 CLF → OPEN.** Entry 13.82; consolidating 13.93–14.22 for ~2hrs, now 14.035 (+1.6%). MFE +1.44R; target 14.36 held below, stop 13.55 far safe. Reclaim worked but momentum cooling; stalling under target — likely EOD-flatten near +1.5R if no break.
+
+**Running tally:** Lifetime real −$0.52 (2W/6L), FLAT. Paper 31 closed (11W/20L) + 1 OPEN (CLF +1.44R MFE).

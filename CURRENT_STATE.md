@@ -5,7 +5,7 @@
 > intent and status; it is NOT the brokerage record (that comes from
 > reconciliation).
 
-**Last updated:** 2026-10-19 (Mon, ~1:13 ET / 17:05Z — engine pass 4). Account **FLAT** ($19.47 cash, 0 positions, 0 orders). Regime risk-on holding: SPY +0.55%, QQQ +1.46%. REAL: PASS (CLF +16.7% extended). PAPER: RIOT (0042) CLOSED LOSS −1.0R (tight coil broke down, crypto whipsaw); CLF (0041) OPEN working +2.4% (MFE +1.44R, reclaim consolidating under 14.36 tgt). Lifetime real −$0.52 (2W/6L); paper 31 closed (11W/20L) + 1 OPEN. Options/crypto/margin OFF. Prior EOD history below. ⟶
+**Last updated:** 2026-10-19 (Mon, ~2:13 ET / 18:04Z — engine pass 5). Account **FLAT** ($19.47 cash, 0 positions, 0 orders). Regime risk-on easing: SPY +0.53%, QQQ +1.29%. REAL: PASS (CLF +15.8% extended). PAPER: CLF (0041) OPEN +1.6% consolidating 13.93-14.22 (MFE +1.44R, stalling under 14.36 tgt; stop 13.55 safe). Lifetime real −$0.52 (2W/6L); paper 31 closed (11W/20L) + 1 OPEN. Options/crypto/margin OFF. Prior EOD history below. ⟶
 
 ---
 
