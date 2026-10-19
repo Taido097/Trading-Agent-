@@ -1548,3 +1548,18 @@ Tally: REAL −$0.45 lifetime, FLAT, 0 trades today (7 passes); PAPER open P-003
 - Skipped NCLH (low-beta grind, 2:1 a stretch), VALE/SOFI (weak/red).
 
 **Running tally:** Lifetime real −$0.52 (2W/6L), FLAT. Paper 30 closed (11W/19L) + 2 OPEN (CLF, RIOT).
+
+---
+
+### 2026-10-19 (Mon) ~12:13 ET / 16:06Z — Intraday engine pass (3rd)
+
+**Regime:** Risk-on holding. SPY 768.26 (+0.66%), QQQ 722.01 (+1.72%).
+
+**STEP A — REAL $20:** 563174713 **FLAT** ($19.47, 0/0). **PASS.** CLF now +16% (extended/wild); nothing new affordable.
+
+**STEP B — PAPER — manage 2 open:**
+- **P-2026-0041 CLF → OPEN, working.** Entry 13.82; ground up to 14.17, now 14.085 (+1.9%). MFE +1.30R; target 14.36 / stop 13.55 intact. Reclaim-after-washout behaving — beta+catalyst grinding toward 2:1.
+- **P-2026-0042 RIOT → OPEN, flat.** Entry 14.24; still coiling 14.16–14.31, now 14.24. MFE +0.41R; target 14.56 / stop 14.08 intact.
+- No new paper (2 reps running).
+
+**Running tally:** Lifetime real −$0.52 (2W/6L), FLAT. Paper 30 closed (11W/19L) + 2 OPEN (CLF +1.3R MFE, RIOT flat).
