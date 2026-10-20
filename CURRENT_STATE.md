@@ -5,7 +5,7 @@
 > intent and status; it is NOT the brokerage record (that comes from
 > reconciliation).
 
-**Last updated:** 2026-10-20 (Tue, ~1:05 ET / 17:04Z — engine pass 4). Account **FLAT** ($19.47) — REAL PASS (7th today; midday chop, no fresh setup). Tape flat: SPY +0.29%, QQQ -0.02%. PAPER: SOFI (0043) OPEN, consolidating 14.76-14.85 (~1hr), now 14.80 (+0.84R, MFE +1.84R, tgt 15.02/stop 14.45 both far). No new entries (midday chop → tighten, not churn). Day paper net 0.0R realized (AAL +2, NCLH/SNAP -1 ea; 1W/2L) + SOFI open. Lifetime real -$0.52 (2W/6L); paper 35 closed (13W/22L) + 1 OPEN. Options/crypto/margin OFF. Prior EOD history below. ⟶
+**Last updated:** 2026-10-20 (Tue, ~2:05 ET / 18:04Z — engine pass 5). Account **FLAT** ($19.47) — REAL PASS (8th today; no fresh setup). Tape stable mild-green: SPY +0.37%, QQQ +0.11%. PAPER: SOFI (0043) OPEN, 2-hr tight consolidation 14.73-14.81, now 14.73 (+0.47R, MFE +1.84R; tgt 15.02/stop 14.45 far — dead-money drift, flatten at last RTH pass if untriggered). No new entries. Day paper net 0.0R realized (AAL +2, NCLH/SNAP -1 ea; 1W/2L) + SOFI open. Lifetime real -$0.52 (2W/6L); paper 35 closed (13W/22L) + 1 OPEN. Options/crypto/margin OFF. Prior EOD history below. ⟶
 
 ---
 

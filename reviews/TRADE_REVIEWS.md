@@ -1630,3 +1630,9 @@ Tally: REAL −$0.45 lifetime, FLAT, 0 trades today (7 passes); PAPER open P-003
 - **Paper SOFI (0043):** OPEN, chopping 14.76-14.85 for ~1hr, now 14.80. No trigger (tgt 15.02 / stop 14.45 both far). +0.84R unrealized, MFE +1.84R. Hold.
 - **No new paper entries:** midday chop + flat tape right after two momentum stop-outs → tighten, don't churn (standing lesson). Quality over volume.
 - Day paper: AAL +2.0R, NCLH -1.0R, SNAP -1.0R realized (net 0.0R, 1W/2L) + SOFI open. 35 closed (13W/22L) + 1 open.
+
+### 2026-10-20 ~2:05 ET (18:04Z) — engine pass 5
+- **Tape stable mild-green:** SPY +0.37%, QQQ +0.11%.
+- **Real:** PASS (FLAT $19.47). 8th real pass today. No fresh setup.
+- **Paper SOFI (0043):** OPEN, 2-hr tight consolidation 14.73-14.81, now 14.73. No trigger (tgt 15.02/stop 14.45 far). Dead-money drift — +0.47R unrealized (down from +1.84R MFE). Will flatten at the last RTH pass if still untriggered.
+- No new paper entries (early-afternoon chop; selective). Day paper unchanged: AAL +2.0R, NCLH/SNAP -1.0R each (net 0.0R, 1W/2L) + SOFI open. 35 closed (13W/22L) + 1 open.
