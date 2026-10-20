@@ -5,7 +5,7 @@
 > intent and status; it is NOT the brokerage record (that comes from
 > reconciliation).
 
-**Last updated:** 2026-10-20 (Tue, ~10:06 ET / 14:05Z — engine pass 1). Account **FLAT** ($19.47) — REAL PASS (SOFI clearest RS leader but extended +2.3%, 2:1 a stretch; WATCH for pullback-to-14.50 hold). Tape recovering: SPY +0.20% (green), QQQ -0.22% (off -0.73% lows). PAPER opened 2: SOFI (0043) 14.64 stop14.45 tgt15.02 RS-continuation; AAL (0044) 12.16 stop11.96 tgt12.56 HYPOTHESIS TEST of the real PASS (extended +4.1% strong-RS). Lifetime real -$0.52 (2W/6L); paper 32 closed (12W/20L) + 2 OPEN. Options/crypto/margin OFF. Prior EOD history below. ⟶
+**Last updated:** 2026-10-20 (Tue, ~11:08 ET / 15:07Z — engine pass 2). Account **FLAT** ($19.47) — REAL PASS (5th today; all RS leaders extended +4-7%, no sound non-extended entry, no chase). Tape flipped RISK-ON: SPY +0.59%, QQQ +0.42% (both green). PAPER: AAL (0044) CLOSED +2.0R/+$80 (target hit — extended large-cap DID reach 2:1 once tape turned risk-on; REGIME is decisive, real PASS defensible ex-ante but would've won). OPEN: SOFI (0043) +1.5R working (hit 14.99 vs 15.02 tgt); NCLH (0045) 15.99 pullback-hold; SNAP (0046) 6.46 HOD-breakout. Lifetime real -$0.52 (2W/6L); paper 33 closed (13W/20L) + 3 OPEN. Options/crypto/margin OFF. Prior EOD history below. ⟶
 
 ---
 

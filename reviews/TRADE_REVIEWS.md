@@ -1605,3 +1605,11 @@ Tally: REAL −$0.45 lifetime, FLAT, 0 trades today (7 passes); PAPER open P-003
 - **Real:** PASS (FLAT $19.47). Tape recovering (SPY +0.20% green, QQQ -0.22% off lows). SOFI is the day's clearest RS leader (higher-highs to 14.75 on volume) but at 14.64 is +2.3% extended and ran from the 14.49 breakout — a sound-stop 2:1 (15.02) = +5% day. Chasing-extension → PASS; WATCH SOFI for a pullback-to-14.50-hold entry.
 - **Paper opened (2):** SOFI (P-2026-0043) 14.64, stop 14.45, tgt 15.02, 210sh — RS-leader continuation. AAL (P-2026-0044) 12.16, stop 11.96, tgt 12.56, 200sh — HYPOTHESIS TEST of the real PASS (extended +4.1% strong-RS; does it reach 2:1 or revert?).
 - Only 2 names showed clean RS + structure; mixed tape → kept it selective (quality over forcing 8). VALE/F flat-red, RIVN mid-coil, NCLH rolling off its 15.44 HOD → skipped.
+
+### 2026-10-20 ~11:08 ET (15:07Z) — engine pass 2
+- **Tape flipped RISK-ON:** SPY +0.59%, QQQ +0.42% (both green, rising) — the morning risk-off fully reversed.
+- **Real:** PASS (FLAT $19.47). All RS leaders now extended (SOFI +4.3%, AAL +7.5%, NCLH +4.9%); the clean SOFI pullback-to-14.50 never came. No sound non-extended entry → no chase. 5th real pass today, all PASS.
+- **Paper AAL (0044) → WIN +2.0R (+$80):** target 12.56 hit (14:30 bar high 12.63). **Key result:** the extended strong-RS airline reached 2:1 once the tape turned risk-on — REGIME was the deciding variable, complicating yesterday's 'large-cap no-2:1' lesson. The real PASS was defensible ex-ante but would have won.
+- **Paper SOFI (0043):** OPEN, working — hit 14.99 (3c under 15.02 tgt), now 14.92, stop 14.45 safe. MFE +1.84R.
+- **Paper opened (2):** NCLH (0045) 15.99/stop15.80/tgt16.37 — pullback-hold continuation. SNAP (0046) 6.46/stop6.38/tgt6.62 — steady higher-lows fresh-HOD breakout. Skipped RIOT/RIVN/KGC (faded) and MARA (tight-range/RIOT-trap).
+- Day paper so far: AAL +2.0R closed; SOFI/NCLH/SNAP open. 33 closed (13W/20L) + 3 open.
