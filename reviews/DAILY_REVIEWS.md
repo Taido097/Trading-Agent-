@@ -1410,3 +1410,35 @@ Excluded >$19: KGC $23.86, RF $27.59, CCL $26, KEY $19.81, SIRI $27, AMCR $43.9,
 **Running paper:** 32 closed (12W / 20L). **Running real:** 8 closed lifetime (2W/6L), −$0.52, FLAT.
 
 **Overnight:** FLAT. Nothing held. Real $20 safe. Next: post-close overnight-safety confirm (~4:12 ET), then Tuesday 10/20 pre-market prep.
+
+---
+
+## 2026-10-20 (Tuesday) — PRE-MARKET PREP (~9:20 ET / 13:19Z)
+
+**Account reconcile:** FLAT — $19.47 cash, $19.47 buying power, 0 positions, 0 resting orders. Matches internal state. Real $20 intact (9th day flat at open).
+
+**Regime (pre-market):** Soft / slightly risk-off. SPY 765.95 vs 766.48 prior close (−0.07%, flat); QQQ 715.71 vs 718.36 (−0.37%, tech leading down). Broad candidate tape is RED pre-market (most names −0.5% to −2%). → Apply the FLAT/soft-tape rule: tighten criteria, favor coils/pullbacks over breakouts, expect momentum to mean-revert. Base case today = another PASS unless a genuine RS leader offers a reachable 2:1.
+
+**Event risk:** No confirmed major macro print surfaced for today via tools this pass (FOMC window is typically late Oct; CPI/PPI already passed mid-month). Q3 earnings season is active — single-name gap risk elevated (CLF was yesterday's example). Treat any watchlist name reporting today as event-risk per the volatility lesson (earnings names noise-whipsaw tight stops → unsuitable for the one-shot real account).
+
+**Wide screen → watchlist (ranked by pre-market relative strength vs SPY/QQQ). NO trades this step — decision routine fires ~9:47 ET.**
+
+PASS hard screen (affordable ≤~$19, liquid, acceptable spread):
+| Rank | Ticker | Pre-mkt | vs prior close | Spread (pre) | Note |
+|---|---|---|---|---|---|
+| 1 | VALE | 13.09 | −0.15% (flat) | 0.23% tight | Materials; best affordability+tight-spread+holding-flat vs red tape. Top watch. |
+| 2 | RIG | 5.96 | +1.2% GREEN | ~1.0% | Energy RS leader pre-mkt; low-priced (~$6) but passes (>$4). Watch spread at open. |
+| 3 | KVUE | 18.90 | +0.16% (~flat) | 1.9% wide | Defensive staple, relative green; near budget ceiling ($0.57 buffer) + wide pre-mkt spread. |
+| 4 | AAL | 11.61 | −0.6% | 0.17% tight | Tight spread, mild laggard; watch for reclaim. |
+| 5 | SOFI | 14.12 | −1.3% | 0.07% tight | Liquid fintech but red; only on a clean reclaim of 14.30. |
+| 6 | RIVN | 12.26 | −0.6% | ~0.3% | Watch. |
+| 7 | NCLH | 15.15 | −0.6% | 1.6% wide | Watch; wide pre-mkt spread. |
+
+Watch-only on a RECLAIM (affordable but notable pre-mkt laggards): F −2.0%, CLF −2.0% (giving back yesterday's pop), RIOT −1.9%, HL −1.6%, MARA −2.1%.
+
+Excluded:
+- **Over ~$19 budget:** KGC (23.30), CCL (26.29), KEY (19.94), RF (27.32), SIRI (26.87), AMCR (44.04).
+- **Fail tight-spread / too low-priced:** CHPT (~4.7% spread), SNAP (~$6, 0.6% spread), BTG (~$5).
+- **Stale quote:** HBAN last print 06:25Z (overnight) — showed +0.46% but unreliable; re-check at open.
+
+Note: relied on the curated UNIVERSE.md pool this pass (did not run a fresh scanner sweep — soft tape, and this is a watchlist not a decision). Pre-market prints are thin/noisy; the real read forms at the open + opening range. Decision routine (9:47 ET) takes the top few only if one clears RISK_RULES §9 + the pre-trade gate with a genuinely reachable 2:1. Capital preservation first.

@@ -5,7 +5,7 @@
 > intent and status; it is NOT the brokerage record (that comes from
 > reconciliation).
 
-**Last updated:** 2026-10-19 (Mon, ~3:13 ET / 19:07Z — EOD, last RTH pass). Account **FLAT** ($19.47 cash, 0 positions, 0 orders) — 8th straight flat real day; $20 intact. Regime risk-on: SPY +0.60%, QQQ +1.40% (tech leading). REAL today: 0 trades / 8 PASS (leaders CLF/VALE gapped away pre-decision; no reachable-2:1 at size). PAPER today: CLF (0041) CLOSED +1.67R/+$66.60 (reclaim-in-beta+catalyst, best 2:1 approach of the week); RIOT (0042) −1.0R (tight-coil whipsaw). Net paper +0.67R (1W/1L). Lifetime real −$0.52 (2W/6L); paper 32 closed (12W/20L). KEY LESSON (A/B conclusive): reachable-2:1 = beta + sector leadership + real catalyst, target set below overhead supply. Options/crypto/margin OFF. Prior EOD history below. ⟶
+**Last updated:** 2026-10-20 (Tue, ~9:20 ET / 13:19Z — pre-market prep). Account **FLAT** ($19.47 cash/BP, 0 positions, 0 orders) — 9th day flat at open; $20 intact. Pre-market soft/risk-off: SPY -0.07% (flat), QQQ -0.37% (tech down); broad tape RED -0.5% to -2% → tighten criteria, favor coils/pullbacks, base case = PASS. Watchlist (RS-ranked): VALE (flat, tight spread, top watch), RIG (+1.2% energy, low-priced), KVUE (~flat, near budget ceiling), AAL (tight spread), SOFI/RIVN/NCLH watch; laggards F/CLF/RIOT/HL watch-only on reclaim. Decision routine 9:47 ET. Lifetime real -$0.52 (2W/6L); paper 32 closed (12W/20L). Options/crypto/margin OFF. Prior EOD history below. ⟶
 
 ---
 
