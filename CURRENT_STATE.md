@@ -5,7 +5,7 @@
 > intent and status; it is NOT the brokerage record (that comes from
 > reconciliation).
 
-**Last updated:** 2026-10-20 (Tue, ~9:20 ET / 13:19Z — pre-market prep). Account **FLAT** ($19.47 cash/BP, 0 positions, 0 orders) — 9th day flat at open; $20 intact. Pre-market soft/risk-off: SPY -0.07% (flat), QQQ -0.37% (tech down); broad tape RED -0.5% to -2% → tighten criteria, favor coils/pullbacks, base case = PASS. Watchlist (RS-ranked): VALE (flat, tight spread, top watch), RIG (+1.2% energy, low-priced), KVUE (~flat, near budget ceiling), AAL (tight spread), SOFI/RIVN/NCLH watch; laggards F/CLF/RIOT/HL watch-only on reclaim. Decision routine 9:47 ET. Lifetime real -$0.52 (2W/6L); paper 32 closed (12W/20L). Options/crypto/margin OFF. Prior EOD history below. ⟶
+**Last updated:** 2026-10-20 (Tue, ~9:48 ET / 13:48Z — opening-range decision). Account **FLAT** ($19.47, 0 pos, 0 orders). REAL: **PASS** (9th straight flat open). Regime risk-off: SPY -0.11%, QQQ -0.73% (tech weak, breakout-hostile). OR scan: SOFI (+1.6% green RS leader, broke OR high — best name but extended into decision, 2:1 a stretch in red tape → WATCH for pullback-hold on engine); AAL (+2.7% strongest RS but 2:1 unreachable ~+8% day); KVUE (green but thin/low-beta/budget-ceiling). All PASS (logged REJECTED_TRADES): regime risk-off + chasing-extension (O002) + reachable-2:1 gate. Lifetime real -$0.52 (2W/6L); paper 32 closed (12W/20L). Options/crypto/margin OFF. Prior EOD history below. ⟶
 
 ---
 

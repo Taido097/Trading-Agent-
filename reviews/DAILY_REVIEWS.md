@@ -1442,3 +1442,15 @@ Excluded:
 - **Stale quote:** HBAN last print 06:25Z (overnight) — showed +0.46% but unreliable; re-check at open.
 
 Note: relied on the curated UNIVERSE.md pool this pass (did not run a fresh scanner sweep — soft tape, and this is a watchlist not a decision). Pre-market prints are thin/noisy; the real read forms at the open + opening range. Decision routine (9:47 ET) takes the top few only if one clears RISK_RULES §9 + the pre-trade gate with a genuinely reachable 2:1. Capital preservation first.
+
+### 2026-10-20 ~9:47 ET (13:48Z) — OPENING-RANGE DECISION → REAL: PASS
+
+**Reconcile:** FLAT ($19.47, 0 positions, 0 orders). **Regime at open:** risk-off — SPY −0.11%, QQQ −0.73% (tech weak, worse than the −0.37% pre-market). Breakout-hostile tape.
+
+**OR scan (9:30–9:45, three 5-min bars):**
+- **SOFI** — OR 14.18–14.49; broke to 14.535 (+1.6%, green RS leader) on 1M+ vol. Best name. But ran into the decision (extension/O002) and a sound stop puts 2:1 at ~15.10 (+5.6% day) into a red tape. PASS; **watch for a pullback-hold on the engine.**
+- **AAL** — OR 11.63–11.91; 12.00 (+2.7%, strongest RS) on heavy vol. 2:1 needs ~+8% day on a $12 airline (unreachable) or a whipsaw-tight stop. PASS.
+- **KVUE** — +1.2% green but thin (22–45k/bar), low-beta defensive, budget ceiling. PASS.
+- VALE red below OR; RIG gap-and-faded −1.6%; RIVN flat-red; NCLH green but extended/thin.
+
+**Decision: PASS (9th straight flat open).** Three reasons, all documented lessons: (1) regime risk-off = breakouts mean-revert (regime is the ceiling); (2) green leaders already ran before 9:47 = chasing extension (O002); (3) reachable-2:1 gate fails — sound stops push 2:1 targets to +5–8% days. Logged SOFI/AAL/KVUE to REJECTED_TRADES.csv. SOFI flagged as the one to watch for a sound pullback entry intraday. Real $20 preserved. Zero-trade day is fine.
