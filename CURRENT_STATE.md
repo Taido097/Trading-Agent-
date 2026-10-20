@@ -5,7 +5,7 @@
 > intent and status; it is NOT the brokerage record (that comes from
 > reconciliation).
 
-**Last updated:** 2026-10-20 (Tue, ~11:08 ET / 15:07Z — engine pass 2). Account **FLAT** ($19.47) — REAL PASS (5th today; all RS leaders extended +4-7%, no sound non-extended entry, no chase). Tape flipped RISK-ON: SPY +0.59%, QQQ +0.42% (both green). PAPER: AAL (0044) CLOSED +2.0R/+$80 (target hit — extended large-cap DID reach 2:1 once tape turned risk-on; REGIME is decisive, real PASS defensible ex-ante but would've won). OPEN: SOFI (0043) +1.5R working (hit 14.99 vs 15.02 tgt); NCLH (0045) 15.99 pullback-hold; SNAP (0046) 6.46 HOD-breakout. Lifetime real -$0.52 (2W/6L); paper 33 closed (13W/20L) + 3 OPEN. Options/crypto/margin OFF. Prior EOD history below. ⟶
+**Last updated:** 2026-10-20 (Tue, ~12:05 ET / 16:04Z — engine pass 3). Account **FLAT** ($19.47) — REAL PASS (6th today; leaders rolling over midday, no fresh setup; flat avoided the 2 paper chases that lost). Tape cooling: SPY +0.37%, QQQ +0.13% (green but off highs, midday chop). PAPER: NCLH (0045) -1.0R + SNAP (0046) -1.0R both STOPPED (chased extended/local-top near the end of the risk-on move as tape cooled); SOFI (0043) OPEN fading 14.82 (+0.95R, stop 14.45 safe). KEY LESSON: entry timing vs move maturity — AAL at the START of the move +2R, NCLH/SNAP EXTENDED near the END both -1R (same discipline the real PASS honored). Day paper net 0.0R realized (AAL +2, NCLH/SNAP -1 each). Lifetime real -$0.52 (2W/6L); paper 35 closed (13W/22L) + 1 OPEN. Options/crypto/margin OFF. Prior EOD history below. ⟶
 
 ---
 

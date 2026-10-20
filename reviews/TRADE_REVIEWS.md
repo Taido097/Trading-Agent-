@@ -1613,3 +1613,13 @@ Tally: REAL −$0.45 lifetime, FLAT, 0 trades today (7 passes); PAPER open P-003
 - **Paper SOFI (0043):** OPEN, working — hit 14.99 (3c under 15.02 tgt), now 14.92, stop 14.45 safe. MFE +1.84R.
 - **Paper opened (2):** NCLH (0045) 15.99/stop15.80/tgt16.37 — pullback-hold continuation. SNAP (0046) 6.46/stop6.38/tgt6.62 — steady higher-lows fresh-HOD breakout. Skipped RIOT/RIVN/KGC (faded) and MARA (tight-range/RIOT-trap).
 - Day paper so far: AAL +2.0R closed; SOFI/NCLH/SNAP open. 33 closed (13W/20L) + 3 open.
+
+### 2026-10-20 ~12:05 ET (16:04Z) — engine pass 3
+- **Tape cooling midday:** SPY +0.37%, QQQ +0.13% (green but off the +0.59%/+0.42% highs; midday chop/rollover).
+- **Real:** PASS (FLAT $19.47). Leaders rolling over midday (SOFI 14.99->14.82); no fresh sound setup. 6th real pass today, all PASS. Good that real stayed flat — the two paper chases below would have been real losses.
+- **Paper NCLH (0045) → LOSS -1.0R:** stop 15.80 hit ~15:25-30Z; the pullback-hold never confirmed (rolled over from 16.14 HOD). Entered +4.9% extended.
+- **Paper SNAP (0046) → LOSS -1.0R:** stop 6.38 hit next bar; bought the local-top HOD print with no follow-through.
+- **Paper SOFI (0043):** OPEN, fading (14.99->14.82), still well above 14.45 stop. MFE +1.84R, now +0.95R.
+- **KEY LESSON (entry timing vs move maturity):** AAL entered ~10:06 at the START of the risk-on move = +2R WIN; NCLH & SNAP entered ~11:08 EXTENDED, near the END of the move as the tape cooled = both -1R. Chasing extension late in a move mean-reverts. This is the same discipline the REAL account honored by passing.
+- No new paper entries this pass — not chasing into a midday rollover right after two momentum stop-outs (tighten in a flattening tape).
+- Day paper: AAL +2.0R, NCLH -1.0R, SNAP -1.0R (net 0.0R realized, 1W/2L) + SOFI open. 35 closed (13W/22L) + 1 open.
