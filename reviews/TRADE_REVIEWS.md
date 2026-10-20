@@ -1623,3 +1623,10 @@ Tally: REAL −$0.45 lifetime, FLAT, 0 trades today (7 passes); PAPER open P-003
 - **KEY LESSON (entry timing vs move maturity):** AAL entered ~10:06 at the START of the risk-on move = +2R WIN; NCLH & SNAP entered ~11:08 EXTENDED, near the END of the move as the tape cooled = both -1R. Chasing extension late in a move mean-reverts. This is the same discipline the REAL account honored by passing.
 - No new paper entries this pass — not chasing into a midday rollover right after two momentum stop-outs (tighten in a flattening tape).
 - Day paper: AAL +2.0R, NCLH -1.0R, SNAP -1.0R (net 0.0R realized, 1W/2L) + SOFI open. 35 closed (13W/22L) + 1 open.
+
+### 2026-10-20 ~1:05 ET (17:04Z) — engine pass 4
+- **Tape flat midday:** SPY +0.29%, QQQ -0.02% (drifting; QQQ back to flat).
+- **Real:** PASS (FLAT $19.47). 7th real pass today. No fresh setup; SOFI consolidating, nothing new breaking.
+- **Paper SOFI (0043):** OPEN, chopping 14.76-14.85 for ~1hr, now 14.80. No trigger (tgt 15.02 / stop 14.45 both far). +0.84R unrealized, MFE +1.84R. Hold.
+- **No new paper entries:** midday chop + flat tape right after two momentum stop-outs → tighten, don't churn (standing lesson). Quality over volume.
+- Day paper: AAL +2.0R, NCLH -1.0R, SNAP -1.0R realized (net 0.0R, 1W/2L) + SOFI open. 35 closed (13W/22L) + 1 open.
