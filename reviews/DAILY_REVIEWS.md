@@ -1454,3 +1454,27 @@ Note: relied on the curated UNIVERSE.md pool this pass (did not run a fresh scan
 - VALE red below OR; RIG gap-and-faded −1.6%; RIVN flat-red; NCLH green but extended/thin.
 
 **Decision: PASS (9th straight flat open).** Three reasons, all documented lessons: (1) regime risk-off = breakouts mean-revert (regime is the ceiling); (2) green leaders already ran before 9:47 = chasing extension (O002); (3) reachable-2:1 gate fails — sound stops push 2:1 targets to +5–8% days. Logged SOFI/AAL/KVUE to REJECTED_TRADES.csv. SOFI flagged as the one to watch for a sound pullback entry intraday. Real $20 preserved. Zero-trade day is fine.
+
+---
+
+## 2026-10-20 (Tuesday) — EOD WRAP
+
+**Regime:** Whipsaw day. Opened risk-off (SPY -0.11%, QQQ -0.73% at 9:47), flipped fully risk-on by ~11am (SPY +0.59%), then drifted mild-green/flat all afternoon (close ~SPY +0.31%, QQQ ~flat).
+
+**REAL account: 0 trades / all-day PASS. FLAT $19.47 — 9th straight flat day.** Lifetime real unchanged −$0.52 (2W/6L).
+- 9:47 OR decision PASS (risk-off tape, leaders extended, 2:1 unreachable). Six engine passes all PASS: leaders (SOFI/AAL/NCLH) gapped/ran before offering a sound non-extended entry; the clean SOFI pullback-to-14.50 never came. Capital preserved through a whippy, hard-to-trade tape.
+
+**PAPER: 4 closed — net +0.53R (2W / 2L).**
+- AAL (0044) **+2.0R/+$80** — entered ~10:06 at the START of the risk-on flip; hit 2:1 (+7.5% day).
+- SOFI (0043) **+0.53R/+$21** — RS leader, held all day, stalled under target, EOD-flattened (MFE +1.84R; gave back ~1.3R).
+- NCLH (0045) **−1.0R** — entered ~11:08 EXTENDED near the end of the move; faded to stop.
+- SNAP (0046) **−1.0R** — entered ~11:08 at a local top; no follow-through.
+
+**Lessons today (zero real cost):**
+1. **Entry timing vs move maturity is decisive.** AAL at the START of the risk-on move = +2R; NCLH/SNAP EXTENDED near the END = −1R each. Same tape, opposite results, driven by *when in the move* you entered.
+2. **Regime can flip the 2:1 math.** Yesterday's "large-cap 2:1-unreachable" lesson is conditional: AAL (a large-cap airline) DID reach 2:1 once the tape turned risk-on. The real gate should re-evaluate as the regime changes, not stay anchored to the morning read.
+3. **Management: scale/trail at ~+1.5R.** SOFI showed +1.84R then round-tripped to +0.53R under an all-or-nothing hold-to-target. For the one-shot real account, banking partial or trailing when a stalled trade is near target beats giving it all back.
+
+**Real-account read:** PASS was defensible every pass (no sound non-extended entry at decision times). AAL's paper win shows a real trade *could* have paid today, but only by accepting an extended entry — which is the documented mistake that also produced the NCLH/SNAP losses. Net: discipline held, $20 safe, lessons banked.
+
+**Running paper:** 36 closed (14W / 22L). **Running real:** 8 closed lifetime (2W/6L), −$0.52, FLAT. Overnight: FLAT, nothing held.

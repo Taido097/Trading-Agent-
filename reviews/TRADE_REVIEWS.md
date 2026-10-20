@@ -1636,3 +1636,7 @@ Tally: REAL −$0.45 lifetime, FLAT, 0 trades today (7 passes); PAPER open P-003
 - **Real:** PASS (FLAT $19.47). 8th real pass today. No fresh setup.
 - **Paper SOFI (0043):** OPEN, 2-hr tight consolidation 14.73-14.81, now 14.73. No trigger (tgt 15.02/stop 14.45 far). Dead-money drift — +0.47R unrealized (down from +1.84R MFE). Will flatten at the last RTH pass if still untriggered.
 - No new paper entries (early-afternoon chop; selective). Day paper unchanged: AAL +2.0R, NCLH/SNAP -1.0R each (net 0.0R, 1W/2L) + SOFI open. 35 closed (13W/22L) + 1 open.
+
+### 2026-10-20 ~3:05 ET (19:04Z) — engine pass 6 (last RTH)
+- **Real:** PASS (FLAT $19.47). Tape mild-green into the close (SPY +0.31%, QQQ flat). No real trade all day — every pass PASSED. $20 intact (9th flat day).
+- **Paper SOFI (0043) RESOLVED:** EOD-flattened 14.74. +0.53R/+$21. Held above entry all day, stalled 3c under the 15.02 target then dead-chopped. MFE +1.84R → exit +0.53R = gave back ~+1.3R. MANAGEMENT LESSON: hold-to-target round-tripped the gain; a partial/trail at +1.5R banks more.

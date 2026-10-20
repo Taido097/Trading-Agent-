@@ -5,7 +5,7 @@
 > intent and status; it is NOT the brokerage record (that comes from
 > reconciliation).
 
-**Last updated:** 2026-10-20 (Tue, ~2:05 ET / 18:04Z — engine pass 5). Account **FLAT** ($19.47) — REAL PASS (8th today; no fresh setup). Tape stable mild-green: SPY +0.37%, QQQ +0.11%. PAPER: SOFI (0043) OPEN, 2-hr tight consolidation 14.73-14.81, now 14.73 (+0.47R, MFE +1.84R; tgt 15.02/stop 14.45 far — dead-money drift, flatten at last RTH pass if untriggered). No new entries. Day paper net 0.0R realized (AAL +2, NCLH/SNAP -1 ea; 1W/2L) + SOFI open. Lifetime real -$0.52 (2W/6L); paper 35 closed (13W/22L) + 1 OPEN. Options/crypto/margin OFF. Prior EOD history below. ⟶
+**Last updated:** 2026-10-20 (Tue, ~3:05 ET / 19:04Z — EOD, last RTH pass). Account **FLAT** ($19.47) — 9th straight flat day; $20 intact. REAL today: 0 trades / all-day PASS. Whipsaw tape: opened risk-off (QQQ -0.73%), flipped risk-on by 11am (SPY +0.59%), drifted flat/mild-green into close. PAPER today: 4 closed, net +0.53R (2W/2L) — AAL +2.0R (entered START of risk-on flip, hit 2:1), SOFI +0.53R (stalled under tgt, EOD-flat, gave back +1.3R MFE), NCLH -1.0R + SNAP -1.0R (entered EXTENDED near END of move). KEY LESSONS: (1) entry timing vs move maturity is decisive; (2) regime flip can make a large-cap 2:1 reachable (AAL); (3) scale/trail at ~+1.5R vs round-tripping (SOFI). Lifetime real -$0.52 (2W/6L); paper 36 closed (14W/22L). Options/crypto/margin OFF. Prior EOD history below. ⟶
 
 ---
 
