@@ -1640,3 +1640,8 @@ Tally: REAL −$0.45 lifetime, FLAT, 0 trades today (7 passes); PAPER open P-003
 ### 2026-10-20 ~3:05 ET (19:04Z) — engine pass 6 (last RTH)
 - **Real:** PASS (FLAT $19.47). Tape mild-green into the close (SPY +0.31%, QQQ flat). No real trade all day — every pass PASSED. $20 intact (9th flat day).
 - **Paper SOFI (0043) RESOLVED:** EOD-flattened 14.74. +0.53R/+$21. Held above entry all day, stalled 3c under the 15.02 target then dead-chopped. MFE +1.84R → exit +0.53R = gave back ~+1.3R. MANAGEMENT LESSON: hold-to-target round-tripped the gain; a partial/trail at +1.5R banks more.
+
+### 2026-10-20 ~4:04 ET (20:04Z) — post-close overnight-safety confirm (last pass)
+- **Real account reconcile: FLAT — 0 positions, 0 resting orders. Nothing held overnight. $19.47 cash safe.** ✅
+- **Paper:** no open positions (AAL/SOFI/NCLH/SNAP all closed intraday). Nothing to flatten.
+- Market closed; no new entries. Day fully wrapped. Next scheduled: Wednesday 10/21 pre-market prep (~9:15 ET).
