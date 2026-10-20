@@ -5,7 +5,7 @@
 > intent and status; it is NOT the brokerage record (that comes from
 > reconciliation).
 
-**Last updated:** 2026-10-20 (Tue, ~9:48 ET / 13:48Z — opening-range decision). Account **FLAT** ($19.47, 0 pos, 0 orders). REAL: **PASS** (9th straight flat open). Regime risk-off: SPY -0.11%, QQQ -0.73% (tech weak, breakout-hostile). OR scan: SOFI (+1.6% green RS leader, broke OR high — best name but extended into decision, 2:1 a stretch in red tape → WATCH for pullback-hold on engine); AAL (+2.7% strongest RS but 2:1 unreachable ~+8% day); KVUE (green but thin/low-beta/budget-ceiling). All PASS (logged REJECTED_TRADES): regime risk-off + chasing-extension (O002) + reachable-2:1 gate. Lifetime real -$0.52 (2W/6L); paper 32 closed (12W/20L). Options/crypto/margin OFF. Prior EOD history below. ⟶
+**Last updated:** 2026-10-20 (Tue, ~10:06 ET / 14:05Z — engine pass 1). Account **FLAT** ($19.47) — REAL PASS (SOFI clearest RS leader but extended +2.3%, 2:1 a stretch; WATCH for pullback-to-14.50 hold). Tape recovering: SPY +0.20% (green), QQQ -0.22% (off -0.73% lows). PAPER opened 2: SOFI (0043) 14.64 stop14.45 tgt15.02 RS-continuation; AAL (0044) 12.16 stop11.96 tgt12.56 HYPOTHESIS TEST of the real PASS (extended +4.1% strong-RS). Lifetime real -$0.52 (2W/6L); paper 32 closed (12W/20L) + 2 OPEN. Options/crypto/margin OFF. Prior EOD history below. ⟶
 
 ---
 

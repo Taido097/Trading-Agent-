@@ -1600,3 +1600,8 @@ Tally: REAL −$0.45 lifetime, FLAT, 0 trades today (7 passes); PAPER open P-003
 - **Real account reconcile: FLAT — 0 positions, 0 resting orders. Nothing held overnight. $19.47 cash safe.** ✅
 - **Paper:** no open positions (CLF closed +1.67R, RIOT closed −1.0R earlier today). Nothing to flatten.
 - Market closed; no new entries. Day fully wrapped. Next scheduled: Tuesday 10/20 pre-market prep (~9:15 ET) → 9:47 open decision → intraday engine.
+
+### 2026-10-20 ~10:06 ET (14:05Z) — engine pass 1 (first post-open)
+- **Real:** PASS (FLAT $19.47). Tape recovering (SPY +0.20% green, QQQ -0.22% off lows). SOFI is the day's clearest RS leader (higher-highs to 14.75 on volume) but at 14.64 is +2.3% extended and ran from the 14.49 breakout — a sound-stop 2:1 (15.02) = +5% day. Chasing-extension → PASS; WATCH SOFI for a pullback-to-14.50-hold entry.
+- **Paper opened (2):** SOFI (P-2026-0043) 14.64, stop 14.45, tgt 15.02, 210sh — RS-leader continuation. AAL (P-2026-0044) 12.16, stop 11.96, tgt 12.56, 200sh — HYPOTHESIS TEST of the real PASS (extended +4.1% strong-RS; does it reach 2:1 or revert?).
+- Only 2 names showed clean RS + structure; mixed tape → kept it selective (quality over forcing 8). VALE/F flat-red, RIVN mid-coil, NCLH rolling off its 15.44 HOD → skipped.
