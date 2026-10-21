@@ -5,7 +5,7 @@
 > intent and status; it is NOT the brokerage record (that comes from
 > reconciliation).
 
-**Last updated:** 2026-10-21 (Wed, ~9:48 ET / 13:48Z — OR decision). **⚠ BP reads $0 on 3rd poll POST-OPEN** — real trading BLOCKED (can't size vs $0/unconfirmed BP); account active/flat/0-orders/unsettled $0; escalated to owner (endpoint error vs funds-moved — can't tell from tools). REAL: PASS (BP blocker + setups faded). Regime risk-on: SPY +0.26%, QQQ +0.71%. OR: crypto leaders RIOT (+4.6%->+1.1%) & MARA (+5.3%->+2.1%) GAP-AND-FADED (rejected); SOFI only name holding (+1.5%) but chasing. Lifetime real -$0.52 (2W/6L); paper 36 closed (14W/22L). Options/crypto/margin OFF. Prior EOD history below. ⟶
+**Last updated:** 2026-10-21 (Wed, ~10:05 ET / 14:04Z — engine pass 1). **⚠ BP still $0 (4th poll, post-open)** — real BLOCKED, escalated to owner; account flat/0-orders. REAL: PASS (BP blocker; also no clean setup — SOFI fading, crypto choppy). Regime risk-on QQQ-led: SPY +0.11%, QQQ +0.65%. PAPER opened 2: RIVN (0047) 12.67 stop12.55 tgt12.91 higher-lows continuation; HL (0048) 15.23 stop15.10 tgt15.49 coil-under-HOD miner. Lifetime real -$0.52 (2W/6L); paper 36 closed (14W/22L) + 2 OPEN. Options/crypto/margin OFF. Prior EOD history below. ⟶
 
 ---
 

@@ -1645,3 +1645,9 @@ Tally: REAL −$0.45 lifetime, FLAT, 0 trades today (7 passes); PAPER open P-003
 - **Real account reconcile: FLAT — 0 positions, 0 resting orders. Nothing held overnight. $19.47 cash safe.** ✅
 - **Paper:** no open positions (AAL/SOFI/NCLH/SNAP all closed intraday). Nothing to flatten.
 - Market closed; no new entries. Day fully wrapped. Next scheduled: Wednesday 10/21 pre-market prep (~9:15 ET).
+
+### 2026-10-21 ~10:05 ET (14:04Z) — engine pass 1
+- **⚠ BP still $0 (4th poll, post-open):** real trading remains BLOCKED; escalated to owner at 9:48. Account flat, 0 orders. Monitoring each pass.
+- **Real:** PASS. Regime risk-on QQQ-led (SPY +0.11%, QQQ +0.65%). No clean non-extended setup even aside from BP (SOFI fading off HOD, crypto miners RIOT/MARA choppy post gap-fade).
+- **Paper opened (2):** RIVN (0047) 12.67/stop12.55/tgt12.91 — higher-lows continuation to HOD. HL (0048) 15.23/stop15.10/tgt15.49 — coil-under-HOD silver miner. Skipped SOFI (fading), CLF (whippy, pulled off HOD), KGC (thin), crypto miners (choppy).
+- Paper 36 closed (14W/22L) + 2 open.
