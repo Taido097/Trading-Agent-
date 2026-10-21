@@ -5,7 +5,7 @@
 > intent and status; it is NOT the brokerage record (that comes from
 > reconciliation).
 
-**Last updated:** 2026-10-21 (Wed, ~9:17 ET / 13:16Z — pre-market prep). **⚠ BP RECONCILE FLAG:** get_portfolio reads $0 (2 polls) but account active/flat/0-orders/unsettled $0; likely pre-market glitch, carrying $19.47 last-confirmed — MUST re-verify BP at open before any real order; if still $0 post-open, surface to owner. Regime pre-market RISK-ON: SPY +0.30%, QQQ +0.63% (tech leading); overnight crypto rally → miners lead. Watchlist (RS-ranked): RIOT (+4.6% crypto-miner leader, affordable, top watch — but whippy, needs wide stop), MARA (+5.3% strongest but low-priced ~$8), RIVN/HL/NCLH/SOFI/CLF. Decision ~9:47 ET, contingent on BP confirm. Lifetime real -$0.52 (2W/6L); paper 36 closed (14W/22L). Options/crypto/margin OFF. Prior EOD history below. ⟶
+**Last updated:** 2026-10-21 (Wed, ~9:48 ET / 13:48Z — OR decision). **⚠ BP reads $0 on 3rd poll POST-OPEN** — real trading BLOCKED (can't size vs $0/unconfirmed BP); account active/flat/0-orders/unsettled $0; escalated to owner (endpoint error vs funds-moved — can't tell from tools). REAL: PASS (BP blocker + setups faded). Regime risk-on: SPY +0.26%, QQQ +0.71%. OR: crypto leaders RIOT (+4.6%->+1.1%) & MARA (+5.3%->+2.1%) GAP-AND-FADED (rejected); SOFI only name holding (+1.5%) but chasing. Lifetime real -$0.52 (2W/6L); paper 36 closed (14W/22L). Options/crypto/margin OFF. Prior EOD history below. ⟶
 
 ---
 

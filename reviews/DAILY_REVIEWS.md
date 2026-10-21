@@ -1504,3 +1504,17 @@ Note: relied on the curated UNIVERSE.md pool this pass (did not run a fresh scan
 Excluded: KGC (23.82), CCL (27.25), KEY (20.98), RF (27.95), SIRI (27.49), AMCR (44.70) — all >$19. CHPT — 9.7% pre-mkt spread (fail). BTG — low-priced + 2.5% spread. VALE/AAL/KVUE — flat-red or at budget ceiling.
 
 **Read:** Risk-on tape + a real sector catalyst (crypto) is a more tradeable setup than yesterday. RIOT/MARA are the leaders. But (1) BP must be confirmed first, and (2) crypto miners are whippy — any real entry needs a wide stop (not a tight coil) and a genuinely reachable 2:1, per the RIOT/COIL lessons. Decision routine takes the top few only if one clears the gate AND buying power confirms.
+
+### 2026-10-21 ~9:48 ET (13:48Z) — OPENING-RANGE DECISION → REAL: PASS (BP-$0 BLOCKER + setups faded)
+
+**⚠️ BUYING POWER $0 PERSISTS POST-OPEN (escalated to owner):** get_portfolio returned $0 total/cash/BP on a THIRD poll at 9:48 ET (market open). Account 563174713 active, 0 positions, 0 orders, unsettled $0. Not a pre-market-only glitch. **Real trading is BLOCKED** — cannot size/place a 1-share order against $0/unconfirmed BP, and will not assume the $19.47 is present when the authoritative endpoint says $0. Either the portfolio/BP endpoint is returning erroneous zeros for this account, or funds actually moved — cannot distinguish with available tools. Needs owner to check the account/funding. NO real order until BP confirms > $0.
+
+**Regime at open:** RISK-ON. SPY +0.26% (771.08), QQQ +0.71% (722.76, tech leading). Good tape.
+
+**OR scan (9:30-9:45):**
+- RIOT — OR 14.23-14.44, then BROKE the OR low (14.44->13.92, +4.6%->+1.1%). Gap-and-fade. PASS (rejected).
+- MARA — OR 7.57-7.86, faded 7.76->7.605 (+5.3%->+2.1%). Gap-and-fade, low-priced. PASS (rejected).
+- SOFI — OR 14.655-14.95, holding near HOD 14.905 (+1.5%) on good volume — the only name holding up. But it's yesterday's name (chasing) and no fresh non-extended entry; not taken.
+- RIVN +1.4% mid-range chop; NCLH/HL faded off OR highs.
+
+**Decision: PASS.** Binding reason = BP-$0 blocker (can't trade). Setup reason = crypto leaders (RIOT/MARA) gapped and faded at the open (same pattern as RIG 10/20); no clean ORB-hold with a reachable 2:1. Logged RIOT/MARA to REJECTED_TRADES. Capital preserved (and BP issue escalated).
