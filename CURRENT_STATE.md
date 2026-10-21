@@ -5,7 +5,7 @@
 > intent and status; it is NOT the brokerage record (that comes from
 > reconciliation).
 
-**Last updated:** 2026-10-21 (Wed, ~12:05 ET / 16:05Z — engine pass 3). **⚠ BP still $0 (6th poll)** — real BLOCKED, escalated; account flat. REAL: PASS. Regime strong but NARROW risk-on: SPY +0.46%, QQQ +1.16% (mega-cap-led). PAPER: RIVN (0047) OPEN, dead-money chop 12.56-12.63 (-0.54R, below entry, stop 12.55 holding). No new entries — KEY: QQQ +1.16% but affordable universe (RIVN/HL/SOFI/miners) chopping/fading = narrow breadth not reaching sub-$19 names. Lifetime real -$0.52 (2W/6L); paper 37 closed (14W/23L) + 1 OPEN. Options/crypto/margin OFF. Prior EOD history below. ⟶
+**Last updated:** 2026-10-21 (Wed, ~1:05 ET / 17:05Z — engine pass 4). **⚠ BP still $0 (7th poll)** — real BLOCKED, escalated; account flat. REAL: PASS. Regime strong-but-narrow: SPY +0.57%, QQQ +1.31%. PAPER: RIVN (0047) OPEN, dead-money chop below entry, now 12.595 (-0.63R; stop 12.55/tgt 12.91 both untriggered). No new entries. Lifetime real -$0.52 (2W/6L); paper 37 closed (14W/23L) + 1 OPEN. Options/crypto/margin OFF. Prior EOD history below. ⟶
 
 ---
 

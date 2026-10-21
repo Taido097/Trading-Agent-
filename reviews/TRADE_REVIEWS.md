@@ -1666,3 +1666,9 @@ Tally: REAL −$0.45 lifetime, FLAT, 0 trades today (7 passes); PAPER open P-003
 - **Paper RIVN (0047):** OPEN, dead-money chop 12.56-12.63 for ~1hr, now 12.605 (-0.54R, below entry; stop 12.55 holding 5c away). Continuation stalled.
 - **No new entries:** KEY OBSERVATION — QQQ +1.16% but the affordable sub-$19 universe (RIVN/HL/SOFI/miners) is chopping/fading. The rally is narrow/mega-cap-led and isn't reaching our tradeable names. Index risk-on ≠ affordable-universe strength when breadth is narrow. Don't force entries into that divergence.
 - Paper 37 closed (14W/23L) + 1 open (RIVN).
+
+### 2026-10-21 ~1:05 ET (17:05Z) — engine pass 4
+- **⚠ BP still $0 (7th poll):** real BLOCKED, escalated. Account flat.
+- **Real:** PASS. Regime strong-but-narrow risk-on (SPY +0.57%, QQQ +1.31%).
+- **Paper RIVN (0047):** OPEN, dead-money chop 12.56-12.70 below entry, now 12.595 (-0.63R). Brief 12.70 pop faded; no trigger. Holding to stop/target/EOD.
+- No new entries (narrow-breadth chop persists). Paper 37 closed (14W/23L) + 1 open.
