@@ -5,7 +5,7 @@
 > intent and status; it is NOT the brokerage record (that comes from
 > reconciliation).
 
-**Last updated:** 2026-10-20 (Tue, ~3:05 ET / 19:04Z — EOD, last RTH pass). Account **FLAT** ($19.47) — 9th straight flat day; $20 intact. REAL today: 0 trades / all-day PASS. Whipsaw tape: opened risk-off (QQQ -0.73%), flipped risk-on by 11am (SPY +0.59%), drifted flat/mild-green into close. PAPER today: 4 closed, net +0.53R (2W/2L) — AAL +2.0R (entered START of risk-on flip, hit 2:1), SOFI +0.53R (stalled under tgt, EOD-flat, gave back +1.3R MFE), NCLH -1.0R + SNAP -1.0R (entered EXTENDED near END of move). KEY LESSONS: (1) entry timing vs move maturity is decisive; (2) regime flip can make a large-cap 2:1 reachable (AAL); (3) scale/trail at ~+1.5R vs round-tripping (SOFI). Lifetime real -$0.52 (2W/6L); paper 36 closed (14W/22L). Options/crypto/margin OFF. Prior EOD history below. ⟶
+**Last updated:** 2026-10-21 (Wed, ~9:17 ET / 13:16Z — pre-market prep). **⚠ BP RECONCILE FLAG:** get_portfolio reads $0 (2 polls) but account active/flat/0-orders/unsettled $0; likely pre-market glitch, carrying $19.47 last-confirmed — MUST re-verify BP at open before any real order; if still $0 post-open, surface to owner. Regime pre-market RISK-ON: SPY +0.30%, QQQ +0.63% (tech leading); overnight crypto rally → miners lead. Watchlist (RS-ranked): RIOT (+4.6% crypto-miner leader, affordable, top watch — but whippy, needs wide stop), MARA (+5.3% strongest but low-priced ~$8), RIVN/HL/NCLH/SOFI/CLF. Decision ~9:47 ET, contingent on BP confirm. Lifetime real -$0.52 (2W/6L); paper 36 closed (14W/22L). Options/crypto/margin OFF. Prior EOD history below. ⟶
 
 ---
 

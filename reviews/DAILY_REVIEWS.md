@@ -1478,3 +1478,29 @@ Note: relied on the curated UNIVERSE.md pool this pass (did not run a fresh scan
 **Real-account read:** PASS was defensible every pass (no sound non-extended entry at decision times). AAL's paper win shows a real trade *could* have paid today, but only by accepting an extended entry — which is the documented mistake that also produced the NCLH/SNAP losses. Net: discipline held, $20 safe, lessons banked.
 
 **Running paper:** 36 closed (14W / 22L). **Running real:** 8 closed lifetime (2W/6L), −$0.52, FLAT. Overnight: FLAT, nothing held.
+
+---
+
+## 2026-10-21 (Wednesday) — PRE-MARKET PREP (~9:17 ET / 13:16Z)
+
+**⚠️ ACCOUNT RECONCILE FLAG — buying power reads $0 (UNCONFIRMED):** get_portfolio returned total_value/cash/buying_power = $0 on TWO consecutive polls pre-market. BUT: account 563174713 ("MCP", limited_margin, agentic_allowed) is **active, not deactivated, 0 positions, 0 resting orders, unsettled_funds $0** (get_accounts). No withdrawal/transfer indicator. Internal state carried $19.47 cash from yesterday's close. Most likely a pre-market portfolio-endpoint glitch (buying power often reads $0 before the open on limited-margin accounts). **ACTION: re-verify buying power at the 9:47 decision / first engine pass once the market is open. Do NOT place a real order until BP is confirmed > $0.** If it still reads $0 post-open, this is an account/funding matter to surface to the owner, not a trading decision.
+
+**Regime (pre-market): RISK-ON.** SPY +0.30% (771.37 vs 769.05), QQQ +0.63% (722.12 vs 717.63, tech leading). Constructive green tape — opposite of yesterday's risk-off open. **Overnight catalyst: crypto rally** driving miners.
+
+**Event risk:** No confirmed major macro print surfaced for today via tools this pass. Q3 earnings season active (single-name gap risk). Crypto/BTC strength is today's sector catalyst (miners gapping).
+
+**Wide screen → watchlist (RS-ranked vs SPY/QQQ). NO trades this step — decision routine ~9:47 ET, and contingent on BP confirmation.**
+
+| Rank | Ticker | Pre-mkt | vs close | Spread | Note |
+|---|---|---|---|---|---|
+| 1 | RIOT | 14.40 | +4.6% | ~0.9% | Crypto-miner RS leader on BTC rally; affordable ~$14.40; beta+sector-catalyst (the refined-gate profile). WHIPPY (burned paper twice on tight coils) — needs a WIDE stop + reachable 2:1. Top watch. |
+| 2 | MARA | 7.88 | +5.3% | 0.25% tight | Strongest RS, crypto miner, tight spread; but low-priced (~$8) = small stops/whipsaw risk. |
+| 3 | RIVN | 12.54 | +0.9% | ~0.3% | EV, affordable, tight spread. |
+| 4 | HL | 15.19 | +1.1% | ~1.2% | Silver miner, affordable, wide-ish spread. |
+| 5 | NCLH | 15.81 | +1.0% | ~0.95% | Cruise, affordable, wide-ish spread. |
+| 6 | SOFI | 14.80 | +0.8% | 0.07% | Yesterday's leader, fintech, tight spread. |
+| 7 | CLF | 13.74 | +0.7% | ~0.3% | Steel, affordable. |
+
+Excluded: KGC (23.82), CCL (27.25), KEY (20.98), RF (27.95), SIRI (27.49), AMCR (44.70) — all >$19. CHPT — 9.7% pre-mkt spread (fail). BTG — low-priced + 2.5% spread. VALE/AAL/KVUE — flat-red or at budget ceiling.
+
+**Read:** Risk-on tape + a real sector catalyst (crypto) is a more tradeable setup than yesterday. RIOT/MARA are the leaders. But (1) BP must be confirmed first, and (2) crypto miners are whippy — any real entry needs a wide stop (not a tight coil) and a genuinely reachable 2:1, per the RIOT/COIL lessons. Decision routine takes the top few only if one clears the gate AND buying power confirms.
