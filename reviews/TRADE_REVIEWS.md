@@ -1684,3 +1684,9 @@ Tally: REAL −$0.45 lifetime, FLAT, 0 trades today (7 passes); PAPER open P-003
 - **Real:** PASS. 10th straight flat day. Regime risk-on but narrow (SPY +0.27%, QQQ +0.79%, off highs into the close).
 - **Paper RIVN (0047) → LOSS -1.0R:** stop 12.55 hit ~18:50Z after ~4.5hrs of dead chop below entry (MFE only +0.58R). No follow-through.
 - **Day paper: HL -1.0R + RIVN -1.0R = net -2.0R (0W/2L).** Both continuations stopped — narrow mega-cap-led breadth did not reach the affordable universe.
+
+### 2026-10-21 ~4:04 ET (20:04Z) — post-close overnight-safety confirm (last pass)
+- **Real reconcile: FLAT — 0 positions, 0 resting orders. Nothing held overnight.** ✅ (Account flat is the safe state regardless of the BP reading.)
+- **⚠ BP still $0 (10th poll, post-close)** — unresolved all day; awaiting owner. Real resumes only when BP confirms > $0.
+- **Paper:** no open positions (HL/RIVN both closed intraday). Nothing to flatten.
+- Day wrapped. Next: Thursday 10/22 pre-market prep (~9:15 ET) — will re-check BP first thing.
