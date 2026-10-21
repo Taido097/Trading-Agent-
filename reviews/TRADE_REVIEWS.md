@@ -1651,3 +1651,11 @@ Tally: REAL −$0.45 lifetime, FLAT, 0 trades today (7 passes); PAPER open P-003
 - **Real:** PASS. Regime risk-on QQQ-led (SPY +0.11%, QQQ +0.65%). No clean non-extended setup even aside from BP (SOFI fading off HOD, crypto miners RIOT/MARA choppy post gap-fade).
 - **Paper opened (2):** RIVN (0047) 12.67/stop12.55/tgt12.91 — higher-lows continuation to HOD. HL (0048) 15.23/stop15.10/tgt15.49 — coil-under-HOD silver miner. Skipped SOFI (fading), CLF (whippy, pulled off HOD), KGC (thin), crypto miners (choppy).
 - Paper 36 closed (14W/22L) + 2 open.
+
+### 2026-10-21 ~11:06 ET (15:06Z) — engine pass 2
+- **⚠ BP still $0 (5th poll):** real BLOCKED, escalated. Account flat.
+- **Real:** PASS. Regime risk-on (SPY +0.26%, QQQ +0.83%).
+- **Paper HL (0048) → LOSS -1.0R:** stop 15.10 hit ~14:50Z; coil broke down immediately (miner whipsaw).
+- **Paper RIVN (0047):** OPEN, faded from 12.74 to 12.60 (-0.58R unrealized), 5c above the 12.55 stop. Short leash.
+- No new entries: both continuations faded despite green indices — poor intraday follow-through (chop under the hood); don't churn.
+- Paper 37 closed (14W/23L) + 1 open (RIVN).

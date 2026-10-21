@@ -5,7 +5,7 @@
 > intent and status; it is NOT the brokerage record (that comes from
 > reconciliation).
 
-**Last updated:** 2026-10-21 (Wed, ~10:05 ET / 14:04Z — engine pass 1). **⚠ BP still $0 (4th poll, post-open)** — real BLOCKED, escalated to owner; account flat/0-orders. REAL: PASS (BP blocker; also no clean setup — SOFI fading, crypto choppy). Regime risk-on QQQ-led: SPY +0.11%, QQQ +0.65%. PAPER opened 2: RIVN (0047) 12.67 stop12.55 tgt12.91 higher-lows continuation; HL (0048) 15.23 stop15.10 tgt15.49 coil-under-HOD miner. Lifetime real -$0.52 (2W/6L); paper 36 closed (14W/22L) + 2 OPEN. Options/crypto/margin OFF. Prior EOD history below. ⟶
+**Last updated:** 2026-10-21 (Wed, ~11:06 ET / 15:06Z — engine pass 2). **⚠ BP still $0 (5th poll)** — real BLOCKED, escalated; account flat. REAL: PASS. Regime risk-on: SPY +0.26%, QQQ +0.83%. PAPER: HL (0048) STOPPED -1.0R (coil broke down, miner whipsaw); RIVN (0047) OPEN but faded to 12.60 (-0.58R, 5c above 12.55 stop). No new entries — continuations failing despite green indices (poor follow-through). Lifetime real -$0.52 (2W/6L); paper 37 closed (14W/23L) + 1 OPEN. Options/crypto/margin OFF. Prior EOD history below. ⟶
 
 ---
 
