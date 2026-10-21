@@ -1518,3 +1518,21 @@ Excluded: KGC (23.82), CCL (27.25), KEY (20.98), RF (27.95), SIRI (27.49), AMCR 
 - RIVN +1.4% mid-range chop; NCLH/HL faded off OR highs.
 
 **Decision: PASS.** Binding reason = BP-$0 blocker (can't trade). Setup reason = crypto leaders (RIOT/MARA) gapped and faded at the open (same pattern as RIG 10/20); no clean ORB-hold with a reachable 2:1. Logged RIOT/MARA to REJECTED_TRADES. Capital preserved (and BP issue escalated).
+
+---
+
+## 2026-10-21 (Wednesday) — EOD WRAP
+
+**⚠️ UNRESOLVED: BUYING POWER $0 ALL DAY (escalated, awaiting owner).** get_portfolio returned $0 total/cash/BP on NINE polls from 9:17 ET through 3:05 ET. Account 563174713 active, flat, 0 orders, unsettled $0 throughout. Real trading was BLOCKED all day — no order can be sized/placed against $0/unconfirmed BP. Flagged to owner at ~9:48 ET; no confirmation received. Either a persistent portfolio/BP-endpoint fault for this account or funds actually moved — indeterminate from available tools. **Real checks resume only once BP confirms > $0.**
+
+**Regime:** Risk-on but NARROW. SPY +0.27% (771.13), QQQ +0.79%–+1.3% intraday (mega-cap-led). Indices green all day; breadth thin — the affordable sub-$19 universe chopped/faded underneath.
+
+**REAL account: 0 trades — BLOCKED by the BP-$0 issue (not a setup choice today). FLAT, 10th straight flat day.** Lifetime real unchanged −$0.52 (2W/6L). 9:47 OR decision: crypto leaders RIOT/MARA gapped and faded (also a setup PASS). Every engine pass re-checked BP ($0) and passed.
+
+**PAPER: 2 closed — net −2.0R (0W / 2L).** A losing paper day.
+- HL (0048) **−1.0R** — coil-under-HOD broke down immediately (miner whipsaw).
+- RIVN (0047) **−1.0R** — higher-lows continuation reached only +0.58R MFE then dead-chopped below entry ~4.5hrs and lost the stop late-day.
+
+**Lesson (zero real cost):** Strong index risk-on with NARROW (mega-cap-led) breadth is a low-win environment for the affordable small/mid-cap universe — momentum doesn't trickle down; continuations stall and mean-revert. On such days, tighten hard or stand aside. Today's two paper attempts both failed exactly this way.
+
+**Running paper:** 38 closed (14W / 24L). **Running real:** 8 closed lifetime (2W/6L), −$0.52, FLAT. Overnight: FLAT, nothing held. **Open item: BP-$0 account issue awaiting owner.**

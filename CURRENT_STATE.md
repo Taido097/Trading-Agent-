@@ -5,7 +5,7 @@
 > intent and status; it is NOT the brokerage record (that comes from
 > reconciliation).
 
-**Last updated:** 2026-10-21 (Wed, ~2:05 ET / 18:04Z — engine pass 5). **⚠ BP still $0 (8th poll)** — real BLOCKED, escalated; account flat. REAL: PASS. Regime strong-but-narrow: SPY +0.61%, QQQ +1.23%. PAPER: RIVN (0047) OPEN, dead-money chop, now 12.585 (-0.70R; stop 12.55/tgt 12.91 untriggered — EOD-flatten at last RTH pass if no trigger). No new entries. Lifetime real -$0.52 (2W/6L); paper 37 closed (14W/23L) + 1 OPEN. Options/crypto/margin OFF. Prior EOD history below. ⟶
+**Last updated:** 2026-10-21 (Wed, ~3:05 ET / 19:04Z — EOD, last RTH pass). **⚠ UNRESOLVED: BP $0 all day (9 polls, escalated ~9:48 ET, awaiting owner)** — real trading BLOCKED all day; account active/flat/0-orders/unsettled $0. Resume real only when BP confirms > $0. REAL: 0 trades (BLOCKED, not a setup choice), FLAT 10th straight day. Regime risk-on but NARROW (SPY +0.27%, QQQ +0.79%, mega-cap-led). PAPER today: 2 closed, net -2.0R (0W/2L) — HL -1.0R (coil breakdown) + RIVN -1.0R (no follow-through). LESSON: narrow mega-cap breadth = low-win for the affordable universe; tighten or stand aside. Lifetime real -$0.52 (2W/6L); paper 38 closed (14W/24L). Options/crypto/margin OFF. Prior EOD history below. ⟶
 
 ---
 
