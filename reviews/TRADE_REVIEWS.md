@@ -1672,3 +1672,9 @@ Tally: REAL −$0.45 lifetime, FLAT, 0 trades today (7 passes); PAPER open P-003
 - **Real:** PASS. Regime strong-but-narrow risk-on (SPY +0.57%, QQQ +1.31%).
 - **Paper RIVN (0047):** OPEN, dead-money chop 12.56-12.70 below entry, now 12.595 (-0.63R). Brief 12.70 pop faded; no trigger. Holding to stop/target/EOD.
 - No new entries (narrow-breadth chop persists). Paper 37 closed (14W/23L) + 1 open.
+
+### 2026-10-21 ~2:05 ET (18:04Z) — engine pass 5
+- **⚠ BP still $0 (8th poll):** real BLOCKED, escalated. Account flat.
+- **Real:** PASS. Regime strong-but-narrow (SPY +0.61%, QQQ +1.23%).
+- **Paper RIVN (0047):** OPEN, dead-money chop 12.57-12.62, now 12.585 (-0.70R; stop 12.55 holding, tgt 12.91 far). Will EOD-flatten at the last RTH pass if untriggered.
+- No new entries. Paper 37 closed (14W/23L) + 1 open.
