@@ -1710,3 +1710,9 @@ Tally: REAL −$0.45 lifetime, FLAT, 0 trades today (7 passes); PAPER open P-003
 - **Real:** PASS. Risk-off, stabilizing slightly: SPY -1.10%, QQQ -2.25% (off the -2.4% low).
 - **Paper F (0051):** OPEN, chopping 11.90-11.99, now 11.945 (-0.59R; stop 11.88 holding, tgt 12.36 far). Survivor of the 3 RS leaders (lowest-beta holds best in risk-off) but dead-money below entry.
 - No new entries (risk-off tape). Paper 40 closed (14W/26L) + 1 open.
+
+### 2026-10-22 ~1:05 ET (17:05Z) — engine pass 4
+- **⚠ BP still $0 (16th poll):** real BLOCKED, escalated. Account flat.
+- **Real:** PASS. Selloff intensified: SPY -1.33%, QQQ -2.71%.
+- **Paper F (0051):** OPEN, holding 11.92-11.98, now 11.925 (-0.72R; stop 11.88 intact despite QQQ -2.7%). Lowest-beta survivor. Dead-money; will EOD-flatten at last RTH pass if untriggered.
+- No new entries (risk-off intensifying). Paper 40 closed (14W/26L) + 1 open.

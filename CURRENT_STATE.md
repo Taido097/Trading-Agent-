@@ -5,7 +5,7 @@
 > intent and status; it is NOT the brokerage record (that comes from
 > reconciliation).
 
-**Last updated:** 2026-10-22 (Thu, ~12:06 ET / 16:06Z — engine pass 3). **⚠ BP still $0 (15th poll)** — real BLOCKED, escalated, awaiting owner. REAL: PASS. Risk-off stabilizing: SPY -1.10%, QQQ -2.25%. PAPER: F (0051) OPEN, chopping 11.90-11.99 at 11.945 (-0.59R; stop 11.88 holding) — survivor of the 3 (lowest-beta holds best in risk-off). No new entries. Lifetime real -$0.52 (2W/6L); paper 40 closed (14W/26L) + 1 OPEN. Options/crypto/margin OFF. Prior EOD history below. ⟶
+**Last updated:** 2026-10-22 (Thu, ~1:05 ET / 17:05Z — engine pass 4). **⚠ BP still $0 (16th poll)** — real BLOCKED, escalated, awaiting owner. REAL: PASS. Selloff intensified: SPY -1.33%, QQQ -2.71%. PAPER: F (0051) OPEN, holding 11.92-11.98 at 11.925 (-0.72R; stop 11.88 intact despite QQQ -2.7% — lowest-beta survivor). No new entries. Lifetime real -$0.52 (2W/6L); paper 40 closed (14W/26L) + 1 OPEN. Options/crypto/margin OFF. Prior EOD history below. ⟶
 
 ---
 
