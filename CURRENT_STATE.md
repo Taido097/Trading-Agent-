@@ -5,7 +5,7 @@
 > intent and status; it is NOT the brokerage record (that comes from
 > reconciliation).
 
-**Last updated:** 2026-10-21 (Wed, ~3:05 ET / 19:04Z — EOD, last RTH pass). **⚠ UNRESOLVED: BP $0 all day (9 polls, escalated ~9:48 ET, awaiting owner)** — real trading BLOCKED all day; account active/flat/0-orders/unsettled $0. Resume real only when BP confirms > $0. REAL: 0 trades (BLOCKED, not a setup choice), FLAT 10th straight day. Regime risk-on but NARROW (SPY +0.27%, QQQ +0.79%, mega-cap-led). PAPER today: 2 closed, net -2.0R (0W/2L) — HL -1.0R (coil breakdown) + RIVN -1.0R (no follow-through). LESSON: narrow mega-cap breadth = low-win for the affordable universe; tighten or stand aside. Lifetime real -$0.52 (2W/6L); paper 38 closed (14W/24L). Options/crypto/margin OFF. Prior EOD history below. ⟶
+**Last updated:** 2026-10-22 (Thu, ~9:20 ET / 13:20Z — pre-market prep). **⚠ BP $0 into DAY 2 (11th poll, escalated, awaiting owner)** — real BLOCKED; account active/flat/0-orders; resume only when BP confirms > $0. Regime sharp RISK-OFF pre-market: SPY -0.93%, QQQ -1.70% (tech selloff reversing yesterday's narrow rally). RS in DEFENSIVES: KVUE +0.9% (green, but budget-ceiling/low-beta/no-2:1), RIG ~flat (energy, low-priced); cyclicals/tech/crypto dumping -2% to -5%. Watchlist: RIG, KVUE, F, NCLH, RIVN. Base case = strong PASS (risk-off + BP-blocked). Decision ~9:47 ET. Lifetime real -$0.52 (2W/6L); paper 38 closed (14W/24L). Options/crypto/margin OFF. Prior EOD history below. ⟶
 
 ---
 

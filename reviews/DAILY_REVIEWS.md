@@ -1536,3 +1536,29 @@ Excluded: KGC (23.82), CCL (27.25), KEY (20.98), RF (27.95), SIRI (27.49), AMCR 
 **Lesson (zero real cost):** Strong index risk-on with NARROW (mega-cap-led) breadth is a low-win environment for the affordable small/mid-cap universe — momentum doesn't trickle down; continuations stall and mean-revert. On such days, tighten hard or stand aside. Today's two paper attempts both failed exactly this way.
 
 **Running paper:** 38 closed (14W / 24L). **Running real:** 8 closed lifetime (2W/6L), −$0.52, FLAT. Overnight: FLAT, nothing held. **Open item: BP-$0 account issue awaiting owner.**
+
+---
+
+## 2026-10-22 (Thursday) — PRE-MARKET PREP (~9:20 ET / 13:20Z)
+
+**⚠️ BP $0 PERSISTS INTO DAY 2 (escalated, still awaiting owner).** get_portfolio returns $0 total/cash/BP (11th poll across two days). Account 563174713 active, flat, 0 orders. Real trading remains BLOCKED — resume only when BP confirms > $0. If this is a real $0 (funds moved) vs an endpoint fault is still indeterminate from tools; needs the owner to check the Robinhood app.
+
+**Regime (pre-market): sharp RISK-OFF.** SPY -0.93% (765.87 vs 773.09), QQQ **-1.70%** (712.89 vs 725.20) — tech-led selloff reversing yesterday's narrow mega-cap rally. Cause not confirmed via tools (likely earnings-season driven given a tech-concentrated drop). Treat as elevated-volatility risk-off.
+
+**Relative strength is in DEFENSIVES** (classic risk-off rotation): KVUE +0.9% (green, consumer staple), RIG ~flat (energy). Cyclicals/tech/crypto dumping: MARA -4.7%, RIOT -4.6%, AAL -4.4%, HL -4.0%, KGC -3.7%, HBAN -3.1%.
+
+**Event risk:** Sharp tech gap-down; Q3 earnings season active. No confirmed macro print surfaced via tools.
+
+**Wide screen → watchlist (RS-ranked in a risk-off tape). NO trades — decision ~9:47 ET, and real is BP-blocked regardless.**
+
+| Rank | Ticker | Pre-mkt | vs close | Note |
+|---|---|---|---|---|
+| 1 | RIG | 6.04 | ~flat | Energy relative strength (oil bid); low-priced ~$6 (small-stop caution). |
+| 2 | KVUE | 19.22 | +0.9% GREEN | Defensive staple bid; BUT at budget ceiling (~$19.2) + low-beta = no reachable 2:1 (hardened lesson). |
+| 3 | F | 11.77 | -1.1% | Least-red cyclical; affordable. |
+| 4 | NCLH | 15.33 | -1.7% | Cruise, in line with tape. |
+| 5 | RIVN | 12.25 | -1.7% | EV, in line with tape. |
+
+Excluded: KGC/CCL/KEY/RF/SIRI/AMCR (>$19); CHPT (wide spread); SNAP/BTG/MARA (low-priced, dumping); HL (-4%, wide spread); crypto miners (dumping -4-5%).
+
+**Read:** Sharp risk-off open = low-probability for longs; momentum mean-reverts and breakouts fail (standing lesson). Base case today is a strong PASS even aside from the BP block. The only relative strength is defensive (KVUE) which structurally doesn't reach 2:1. Decision routine will almost certainly PASS; paper will tighten hard / favor pullbacks or stand aside. Capital preservation first (and real is frozen on the BP issue anyway).
