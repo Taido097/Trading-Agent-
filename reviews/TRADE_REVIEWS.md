@@ -1697,3 +1697,10 @@ Tally: REAL −$0.45 lifetime, FLAT, 0 trades today (7 passes); PAPER open P-003
 - **Paper opened (3) — counter-trend RS-leader HYPOTHESIS batch** (do green-vs-red-tape leaders reach 2:1 or get dragged down?): SOFI (0049) 15.045/stop14.90/tgt15.33 (fintech, +1.0%, cleanest hold); NCLH (0050) 15.772/stop15.59/tgt16.14 (cruise, +1.2%, HOD re-break); F (0051) 12.04/stop11.88/tgt12.36 (auto, +1.2%).
 - Skipped KVUE (low-beta, pulled off HOD), RIG/VALE (faded red).
 - Paper 38 closed (14W/24L) + 3 open.
+
+### 2026-10-22 ~11:05 ET (15:05Z) — engine pass 2
+- **⚠ BP still $0 (14th poll):** real BLOCKED, escalated. Account flat.
+- **Real:** PASS. SELLOFF ACCELERATED: SPY -1.31%, QQQ -2.40% (was -1.6%). Staying out validated (real blocked anyway).
+- **Paper SOFI (0049) -1.0R + NCLH (0050) -1.0R STOPPED** (~14:25Z) — counter-trend RS leaders dragged down as QQQ accelerated to -2.4%. HYPOTHESIS ANSWERED: counter-trend RS does NOT survive an accelerating risk-off tape; higher-beta (fintech/cruise) broke first.
+- **Paper F (0051):** OPEN, holding best (-0.53R, now 11.955, above 11.88 stop) — lowest-beta/value of the three. Short leash.
+- **No new entries** — accelerating selloff is the worst environment for longs. Paper 40 closed (14W/26L) + 1 open.

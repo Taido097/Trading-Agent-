@@ -5,7 +5,7 @@
 > intent and status; it is NOT the brokerage record (that comes from
 > reconciliation).
 
-**Last updated:** 2026-10-22 (Thu, ~10:06 ET / 14:05Z — engine pass 1). **⚠ BP still $0 (13th poll)** — real BLOCKED, escalated, awaiting owner. REAL: PASS (BP block). Regime risk-off but ROTATIONAL: SPY -0.81%, QQQ -1.57%; green RS leaders bucking red tape. PAPER opened 3 (counter-trend RS-leader hypothesis: reach 2:1 or dragged down?): SOFI (0049) 15.045/stop14.90/tgt15.33; NCLH (0050) 15.772/stop15.59/tgt16.14; F (0051) 12.04/stop11.88/tgt12.36. Lifetime real -$0.52 (2W/6L); paper 38 closed (14W/24L) + 3 OPEN. Options/crypto/margin OFF. Prior EOD history below. ⟶
+**Last updated:** 2026-10-22 (Thu, ~11:05 ET / 15:05Z — engine pass 2). **⚠ BP still $0 (14th poll)** — real BLOCKED, escalated, awaiting owner. REAL: PASS. SELLOFF ACCELERATED: SPY -1.31%, QQQ -2.40%. PAPER: SOFI (0049) -1.0R + NCLH (0050) -1.0R STOPPED (counter-trend RS leaders dragged down as QQQ accelerated — hypothesis answered: counter-trend longs fail in an accelerating selloff; higher-beta broke first); F (0051) OPEN holding best (-0.53R, lowest-beta). No new entries into an accelerating down-tape. Lifetime real -$0.52 (2W/6L); paper 40 closed (14W/26L) + 1 OPEN. Options/crypto/margin OFF. Prior EOD history below. ⟶
 
 ---
 
