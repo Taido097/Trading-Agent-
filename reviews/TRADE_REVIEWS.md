@@ -1723,3 +1723,9 @@ Tally: REAL −$0.45 lifetime, FLAT, 0 trades today (7 passes); PAPER open P-003
 - **Paper F (0051) → LOSS -1.0R:** stop 11.88 hit ~17:50Z. Held longest (lowest-beta) but ground down by the sustained QQQ -3% selloff.
 - **HYPOTHESIS COMPLETE:** all 3 counter-trend RS leaders (SOFI/NCLH/F) stopped -1.0R = net -3.0R (0W/3L). DEFINITIVE: counter-trend RS longs all fail in a sustained/accelerating risk-off tape; beta only sets the order of failure. RS is tradeable only while the broad tape is stable.
 - No open positions. No new entries. Paper 41 closed (14W/27L).
+
+### 2026-10-22 ~3:05 ET (19:04Z) — engine pass 6 (last RTH)
+- **⚠ BP still $0 (18th poll):** real BLOCKED all day 2, escalated, unresolved. Account flat.
+- **Real:** PASS. 11th straight flat day. Risk-off into the close: SPY -1.46%, QQQ -3.04%.
+- **Paper:** no open positions (all 3 RS leaders stopped earlier). Nothing to flatten.
+- Day paper: -3.0R (0W/3L) — counter-trend RS hypothesis conclusively failed in a sustained risk-off tape.

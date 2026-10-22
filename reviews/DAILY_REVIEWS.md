@@ -1569,3 +1569,21 @@ Excluded: KGC/CCL/KEY/RF/SIRI/AMCR (>$19); CHPT (wide spread); SNAP/BTG/MARA (lo
 **Regime at open:** confirmed RISK-OFF. SPY -0.95% (765.78), QQQ -1.75% (712.48).
 **OR scan:** KVUE +1.8% green, new highs (defensive RS leader); F +0.8% green; RIG faded -2.3%; RIVN -1.0%, NCLH ~flat (bounced off lows).
 **Decision: PASS.** Binding = BP-$0 block. Setup = only clean RS is KVUE, a low-beta defensive at the budget ceiling → no reachable 2:1 (hardened lesson); risk-off tape is low-probability for longs. Logged KVUE to REJECTED_TRADES. Capital preserved; real frozen pending BP.
+
+---
+
+## 2026-10-22 (Thursday) — EOD WRAP
+
+**⚠️ BP $0 UNRESOLVED — FULL SECOND DAY (escalated 10/21, still awaiting owner).** get_portfolio returned $0 total/cash/BP on ~18 polls across two days. Account 563174713 active, flat, 0 orders, unsettled $0 throughout. Real trading BLOCKED both days. **Needs owner to check the Robinhood app** (endpoint fault vs funds-moved — indeterminate from tools). Real resumes only when BP confirms > $0.
+
+**Regime:** Sharp RISK-OFF all day, closing near lows. SPY -1.46% (761.82 vs 773.09), QQQ **-3.04%** (703.17 vs 725.20) — tech-led selloff, reversed Tuesday/Wednesday's narrow mega-cap rally. Opened -1.7% QQQ, briefly showed rotational RS in defensives/cyclicals, then accelerated lower into the afternoon (-2.4% → -2.7% → -3.0%).
+
+**REAL account: 0 trades — BLOCKED by the BP-$0 issue (not a setup choice). FLAT, 11th straight flat day.** Lifetime real unchanged −$0.52 (2W/6L). The BP block also happened to keep the real account out of a brutal −3% session — capital preservation by accident, but preserved.
+
+**PAPER: 3 closed — net −3.0R (0W / 3L).** A clean losing day with a definitive lesson.
+- SOFI (0049) −1.0R, NCLH (0050) −1.0R — stopped ~14:25Z when QQQ accelerated to −2.4% (higher-beta, broke first).
+- F (0051) −1.0R — stopped ~17:50Z; lowest-beta, held longest but ground down by the sustained −3% selloff.
+
+**LESSON (definitive, zero real cost): counter-trend RS leaders ALL fail in a sustained/accelerating risk-off tape.** All three names were green vs a red tape at entry (genuine relative strength) — and all three stopped out as the selloff deepened. Beta only set the ORDER of failure (fintech/cruise first, auto last), not whether. **Relative strength is tradeable only while the broad tape is stable; in an accelerating risk-off, RS longs are a losing bet.** This complements the week's other lessons: Tue (narrow mega-cap rally didn't reach the affordable universe) and today (specific-name RS doesn't survive a broad selloff) — both say the broad-tape regime is the dominant variable.
+
+**Running paper:** 41 closed (14W / 27L). **Running real:** 8 closed lifetime (2W/6L), −$0.52, FLAT. Overnight: FLAT, nothing held. **Open item: BP-$0 account issue — day 2, awaiting owner.**
