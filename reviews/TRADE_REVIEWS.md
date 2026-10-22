@@ -1716,3 +1716,10 @@ Tally: REAL −$0.45 lifetime, FLAT, 0 trades today (7 passes); PAPER open P-003
 - **Real:** PASS. Selloff intensified: SPY -1.33%, QQQ -2.71%.
 - **Paper F (0051):** OPEN, holding 11.92-11.98, now 11.925 (-0.72R; stop 11.88 intact despite QQQ -2.7%). Lowest-beta survivor. Dead-money; will EOD-flatten at last RTH pass if untriggered.
 - No new entries (risk-off intensifying). Paper 40 closed (14W/26L) + 1 open.
+
+### 2026-10-22 ~2:05 ET (18:04Z) — engine pass 5
+- **⚠ BP still $0 (17th poll):** real BLOCKED, escalated. Account flat.
+- **Real:** PASS. Selloff deepened: SPY -1.49%, QQQ -2.98%. Flat (even if BP-forced) avoided a -3R day.
+- **Paper F (0051) → LOSS -1.0R:** stop 11.88 hit ~17:50Z. Held longest (lowest-beta) but ground down by the sustained QQQ -3% selloff.
+- **HYPOTHESIS COMPLETE:** all 3 counter-trend RS leaders (SOFI/NCLH/F) stopped -1.0R = net -3.0R (0W/3L). DEFINITIVE: counter-trend RS longs all fail in a sustained/accelerating risk-off tape; beta only sets the order of failure. RS is tradeable only while the broad tape is stable.
+- No open positions. No new entries. Paper 41 closed (14W/27L).

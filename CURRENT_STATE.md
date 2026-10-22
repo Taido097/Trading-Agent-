@@ -5,7 +5,7 @@
 > intent and status; it is NOT the brokerage record (that comes from
 > reconciliation).
 
-**Last updated:** 2026-10-22 (Thu, ~1:05 ET / 17:05Z — engine pass 4). **⚠ BP still $0 (16th poll)** — real BLOCKED, escalated, awaiting owner. REAL: PASS. Selloff intensified: SPY -1.33%, QQQ -2.71%. PAPER: F (0051) OPEN, holding 11.92-11.98 at 11.925 (-0.72R; stop 11.88 intact despite QQQ -2.7% — lowest-beta survivor). No new entries. Lifetime real -$0.52 (2W/6L); paper 40 closed (14W/26L) + 1 OPEN. Options/crypto/margin OFF. Prior EOD history below. ⟶
+**Last updated:** 2026-10-22 (Thu, ~2:05 ET / 18:04Z — engine pass 5). **⚠ BP still $0 (17th poll)** — real BLOCKED, escalated, awaiting owner. REAL: PASS, FLAT (BP-forced flat avoided a -3R day). Selloff deepened: SPY -1.49%, QQQ -2.98%. PAPER: F (0051) STOPPED -1.0R — ALL 3 counter-trend RS leaders (SOFI/NCLH/F) stopped = net -3.0R (0W/3L). DEFINITIVE LESSON: counter-trend RS longs all fail in a sustained risk-off tape; beta only sets the order. No open positions, no new entries. Lifetime real -$0.52 (2W/6L); paper 41 closed (14W/27L). Options/crypto/margin OFF. Prior EOD history below. ⟶
 
 ---
 
