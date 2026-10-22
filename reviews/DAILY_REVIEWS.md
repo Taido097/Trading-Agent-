@@ -1562,3 +1562,10 @@ Excluded: KGC (23.82), CCL (27.25), KEY (20.98), RF (27.95), SIRI (27.49), AMCR 
 Excluded: KGC/CCL/KEY/RF/SIRI/AMCR (>$19); CHPT (wide spread); SNAP/BTG/MARA (low-priced, dumping); HL (-4%, wide spread); crypto miners (dumping -4-5%).
 
 **Read:** Sharp risk-off open = low-probability for longs; momentum mean-reverts and breakouts fail (standing lesson). Base case today is a strong PASS even aside from the BP block. The only relative strength is defensive (KVUE) which structurally doesn't reach 2:1. Decision routine will almost certainly PASS; paper will tighten hard / favor pullbacks or stand aside. Capital preservation first (and real is frozen on the BP issue anyway).
+
+### 2026-10-22 ~9:48 ET (13:48Z) — OPENING-RANGE DECISION → REAL: PASS (BP-$0 blocker + risk-off, defensive-only RS)
+
+**⚠ BP $0 (12th poll):** real BLOCKED. Account flat.
+**Regime at open:** confirmed RISK-OFF. SPY -0.95% (765.78), QQQ -1.75% (712.48).
+**OR scan:** KVUE +1.8% green, new highs (defensive RS leader); F +0.8% green; RIG faded -2.3%; RIVN -1.0%, NCLH ~flat (bounced off lows).
+**Decision: PASS.** Binding = BP-$0 block. Setup = only clean RS is KVUE, a low-beta defensive at the budget ceiling → no reachable 2:1 (hardened lesson); risk-off tape is low-probability for longs. Logged KVUE to REJECTED_TRADES. Capital preserved; real frozen pending BP.

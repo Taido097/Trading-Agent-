@@ -5,7 +5,7 @@
 > intent and status; it is NOT the brokerage record (that comes from
 > reconciliation).
 
-**Last updated:** 2026-10-22 (Thu, ~9:20 ET / 13:20Z — pre-market prep). **⚠ BP $0 into DAY 2 (11th poll, escalated, awaiting owner)** — real BLOCKED; account active/flat/0-orders; resume only when BP confirms > $0. Regime sharp RISK-OFF pre-market: SPY -0.93%, QQQ -1.70% (tech selloff reversing yesterday's narrow rally). RS in DEFENSIVES: KVUE +0.9% (green, but budget-ceiling/low-beta/no-2:1), RIG ~flat (energy, low-priced); cyclicals/tech/crypto dumping -2% to -5%. Watchlist: RIG, KVUE, F, NCLH, RIVN. Base case = strong PASS (risk-off + BP-blocked). Decision ~9:47 ET. Lifetime real -$0.52 (2W/6L); paper 38 closed (14W/24L). Options/crypto/margin OFF. Prior EOD history below. ⟶
+**Last updated:** 2026-10-22 (Thu, ~9:48 ET / 13:48Z — OR decision). **⚠ BP $0 (12th poll)** — real BLOCKED, escalated, awaiting owner. REAL: PASS (BP block + risk-off/defensive-only RS). Regime RISK-OFF: SPY -0.95%, QQQ -1.75%. OR: KVUE +1.8% green new-highs (defensive RS leader, but low-beta/budget-ceiling/no-2:1 → rejected); F +0.8%; RIG faded -2.3%. Lifetime real -$0.52 (2W/6L); paper 38 closed (14W/24L). Options/crypto/margin OFF. Prior EOD history below. ⟶
 
 ---
 
