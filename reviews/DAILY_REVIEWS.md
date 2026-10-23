@@ -1587,3 +1587,29 @@ Excluded: KGC/CCL/KEY/RF/SIRI/AMCR (>$19); CHPT (wide spread); SNAP/BTG/MARA (lo
 **LESSON (definitive, zero real cost): counter-trend RS leaders ALL fail in a sustained/accelerating risk-off tape.** All three names were green vs a red tape at entry (genuine relative strength) — and all three stopped out as the selloff deepened. Beta only set the ORDER of failure (fintech/cruise first, auto last), not whether. **Relative strength is tradeable only while the broad tape is stable; in an accelerating risk-off, RS longs are a losing bet.** This complements the week's other lessons: Tue (narrow mega-cap rally didn't reach the affordable universe) and today (specific-name RS doesn't survive a broad selloff) — both say the broad-tape regime is the dominant variable.
 
 **Running paper:** 41 closed (14W / 27L). **Running real:** 8 closed lifetime (2W/6L), −$0.52, FLAT. Overnight: FLAT, nothing held. **Open item: BP-$0 account issue — day 2, awaiting owner.**
+
+---
+
+## 2026-10-23 (Friday) — PRE-MARKET PREP (~9:21 ET / 13:20Z)
+
+**⚠️ BP $0 — DAY 3 (20th poll, escalated 10/21, still awaiting owner).** get_portfolio returns $0 total/cash/BP; account 563174713 active, flat, 0 orders, unsettled $0. Real trading BLOCKED into a third day. Needs owner to check the Robinhood app. Real resumes only when BP confirms > $0.
+
+**Regime (pre-market): mildly red continuation, NOT accelerating.** SPY -0.42% (760.73 vs 763.96), QQQ -0.23% (702.82 vs 704.47). Market reset lower after yesterday's -3% QQQ flush (QQQ 704 vs 725 Tue). Could be a relief bounce or further grind — undecided.
+
+**Relative strength scattered, nothing strongly green:** VALE +0.1% (materials holding), RIG +0.2% (energy), RIOT/MARA ~flat (crypto stabilizing after the dump). Defensives pulling back (KVUE -0.7%). Cruise weak (NCLH -3.7%).
+
+**Event risk:** Post -3% day — bounce-or-continue undecided. No confirmed macro print via tools. Q3 earnings ongoing.
+
+**Wide screen → watchlist (RS-ranked). NO trades — decision ~9:47 ET, and real BP-blocked regardless.**
+
+| Rank | Ticker | Pre-mkt | vs close | Note |
+|---|---|---|---|---|
+| 1 | VALE | 12.21 | +0.1% | Materials holding flat vs red tape; tight spread; affordable. |
+| 2 | RIG | 6.09 | +0.2% | Energy, flat-green; low-priced ~$6. |
+| 3 | RIOT | 12.89 | ~flat | Crypto stabilizing after the dump; affordable ~$12.9. |
+| 4 | CLF | 12.99 | -0.5% | Steel; affordable. |
+| 5 | F | 11.82 | -1.0% | Auto; affordable. |
+
+Excluded: KGC(22.45)/CCL/KEY/RF/SIRI/AMCR >$19; CHPT wide spread; BTG sub-$5; NCLH -3.7% (dumping); KVUE at budget ceiling + pulling back; MARA low-priced.
+
+**Read:** A mildly-red post-selloff tape with no clear RS leadership = low-conviction, likely PASS. Watch whether the open bounces (relief) or continues lower. Decision routine takes the top few only on a clean setup — and real is BP-blocked regardless. Capital preservation first.

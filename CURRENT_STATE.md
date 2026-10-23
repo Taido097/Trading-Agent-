@@ -5,7 +5,7 @@
 > intent and status; it is NOT the brokerage record (that comes from
 > reconciliation).
 
-**Last updated:** 2026-10-22 (Thu, ~3:05 ET / 19:04Z — EOD, last RTH pass). **⚠ BP $0 UNRESOLVED (day 2, ~18 polls, escalated, awaiting owner)** — real BLOCKED both days; account active/flat/0-orders/unsettled $0; resume real only when BP confirms > $0. REAL: 0 trades (BP-blocked, not a setup choice), FLAT 11th straight day; the block also kept it out of a -3% session. Regime sharp RISK-OFF, closed near lows: SPY -1.46%, QQQ -3.04% (tech selloff). PAPER today: 3 closed, net -3.0R (0W/3L) — SOFI/NCLH/F all stopped. DEFINITIVE LESSON: counter-trend RS leaders ALL fail in a sustained/accelerating risk-off tape; beta only sets the order. Lifetime real -$0.52 (2W/6L); paper 41 closed (14W/27L). Options/crypto/margin OFF. Prior EOD history below. ⟶
+**Last updated:** 2026-10-23 (Fri, ~9:21 ET / 13:20Z — pre-market prep). **⚠ BP $0 DAY 3 (20th poll, escalated, awaiting owner)** — real BLOCKED; account active/flat/0-orders; resume real only when BP confirms > $0. Regime mildly-red continuation (not accelerating): SPY -0.42%, QQQ -0.23% (market reset lower after yesterday's -3%). RS scattered/weak: VALE +0.1% (materials), RIG +0.2% (energy), RIOT/MARA flat (crypto stabilizing); defensives pulling back. Watchlist: VALE, RIG, RIOT, CLF, F. Base case PASS (soft tape + BP-blocked). Decision ~9:47 ET. Lifetime real -$0.52 (2W/6L); paper 41 closed (14W/27L). Options/crypto/margin OFF. Prior EOD history below. ⟶
 
 ---
 
