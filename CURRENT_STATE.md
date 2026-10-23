@@ -5,7 +5,7 @@
 > intent and status; it is NOT the brokerage record (that comes from
 > reconciliation).
 
-**Last updated:** 2026-10-23 (Fri, ~9:48 ET / 13:48Z — OR decision). **⚠ BP $0 (21st poll, day 3)** — real BLOCKED, escalated, awaiting owner. REAL: PASS (BP block + extended RS leaders). Regime mixed: SPY -0.45%, QQQ flat (tech stabilizing); value/cyclical rotation. OR: RIG +3.7% (energy breakout, low-priced spike) & CLF +2.6% (steel breakout, extended) RS leaders but chasing (rejected); VALE +0.5% holding; F -2.8% dumping. Lifetime real -$0.52 (2W/6L); paper 41 closed (14W/27L). Options/crypto/margin OFF. Prior EOD history below. ⟶
+**Last updated:** 2026-10-23 (Fri, ~10:10 ET / 14:09Z — engine pass 1). **⚠ BP still $0 (22nd poll, day 3)** — real BLOCKED, escalated, awaiting owner. REAL: PASS. Regime mixed/value-rotation: SPY -0.44%, QQQ +0.15% (tech flat, cyclicals leading). PAPER opened 1: CLF (0052) 13.425 stop13.27 tgt13.735 — steel cyclical coil-under-HOD continuation (tests cyclical RS follow-through on a value-rotation day). Skipped RIG (extended/low-priced), VALE (flat). Lifetime real -$0.52 (2W/6L); paper 41 closed (14W/27L) + 1 OPEN. Options/crypto/margin OFF. Prior EOD history below. ⟶
 
 ---
 
