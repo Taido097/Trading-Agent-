@@ -5,7 +5,7 @@
 > intent and status; it is NOT the brokerage record (that comes from
 > reconciliation).
 
-**Last updated:** 2026-10-23 (Fri, ~10:10 ET / 14:09Z — engine pass 1). **⚠ BP still $0 (22nd poll, day 3)** — real BLOCKED, escalated, awaiting owner. REAL: PASS. Regime mixed/value-rotation: SPY -0.44%, QQQ +0.15% (tech flat, cyclicals leading). PAPER opened 1: CLF (0052) 13.425 stop13.27 tgt13.735 — steel cyclical coil-under-HOD continuation (tests cyclical RS follow-through on a value-rotation day). Skipped RIG (extended/low-priced), VALE (flat). Lifetime real -$0.52 (2W/6L); paper 41 closed (14W/27L) + 1 OPEN. Options/crypto/margin OFF. Prior EOD history below. ⟶
+**Last updated:** 2026-10-23 (Fri, ~11:05 ET / 15:05Z — engine pass 2). **⚠ BP still $0 (23rd poll, day 3)** — real BLOCKED, escalated, awaiting owner (a real CLF trade would've won +2R today). REAL: PASS. Tape improving: SPY -0.19%, QQQ +0.47% (tech recovering, value-rotation). PAPER: CLF (0052) WIN +2.0R/+$80 (target hit; MFE +3.26R). LESSONS: cyclical RS breakout followed through to 2:1 on a stabilizing tape (inverse of yesterday's risk-off failures — regime decides both ways); WIDER-STOP vindicated (dipped -0.74R then rallied). No open positions. Lifetime real -$0.52 (2W/6L); paper 42 closed (15W/27L). Options/crypto/margin OFF. Prior EOD history below. ⟶
 
 ---
 

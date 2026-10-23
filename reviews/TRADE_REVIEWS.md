@@ -1741,3 +1741,9 @@ Tally: REAL −$0.45 lifetime, FLAT, 0 trades today (7 passes); PAPER open P-003
 - **Real:** PASS. Regime mixed/value-rotation: SPY -0.44%, QQQ +0.15% (tech flat, cyclicals leading).
 - **Paper opened (1):** CLF (0052) 13.425/stop13.27/tgt13.735 — steel cyclical coil-under-HOD continuation. Tests cyclical RS breakout follow-through on a value-rotation day. Skipped RIG (+5.1% low-priced/extended/tight-stop), VALE (flat), RIOT (faded off HOD).
 - Paper 41 closed (14W/27L) + 1 open.
+
+### 2026-10-23 ~11:05 ET (15:05Z) — engine pass 2
+- **⚠ BP still $0 (23rd poll, day 3):** real BLOCKED, escalated. Account flat. (A real CLF trade would have won +2R today — BP-blocked.)
+- **Real:** PASS. Tape improving: SPY -0.19%, QQQ +0.47% (tech recovering, value-rotation holding).
+- **Paper CLF (0052) → WIN +2.0R (+$80):** target 13.735 hit 14:35Z, ran to 13.93 (MFE +3.26R). TWO LESSONS: (1) cyclical RS breakout DID follow through to 2:1 on a stabilizing/rotation tape (inverse of yesterday's risk-off failures — regime decides both ways); (2) WIDER-STOP VINDICATED — dipped to -0.74R (13.31 vs 13.27 stop) then rallied; a tight stop would've missed the winner.
+- No open positions after the win; will scan for the next clean setup next pass. Paper 42 closed (15W/27L).
