@@ -5,7 +5,7 @@
 > intent and status; it is NOT the brokerage record (that comes from
 > reconciliation).
 
-**Last updated:** 2026-10-23 (Fri, ~9:21 ET / 13:20Z — pre-market prep). **⚠ BP $0 DAY 3 (20th poll, escalated, awaiting owner)** — real BLOCKED; account active/flat/0-orders; resume real only when BP confirms > $0. Regime mildly-red continuation (not accelerating): SPY -0.42%, QQQ -0.23% (market reset lower after yesterday's -3%). RS scattered/weak: VALE +0.1% (materials), RIG +0.2% (energy), RIOT/MARA flat (crypto stabilizing); defensives pulling back. Watchlist: VALE, RIG, RIOT, CLF, F. Base case PASS (soft tape + BP-blocked). Decision ~9:47 ET. Lifetime real -$0.52 (2W/6L); paper 41 closed (14W/27L). Options/crypto/margin OFF. Prior EOD history below. ⟶
+**Last updated:** 2026-10-23 (Fri, ~9:48 ET / 13:48Z — OR decision). **⚠ BP $0 (21st poll, day 3)** — real BLOCKED, escalated, awaiting owner. REAL: PASS (BP block + extended RS leaders). Regime mixed: SPY -0.45%, QQQ flat (tech stabilizing); value/cyclical rotation. OR: RIG +3.7% (energy breakout, low-priced spike) & CLF +2.6% (steel breakout, extended) RS leaders but chasing (rejected); VALE +0.5% holding; F -2.8% dumping. Lifetime real -$0.52 (2W/6L); paper 41 closed (14W/27L). Options/crypto/margin OFF. Prior EOD history below. ⟶
 
 ---
 

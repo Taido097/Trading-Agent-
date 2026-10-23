@@ -1613,3 +1613,10 @@ Excluded: KGC/CCL/KEY/RF/SIRI/AMCR (>$19); CHPT (wide spread); SNAP/BTG/MARA (lo
 Excluded: KGC(22.45)/CCL/KEY/RF/SIRI/AMCR >$19; CHPT wide spread; BTG sub-$5; NCLH -3.7% (dumping); KVUE at budget ceiling + pulling back; MARA low-priced.
 
 **Read:** A mildly-red post-selloff tape with no clear RS leadership = low-conviction, likely PASS. Watch whether the open bounces (relief) or continues lower. Decision routine takes the top few only on a clean setup — and real is BP-blocked regardless. Capital preservation first.
+
+### 2026-10-23 ~9:48 ET (13:48Z) — OPENING-RANGE DECISION → REAL: PASS (BP-$0 day 3 + extended RS leaders)
+
+**⚠ BP $0 (21st poll, day 3):** real BLOCKED. Account flat.
+**Regime at open:** mixed — SPY -0.45%, QQQ flat (+0.01%, tech stabilizing after yesterday's -3%). Value/cyclical rotation.
+**OR scan:** RIG +3.7% (energy breakout, but low-priced spike), CLF +2.6% (steel breakout, extended), VALE +0.5% (holding), RIOT +0.8% (crypto bounce, choppy), F -2.8% (dumping).
+**Decision: PASS.** Binding = BP-$0 block. Setup = the RS leaders (RIG/CLF) already ran/extended off the open on a mixed tape (chasing / O002 spike for RIG). Logged RIG/CLF to REJECTED_TRADES. Capital preserved; real frozen pending BP.
