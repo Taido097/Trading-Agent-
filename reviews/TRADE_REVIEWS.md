@@ -1765,3 +1765,9 @@ Tally: REAL −$0.45 lifetime, FLAT, 0 trades today (7 passes); PAPER open P-003
 - **Real:** PASS. Tape drifting: SPY -0.43%, QQQ +0.17%.
 - **No open paper; no new entries** — leaders extended (CLF +6.2%, RIG +6.7%), VALE only modestly up (+1.2%); afternoon chop, nothing fresh/non-extended.
 - Day paper: CLF +2.0R (1W/0L). Paper 42 closed (15W/27L).
+
+### 2026-10-23 ~3:05 ET (19:05Z) — engine pass 6 (last RTH)
+- **⚠ BP still $0 (27th poll, day 3):** real BLOCKED all week since Wed; escalated, unresolved. Account flat.
+- **Real:** PASS. 12th straight flat day. Tape mixed into the close (SPY -0.44%, QQQ +0.05%).
+- **Paper:** no open positions (CLF banked +2R midday). Nothing to flatten.
+- Day paper: CLF +2.0R (1W/0L) — a clean win, the inverse of yesterday's risk-off failures.

@@ -1620,3 +1620,35 @@ Excluded: KGC(22.45)/CCL/KEY/RF/SIRI/AMCR >$19; CHPT wide spread; BTG sub-$5; NC
 **Regime at open:** mixed — SPY -0.45%, QQQ flat (+0.01%, tech stabilizing after yesterday's -3%). Value/cyclical rotation.
 **OR scan:** RIG +3.7% (energy breakout, but low-priced spike), CLF +2.6% (steel breakout, extended), VALE +0.5% (holding), RIOT +0.8% (crypto bounce, choppy), F -2.8% (dumping).
 **Decision: PASS.** Binding = BP-$0 block. Setup = the RS leaders (RIG/CLF) already ran/extended off the open on a mixed tape (chasing / O002 spike for RIG). Logged RIG/CLF to REJECTED_TRADES. Capital preserved; real frozen pending BP.
+
+---
+
+## 2026-10-23 (Friday) — EOD WRAP + WEEK RECAP
+
+**⚠️ BP $0 — DAY 3, UNRESOLVED (escalated 10/21).** get_portfolio returned $0 total/cash/BP on ~27 polls over three days (Wed-Fri). Account 563174713 active, flat, 0 orders, unsettled $0 throughout. Real trading BLOCKED Wed-Fri. **Still needs owner to check the Robinhood app.** Real resumes only when BP confirms > $0. Note: a real CLF trade would have WON +2R today (opportunity cost of the block is now real).
+
+**Regime (Fri):** Mixed/stabilizing after Thursday's -3% flush. SPY -0.44% (760.57), QQQ +0.05% (704.84, tech flat). Value/cyclical rotation (steel/energy led: CLF +6%, RIG +6%).
+
+**REAL account (Fri): 0 trades — BP-blocked. FLAT, 12th straight flat day.** Lifetime real unchanged −$0.52 (2W/6L).
+
+**PAPER (Fri): 1 closed — CLF +2.0R (+$80), 1W/0L.** Cyclical breakout coil-under-HOD, target hit; wider-stop survived a -0.74R dip before the +2R run.
+
+---
+
+### WEEK RECAP (Mon 10/19 – Fri 10/23)
+
+**REAL: 0 trades all week. FLAT every day. $20 intact.** Lifetime real −$0.52 (2W/6L). Mon-Tue: PASSED on setup grounds (leaders gapped away / extended). Wed-Fri: BP endpoint returned $0 — real BLOCKED (operational, not a setup choice); escalated to owner, unresolved. Capital preserved through a volatile week (incl. Thursday's -3% QQQ flush that the block kept us out of).
+
+**PAPER by day:** Mon +0.67R (2W/2L) · Tue net ~0 (AAL +2, SOFI +0.53, NCLH/SNAP -1 ea) · Wed -2.0R (0W/2L) · Thu -3.0R (0W/3L) · Fri +2.0R (1W/0L). Running paper: 42 closed (15W/27L).
+
+**Lessons banked this week (zero real cost) — all point to REGIME as the dominant variable:**
+1. **Reachable-2:1 = beta + sector leadership + real catalyst, target set below overhead supply** (CLF Mon/Fri template; F/NCLH/RIOT the negatives).
+2. **Entry timing vs move maturity is decisive** — enter at the START of a move, not extended near the end (AAL +2R vs NCLH/SNAP -1R, Tue).
+3. **A regime flip changes the 2:1 math** — a large-cap can reach 2:1 once the tape turns risk-on (AAL Tue).
+4. **Scale/trail at ~+1.5R** rather than round-tripping a stalled near-target trade (SOFI Tue).
+5. **Narrow (mega-cap-led) index strength doesn't reach the affordable sub-$19 universe** (Wed).
+6. **Counter-trend RS longs ALL fail in a sustained/accelerating risk-off tape** — beta only sets the order of failure (Thu, SOFI/NCLH/F all -1R).
+7. **Cyclical RS breakouts DO follow through to 2:1 on a stabilizing/rotation tape** — the inverse of #6; regime decides both ways (Fri CLF +2R).
+8. **The wider stop (per the whipsaw lesson) is worth it** — CLF dipped to -0.74R before the +2R run; a tight stop would have missed the winner (Fri).
+
+**Open item into next week: the BP-$0 account issue (day 3) — awaiting owner.** Overnight/weekend: FLAT, nothing held.

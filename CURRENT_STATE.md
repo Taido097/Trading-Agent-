@@ -5,7 +5,7 @@
 > intent and status; it is NOT the brokerage record (that comes from
 > reconciliation).
 
-**Last updated:** 2026-10-23 (Fri, ~2:05 ET / 18:04Z — engine pass 5). **⚠ BP still $0 (26th poll, day 3)** — real BLOCKED, escalated, awaiting owner. REAL: PASS. Tape drifting: SPY -0.43%, QQQ +0.17%. PAPER: no open positions; no new entries (leaders extended, afternoon chop). Day paper CLF +2.0R (1W/0L). Lifetime real -$0.52 (2W/6L); paper 42 closed (15W/27L). Options/crypto/margin OFF. Prior EOD history below. ⟶
+**Last updated:** 2026-10-23 (Fri, ~3:05 ET / 19:05Z — EOD + week recap). **⚠ BP $0 DAY 3 UNRESOLVED (~27 polls, escalated, awaiting owner)** — real BLOCKED Wed-Fri; account active/flat/0-orders; resume real only when BP confirms > $0 (a real CLF trade would've won +2R today). REAL: 0 trades, FLAT 12th straight day. Fri tape mixed (SPY -0.44%, QQQ +0.05%). PAPER Fri: CLF +2.0R (1W/0L). WEEK paper by day: Mon +0.67R, Tue ~0, Wed -2.0R, Thu -3.0R, Fri +2.0R; 42 closed (15W/27L). WEEK THEME: regime is the dominant variable (counter-trend RS fails in risk-off / cyclical RS works on rotation; narrow breadth doesn't reach affordable universe; wider stop vindicated). Lifetime real -$0.52 (2W/6L). Options/crypto/margin OFF. Prior EOD history below. ⟶
 
 ---
 
