@@ -5,7 +5,7 @@
 > intent and status; it is NOT the brokerage record (that comes from
 > reconciliation).
 
-**Last updated:** 2026-10-23 (Fri, ~12:05 ET / 16:05Z — engine pass 3). **⚠ BP still $0 (24th poll, day 3)** — real BLOCKED, escalated, awaiting owner. REAL: PASS. Tape constructive: SPY -0.15%, QQQ +0.57% (value-rotation holding). PAPER: no open positions (CLF banked +2R). No new entries — morning leaders extended (CLF +7.2%, RIG +6.6%), rest red/flat (SOFI -1%, NCLH -1.7%). Nothing fresh/non-extended. Day paper: CLF +2.0R (1W/0L). Lifetime real -$0.52 (2W/6L); paper 42 closed (15W/27L). Options/crypto/margin OFF. Prior EOD history below. ⟶
+**Last updated:** 2026-10-23 (Fri, ~1:05 ET / 17:04Z — engine pass 4). **⚠ BP still $0 (25th poll, day 3)** — real BLOCKED, escalated, awaiting owner. REAL: PASS. Tape drifting: SPY -0.35%, QQQ +0.27%. PAPER: no open positions; no new entries (midday consolidation — CLF extended+flat, VALE flat, RIOT/NCLH red). Day paper CLF +2.0R (1W/0L). Lifetime real -$0.52 (2W/6L); paper 42 closed (15W/27L). Options/crypto/margin OFF. Prior EOD history below. ⟶
 
 ---
 
