@@ -1677,3 +1677,10 @@ Excluded: KGC(22.45)/CCL/KEY/RF/SIRI/AMCR >$19; CHPT wide spread; BTG sub-$5; NC
 Excluded: CCL(26)/KEY/RF/SIRI/AMCR/KGC(22) >$19; CHPT wide spread; BTG/MARA/RIOT low-priced or red; VALE/HL/RIG/SNAP red.
 
 **Read:** Risk-on bounce tape with travel/financial/cyclical RS leadership — a constructive setup day IF the leaders hold their opening gains (ORB-hold). But they're only modestly green (+1%), so wait for a clean break-and-hold at 9:47, not a chase. Real is BP-blocked regardless — paper will test the bounce-continuation leaders. Capital preserved.
+
+### 2026-10-26 ~9:56 ET (13:56Z) — OPENING-RANGE DECISION → REAL: PASS (BP-$0 day 4)
+
+**⚠ BP $0 (30th poll, day 4):** real BLOCKED. Account flat.
+**Regime at open:** RISK-ON bounce holding — SPY +0.45%, QQQ +0.42%.
+**OR scan — multiple green RS leaders holding:** HBAN +1.1% (steady near HOD, cleanest), NCLH +1.5% (pushing HOD), CLF +1.2% (continuing Friday's breakout), AAL +0.9%, F +0.8%. Constructive bounce tape.
+**Decision: PASS.** Binding = BP-$0 block (day 4) — can't size/place regardless. Setup note: HBAN/NCLH are clean ORB-holds but only +1-1.5%, so a 2:1 needs a solid follow-through. Logged HBAN to REJECTED_TRADES. Capital preserved; real frozen pending BP. Paper engine will test the bounce-continuation leaders.

@@ -5,7 +5,7 @@
 > intent and status; it is NOT the brokerage record (that comes from
 > reconciliation).
 
-**Last updated:** 2026-10-26 (Mon, ~9:38 ET / 13:38Z — pre-market prep, prices live-open). **⚠ BP $0 DAY 4 (29th poll, escalated, awaiting owner)** — real BLOCKED (prolonged); account active/flat/0-orders; resume real only when BP confirms > $0. Regime RISK-ON bounce: SPY +0.51%, QQQ +0.70%; travel/financials/cyclicals leading (NCLH +1.3%, AAL +1.1%, HBAN +0.9%), crypto/materials red. Watchlist: NCLH, AAL, HBAN, F, CLF, KVUE. Decision ~9:47 ET (BP-blocked regardless; wait for ORB-hold, no chase). Lifetime real -$0.52 (2W/6L); paper 42 closed (15W/27L). Options/crypto/margin OFF. Prior EOD history below. ⟶
+**Last updated:** 2026-10-26 (Mon, ~9:56 ET / 13:56Z — OR decision). **⚠ BP $0 (30th poll, day 4)** — real BLOCKED, escalated, awaiting owner. REAL: PASS (BP block). Regime RISK-ON bounce: SPY +0.45%, QQQ +0.42%. OR: multiple green RS leaders held — HBAN +1.1% (cleanest), NCLH +1.5%, CLF +1.2%, AAL +0.9%, F +0.8%; constructive but real BP-blocked (HBAN logged REJECTED). Paper engine to test continuation. Lifetime real -$0.52 (2W/6L); paper 42 closed (15W/27L). Options/crypto/margin OFF. Prior EOD history below. ⟶
 
 ---
 
