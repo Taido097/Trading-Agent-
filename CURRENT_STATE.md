@@ -5,7 +5,7 @@
 > intent and status; it is NOT the brokerage record (that comes from
 > reconciliation).
 
-**Last updated:** 2026-10-26 (Mon, ~11:05 ET / 15:05Z — engine pass 2). **⚠ BP still $0 (32nd poll, day 4)** — real BLOCKED, escalated, awaiting owner. REAL: PASS. Bounce strengthened but MEGA-CAP-led: SPY +0.95%, QQQ +1.41%. PAPER: AAL (0053) STOPPED -1.0R (open breakout faded vs a rallying index — airline relative weakness/narrow-breadth echo); NCLH (0054) OPEN +0.35R (ran to +1.69R MFE, 4c under tgt, then round-tripped — trail-at-1.5R lesson). No new entries (travel leaders fading despite index strength). Lifetime real -$0.52 (2W/6L); paper 43 closed (15W/28L) + 1 OPEN. Options/crypto/margin OFF. Prior EOD history below. ⟶
+**Last updated:** 2026-10-26 (Mon, ~12:07 ET / 16:07Z — engine pass 3). **⚠ BP still $0 (33rd poll, day 4)** — real BLOCKED, escalated, awaiting owner. REAL: PASS. Risk-on mega-cap-led: SPY +0.72%, QQQ +1.21%. PAPER: NCLH (0054) OPEN, chopping 15.33-15.445 at ~15.42 (+0.42R; stop 15.18 safe, tgt 15.57 not reached). No new entries (affordable names chopping under mega-cap-led tape). Day paper: AAL -1.0R + NCLH open. Lifetime real -$0.52 (2W/6L); paper 43 closed (15W/28L) + 1 OPEN. Options/crypto/margin OFF. Prior EOD history below. ⟶
 
 ---
 
