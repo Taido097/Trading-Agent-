@@ -5,7 +5,7 @@
 > intent and status; it is NOT the brokerage record (that comes from
 > reconciliation).
 
-**Last updated:** 2026-10-26 (Mon, ~9:56 ET / 13:56Z — OR decision). **⚠ BP $0 (30th poll, day 4)** — real BLOCKED, escalated, awaiting owner. REAL: PASS (BP block). Regime RISK-ON bounce: SPY +0.45%, QQQ +0.42%. OR: multiple green RS leaders held — HBAN +1.1% (cleanest), NCLH +1.5%, CLF +1.2%, AAL +0.9%, F +0.8%; constructive but real BP-blocked (HBAN logged REJECTED). Paper engine to test continuation. Lifetime real -$0.52 (2W/6L); paper 42 closed (15W/27L). Options/crypto/margin OFF. Prior EOD history below. ⟶
+**Last updated:** 2026-10-26 (Mon, ~10:06 ET / 14:06Z — engine pass 1). **⚠ BP still $0 (31st poll, day 4)** — real BLOCKED, escalated, awaiting owner. REAL: PASS. Regime risk-on bounce: SPY +0.42%, QQQ +0.29% (travel/financials leading). PAPER opened 2 (bounce-continuation RS leaders): AAL (0053) 12.30 stop12.15 tgt12.60 airline new-HOD breakout; NCLH (0054) 15.31 stop15.18 tgt15.57 cruise coil-under-HOD. Skipped HBAN (low-beta no-2:1), CLF (faded), F (modest). Lifetime real -$0.52 (2W/6L); paper 42 closed (15W/27L) + 2 OPEN. Options/crypto/margin OFF. Prior EOD history below. ⟶
 
 ---
 

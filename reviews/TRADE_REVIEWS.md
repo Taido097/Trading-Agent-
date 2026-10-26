@@ -1777,3 +1777,9 @@ Tally: REAL −$0.45 lifetime, FLAT, 0 trades today (7 passes); PAPER open P-003
 - **⚠ BP still $0 (28th poll)** — day-3 issue carrying into the weekend; awaiting owner. Real resumes only when BP confirms > $0.
 - **Paper:** no open positions. Week closed: paper 42 closed (15W/27L); real FLAT 12th straight day, -$0.52 lifetime.
 - Next: Monday 10/26 pre-market prep (~9:15 ET) — will re-check BP first thing.
+
+### 2026-10-26 ~10:06 ET (14:06Z) — engine pass 1
+- **⚠ BP still $0 (31st poll, day 4):** real BLOCKED, escalated. Account flat.
+- **Real:** PASS. Regime risk-on bounce: SPY +0.42%, QQQ +0.29% (travel/financials leading).
+- **Paper opened (2) — bounce-continuation RS leaders:** AAL (0053) 12.30/stop12.15/tgt12.60 (airline, new-HOD breakout on heavy vol); NCLH (0054) 15.31/stop15.18/tgt15.57 (cruise, coil-under-HOD). Skipped HBAN (low-beta financial, 2:1 unreachable), CLF (faded from 14.22), F (modest).
+- Paper 42 closed (15W/27L) + 2 open.
