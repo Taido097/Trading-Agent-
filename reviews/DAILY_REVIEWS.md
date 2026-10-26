@@ -1652,3 +1652,28 @@ Excluded: KGC(22.45)/CCL/KEY/RF/SIRI/AMCR >$19; CHPT wide spread; BTG sub-$5; NC
 8. **The wider stop (per the whipsaw lesson) is worth it** — CLF dipped to -0.74R before the +2R run; a tight stop would have missed the winner (Fri).
 
 **Open item into next week: the BP-$0 account issue (day 3) — awaiting owner.** Overnight/weekend: FLAT, nothing held.
+
+---
+
+## 2026-10-26 (Monday) — PRE-MARKET PREP (~9:38 ET / 13:38Z; prep fired late, prices are live-open)
+
+**⚠️ BP $0 — DAY 4 (29th poll, escalated 10/21, still awaiting owner).** get_portfolio returns $0 total/cash/BP; account 563174713 active, flat, 0 orders, unsettled $0. Real trading BLOCKED into a 4th trading day. This is now a prolonged outage — needs owner to check the Robinhood app / funding. Real resumes only when BP confirms > $0.
+
+**Regime (at the open): RISK-ON bounce** after last week's selloff. SPY +0.51% (763.83 vs 759.97), QQQ +0.70% (709.34 vs 704.40). Leadership rotating into travel/financials/cyclicals; crypto + materials lagging/red.
+
+**Event risk:** Monday bounce off a down week; no confirmed macro print surfaced via tools. Q3 earnings ongoing (FOMC window typically late-Oct — watch midweek).
+
+**Wide screen → watchlist (RS-ranked at the open). NO trades this step — decision ~9:47 ET; real BP-blocked regardless.**
+
+| Rank | Ticker | Open px | vs Fri close | Note |
+|---|---|---|---|---|
+| 1 | NCLH | 15.30 | +1.3% | Cruise green RS, affordable ~$15.3. |
+| 2 | AAL | 12.24 | +1.1% | Airline green RS, affordable, tight spread. |
+| 3 | HBAN | 15.875 | +0.9% | Financial green RS, affordable. |
+| 4 | F | 11.67 | +0.6% | Auto, affordable. |
+| 5 | CLF | 13.955 | +0.4% | Steel, holding Friday's breakout gains. |
+| 6 | KVUE | 19.66 | +0.4% | Defensive; at budget ceiling. |
+
+Excluded: CCL(26)/KEY/RF/SIRI/AMCR/KGC(22) >$19; CHPT wide spread; BTG/MARA/RIOT low-priced or red; VALE/HL/RIG/SNAP red.
+
+**Read:** Risk-on bounce tape with travel/financial/cyclical RS leadership — a constructive setup day IF the leaders hold their opening gains (ORB-hold). But they're only modestly green (+1%), so wait for a clean break-and-hold at 9:47, not a chase. Real is BP-blocked regardless — paper will test the bounce-continuation leaders. Capital preserved.

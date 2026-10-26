@@ -5,7 +5,7 @@
 > intent and status; it is NOT the brokerage record (that comes from
 > reconciliation).
 
-**Last updated:** 2026-10-23 (Fri, ~3:05 ET / 19:05Z — EOD + week recap). **⚠ BP $0 DAY 3 UNRESOLVED (~27 polls, escalated, awaiting owner)** — real BLOCKED Wed-Fri; account active/flat/0-orders; resume real only when BP confirms > $0 (a real CLF trade would've won +2R today). REAL: 0 trades, FLAT 12th straight day. Fri tape mixed (SPY -0.44%, QQQ +0.05%). PAPER Fri: CLF +2.0R (1W/0L). WEEK paper by day: Mon +0.67R, Tue ~0, Wed -2.0R, Thu -3.0R, Fri +2.0R; 42 closed (15W/27L). WEEK THEME: regime is the dominant variable (counter-trend RS fails in risk-off / cyclical RS works on rotation; narrow breadth doesn't reach affordable universe; wider stop vindicated). Lifetime real -$0.52 (2W/6L). Options/crypto/margin OFF. Prior EOD history below. ⟶
+**Last updated:** 2026-10-26 (Mon, ~9:38 ET / 13:38Z — pre-market prep, prices live-open). **⚠ BP $0 DAY 4 (29th poll, escalated, awaiting owner)** — real BLOCKED (prolonged); account active/flat/0-orders; resume real only when BP confirms > $0. Regime RISK-ON bounce: SPY +0.51%, QQQ +0.70%; travel/financials/cyclicals leading (NCLH +1.3%, AAL +1.1%, HBAN +0.9%), crypto/materials red. Watchlist: NCLH, AAL, HBAN, F, CLF, KVUE. Decision ~9:47 ET (BP-blocked regardless; wait for ORB-hold, no chase). Lifetime real -$0.52 (2W/6L); paper 42 closed (15W/27L). Options/crypto/margin OFF. Prior EOD history below. ⟶
 
 ---
 
