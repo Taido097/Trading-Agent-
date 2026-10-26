@@ -1802,3 +1802,14 @@ Tally: REAL −$0.45 lifetime, FLAT, 0 trades today (7 passes); PAPER open P-003
 - **Real:** PASS. Risk-on holding: SPY +0.77%, QQQ +1.34%.
 - **Paper NCLH (0054):** OPEN, +0.35R (now 15.355); dipped to 15.21 (held the 15.18 stop) then recovered, chopping 15.22-15.42; tgt 15.57 not reached. Holding to stop/target/EOD.
 - No new entries (affordable names chopping under mega-cap-led tape). Paper 43 closed (15W/28L) + 1 open.
+
+### 2026-10-26 ~2:07 ET (18:07Z) — engine pass 5
+- **⚠ BP still $0 (35th poll, day 4):** real BLOCKED, escalated, unresolved. Account flat.
+- **Real:** PASS. Mega-cap-led risk-on (SPY +0.78%, QQQ +1.37%) but the affordable universe is mostly RED (SOFI -0.6%, RIVN -1.5%, CLF -0.8%, SNAP -2.5%, GRAB -3.7%, VALE -3.1%, KVUE -0.8%). No real entry even setting BP aside.
+- **Regime read / new hypothesis:** on a mega-cap-led day the affordable RS rotated into **commodities (oil/metals)** — RIG +2.57%, HL +1.19%, BTG +1.05% were the only clean green names. Consumer/airline cyclicals that led the open (AAL, NCLH) have faded.
+- **Paper NCLH (0054):** OPEN but deteriorating — faded from 15.36 to test 15.20 (190k vol spike on the 18:00 dip), now 15.245, ~-0.5R. Stop 15.18 not hit, target 15.57 not hit. Coil-under-HOD thesis broke; holding to let the stop work.
+- **New paper entries (commodity-RS test):**
+  - **P-2026-0055 RIG** long 6.58, stop 6.45, tgt 6.84 (2:1), 307 sh — RS-leader HOD re-break after an all-day higher-base coil (not a spike, O002).
+  - **P-2026-0056 HL** long 14.02, stop 13.85, tgt 14.36 (2:1), 235 sh — silver-miner high-volume pullback holding a higher base, reclaiming toward HOD.
+- Passed BTG (fading volume, $0.05 stop = whipsaw). Did NOT force 8 longs into a tape chewing up affordable breakouts — took the 2 genuine commodity RS leaders only.
+- Running paper: 43 closed (15W/28L) + 3 OPEN (NCLH, RIG, HL).
