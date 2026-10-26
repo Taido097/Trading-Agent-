@@ -1783,3 +1783,10 @@ Tally: REAL −$0.45 lifetime, FLAT, 0 trades today (7 passes); PAPER open P-003
 - **Real:** PASS. Regime risk-on bounce: SPY +0.42%, QQQ +0.29% (travel/financials leading).
 - **Paper opened (2) — bounce-continuation RS leaders:** AAL (0053) 12.30/stop12.15/tgt12.60 (airline, new-HOD breakout on heavy vol); NCLH (0054) 15.31/stop15.18/tgt15.57 (cruise, coil-under-HOD). Skipped HBAN (low-beta financial, 2:1 unreachable), CLF (faded from 14.22), F (modest).
 - Paper 42 closed (15W/27L) + 2 open.
+
+### 2026-10-26 ~11:05 ET (15:05Z) — engine pass 2
+- **⚠ BP still $0 (32nd poll, day 4):** real BLOCKED, escalated. Account flat.
+- **Real:** PASS. Bounce STRENGTHENED but mega-cap-led: SPY +0.95%, QQQ +1.41% (QQQ>SPY).
+- **Paper AAL (0053) → LOSS -1.0R:** stop 12.15 hit ~14:55Z — open HOD-breakout faded (12.33->12.14) even as the index rallied; airline relative weakness (narrow-breadth echo).
+- **Paper NCLH (0054):** OPEN +0.35R — ran to 15.53 (MFE +1.69R, 4c under 15.57 tgt) then round-tripped; stop 15.18 safe. Scale/trail-at-1.5R lesson applies again. Holding to stop/target/EOD.
+- No new entries — travel leaders fading despite index strength (mega-cap-led bounce not reaching affordable universe). Paper 43 closed (15W/28L) + 1 open.
