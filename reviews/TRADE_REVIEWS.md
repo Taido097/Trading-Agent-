@@ -1813,3 +1813,13 @@ Tally: REAL −$0.45 lifetime, FLAT, 0 trades today (7 passes); PAPER open P-003
   - **P-2026-0056 HL** long 14.02, stop 13.85, tgt 14.36 (2:1), 235 sh — silver-miner high-volume pullback holding a higher base, reclaiming toward HOD.
 - Passed BTG (fading volume, $0.05 stop = whipsaw). Did NOT force 8 longs into a tape chewing up affordable breakouts — took the 2 genuine commodity RS leaders only.
 - Running paper: 43 closed (15W/28L) + 3 OPEN (NCLH, RIG, HL).
+
+### 2026-10-26 ~3:05 ET (19:05Z) — engine pass 6
+- **⚠ BP still $0 (36th poll, day 4):** real BLOCKED, escalated, unresolved. Account flat.
+- **Real:** PASS. Tape fading off highs: SPY +0.67%, QQQ +1.21% (QQQ was +1.37% last pass).
+- **NCLH (0054) CLOSED -1.0R:** 19:00Z bar low tagged 15.180 = the 15.18 stop. Coil-under-HOD thesis failed — faded off HOD; the mega-cap-led tape never lifted the affordable cruise name. Same fade pattern as AAL earlier today. Clean stop (MFE only +0.88R, never hit a 2:1-worthy extension).
+- **RIG (0055) OPEN ~-0.27R:** stalled at the 6.58 HOD re-break, pulled back to 6.53-6.55 (now 6.545). Stop 6.45 / tgt 6.84 intact.
+- **HL (0056) OPEN ~-0.30R:** reclaim toward HOD failed, drifting 13.95-13.97 (now 13.97). Stop 13.85 / tgt 14.36 intact.
+- **No new entries (O003):** ~55 min to EOD flatten + a fading afternoon = new longs get no room to reach 2:1 before a forced close. Held RIG + HL only.
+- **LEDGER CORRECTION:** recounted PAPER_TRADES.csv (authoritative). Actual record is **54 closed, 23W / 31L, net +0.82R** (win rate 42.6%, net-positive on 2:1 targets) + 2 open (RIG, HL). The "43 closed / 15W-28L" figure I'd been carrying was a stale number from a context compaction; corrected here and in CURRENT_STATE.
+- **Day read:** both pockets that showed RS at the open (airlines/cruise, then commodities) have softened into the afternoon fade. A clean reminder that on a narrow mega-cap-led day the affordable universe lacks sustained follow-through.

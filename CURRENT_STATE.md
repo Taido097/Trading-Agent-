@@ -5,7 +5,7 @@
 > intent and status; it is NOT the brokerage record (that comes from
 > reconciliation).
 
-**Last updated:** 2026-10-26 (Mon, ~2:07 ET / 18:07Z — engine pass 5). **⚠ BP still $0 (35th poll, day 4)** — real BLOCKED, escalated, awaiting owner to check •4713 in-app. REAL: PASS, account flat. Mega-cap-led risk-on (SPY +0.78%, QQQ +1.37%) but affordable universe mostly RED; RS rotated into COMMODITIES (oil/metals): RIG +2.57%, HL +1.19%, BTG +1.05%. PAPER: 3 OPEN — NCLH (0054) ~-0.5R deteriorating (15.245, stop 15.18/tgt 15.57 intact); RIG (0055) long 6.58 stop 6.45 tgt 6.84; HL (0056) long 14.02 stop 13.85 tgt 14.36. Passed BTG (whipsaw). Day paper: AAL -1.0R closed + 3 open. Lifetime real -$0.52 (2W/6L); paper 43 closed (15W/28L) + 3 OPEN. Options/crypto/margin OFF. Prior EOD history below. ⟶
+**Last updated:** 2026-10-26 (Mon, ~3:05 ET / 19:05Z — engine pass 6). **⚠ BP still $0 (36th poll, day 4)** — real BLOCKED, escalated, awaiting owner to check •4713 in-app. REAL: PASS, account flat. Tape fading: SPY +0.67%, QQQ +1.21% (off the +1.37% high). PAPER: NCLH (0054) CLOSED -1.0R (stopped 15.18, HOD-coil thesis failed, tape-fade same as AAL). 2 OPEN: RIG (0055) 6.58->6.545 ~-0.27R (stop 6.45/tgt 6.84); HL (0056) 14.02->13.97 ~-0.30R (stop 13.85/tgt 14.36). No new entries (O003: late-day + fading tape). **LEDGER (recounted from CSV, authoritative): 54 closed, 23W/31L, net +0.82R** + 2 open. Lifetime real -$0.52 (2W/6L). Options/crypto/margin OFF. Prior EOD history below. ⟶
 
 ---
 
