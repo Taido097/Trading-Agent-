@@ -1684,3 +1684,27 @@ Excluded: CCL(26)/KEY/RF/SIRI/AMCR/KGC(22) >$19; CHPT wide spread; BTG/MARA/RIOT
 **Regime at open:** RISK-ON bounce holding — SPY +0.45%, QQQ +0.42%.
 **OR scan — multiple green RS leaders holding:** HBAN +1.1% (steady near HOD, cleanest), NCLH +1.5% (pushing HOD), CLF +1.2% (continuing Friday's breakout), AAL +0.9%, F +0.8%. Constructive bounce tape.
 **Decision: PASS.** Binding = BP-$0 block (day 4) — can't size/place regardless. Setup note: HBAN/NCLH are clean ORB-holds but only +1-1.5%, so a 2:1 needs a solid follow-through. Logged HBAN to REJECTED_TRADES. Capital preserved; real frozen pending BP. Paper engine will test the bounce-continuation leaders.
+
+---
+
+## 2026-10-26 (Mon) — EOD WRAP
+
+**Real $20 account:** FLAT all day — zero real trades (capital preserved). **BP read $0 on every poll (37 polls, day 4 of the anomaly).** Account reads active but flat/$0, so no real order could be sized or placed — hard blocker, escalated to owner, still unresolved. Even setting BP aside, no affordable name offered a real setup worth taking into this tape. 2W/6L lifetime real, -$0.52, unchanged.
+
+**Regime:** Mega-cap-led risk-on. SPY +0.70% (765.3), QQQ +1.09% (712.1) — but a NARROW rally: money concentrated in big-cap tech. The affordable universe (<~$19) was mostly RED all day (SOFI, RIVN, CLF, SNAP -2.5%, GRAB -3.7%, VALE -3.1%). Index drifted off its midday highs into the close.
+
+**Paper (learning): 4 trades, 0W / 4L, -3.21R.** A clean, instructive drubbing:
+| ID | Ticker | Setup | Result | Note |
+|----|--------|-------|--------|------|
+| 0053 | AAL | ORB breakout to new HOD | -1.0R | Airline RS leader at open; faded as rally narrowed to mega-caps |
+| 0054 | NCLH | Coil-under-HOD continuation | -1.0R | Cruise RS leader; HOD coil broke, stopped at 15.18 |
+| 0055 | RIG | RS-leader HOD re-break | -1.0R | Oil driller +2.6%; re-break stalled, 19:15Z flush to 6.45 stop on 1.86M vol |
+| 0056 | HL | High-vol pullback continuation | -0.21R | Silver miner; never resumed, EOD flatten (held 13.85 stop by a penny) |
+
+**THE LESSON OF THE DAY (high-conviction, 4 independent confirmations):** On a NARROW, mega-cap-led risk-on day, the affordable universe (airlines, cruise, steel, oil, silver) does NOT get sustained follow-through. Every setup type failed — opening ORB (AAL), midday coil (NCLH), afternoon RS re-break (RIG), pullback-continuation (HL). The intraday RS that looked real at each entry (all were genuine RS leaders vs SPY at entry time) evaporated because the bid was only under mega-cap tech, not the broad/small-cap tape. 
+- **Actionable rule for next time:** when SPY/QQQ are green but breadth is narrow (affordable universe broadly red), DEMAND confirmation that the specific name is holding — or stand down. A green index is NOT a green tape for sub-$19 names. Favor fewer, higher-quality entries (or none) over volume on these days. This mirrors the 10/22 lesson (counter-trend fails in risk-off) — today's inverse: pro-trend affordable longs fail in a NARROW risk-on.
+- RIG's 19:15Z flush (1.86M vol, 10x) tagging the stop to the penny then bouncing = textbook stop-run; the WIDER-stop lesson would NOT have saved it (it closed the bar at 6.455, below a wider stop too). Clean loss, no regret.
+
+**Lifetime paper:** 56 closed, 23W / 33L (41%), net **-0.39R**. Today's 0/4 flipped the book from +0.82R to slightly red — the 2:1 targets had kept 56 trades near breakeven; a day with zero follow-through is exactly when a trend-following paper book bleeds. Nothing held overnight (all flat). No open positions.
+
+**Tomorrow (10/27) watch:** if breadth stays narrow, tighten hard / favor the mega-cap-adjacent affordable names or stand down; if breadth broadens (affordable universe green with the index), the usual RS-leader playbook is back on. Real account STILL gated on BP confirming > $0 — owner must check ••••4713 in-app.

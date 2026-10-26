@@ -1823,3 +1823,9 @@ Tally: REAL −$0.45 lifetime, FLAT, 0 trades today (7 passes); PAPER open P-003
 - **No new entries (O003):** ~55 min to EOD flatten + a fading afternoon = new longs get no room to reach 2:1 before a forced close. Held RIG + HL only.
 - **LEDGER CORRECTION:** recounted PAPER_TRADES.csv (authoritative). Actual record is **54 closed, 23W / 31L, net +0.82R** (win rate 42.6%, net-positive on 2:1 targets) + 2 open (RIG, HL). The "43 closed / 15W-28L" figure I'd been carrying was a stale number from a context compaction; corrected here and in CURRENT_STATE.
 - **Day read:** both pockets that showed RS at the open (airlines/cruise, then commodities) have softened into the afternoon fade. A clean reminder that on a narrow mega-cap-led day the affordable universe lacks sustained follow-through.
+
+### 2026-10-26 ~4:06 ET (20:06Z) — engine pass 7 (EOD)
+- Real: PASS, BP $0 (37th poll). Day 4 flat — capital preserved.
+- RIG (0055) STOPPED -1.0R (19:15Z flush to 6.45 on 1.86M vol). HL (0056) EOD flatten -0.21R (13.985; held 13.85 by a penny, never resumed).
+- Day paper 0W/4L -3.21R; all 4 affordable longs failed under a narrow mega-cap-led tape. Full EOD wrap + lesson in DAILY_REVIEWS.md.
+- Lifetime paper: 56 closed, 23W/33L, net -0.39R. No open positions. Nothing overnight.
