@@ -1796,3 +1796,9 @@ Tally: REAL −$0.45 lifetime, FLAT, 0 trades today (7 passes); PAPER open P-003
 - **Real:** PASS. Risk-on, mega-cap-led: SPY +0.72%, QQQ +1.21%.
 - **Paper NCLH (0054):** OPEN, chopping 15.33-15.445 (~1hr), now ~15.42 (+0.42R; stop 15.18 safe, tgt 15.57 not reached). Dead-money grind; holding to stop/target/EOD.
 - No new entries (affordable names chopping under a mega-cap-led tape). Paper 43 closed (15W/28L) + 1 open.
+
+### 2026-10-26 ~1:05 ET (17:05Z) — engine pass 4
+- **⚠ BP still $0 (34th poll, day 4):** real BLOCKED, escalated. Account flat.
+- **Real:** PASS. Risk-on holding: SPY +0.77%, QQQ +1.34%.
+- **Paper NCLH (0054):** OPEN, +0.35R (now 15.355); dipped to 15.21 (held the 15.18 stop) then recovered, chopping 15.22-15.42; tgt 15.57 not reached. Holding to stop/target/EOD.
+- No new entries (affordable names chopping under mega-cap-led tape). Paper 43 closed (15W/28L) + 1 open.
