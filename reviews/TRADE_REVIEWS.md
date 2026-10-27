@@ -1851,3 +1851,8 @@ Tally: REAL −$0.45 lifetime, FLAT, 0 trades today (7 passes); PAPER open P-003
 - **SOFI (0057) CLOSED +2.0R WIN:** 16:00Z bar ran to 16.75 through the 16.71 target. Textbook base-breakout that trended cleanly; MAE ~0 (never went red). Best paper rep in a while — the quality-over-volume call paying off.
 - **HL (0058) OPEN ~+1.0R:** stalled 14.51, drifted to 14.445; stop 14.12 clear, tgt 14.60 not reached. Metals lagging while tech leads; holding, stop will manage.
 - No new entries (banked a clean win, HL still working, keeping exposure modest into FOMC-eve). Will reassess next pass.
+
+### 2026-10-27 ~1:05 ET (17:04Z) — engine pass 4
+- Real: PASS, BP $0 (43rd poll, day 5). Flat. Risk-on holding (SPY +0.51%, QQQ +1.21%).
+- **HL (0058) OPEN +1.16R:** dead-flat hour, tight coil 14.43-14.49 (now 14.465); tgt 14.60 ($0.14 away)/stop 14.12 both untouched. Dead money but green; holding to target/stop/EOD.
+- No new entries (one position coiling, modest exposure into FOMC-eve; nothing worth chasing late-session). SOFI +2.0R already banked today.
