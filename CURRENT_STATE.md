@@ -5,7 +5,7 @@
 > intent and status; it is NOT the brokerage record (that comes from
 > reconciliation).
 
-**Last updated:** 2026-10-27 (Tue, engine pass 4 ~1:05 ET / 17:04Z). **⚠ BP still $0 (43rd poll, day 5)** — real BLOCKED, escalated, awaiting owner to verify •4713 in-app. REAL: PASS, flat. Regime: risk-on (SPY +0.51%, QQQ +1.21%); ⚠ FOMC decision Wed 10/28 2pm ET. PAPER: HL (0058) OPEN +1.16R (14.465, dead-flat coil 14.43-14.49; tgt 14.60/stop 14.12). SOFI (0057) +2.0R banked earlier. **LIFETIME paper: 57 closed, 24W/33L, net +1.61R** + 1 open (green). Lifetime real 2W/6L -$0.52. Options/crypto/margin OFF. Prior EOD history below. ⟶
+**Last updated:** 2026-10-27 (Tue, engine pass 5 ~2:06 ET / 18:06Z). **⚠ BP still $0 (44th poll, day 5)** — real BLOCKED, escalated, awaiting owner to verify •4713 in-app. REAL: PASS, flat. Regime: risk-on (SPY +0.56%, QQQ +1.21%); ⚠ FOMC decision Wed 10/28 2pm ET. PAPER: HL (0058) OPEN +1.18R (14.469, 90-min coil 14.40-14.52; tgt 14.60/stop 14.12). SOFI (0057) +2.0R banked. Day realized +2.0R. **LIFETIME paper: 57 closed, 24W/33L, net +1.61R** + 1 open (green). Lifetime real 2W/6L -$0.52. Options/crypto/margin OFF. Prior EOD history below. ⟶
 
 ---
 
