@@ -5,7 +5,7 @@
 > intent and status; it is NOT the brokerage record (that comes from
 > reconciliation).
 
-**Last updated:** 2026-10-27 (Tue, engine pass 6 ~3:05 ET / 19:05Z). **⚠ BP still $0 (45th poll, day 5)** — real BLOCKED, escalated, awaiting owner to verify •4713 in-app. REAL: PASS, flat. Regime: risk-on into close (SPY +0.56%, QQQ +1.26%); ⚠ FOMC decision Wed 10/28 2pm ET. PAPER: HL (0058) OPEN +1.41R (14.505, firming toward 14.60 tgt; stop 14.12). SOFI (0057) +2.0R banked. Day realized +2.0R. **LIFETIME paper: 57 closed, 24W/33L, net +1.61R** + 1 open. EOD flatten next pass. Lifetime real 2W/6L -$0.52. Options/crypto/margin OFF. Prior EOD history below. ⟶
+**Last updated:** 2026-10-27 (Tue, EOD ~4:05 ET / 20:05Z — engine pass 7). **⚠ BP $0 all day (46 polls, day 5)** — real BLOCKED, escalated, awaiting owner to check •4713 in-app. REAL: FLAT all day, zero real trades, capital preserved (lifetime real 2W/6L, -$0.52). Regime: broad risk-on (SPY +0.57%, QQQ +1.27%). PAPER today: **2 trades, 2W/0L, +4.0R** (SOFI +2.0R base-breakout, HL +2.0R coil-continuation) — textbook inverse of Mon's 0/4; LESSON: on BROAD breadth, press genuine RS leaders holding structure + be patient (see DAILY_REVIEWS 10/27). **LIFETIME paper: 58 closed, 25W/33L, net +3.61R. NO open positions, nothing overnight.** ⚠ TOMORROW 10/28 = FOMC DAY (decision ~2pm ET): trade morning only if clean, flat/tight into the print. Options/crypto/margin OFF. Prior EOD history below. ⟶
 
 ---
 

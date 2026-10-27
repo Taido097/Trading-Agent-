@@ -1731,3 +1731,24 @@ Excluded: CCL(26)/KEY/RF/SIRI/AMCR/KGC(22) >$19; CHPT wide spread; BTG/MARA/RIOT
 **Dropped on hard screen:** KGC 22.4 / CCL 27.7 / KEY 21.2 / RF 28.6 / SIRI 27.3 / AMCR 46.0 (all > $19); CHPT 8.50 (spread 8.47/8.62 = 1.8%, too wide); KVUE 19.3 (at the price ceiling AND red -1.0%). Metals RS from Monday has COOLED (KGC -0.1%, VALE -1.1%, HL +0.25%, BTG +0.2%) — commodity pocket no longer leading.
 
 **Plan:** decision routine (~10:05 ET) looks at the top names. Apply yesterday's lesson — confirm the specific name is HOLDING, not just green on the open; favor the cruise-group strength (confirmed by 2 names) over a single earnings spike. Real stays PASS until BP > $0. Paper: look for ORB/coil continuation on NCLH or a SOFI base, but respect pre-FOMC chop (tighten, don't force volume).
+
+---
+
+## 2026-10-27 (Tue) — EOD WRAP
+
+**Real $20 account:** FLAT all day — zero real trades (capital preserved). **BP read $0 on every poll (46 polls, day 5 of the anomaly).** Hard-blocked; escalated, unresolved — owner still needs to verify ••••4713 in-app. On merit the OR decision was also a PASS (SOFI an extended +12% earnings gap into FOMC-eve; nothing clean enough for a micro account before an event). Lifetime real unchanged: 2W/6L, -$0.52.
+
+**Regime:** Broad risk-on. SPY +0.57% (769.7), QQQ +1.27% (721.2). Started flat (pre-FOMC drift) then re-accelerated mid-morning and held into the close. Much broader than Monday's narrow tape. FOMC decision is tomorrow (Wed 10/28) ~2pm ET.
+
+**Paper (learning): 2 trades, 2W / 0L, +4.00R.** A clean, textbook day — the exact inverse of Monday's 0/4:
+| ID | Ticker | Setup | Result | Note |
+|----|--------|-------|--------|------|
+| 0057 | SOFI | Base breakout to new HOD (post-earnings) | +2.0R | 40-min base on the +12% gap, broke to HOD 16.34 on 2.3M vol, trended clean to 16.71 target |
+| 0058 | HL | Coil-under-HOD continuation (silver RS) | +2.0R | Higher-lows to HOD, 2hrs of midday chop, resolved up to 14.60 target into the close |
+
+**LESSON OF THE DAY (reinforces the Monday inverse):** When the tape is BROADLY risk-on (not narrow/mega-cap-only) AND you buy a genuine RS leader that is HOLDING structure (base or coil, not a spike), the 2:1 follows through. Monday's loss cluster taught "a green index isn't a green tape on narrow breadth"; today taught the positive: on broad breadth, press the quality names and be patient through consolidation (HL chopped flat for 2hrs then paid). Both wins required the WIDE stop + patience — neither was ever meaningfully red (MAE -0.02R / -0.06R). Quality-over-volume (2 clean entries, not 8 forced) delivered +4R where forcing volume Monday delivered -3.2R.
+- Also validated: NOT chasing the SOFI earnings gap bar (O002) — waiting for the 40-min base breakout gave a clean entry with a defined stop instead of buying the +12% spike.
+
+**Lifetime paper:** 58 closed, 25W / 33L (43%), net **+3.61R**. Monday's -3.21R fully recovered and then some in one disciplined day. No open positions; nothing held overnight.
+
+**Tomorrow (10/28) — FOMC DAY:** Fed decision ~2pm ET. Expect quiet/drifty morning then a volatility spike at 2pm. Plan: trade the morning normally if clean setups appear, but AVOID opening new risk right into the 2pm print; be flat or very tight into the decision. Real account STILL gated on BP > $0 — owner must check ••••4713. If BP frees up, the micro-$20 playbook resumes (and FOMC day is a reason for extra caution, not aggression).
