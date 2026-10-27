@@ -1829,3 +1829,12 @@ Tally: REAL −$0.45 lifetime, FLAT, 0 trades today (7 passes); PAPER open P-003
 - RIG (0055) STOPPED -1.0R (19:15Z flush to 6.45 on 1.86M vol). HL (0056) EOD flatten -0.21R (13.985; held 13.85 by a penny, never resumed).
 - Day paper 0W/4L -3.21R; all 4 affordable longs failed under a narrow mega-cap-led tape. Full EOD wrap + lesson in DAILY_REVIEWS.md.
 - Lifetime paper: 56 closed, 23W/33L, net -0.39R. No open positions. Nothing overnight.
+
+### 2026-10-27 ~10:27 ET (14:27Z) — engine pass 1
+- Real: PASS, BP $0 (40th poll, day 5). Flat.
+- Regime: flat/mild pre-FOMC drift (SPY +0.07%, QQQ +0.42%); FOMC decision Wed 2pm. Tightened criteria accordingly.
+- **Opened 2 quality paper longs (not forced volume):**
+  - **P-2026-0057 SOFI** 16.19, stop 15.93, tgt 16.71 (2:1), 153sh — earnings RS #1, 40-min base breakout to new HOD 16.34 on 2.3M vol (NOT the gap bar, O002 respected).
+  - **P-2026-0058 HL** 14.28, stop 14.12, tgt 14.60 (2:1), 250sh — silver RS +2.1%, coil-under-HOD continuation after clean higher-lows to 14.335.
+- Passed MARA (+4.5% but already spiked to 7.31 then chopping mid-range below HOD, O002); NCLH (faded below OR high again); CLF (pulled into lower half of range, not breaking); RIVN (below OR high, choppy).
+- Applied yesterday's lesson: don't force 8 into a flat tape — took the 2 genuine leaders holding structure. Open paper: SOFI, HL.

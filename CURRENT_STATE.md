@@ -5,7 +5,7 @@
 > intent and status; it is NOT the brokerage record (that comes from
 > reconciliation).
 
-**Last updated:** 2026-10-27 (Tue, OR decision ~9:48 ET / 13:48Z). **⚠ BP still $0 (39th poll, day 5)** — real BLOCKED, escalated, awaiting owner to verify •4713 in-app. REAL: OR-decision PASS (hard BP block; on merit SOFI is an extended +12% earnings gap into FOMC-eve, NCLH faded below OR high, CLF/RIVN only modest ORBs). ⚠ FOMC decision Wed 10/28 ~2pm ET. Regime: risk-on (SPY +0.26%, QQQ +0.59%). Watchlist: SOFI/CLF/RIVN constructive, NCLH fading. Paper engine (~10:13 ET+) handles paper entries. PAPER lifetime: 56 closed, 23W/33L, net -0.39R, no open positions. Lifetime real 2W/6L -$0.52. Options/crypto/margin OFF. Prior EOD history below. ⟶
+**Last updated:** 2026-10-27 (Tue, engine pass 1 ~10:27 ET / 14:27Z). **⚠ BP still $0 (40th poll, day 5)** — real BLOCKED, escalated, awaiting owner to verify •4713 in-app. REAL: PASS, flat. Regime: flat/mild pre-FOMC drift (SPY +0.07%, QQQ +0.42%); ⚠ FOMC decision Wed 10/28 2pm ET. PAPER: 2 OPEN — SOFI (0057) 16.19 base-breakout to HOD (stop 15.93/tgt 16.71); HL (0058) 14.28 coil-under-HOD silver RS (stop 14.12/tgt 14.60). Passed MARA/NCLH/CLF/RIVN (no clean structure). Tightened for the flat tape - quality over volume. PAPER lifetime: 56 closed, 23W/33L, net -0.39R + 2 open. Lifetime real 2W/6L -$0.52. Options/crypto/margin OFF. Prior EOD history below. ⟶
 
 ---
 
