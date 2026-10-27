@@ -1708,3 +1708,26 @@ Excluded: CCL(26)/KEY/RF/SIRI/AMCR/KGC(22) >$19; CHPT wide spread; BTG/MARA/RIOT
 **Lifetime paper:** 56 closed, 23W / 33L (41%), net **-0.39R**. Today's 0/4 flipped the book from +0.82R to slightly red — the 2:1 targets had kept 56 trades near breakeven; a day with zero follow-through is exactly when a trend-following paper book bleeds. Nothing held overnight (all flat). No open positions.
 
 **Tomorrow (10/27) watch:** if breadth stays narrow, tighten hard / favor the mega-cap-adjacent affordable names or stand down; if breadth broadens (affordable universe green with the index), the usual RS-leader playbook is back on. Real account STILL gated on BP confirming > $0 — owner must check ••••4713 in-app.
+
+---
+
+## 2026-10-27 (Tue) — PRE-MARKET PREP / watchlist
+
+**Real $20 (••••4713):** Reconciled — FLAT, no open orders. **BP still $0 (38th poll, day 5 of the anomaly).** Real trading remains hard-blocked; owner still needs to verify the account in-app. Lifetime real 2W/6L, -$0.52.
+
+**Regime (9:33 ET):** Mild/broad risk-on. SPY 767.3 (+0.26% vs prior close), QQQ 716.1 (+0.55%). Broader participation than Monday's narrow mega-cap tape — notably a real CRUISE-sector bid (NCLH +3.8%, CCL +3.0% together = group move, not one name).
+
+**Event risk:** ⚠ **FOMC this week — 2-day meeting, rate decision Wed 10/28 ~2pm ET.** Expect pre-FOMC drift/chop today and volatility tomorrow afternoon; keep real risk small and flat by EOD regardless (never hold overnight on the $20). SOFI +10% is an EARNINGS gap (idiosyncratic) — per O002 do NOT chase the gap bar.
+
+**WIDE SCREEN → ranked watchlist (affordable <=~$19, liquid, spread <=~0.5%):**
+| Rank | Ticker | Px | %chg | Spread | Note |
+|------|--------|-----|------|--------|------|
+| 1 | SOFI | 15.94 | +10.2% | 0.13% | Earnings gap-up, RS #1 — but EARNINGS move: want a pullback-hold or opening-range re-break, NOT the gap bar (O002) |
+| 2 | NCLH | 15.83 | +3.8% | 0.19% | Cruise-sector RS (CCL +3.0% confirms the group); watch ORB/coil-continuation near HOD |
+| 3 | CLF | 13.57 | +1.4% | 0.29% | Steel continuation (the +2R winner from 10/23); needs a clean base/break |
+| 4 | RIVN | 11.55 | +1.0% | 0.09% | EV; modest RS, monitor only |
+| — | F / AAL / MARA | 11.65 / 12.27 / 6.88 | +0.5-0.6% | tight | Secondary monitors, not leaders |
+
+**Dropped on hard screen:** KGC 22.4 / CCL 27.7 / KEY 21.2 / RF 28.6 / SIRI 27.3 / AMCR 46.0 (all > $19); CHPT 8.50 (spread 8.47/8.62 = 1.8%, too wide); KVUE 19.3 (at the price ceiling AND red -1.0%). Metals RS from Monday has COOLED (KGC -0.1%, VALE -1.1%, HL +0.25%, BTG +0.2%) — commodity pocket no longer leading.
+
+**Plan:** decision routine (~10:05 ET) looks at the top names. Apply yesterday's lesson — confirm the specific name is HOLDING, not just green on the open; favor the cruise-group strength (confirmed by 2 names) over a single earnings spike. Real stays PASS until BP > $0. Paper: look for ORB/coil continuation on NCLH or a SOFI base, but respect pre-FOMC chop (tighten, don't force volume).

@@ -5,7 +5,7 @@
 > intent and status; it is NOT the brokerage record (that comes from
 > reconciliation).
 
-**Last updated:** 2026-10-26 (Mon, EOD ~4:06 ET / 20:06Z — engine pass 7). **⚠ BP $0 all day (37 polls, day 4)** — real BLOCKED, escalated, awaiting owner to check •4713 in-app. REAL: FLAT all day, zero real trades, capital preserved (lifetime real 2W/6L, -$0.52). Regime: NARROW mega-cap-led risk-on (SPY +0.70%, QQQ +1.09%; affordable universe broadly RED). PAPER today: 4 trades, 0W/4L, -3.21R (AAL/NCLH/RIG stopped -1R each, HL EOD -0.21R) — every affordable long failed; LESSON: a green index is NOT a green tape for sub-$19 names on a narrow-breadth day (see DAILY_REVIEWS 10/26). **LIFETIME paper: 56 closed, 23W/33L, net -0.39R. NO open positions, nothing overnight.** Options/crypto/margin OFF. Next: Tue 10/27 pre-market prep. Prior EOD history below. ⟶
+**Last updated:** 2026-10-27 (Tue, pre-market ~9:33 ET / 13:33Z). **⚠ BP still $0 (38th poll, day 5)** — real BLOCKED, escalated, awaiting owner to verify •4713 in-app. REAL: FLAT, no orders. Regime: mild/broad risk-on (SPY +0.26%, QQQ +0.55%); CRUISE group bid (NCLH +3.8%, CCL +3.0%). ⚠ EVENT RISK: FOMC decision Wed 10/28 ~2pm ET — expect pre-FOMC chop. SOFI +10% = earnings gap (no chase, O002). WATCHLIST: SOFI (earnings, want pullback/re-break), NCLH (cruise RS), CLF (steel), RIVN. Metals pocket cooled. Decision routine ~10:05 ET. PAPER lifetime: 56 closed, 23W/33L, net -0.39R, no open positions. Lifetime real 2W/6L -$0.52. Options/crypto/margin OFF. Prior EOD history below. ⟶
 
 ---
 
