@@ -1838,3 +1838,10 @@ Tally: REAL −$0.45 lifetime, FLAT, 0 trades today (7 passes); PAPER open P-003
   - **P-2026-0058 HL** 14.28, stop 14.12, tgt 14.60 (2:1), 250sh — silver RS +2.1%, coil-under-HOD continuation after clean higher-lows to 14.335.
 - Passed MARA (+4.5% but already spiked to 7.31 then chopping mid-range below HOD, O002); NCLH (faded below OR high again); CLF (pulled into lower half of range, not breaking); RIVN (below OR high, choppy).
 - Applied yesterday's lesson: don't force 8 into a flat tape — took the 2 genuine leaders holding structure. Open paper: SOFI, HL.
+
+### 2026-10-27 ~11:30 ET (15:30Z) — engine pass 2
+- Real: PASS, BP $0 (41st poll, day 5). Flat.
+- Regime: re-accelerated risk-on (SPY +0.54%, QQQ +1.1%) — the flat pre-FOMC drift lifted.
+- **SOFI (0057) OPEN +1.56R:** 16.595, ran 16.19->16.65; target 16.71 just $0.12 away, stop 15.93 never threatened. Clean base-breakout trend holding.
+- **HL (0058) OPEN +1.34R:** 14.495, ran 14.28->14.51; target 14.60 close, stop 14.12 never threatened. Coil-continuation working.
+- No new entries: both positions near target and trending; chose to manage the 2 winners rather than add marginal names into FOMC-eve. (Validates the quality-over-volume call from pass 1.)
