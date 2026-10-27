@@ -1861,3 +1861,8 @@ Tally: REAL −$0.45 lifetime, FLAT, 0 trades today (7 passes); PAPER open P-003
 - Real: PASS, BP $0 (44th poll, day 5). Flat. Risk-on holding (SPY +0.56%, QQQ +1.21%).
 - **HL (0058) OPEN +1.18R:** 14.469; 90-min dead coil 14.40-14.52, tgt 14.60/stop 14.12 both untouched. Momentum gone but green; holding to EOD flatten next (~2 passes).
 - No new entries (late session/O003, FOMC-eve, one position coiling). SOFI +2.0R banked. Day realized +2.0R, HL running +1.18R.
+
+### 2026-10-27 ~3:05 ET (19:05Z) — engine pass 6
+- Real: PASS, BP $0 (45th poll, day 5). Flat. Risk-on into close (SPY +0.56%, QQQ +1.26%).
+- **HL (0058) OPEN +1.41R:** firming - 19:00Z bar to 14.50 on 302k vol, now 14.505, edging toward the 14.60 target; stop 14.12 far. Holding into the EOD flatten (next pass).
+- No new entries (next pass is EOD flatten, O003). SOFI +2.0R banked.
