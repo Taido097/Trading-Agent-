@@ -1775,3 +1775,25 @@ Excluded: CCL(26)/KEY/RF/SIRI/AMCR/KGC(22) >$19; CHPT wide spread; BTG/MARA/RIOT
 **Dropped on hard screen:** KGC 22.9 / CCL 27.7 / KEY 21.1 / RF 28.5 / SIRI 27.4 / AMCR 45.4 (>$19); CHPT (spread 8.13/9.10 blown out pre-market); KVUE 19.3 (ceiling + red). Metals cooling (KGC flat, HL/BTG/VALE red); crypto-miners are today's pre-market RS pocket.
 
 **Plan:** decision routine (~10:05 ET) looks at the top names. Apply the two-day lesson — on broad breadth press a genuine RS leader HOLDING structure (base/coil, not a spike/O002); confirm the crypto-miner group is actually following through intraday, not just a pre-market pop. Respect FOMC: small/tight, flat into 2pm. Real stays PASS until BP > $0.
+
+---
+
+## 2026-10-28 (Wed) — EOD WRAP — FOMC DAY
+
+**Real $20 account:** FLAT all day — zero real trades (capital preserved). **BP read $0 on every poll (55 polls, day 6 of the anomaly).** Hard-blocked; escalated, unresolved — owner still needs to verify ••••4713 in-app. OR decision was also a clean PASS on merit (pre-market RS leaders faded at open; FOMC-day caution). Lifetime real unchanged: 2W/6L, -$0.52.
+
+**Regime:** Quiet pre-FOMC drift, then the 2pm decision digested positively. SPY closed 772.3 (+0.34%), QQQ 725.5 (+0.59%); both ticked higher after the close. The 2pm print itself was a whipsaw (SPY 5-min bar 772.72/770.69) with no immediate directional follow-through, then a slow grind up into the bell.
+
+**Paper (learning): 1 trade, 0W / 1L, -1.0R.**
+| ID | Ticker | Setup | Result | Note |
+|----|--------|-------|--------|------|
+| 0059 | SOFI | Coil-under-HOD continuation (day 2) | -1.0R | Clean intraday coil but the name was +18% over 2 days; reverted on the quiet pre-FOMC tape, stopped 16.80 |
+
+**LESSONS (3, all process-positive even on a red paper day):**
+1. **Day-2 extension chase failed where day-1 base worked.** Yesterday's SOFI was a day-1 base breakout off earnings (+2.0R); today's was a day-2 continuation on an already +18% name (-1.0R). A clean intraday pattern is NOT enough when the name is multi-day-extended — continuation needs fresh fuel. Prefer first-day bases over day-2 chases.
+2. **Pre-market pops lie.** The watchlist's top pre-market RS (RIOT +2.4%, MARA +1.4% crypto-miners) both FADED at the open (RIOT -1.7% on the day). The prep-note caution ("confirm it holds intraday, don't trust the pre-market pop") was right and prevented a bad ORB entry.
+3. **FOMC discipline held.** Stood flat into the 2pm print, did not chase the post-decision whipsaw, no late-day forced reps into a trendless tape. One small planned loss, process intact.
+
+**Lifetime paper:** 59 closed, 25W / 34L (42%), net **+2.61R**. No open positions; nothing held overnight.
+
+**Tomorrow (10/29):** post-FOMC day — markets often trend the day after once the decision is absorbed (direction set by today's close drift = mildly risk-on). Resume the normal playbook: broad-breadth check first, press genuine RS leaders holding first-day structure, fade day-2 chases. Real account STILL gated on BP > $0 — owner must check ••••4713 (now 6 days at $0).

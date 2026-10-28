@@ -1902,3 +1902,8 @@ Tally: REAL −$0.45 lifetime, FLAT, 0 trades today (7 passes); PAPER open P-003
 - Real: PASS, BP $0 (54th poll, day 6). Post-FOMC tape flat/choppy (SPY +0.13%, QQQ +0.23%), no trend.
 - No open positions. NCLH range-bound (15.84-16.03 chop, not breaking); F +1.8% / SOFI +2.9% firm but no clean setup. Late-day (O003) + trendless post-FOMC = PASS, no new entries.
 - Day paper -1.0R (SOFI). Next pass = EOD flatten + wrap.
+
+### 2026-10-28 ~4:05 ET (20:05Z) — engine pass 7 (EOD, FOMC day)
+- Real: PASS, BP $0 (55th poll). Day 6 flat - capital preserved. Close: SPY +0.34%, QQQ +0.59% (FOMC digested green).
+- No open positions to flatten. Day paper 0W/1L -1.0R (SOFI day-2 chase stopped). Full wrap + 3 lessons in DAILY_REVIEWS.md.
+- Lifetime paper: 59 closed, 25W/34L, net +2.61R. Nothing overnight.
