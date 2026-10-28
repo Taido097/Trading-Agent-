@@ -1897,3 +1897,8 @@ Tally: REAL −$0.45 lifetime, FLAT, 0 trades today (7 passes); PAPER open P-003
 - FOMC hit 2pm: SPY 18:00Z bar whipsawed (high 772.72 / low 770.69, ~$2 range) then settled flat. Muted/choppy reaction, no directional move (SPY +0.18%, QQQ +0.15%).
 - Firmest affordable: NCLH +1.1%, SOFI +3.0% (bounced off stop), F +1.1%; rest flat/red.
 - No new entries: immediate post-FOMC tape is whippy, no clean post-decision trend established. Let it settle; reassess ~3pm for what holds. Day paper -1.0R.
+
+### 2026-10-28 ~3:06 ET (19:06Z) — engine pass 6 (post-FOMC)
+- Real: PASS, BP $0 (54th poll, day 6). Post-FOMC tape flat/choppy (SPY +0.13%, QQQ +0.23%), no trend.
+- No open positions. NCLH range-bound (15.84-16.03 chop, not breaking); F +1.8% / SOFI +2.9% firm but no clean setup. Late-day (O003) + trendless post-FOMC = PASS, no new entries.
+- Day paper -1.0R (SOFI). Next pass = EOD flatten + wrap.
