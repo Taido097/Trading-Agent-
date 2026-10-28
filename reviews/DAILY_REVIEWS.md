@@ -1752,3 +1752,26 @@ Excluded: CCL(26)/KEY/RF/SIRI/AMCR/KGC(22) >$19; CHPT wide spread; BTG/MARA/RIOT
 **Lifetime paper:** 58 closed, 25W / 33L (43%), net **+3.61R**. Monday's -3.21R fully recovered and then some in one disciplined day. No open positions; nothing held overnight.
 
 **Tomorrow (10/28) — FOMC DAY:** Fed decision ~2pm ET. Expect quiet/drifty morning then a volatility spike at 2pm. Plan: trade the morning normally if clean setups appear, but AVOID opening new risk right into the 2pm print; be flat or very tight into the decision. Real account STILL gated on BP > $0 — owner must check ••••4713. If BP frees up, the micro-$20 playbook resumes (and FOMC day is a reason for extra caution, not aggression).
+
+---
+
+## 2026-10-28 (Wed) — PRE-MARKET PREP / watchlist — ⚠ FOMC DAY
+
+**Real $20 (••••4713):** Reconciled — FLAT, no open orders. **BP still $0 (47th poll, day 6 of the anomaly).** Real trading remains hard-blocked; owner still needs to verify the account in-app. Lifetime real 2W/6L, -$0.52.
+
+**Regime (pre-market ~9:25 ET):** Mild green. SPY 771.5 (+0.23% vs prior close), QQQ 723.7 (+0.34%). Quiet pre-FOMC tone.
+
+**Event risk:** ⚠⚠ **FOMC DECISION TODAY ~2pm ET (Wed 10/28).** This dominates the session: expect a drift/quiet morning, then a volatility spike at 2pm and a whippy afternoon. PLAN: trade the morning only on a genuinely clean setup; be FLAT or very tight into the 2pm print; do NOT open new risk right before the decision. (Real account is BP-blocked anyway; this governs paper too — don't hold a fresh breakout into 2pm.)
+
+**WIDE SCREEN → ranked watchlist (affordable <=~$19, liquid, spread <=~0.5%):**
+| Rank | Ticker | Px(pre) | %chg | Note |
+|------|--------|---------|------|------|
+| 1 | RIOT | 13.88 | +2.4% | Crypto-miner RS leader pre-market (bitcoin strength); watch ORB/continuation |
+| 2 | MARA | 7.19 | +1.4% | Crypto-miner, same theme — confirms the group move |
+| 3 | F | 11.84 | +1.1% | Ford; check for news/structure at open |
+| 4 | RIG | 6.51 | +0.8% | Oil; mild |
+| — | SOFI / HL | 16.37 / 14.49 | -0.2% / -0.9% | Yesterday's +2R winners, digesting their runs — fade-watch, not fresh longs unless they re-set a base |
+
+**Dropped on hard screen:** KGC 22.9 / CCL 27.7 / KEY 21.1 / RF 28.5 / SIRI 27.4 / AMCR 45.4 (>$19); CHPT (spread 8.13/9.10 blown out pre-market); KVUE 19.3 (ceiling + red). Metals cooling (KGC flat, HL/BTG/VALE red); crypto-miners are today's pre-market RS pocket.
+
+**Plan:** decision routine (~10:05 ET) looks at the top names. Apply the two-day lesson — on broad breadth press a genuine RS leader HOLDING structure (base/coil, not a spike/O002); confirm the crypto-miner group is actually following through intraday, not just a pre-market pop. Respect FOMC: small/tight, flat into 2pm. Real stays PASS until BP > $0.

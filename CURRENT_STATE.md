@@ -5,7 +5,7 @@
 > intent and status; it is NOT the brokerage record (that comes from
 > reconciliation).
 
-**Last updated:** 2026-10-27 (Tue, EOD ~4:05 ET / 20:05Z — engine pass 7). **⚠ BP $0 all day (46 polls, day 5)** — real BLOCKED, escalated, awaiting owner to check •4713 in-app. REAL: FLAT all day, zero real trades, capital preserved (lifetime real 2W/6L, -$0.52). Regime: broad risk-on (SPY +0.57%, QQQ +1.27%). PAPER today: **2 trades, 2W/0L, +4.0R** (SOFI +2.0R base-breakout, HL +2.0R coil-continuation) — textbook inverse of Mon's 0/4; LESSON: on BROAD breadth, press genuine RS leaders holding structure + be patient (see DAILY_REVIEWS 10/27). **LIFETIME paper: 58 closed, 25W/33L, net +3.61R. NO open positions, nothing overnight.** ⚠ TOMORROW 10/28 = FOMC DAY (decision ~2pm ET): trade morning only if clean, flat/tight into the print. Options/crypto/margin OFF. Prior EOD history below. ⟶
+**Last updated:** 2026-10-28 (Wed, pre-market ~9:25 ET / 13:25Z) — ⚠ FOMC DAY. **⚠ BP still $0 (47th poll, day 6)** — real BLOCKED, escalated, awaiting owner to verify •4713 in-app. REAL: FLAT, no orders. Regime: mild green pre-mkt (SPY +0.23%, QQQ +0.34%). ⚠⚠ FOMC DECISION TODAY ~2pm ET — drift AM, vol spike PM; trade AM only if clean, FLAT/tight into 2pm, no new risk into the print. WATCHLIST: RIOT +2.4% / MARA +1.4% (crypto-miner RS pocket), F +1.1%, RIG; SOFI/HL digesting yesterday's +2R runs. Decision routine ~10:05 ET. PAPER lifetime: 58 closed, 25W/33L, net +3.61R, no open positions. Lifetime real 2W/6L -$0.52. Options/crypto/margin OFF. Prior EOD history below. ⟶
 
 ---
 
