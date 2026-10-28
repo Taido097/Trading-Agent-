@@ -5,7 +5,7 @@
 > intent and status; it is NOT the brokerage record (that comes from
 > reconciliation).
 
-**Last updated:** 2026-10-28 (Wed, engine pass 1 ~10:05 ET / 14:05Z) — ⚠ FOMC DAY. **⚠ BP still $0 (49th poll, day 6)** — real BLOCKED, escalated, awaiting owner to verify •4713 in-app. REAL: PASS, flat. Regime: flat/quiet pre-FOMC (SPY +0.15%, QQQ +0.18%). ⚠ FOMC decision 2pm ET. PAPER: 1 OPEN — SOFI (0059) 17.05 coil-under-HOD (RS leader +3.9%, day 2); stop 16.80/tgt 17.55. FOMC-DAY RULE: flatten SOFI before the 2pm print if unresolved. Single position only (no forced volume). PAPER lifetime: 58 closed, 25W/33L, net +3.61R + 1 open. Lifetime real 2W/6L -$0.52. Options/crypto/margin OFF. Prior EOD history below. ⟶
+**Last updated:** 2026-10-28 (Wed, engine pass 2 ~11:16 ET / 15:16Z) — ⚠ FOMC DAY. **⚠ BP still $0 (50th poll, day 6)** — real BLOCKED, escalated, awaiting owner to verify •4713 in-app. REAL: PASS, flat. Regime: flat/quiet pre-FOMC (SPY +0.19%, QQQ +0.15%); ⚠ FOMC decision 2pm ET. PAPER: SOFI (0059) CLOSED -1.0R (stopped 16.80; coil failed, day-2 +18% extension reverted). No open positions. No new entries (flat tape, lone leader failed, FOMC at 2pm - standing down). Day paper -1.0R. **LIFETIME paper: 59 closed, 25W/34L, net +2.61R.** Lifetime real 2W/6L -$0.52. Options/crypto/margin OFF. Prior EOD history below. ⟶
 
 ---
 

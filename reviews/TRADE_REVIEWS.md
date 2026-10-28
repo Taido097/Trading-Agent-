@@ -1877,3 +1877,9 @@ Tally: REAL −$0.45 lifetime, FLAT, 0 trades today (7 passes); PAPER open P-003
 - Real: PASS, BP $0 (49th poll, day 6). Flat/quiet pre-FOMC (SPY +0.15%, QQQ +0.18%).
 - **Opened P-2026-0059 SOFI** 17.05, stop 16.80, tgt 17.55 (2:1), 160sh — day's clear RS leader (+3.9%, everything else flat/red), coil-under-HOD after the opening drive (not a spike). CAVEAT: +18% over 2 days (extended) + FOMC-day: MUST flatten before the 2pm print if unresolved. Single position only (no forced volume into the event).
 - Watchlist pre-mkt leaders (RIOT/MARA crypto-miners) faded at open; metals red; SOFI the lone holder.
+
+### 2026-10-28 ~11:16 ET (15:16Z) — engine pass 2 (FOMC day)
+- Real: PASS, BP $0 (50th poll, day 6). Flat/quiet pre-FOMC (SPY +0.19%, QQQ +0.15%).
+- **SOFI (0059) CLOSED -1.0R:** stopped 16.80 (14:50Z tag, 14:55 to 16.73). Coil-under-HOD failed - the day-2 +18% extension reverted on the quiet tape; momentum continuation didn't follow through. The "extended" caveat I flagged at entry played out. Clean stop before 2pm.
+- LESSON reinforced: a clean intraday coil is NOT enough if the name is multi-day-extended into a quiet/event tape - continuation needs fresh fuel. Prefer first-day bases over day-2 chases.
+- No new entries (flat tape, lone RS leader just failed, FOMC at 2pm - stand down). Day paper -1.0R.
