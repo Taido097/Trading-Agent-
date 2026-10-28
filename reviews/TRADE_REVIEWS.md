@@ -1883,3 +1883,7 @@ Tally: REAL −$0.45 lifetime, FLAT, 0 trades today (7 passes); PAPER open P-003
 - **SOFI (0059) CLOSED -1.0R:** stopped 16.80 (14:50Z tag, 14:55 to 16.73). Coil-under-HOD failed - the day-2 +18% extension reverted on the quiet tape; momentum continuation didn't follow through. The "extended" caveat I flagged at entry played out. Clean stop before 2pm.
 - LESSON reinforced: a clean intraday coil is NOT enough if the name is multi-day-extended into a quiet/event tape - continuation needs fresh fuel. Prefer first-day bases over day-2 chases.
 - No new entries (flat tape, lone RS leader just failed, FOMC at 2pm - stand down). Day paper -1.0R.
+
+### 2026-10-28 ~12:08 ET (16:08Z) — engine pass 3 (FOMC day)
+- Real: PASS, BP $0 (51st poll, day 6). Flat/quiet drift (SPY +0.23%, QQQ +0.15%).
+- No open positions. No new entries: ~2hrs to the 2pm FOMC print, standing flat per plan (don't open risk that rides into the decision). Day paper -1.0R (SOFI).
