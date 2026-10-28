@@ -1887,3 +1887,7 @@ Tally: REAL −$0.45 lifetime, FLAT, 0 trades today (7 passes); PAPER open P-003
 ### 2026-10-28 ~12:08 ET (16:08Z) — engine pass 3 (FOMC day)
 - Real: PASS, BP $0 (51st poll, day 6). Flat/quiet drift (SPY +0.23%, QQQ +0.15%).
 - No open positions. No new entries: ~2hrs to the 2pm FOMC print, standing flat per plan (don't open risk that rides into the decision). Day paper -1.0R (SOFI).
+
+### 2026-10-28 ~1:05 ET (17:04Z) — engine pass 4 (FOMC day)
+- Real: PASS, BP $0 (52nd poll, day 6). Quiet drift up (SPY +0.27%, QQQ +0.26%).
+- No open positions. No new entries: ~55min to 2pm FOMC, standing flat per plan. Post-2pm passes are where any clean setups would come. Day paper -1.0R.

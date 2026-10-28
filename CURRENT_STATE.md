@@ -5,7 +5,7 @@
 > intent and status; it is NOT the brokerage record (that comes from
 > reconciliation).
 
-**Last updated:** 2026-10-28 (Wed, engine pass 3 ~12:08 ET / 16:08Z) — ⚠ FOMC DAY. **⚠ BP still $0 (51st poll, day 6)** — real BLOCKED, escalated, awaiting owner to verify •4713 in-app. REAL: PASS, flat. Regime: flat/quiet drift (SPY +0.23%, QQQ +0.15%); ⚠ FOMC decision 2pm ET (~2hrs). PAPER: no open positions; standing FLAT into the print (no new entries this close to the event). Day paper -1.0R (SOFI stopped). **LIFETIME paper: 59 closed, 25W/34L, net +2.61R.** Lifetime real 2W/6L -$0.52. Options/crypto/margin OFF. Prior EOD history below. ⟶
+**Last updated:** 2026-10-28 (Wed, engine pass 4 ~1:05 ET / 17:04Z) — ⚠ FOMC DAY. **⚠ BP still $0 (52nd poll, day 6)** — real BLOCKED, escalated, awaiting owner to verify •4713 in-app. REAL: PASS, flat. Regime: quiet drift up (SPY +0.27%, QQQ +0.26%); ⚠ FOMC decision 2pm ET (~55min). PAPER: no open positions; standing FLAT into the print. Day paper -1.0R (SOFI stopped). Post-2pm passes = where setups would come. **LIFETIME paper: 59 closed, 25W/34L, net +2.61R.** Lifetime real 2W/6L -$0.52. Options/crypto/margin OFF. Prior EOD history below. ⟶
 
 ---
 
