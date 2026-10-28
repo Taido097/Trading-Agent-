@@ -1872,3 +1872,8 @@ Tally: REAL −$0.45 lifetime, FLAT, 0 trades today (7 passes); PAPER open P-003
 - **HL (0058) CLOSED +2.0R WIN:** 19:55Z bar ran to 14.65 through the 14.60 target into the close. Coil resolved up after 2hrs of chop; wide stop + patience paid. Never red (MAE -0.06R).
 - **Day paper: 2W/0L, +4.0R** (SOFI +2.0R, HL +2.0R). Textbook inverse of Monday's 0/4 — broad tape + genuine RS leaders holding structure = 2:1 follows through. Full wrap in DAILY_REVIEWS.md.
 - Lifetime paper: 58 closed, 25W/33L, net +3.61R. No open positions, nothing overnight.
+
+### 2026-10-28 ~10:05 ET (14:05Z) — engine pass 1 (FOMC day)
+- Real: PASS, BP $0 (49th poll, day 6). Flat/quiet pre-FOMC (SPY +0.15%, QQQ +0.18%).
+- **Opened P-2026-0059 SOFI** 17.05, stop 16.80, tgt 17.55 (2:1), 160sh — day's clear RS leader (+3.9%, everything else flat/red), coil-under-HOD after the opening drive (not a spike). CAVEAT: +18% over 2 days (extended) + FOMC-day: MUST flatten before the 2pm print if unresolved. Single position only (no forced volume into the event).
+- Watchlist pre-mkt leaders (RIOT/MARA crypto-miners) faded at open; metals red; SOFI the lone holder.
