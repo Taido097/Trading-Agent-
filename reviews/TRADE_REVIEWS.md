@@ -1891,3 +1891,9 @@ Tally: REAL −$0.45 lifetime, FLAT, 0 trades today (7 passes); PAPER open P-003
 ### 2026-10-28 ~1:05 ET (17:04Z) — engine pass 4 (FOMC day)
 - Real: PASS, BP $0 (52nd poll, day 6). Quiet drift up (SPY +0.27%, QQQ +0.26%).
 - No open positions. No new entries: ~55min to 2pm FOMC, standing flat per plan. Post-2pm passes are where any clean setups would come. Day paper -1.0R.
+
+### 2026-10-28 ~2:05 ET (18:04Z) — engine pass 5 (post-FOMC)
+- Real: PASS, BP $0 (53rd poll, day 6).
+- FOMC hit 2pm: SPY 18:00Z bar whipsawed (high 772.72 / low 770.69, ~$2 range) then settled flat. Muted/choppy reaction, no directional move (SPY +0.18%, QQQ +0.15%).
+- Firmest affordable: NCLH +1.1%, SOFI +3.0% (bounced off stop), F +1.1%; rest flat/red.
+- No new entries: immediate post-FOMC tape is whippy, no clean post-decision trend established. Let it settle; reassess ~3pm for what holds. Day paper -1.0R.
