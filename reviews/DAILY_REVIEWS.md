@@ -1797,3 +1797,28 @@ Excluded: CCL(26)/KEY/RF/SIRI/AMCR/KGC(22) >$19; CHPT wide spread; BTG/MARA/RIOT
 **Lifetime paper:** 59 closed, 25W / 34L (42%), net **+2.61R**. No open positions; nothing held overnight.
 
 **Tomorrow (10/29):** post-FOMC day — markets often trend the day after once the decision is absorbed (direction set by today's close drift = mildly risk-on). Resume the normal playbook: broad-breadth check first, press genuine RS leaders holding first-day structure, fade day-2 chases. Real account STILL gated on BP > $0 — owner must check ••••4713 (now 6 days at $0).
+
+---
+
+## 2026-10-29 (Thu) — PRE-MARKET PREP / watchlist
+
+**Real $20 (••••4713):** Reconciled — FLAT, no open orders. **BP still $0 (56th poll, day 7 of the anomaly).** Real trading remains hard-blocked; owner still needs to verify the account in-app. Lifetime real 2W/6L, -$0.52.
+
+**Regime (9:40 ET): SECTOR ROTATION.** QQQ 712.8 (**-1.76%** vs prior close) — tech/growth selling off hard (post-FOMC + likely a mega-cap earnings disappointment). SPY 768.0 (-0.56%) down much less. The affordable universe splits cleanly:
+- **GREEN (cyclicals/value leading):** NCLH +12.1% (cruise earnings), CCL +3.6%, AAL +2.6%, CLF +2.0%, HBAN +1.9%, banks (KEY/RF +1.7%).
+- **RED (tech/metals/crypto dumping):** SNAP -4.4%, RIVN -1.6%, CHPT -1.8%, KGC -5.6%, HL -3.2%, BTG -3.0%, MARA -4.3%, RIOT -4.8%.
+
+**Event risk:** Post-FOMC day; the QQQ -1.8% gap suggests a mega-cap earnings miss drove the tech selloff. No scheduled macro. The rotation is the story.
+
+**WIDE SCREEN → ranked watchlist (affordable <=~$19, liquid, spread <=~0.5%):**
+| Rank | Ticker | Px | %chg | Note |
+|------|--------|-----|------|------|
+| 1 | NCLH | 18.01 | +12.1% | Cruise earnings RS leader; CCL +3.6% confirms the group. EARNINGS GAP - per O002 want a base/pullback-hold, NOT the gap bar |
+| 2 | AAL | 12.91 | +2.6% | Airline RS, clean affordable, tight spread |
+| 3 | CLF | 14.22 | +2.0% | Steel RS continuation (the 10/23 +2R name) |
+| 4 | HBAN | 16.00 | +1.9% | Regional-bank RS (banks broadly green) |
+| — | F / RIG | 12.03 / 6.76 | +0.7% | Secondary cyclical monitors |
+
+**Dropped on hard screen / regime:** CCL 29.1 / KEY 21.6 / RF 28.9 / SIRI 27.9 / AMCR 46.4 (>$19); KVUE 19.5 (ceiling). AVOID today: all tech (SNAP/RIVN/CHPT red; SOFI green but extended + tech), metals (KGC/HL/BTG red), crypto-miners (MARA/RIOT red) — wrong side of the rotation.
+
+**Plan:** decision routine (~10:05 ET) looks at the top names. Today is a clean cyclical-rotation tape — favor cruise/airline/steel/bank RS leaders HOLDING structure. For NCLH respect O002 (it's a +12% earnings spike; want the base-breakout/pullback, like the SOFI day-1 that worked 10/27, NOT a day-2/spike chase). Real stays PASS until BP > $0.
