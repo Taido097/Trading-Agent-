@@ -5,7 +5,7 @@
 > intent and status; it is NOT the brokerage record (that comes from
 > reconciliation).
 
-**Last updated:** 2026-10-29 (Thu, OR decision ~10:01 ET / 14:01Z). **⚠ BP still $0 (57th poll, day 7)** — real BLOCKED, escalated. **Today the block cost a GENUINE clean setup (CLF ORB/new-high) — not just a quiet day.** Owner must verify •4713 in-app. REAL: OR-decision PASS (BP block ONLY; CLF setup qualified). Regime: cyclical rotation (SPY -0.39%, QQQ -1.35%; tech/metals red). CLF cleanest (grinding new highs); AAL coil decent; NCLH +12% earnings gap faded (O002); HBAN weak. Paper engine (~10:13 ET+) takes CLF/AAL reps. PAPER lifetime: 59 closed, 25W/34L, net +2.61R, no open positions. Lifetime real 2W/6L -$0.52. Options/crypto/margin OFF. Prior EOD history below. ⟶
+**Last updated:** 2026-10-29 (Thu, engine pass 1 ~10:12 ET / 14:12Z). **⚠ BP still $0 (58th poll, day 7)** — real BLOCKED; a clean real setup (CLF) was blocked by it this morning. Owner must verify •4713 in-app. REAL: PASS, flat. Regime: cyclical rotation, tech-led RED (SPY -0.52%, QQQ -1.52%); cyclicals green on RS. PAPER: 2 OPEN — CLF (0060) 14.17 pullback-to-base (stop 13.99/tgt 14.53); AAL (0061) 12.90 coil-under-HOD (stop 12.76/tgt 13.18). Both cyclical-rotation RS leaders; avoided tech/metals/crypto. PAPER lifetime: 59 closed, 25W/34L, net +2.61R + 2 open. Lifetime real 2W/6L -$0.52. Options/crypto/margin OFF. Prior EOD history below. ⟶
 
 ---
 
