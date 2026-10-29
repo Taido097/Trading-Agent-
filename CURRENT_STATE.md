@@ -5,7 +5,7 @@
 > intent and status; it is NOT the brokerage record (that comes from
 > reconciliation).
 
-**Last updated:** 2026-10-29 (Thu, pre-market ~9:40 ET / 13:40Z). **⚠ BP still $0 (56th poll, day 7)** — real BLOCKED, escalated, awaiting owner to verify •4713 in-app. REAL: FLAT, no orders. Regime: SECTOR ROTATION — QQQ -1.76% (tech selloff, likely mega-cap earnings miss), SPY -0.56%; cyclicals leading (NCLH +12.1% earnings, CCL +3.6%, AAL +2.6%, CLF +2.0%, banks), tech/metals/crypto RED. WATCHLIST: NCLH (earnings, want base not gap-chase/O002), AAL, CLF, HBAN. AVOID tech/metals/crypto (wrong side of rotation). Decision routine ~10:05 ET. PAPER lifetime: 59 closed, 25W/34L, net +2.61R, no open positions. Lifetime real 2W/6L -$0.52. Options/crypto/margin OFF. Prior EOD history below. ⟶
+**Last updated:** 2026-10-29 (Thu, OR decision ~10:01 ET / 14:01Z). **⚠ BP still $0 (57th poll, day 7)** — real BLOCKED, escalated. **Today the block cost a GENUINE clean setup (CLF ORB/new-high) — not just a quiet day.** Owner must verify •4713 in-app. REAL: OR-decision PASS (BP block ONLY; CLF setup qualified). Regime: cyclical rotation (SPY -0.39%, QQQ -1.35%; tech/metals red). CLF cleanest (grinding new highs); AAL coil decent; NCLH +12% earnings gap faded (O002); HBAN weak. Paper engine (~10:13 ET+) takes CLF/AAL reps. PAPER lifetime: 59 closed, 25W/34L, net +2.61R, no open positions. Lifetime real 2W/6L -$0.52. Options/crypto/margin OFF. Prior EOD history below. ⟶
 
 ---
 
