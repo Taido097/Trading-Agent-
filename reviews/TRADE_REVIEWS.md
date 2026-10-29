@@ -1944,3 +1944,9 @@ Tally: REAL −$0.45 lifetime, FLAT, 0 trades today (7 passes); PAPER open P-003
 - **AAL (0061) OPEN ~+0.25R:** firmed to 12.935; stop 12.76/tgt 13.18. 
 - **CLF (0060) OPEN ~+0.08R:** dead chop 14.09-14.20 (now 14.185); stop 13.99/tgt 14.53.
 - Both dead-money all day (rotation stalled -> sideways chop), both small-green above stops, neither near target. Holding into EOD flatten next pass. No new adds.
+
+### 2026-10-29 ~4:08 ET (20:08Z) — engine pass 7 (EOD)
+- Real: PASS, BP $0 (64th poll). Day 7 flat - capital preserved. Close: SPY -0.36%, QQQ -1.42% (recovered off lows).
+- **CLF (0060) EOD flatten +0.61R** (14.28; held into close, no 2:1). **AAL (0061) stopped -1.0R** (12.76, faded into close).
+- Day paper: 2 trades, 1W/1L, -0.39R. LESSON: rotation open-strength != intraday follow-through when the index is red (cyclicals capped by QQQ -1.4%). Full wrap in DAILY_REVIEWS.md.
+- Lifetime paper: 61 closed, 26W/35L, net +2.22R. No open positions, nothing overnight.

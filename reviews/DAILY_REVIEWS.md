@@ -1822,3 +1822,23 @@ Excluded: CCL(26)/KEY/RF/SIRI/AMCR/KGC(22) >$19; CHPT wide spread; BTG/MARA/RIOT
 **Dropped on hard screen / regime:** CCL 29.1 / KEY 21.6 / RF 28.9 / SIRI 27.9 / AMCR 46.4 (>$19); KVUE 19.5 (ceiling). AVOID today: all tech (SNAP/RIVN/CHPT red; SOFI green but extended + tech), metals (KGC/HL/BTG red), crypto-miners (MARA/RIOT red) — wrong side of the rotation.
 
 **Plan:** decision routine (~10:05 ET) looks at the top names. Today is a clean cyclical-rotation tape — favor cruise/airline/steel/bank RS leaders HOLDING structure. For NCLH respect O002 (it's a +12% earnings spike; want the base-breakout/pullback, like the SOFI day-1 that worked 10/27, NOT a day-2/spike chase). Real stays PASS until BP > $0.
+
+---
+
+## 2026-10-29 (Thu) — EOD WRAP
+
+**Real $20 account:** FLAT all day — zero real trades (capital preserved). **BP read $0 on every poll (64 polls, day 7 of the anomaly).** Hard-blocked; escalated, unresolved. **NOTABLE: today the block cost a genuine clean setup** — the OR decision had CLF as a valid ORB/RS-new-high (steel leader, new intraday highs on a cyclical-rotation day) that only BP $0 stopped (logged REJECTED, same opportunity type as the 10/23 CLF +2R). Lifetime real unchanged: 2W/6L, -$0.52.
+
+**Regime:** SECTOR ROTATION + broad risk-off. QQQ -1.42% (tech selloff, likely mega-cap earnings miss post-FOMC), SPY -0.36% (recovered off intraday lows into the close). Money rotated OUT of tech/metals/crypto INTO cyclicals at the open (NCLH +12% earnings, CCL, AAL, CLF, banks) — but the cyclical bid STALLED midday and the names chopped/faded as the broad red tape capped them.
+
+**Paper (learning): 2 trades, 1W / 1L, -0.39R.**
+| ID | Ticker | Setup | Result | Note |
+|----|--------|-------|--------|------|
+| 0060 | CLF | Pullback-to-base (steel RS, rotation) | +0.61R | Held into close, EOD flatten 14.28; dipped to -0.94R midday then firmed. No 2:1 follow-through |
+| 0061 | AAL | Coil-under-HOD (airline RS) | -1.0R | Faded into close, stopped 12.76 on the final bar; coil never resolved up |
+
+**LESSON:** A sector rotation's OPEN strength does not guarantee intraday trend follow-through when the broad tape is risk-off. Today the cyclicals (cruise/airline/steel/banks) led at the open, but QQQ -1.4% dragged the whole market sideways-to-down, capping the RS names — they chopped, stalled, and faded rather than trending to 2:1. The entries were correct (right side of the rotation, genuine RS leaders, clean structure) but the broad-tape headwind meant neither reached target. Refinement: on a rotation-INTO-cyclicals day where the INDEX is red, expect choppier follow-through than on a broad-green day; tighten targets or take partials at 1R rather than holding for a full 2:1. (Contrast 10/27 broad-green day: both SOFI/HL ran clean to 2:1.)
+
+**Lifetime paper:** 61 closed, 26W / 35L (43%), net **+2.22R**. No open positions; nothing held overnight.
+
+**Tomorrow (10/30):** watch whether the tech selloff continues (QQQ was weak into the close, after-hours softer) or stabilizes. If tech keeps bleeding, the cyclical-rotation theme may resume with more conviction; if the index stabilizes green, the normal broad-RS playbook is back. Real account STILL gated on BP > $0 — owner must check ••••4713 (now 7 days at $0, and it cost a live setup today).

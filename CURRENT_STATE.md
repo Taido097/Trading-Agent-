@@ -5,7 +5,7 @@
 > intent and status; it is NOT the brokerage record (that comes from
 > reconciliation).
 
-**Last updated:** 2026-10-29 (Thu, engine pass 6 ~3:07 ET / 19:07Z). **⚠ BP still $0 (63rd poll, day 7)** — real BLOCKED (clean CLF setup blocked this AM). Owner must verify •4713 in-app. REAL: PASS, flat. Regime: red but stabilized (SPY -0.60%, QQQ -1.73%). PAPER: 2 OPEN — AAL (0061) 12.935 ~+0.25R; CLF (0060) 14.185 ~+0.08R. Both dead-money all day (rotation stalled), small-green above stops, neither near target. EOD flatten next pass. PAPER lifetime: 59 closed, 25W/34L, net +2.61R + 2 open. Lifetime real 2W/6L -$0.52. Options/crypto/margin OFF. Prior EOD history below. ⟶
+**Last updated:** 2026-10-29 (Thu, EOD ~4:08 ET / 20:08Z — engine pass 7). **⚠ BP $0 all day (64 polls, day 7) — and today it COST a clean real setup (CLF ORB/new-high).** Real BLOCKED, escalated; owner must verify •4713 in-app. REAL: FLAT all day, zero real trades, capital preserved (lifetime real 2W/6L, -$0.52). Regime: sector rotation + broad risk-off (QQQ -1.42% tech selloff, SPY -0.36%); cyclical open-strength stalled midday. PAPER today: 2 trades, 1W/1L, -0.39R (CLF +0.61R EOD flatten, AAL -1.0R stopped into close). LESSON: rotation open-strength != intraday follow-through when the index is red (cyclicals capped by QQQ drag; see DAILY_REVIEWS 10/29). **LIFETIME paper: 61 closed, 26W/35L, net +2.22R. NO open positions, nothing overnight.** Next: Fri 10/30 pre-market prep. Options/crypto/margin OFF. Prior EOD history below. ⟶
 
 ---
 
