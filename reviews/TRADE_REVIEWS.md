@@ -1938,3 +1938,9 @@ Tally: REAL −$0.45 lifetime, FLAT, 0 trades today (7 passes); PAPER open P-003
 - **CLF (0060) OPEN ~-0.14R:** dead chop 14.08-14.18 (now 14.145); stop 13.99 clear.
 - **AAL (0061) OPEN ~-0.29R:** drifting to 12.86 with weak tape; stop 12.76 clear.
 - Rotation stalled + whole tape sliding = both cyclicals fading but above stops. Holding to stop/tgt/EOD, no new adds (weakening afternoon, O003). Likely EOD flatten near small losses unless a late turn.
+
+### 2026-10-29 ~3:07 ET (19:07Z) — engine pass 6
+- Real: PASS, BP $0 (63rd poll, day 7). Tape red but stabilized (SPY -0.60%, QQQ -1.73%).
+- **AAL (0061) OPEN ~+0.25R:** firmed to 12.935; stop 12.76/tgt 13.18. 
+- **CLF (0060) OPEN ~+0.08R:** dead chop 14.09-14.20 (now 14.185); stop 13.99/tgt 14.53.
+- Both dead-money all day (rotation stalled -> sideways chop), both small-green above stops, neither near target. Holding into EOD flatten next pass. No new adds.

@@ -5,7 +5,7 @@
 > intent and status; it is NOT the brokerage record (that comes from
 > reconciliation).
 
-**Last updated:** 2026-10-29 (Thu, engine pass 5 ~2:05 ET / 18:05Z). **⚠ BP still $0 (62nd poll, day 7)** — real BLOCKED (clean CLF setup blocked this AM). Owner must verify •4713 in-app. REAL: PASS, flat. Regime: weakening (SPY -0.68%, QQQ -1.78%), tech leading down; rotation stalled. PAPER: 2 OPEN — CLF (0060) 14.145 ~-0.14R; AAL (0061) 12.86 ~-0.29R. Both fading but above stops (13.99 / 12.76). Holding to stop/tgt/EOD, no new adds. PAPER lifetime: 59 closed, 25W/34L, net +2.61R + 2 open. Lifetime real 2W/6L -$0.52. Options/crypto/margin OFF. Prior EOD history below. ⟶
+**Last updated:** 2026-10-29 (Thu, engine pass 6 ~3:07 ET / 19:07Z). **⚠ BP still $0 (63rd poll, day 7)** — real BLOCKED (clean CLF setup blocked this AM). Owner must verify •4713 in-app. REAL: PASS, flat. Regime: red but stabilized (SPY -0.60%, QQQ -1.73%). PAPER: 2 OPEN — AAL (0061) 12.935 ~+0.25R; CLF (0060) 14.185 ~+0.08R. Both dead-money all day (rotation stalled), small-green above stops, neither near target. EOD flatten next pass. PAPER lifetime: 59 closed, 25W/34L, net +2.61R + 2 open. Lifetime real 2W/6L -$0.52. Options/crypto/margin OFF. Prior EOD history below. ⟶
 
 ---
 
