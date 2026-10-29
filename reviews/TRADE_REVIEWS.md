@@ -1914,3 +1914,9 @@ Tally: REAL −$0.45 lifetime, FLAT, 0 trades today (7 passes); PAPER open P-003
   - **P-2026-0060 CLF** 14.17, stop 13.99, tgt 14.53 (2:1), 222sh — steel RS leader, pullback-to-base after new-HOD push (not chasing, O002).
   - **P-2026-0061 AAL** 12.90, stop 12.76, tgt 13.18 (2:1), 285sh — airline RS leader, coil-under-HOD.
 - Passed NCLH (+12% earnings gap fading intraday, O002); avoided all tech/metals/crypto (wrong side of rotation). Testing the cyclical-long thesis on a tech-led-red but cyclical-green tape. Note: CLF was ALSO the blocked real setup this morning (BP $0).
+
+### 2026-10-29 ~11:30 ET (15:30Z) — engine pass 2
+- Real: PASS, BP $0 (59th poll, day 7). Tape recovering (SPY -0.23%, QQQ -1.12%), cyclicals holding.
+- **AAL (0061) OPEN +0.68R:** ground 12.90->12.995, building toward 13.18 tgt; stop 12.76 never threatened. Airline RS working.
+- **CLF (0060) OPEN ~+0.08R:** flat chop 14.03-14.26 (now 14.185); stop 13.99 held (low 14.03), tgt 14.53 not reached. Dead money, holding.
+- No new entries (2 open in the cyclical theme, managing). Day paper flat so far.
