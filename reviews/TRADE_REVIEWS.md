@@ -1955,3 +1955,8 @@ Tally: REAL −$0.45 lifetime, FLAT, 0 trades today (7 passes); PAPER open P-003
 - Real: PASS, BP $0 (67th poll, day 8). Deep risk-off (SPY -1.22%, QQQ -2.60%).
 - **No paper entries (stand aside).** Only RIVN +6.4% (12.18) shows real RS (EV earnings winner bucking the tape), but it's mid-round-trip (12.13->11.60->12.18) = chasing the recovery; everything else red (CLF/AAL/HBAN/KVUE all down). 10/22 lesson: counter-trend/lone-green longs fail in sustained deep risk-off; don't force volume (that's what caused 10/26 0/4 -3.2R).
 - RIVN = the one watch: want a clean coil-hold above 12.00 + tape stabilizing before any entry. PASS this pass.
+
+### 2026-10-30 ~11:58 ET (15:58Z) — engine pass 2
+- Real: PASS, BP $0 (68th poll, day 8). Risk-off DEEPENING: SPY -1.48%, QQQ -3.00%.
+- **No paper entries (stand aside again).** RIVN (the lone RS watch) coiled 12.05-12.18 for an hour then ROLLED OVER at 15:30 (now 11.945) as the tape flushed deeper — the strongest earnings name cracked. Validates NOT chasing it pass 1.
+- Textbook sustained deep risk-off → stand aside all day (10/22 lesson). Discipline paying off: no forced longs into a -3% QQQ flush. RIG +2.8% holding but no clean structure / single name in a -3% tape.
