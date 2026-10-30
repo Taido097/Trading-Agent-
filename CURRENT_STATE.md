@@ -5,7 +5,7 @@
 > intent and status; it is NOT the brokerage record (that comes from
 > reconciliation).
 
-**Last updated:** 2026-10-30 (Fri, engine pass 6 ~3:04 ET / 19:04Z) — ⚠ RISK-OFF ROUT. **⚠ BP still $0 (72nd poll, day 8)** — real BLOCKED; owner must verify •4713 in-app. REAL: PASS, flat. Regime: rout continuing (SPY -2.30%, QQQ -4.23%); RIVN/RIG lone green, no stabilization. PAPER: NO entries (6th straight stand-aside) — correct all-day no-trade in a -4% QQQ rout. Day paper: 0 trades. EOD wrap next pass. PAPER lifetime: 61 closed, 26W/35L, net +2.22R, no open positions. Lifetime real 2W/6L -$0.52. Options/crypto/margin OFF. Prior EOD history below. ⟶
+**Last updated:** 2026-10-30 (Fri, EOD ~4:04 ET / 20:04Z — engine pass 7, week close). **⚠ BP $0 all day (73 polls, day 8); BP read $0 the ENTIRE week (days 4–8).** Real BLOCKED, escalated; owner must verify •4713 in-app (block cost a live CLF setup 10/29). REAL: FLAT all day + all week, zero real trades, capital 100% preserved (lifetime real 2W/6L, -$0.52). Regime: RISK-OFF ROUT — QQQ -3.47%, SPY -1.77% (bounced off -4.2% low); month-end tech washout. PAPER today: 0 trades (stood aside all 7 passes in the rout) — correct process (10/22 lesson). WEEK paper: Mon -3.21R, Tue +4.0R, Wed -1.0R, Thu -0.39R, Fri 0 — net ~-0.6R. **LIFETIME paper: 61 closed, 26W/35L, net +2.22R. NO open positions, nothing overnight.** Next: Mon 11/03 pre-market prep. Options/crypto/margin OFF. Prior EOD history below. ⟶
 
 ---
 

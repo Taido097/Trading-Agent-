@@ -1863,3 +1863,33 @@ Excluded: CCL(26)/KEY/RF/SIRI/AMCR/KGC(22) >$19; CHPT wide spread; BTG/MARA/RIOT
 **Dropped / AVOID:** everything tech/metals/crypto (SOFI/SNAP/CHPT/KGC/HL/BTG/MARA/RIOT all -3% to -6%); CLF -2.0%, AAL -1.5%, NCLH -1.5% (yesterday's cyclicals rolling over); CCL/KEY/RF/SIRI/AMCR >$19.
 
 **Plan:** This is a SHARP RISK-OFF day — apply the 10/22 lesson (counter-trend longs fail in sustained risk-off; tighten hard or stand aside). Only RIVN shows real RS, and it's an earnings gap into a red tape — watch for a base-hold before any entry (O002), and be ready to PASS the whole day if nothing holds. Favor NOT forcing longs into a -2.5% QQQ gap. Real stays PASS (BP $0). Decision routine ~10:05 ET.
+
+---
+
+## 2026-10-30 (Fri) — EOD WRAP + WEEK RECAP
+
+**Real $20 account:** FLAT all day — zero real trades (capital preserved). **BP $0 on every poll (73 polls, day 8 of the anomaly).** Hard-blocked; escalated, unresolved. Lifetime real unchanged: 2W/6L, -$0.52.
+
+**Regime:** RISK-OFF ROUT. QQQ -3.47% (close 690.5, bounced off a -4.2% intraday low), SPY -1.77% (off a -2.3% low). Tech/growth selloff accelerated into a broad washout + month-end. Deep risk-off from the open with no stabilization until a late bounce.
+
+**Paper (learning): 0 trades — stood aside all 7 passes.** Correct call: an all-day deep risk-off rout (QQQ -3% to -4%) is exactly the tape where forcing longs fails (the 10/22 lesson). The lone RS name (RIVN, +4.6% earnings gap) coiled then rolled over with the tape — validating not chasing it. A zero-trade day in a rout is a WIN for process.
+
+### WEEK RECAP (Mon 10/26 – Fri 10/30)
+**Real $20:** FLAT all 5 days, zero real trades, capital 100% preserved. BP read $0 the ENTIRE week (days 4–8 of the anomaly) — the block even cost one genuine setup (CLF ORB 10/29). Owner action still required: verify ••••4713 in-app.
+**Paper (learning) by day:**
+| Day | Regime | Result |
+|-----|--------|--------|
+| Mon 10/26 | Narrow mega-cap-led | 0W/4L, -3.21R (affordable longs all failed on narrow breadth) |
+| Tue 10/27 | Broad risk-on | 2W/0L, +4.0R (SOFI base-breakout + HL coil, both 2:1) |
+| Wed 10/28 | FOMC day | 0W/1L, -1.0R (SOFI day-2 extension chase) |
+| Thu 10/29 | Cyclical rotation, red index | 1W/1L, -0.39R (open strength, no follow-through) |
+| Fri 10/30 | Deep risk-off rout | 0 trades (stood aside) |
+**Week paper net: ~-0.6R** (7 trades, 3W/6... see CSV; swingy week). Lifetime paper: 61 closed, 26W/35L, net **+2.22R**.
+
+**KEY LESSONS BANKED THIS WEEK (the real value, given real trading was blocked):**
+1. **Breadth decides affordable-name follow-through.** Narrow mega-cap tape (Mon) = affordable longs fail; broad-green tape (Tue) = they run to 2:1. A green index is not a green tape.
+2. **Day-1 base > day-2 chase.** Same name (SOFI): day-1 earnings base breakout won +2R (Tue); day-2 extension chase lost -1R (Wed). Prefer first-day structure.
+3. **Rotation open-strength ≠ intraday follow-through when the index is red** (Thu): cyclicals led the open but QQQ drag capped them → take partials at 1R, don't hold for full 2:1 on a red-index day.
+4. **Stand aside in sustained deep risk-off** (Fri): no trade is the trade; the lone RS name still cracked.
+
+**Next (Mon 11/03):** watch for stabilization/bounce after the rout, or continuation lower. If the market bounces and breadth broadens, the base-breakout playbook is back; if it keeps bleeding, stay defensive/stand-aside. Real account STILL gated on BP > $0 — owner must check ••••4713 (8 days at $0).
