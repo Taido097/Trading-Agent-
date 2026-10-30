@@ -1842,3 +1842,24 @@ Excluded: CCL(26)/KEY/RF/SIRI/AMCR/KGC(22) >$19; CHPT wide spread; BTG/MARA/RIOT
 **Lifetime paper:** 61 closed, 26W / 35L (43%), net **+2.22R**. No open positions; nothing held overnight.
 
 **Tomorrow (10/30):** watch whether the tech selloff continues (QQQ was weak into the close, after-hours softer) or stabilizes. If tech keeps bleeding, the cyclical-rotation theme may resume with more conviction; if the index stabilizes green, the normal broad-RS playbook is back. Real account STILL gated on BP > $0 — owner must check ••••4713 (now 7 days at $0, and it cost a live setup today).
+
+---
+
+## 2026-10-30 (Fri) — PRE-MARKET PREP / watchlist — ⚠ SHARP RISK-OFF GAP-DOWN
+
+**Real $20 (••••4713):** Reconciled — FLAT, no open orders. **BP still $0 (65th poll, day 8 of the anomaly).** Real trading remains hard-blocked; owner still needs to verify the account in-app (the block cost a clean CLF setup yesterday). Lifetime real 2W/6L, -$0.52.
+
+**Regime (pre-market ~9:18 ET): SHARP RISK-OFF.** QQQ 697.0 (**-2.56%** vs prior close) — tech selloff accelerating into a broad gap-down. SPY 761.4 (-1.03%). This is a serious down-open, now broad (not just tech): metals crushed (HL -5.1%, KGC -4.4%, BTG -2.8%), crypto-miners crushed (RIOT -6.4%, MARA -4.7%), tech red (SOFI -3.8%, SNAP -3.5%, CHPT -4.5%). Likely ongoing mega-cap earnings selloff + month-end (last trading day of Oct) rebalancing.
+
+**Event risk:** Month-end flows + continued tech-earnings selloff. No scheduled macro, but a -2.5% QQQ gap is the dominant condition.
+
+**WIDE SCREEN → watchlist (affordable <=~$19, liquid, spread <=~0.5%):**
+| Rank | Ticker | Px(pre) | %chg | Note |
+|------|--------|---------|------|------|
+| 1 | RIVN | 11.98 | +4.6% | EV, earnings/news gap — the ONLY clear affordable RS leader vs a red tape. EARNINGS GAP → O002 (want base/pullback-hold, NOT the gap); risk-off tape can still drag it, demand it HOLDS |
+| 2 | RIG | 6.75 | +0.9% | Oil, mild green; monitor only |
+| — | (defensive) KVUE | 19.99 | +2.2% | Risk-off bid into staples, but now >$19 — OFF the affordable list |
+
+**Dropped / AVOID:** everything tech/metals/crypto (SOFI/SNAP/CHPT/KGC/HL/BTG/MARA/RIOT all -3% to -6%); CLF -2.0%, AAL -1.5%, NCLH -1.5% (yesterday's cyclicals rolling over); CCL/KEY/RF/SIRI/AMCR >$19.
+
+**Plan:** This is a SHARP RISK-OFF day — apply the 10/22 lesson (counter-trend longs fail in sustained risk-off; tighten hard or stand aside). Only RIVN shows real RS, and it's an earnings gap into a red tape — watch for a base-hold before any entry (O002), and be ready to PASS the whole day if nothing holds. Favor NOT forcing longs into a -2.5% QQQ gap. Real stays PASS (BP $0). Decision routine ~10:05 ET.

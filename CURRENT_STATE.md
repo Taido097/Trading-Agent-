@@ -5,7 +5,7 @@
 > intent and status; it is NOT the brokerage record (that comes from
 > reconciliation).
 
-**Last updated:** 2026-10-29 (Thu, EOD ~4:08 ET / 20:08Z — engine pass 7). **⚠ BP $0 all day (64 polls, day 7) — and today it COST a clean real setup (CLF ORB/new-high).** Real BLOCKED, escalated; owner must verify •4713 in-app. REAL: FLAT all day, zero real trades, capital preserved (lifetime real 2W/6L, -$0.52). Regime: sector rotation + broad risk-off (QQQ -1.42% tech selloff, SPY -0.36%); cyclical open-strength stalled midday. PAPER today: 2 trades, 1W/1L, -0.39R (CLF +0.61R EOD flatten, AAL -1.0R stopped into close). LESSON: rotation open-strength != intraday follow-through when the index is red (cyclicals capped by QQQ drag; see DAILY_REVIEWS 10/29). **LIFETIME paper: 61 closed, 26W/35L, net +2.22R. NO open positions, nothing overnight.** Next: Fri 10/30 pre-market prep. Options/crypto/margin OFF. Prior EOD history below. ⟶
+**Last updated:** 2026-10-30 (Fri, pre-market ~9:18 ET / 13:18Z) — ⚠ SHARP RISK-OFF gap-down. **⚠ BP still $0 (65th poll, day 8)** — real BLOCKED (cost a clean CLF setup 10/29). Owner must verify •4713 in-app. REAL: FLAT, no orders. Regime: SHARP RISK-OFF — QQQ -2.56% pre-mkt (tech selloff accelerating), SPY -1.03%; metals/crypto/tech all -3% to -6%. Only green: RIVN +4.6% (EV earnings gap, lone affordable RS — O002: want base not gap-chase), RIG +0.9%; KVUE +2.2% but >$19. Month-end. PLAN: sharp risk-off — tighten hard / stand aside (10/22 lesson); PASS the day if nothing holds. Decision routine ~10:05 ET. PAPER lifetime: 61 closed, 26W/35L, net +2.22R, no open positions. Lifetime real 2W/6L -$0.52. Options/crypto/margin OFF. Prior EOD history below. ⟶
 
 ---
 
