@@ -5,7 +5,7 @@
 > intent and status; it is NOT the brokerage record (that comes from
 > reconciliation).
 
-**Last updated:** 2026-10-30 (Fri, pre-market ~9:18 ET / 13:18Z) — ⚠ SHARP RISK-OFF gap-down. **⚠ BP still $0 (65th poll, day 8)** — real BLOCKED (cost a clean CLF setup 10/29). Owner must verify •4713 in-app. REAL: FLAT, no orders. Regime: SHARP RISK-OFF — QQQ -2.56% pre-mkt (tech selloff accelerating), SPY -1.03%; metals/crypto/tech all -3% to -6%. Only green: RIVN +4.6% (EV earnings gap, lone affordable RS — O002: want base not gap-chase), RIG +0.9%; KVUE +2.2% but >$19. Month-end. PLAN: sharp risk-off — tighten hard / stand aside (10/22 lesson); PASS the day if nothing holds. Decision routine ~10:05 ET. PAPER lifetime: 61 closed, 26W/35L, net +2.22R, no open positions. Lifetime real 2W/6L -$0.52. Options/crypto/margin OFF. Prior EOD history below. ⟶
+**Last updated:** 2026-10-30 (Fri, OR decision ~9:48 ET / 13:48Z) — ⚠ DEEP RISK-OFF. **⚠ BP still $0 (66th poll, day 8)** — real BLOCKED, escalated; owner must verify •4713 in-app. REAL: OR-decision PASS (triple: BP block + deep risk-off + no qualifying setup). RIVN +4.6% pre-mkt gap FADED at open (below OR high), RIG +5% but vertical spike (O002). Regime: deep risk-off (SPY -1.14%, QQQ -2.64%); tech selloff continuing, month-end. Correct NOT to trade today (10/22 risk-off lesson) — unlike 10/29 nothing qualifies regardless of BP. Paper engine (~10:13 ET+) handles paper. PAPER lifetime: 61 closed, 26W/35L, net +2.22R, no open positions. Lifetime real 2W/6L -$0.52. Options/crypto/margin OFF. Prior EOD history below. ⟶
 
 ---
 
