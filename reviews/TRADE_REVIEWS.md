@@ -1972,3 +1972,7 @@ Tally: REAL −$0.45 lifetime, FLAT, 0 trades today (7 passes); PAPER open P-003
 ### 2026-10-30 ~2:04 ET (18:04Z) — engine pass 5
 - Real: PASS, BP $0 (71st poll, day 8). Risk-off deepening to QQQ -3.99%, SPY -2.06%. RIVN gave back gains (+0.9%), RIG +2.7%. No stabilization.
 - No paper entries (5th straight stand-aside). -4% QQQ rout → correct to not trade all day. Day paper: 0 trades.
+
+### 2026-10-30 ~3:04 ET (19:04Z) — engine pass 6
+- Real: PASS, BP $0 (72nd poll, day 8). Rout continuing (SPY -2.30%, QQQ -4.23%). RIVN +2.3%, RIG +3.2% (lone green), no stabilization.
+- No paper entries (6th straight stand-aside). Correct all-day no-trade in a -4% QQQ rout. Day paper: 0 trades. EOD wrap next pass.

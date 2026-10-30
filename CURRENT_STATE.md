@@ -5,7 +5,7 @@
 > intent and status; it is NOT the brokerage record (that comes from
 > reconciliation).
 
-**Last updated:** 2026-10-30 (Fri, engine pass 5 ~2:04 ET / 18:04Z) — ⚠ DEEP RISK-OFF rout. **⚠ BP still $0 (71st poll, day 8)** — real BLOCKED; owner must verify •4713 in-app. REAL: PASS, flat. Regime: rout deepening (SPY -2.06%, QQQ -3.99%); RIVN gave back gains (+0.9%), no stabilization. PAPER: NO entries (5th straight stand-aside) — -4% QQQ rout, correct to not trade all day. Day paper: 0 trades. PAPER lifetime: 61 closed, 26W/35L, net +2.22R, no open positions. Lifetime real 2W/6L -$0.52. Options/crypto/margin OFF. Prior EOD history below. ⟶
+**Last updated:** 2026-10-30 (Fri, engine pass 6 ~3:04 ET / 19:04Z) — ⚠ RISK-OFF ROUT. **⚠ BP still $0 (72nd poll, day 8)** — real BLOCKED; owner must verify •4713 in-app. REAL: PASS, flat. Regime: rout continuing (SPY -2.30%, QQQ -4.23%); RIVN/RIG lone green, no stabilization. PAPER: NO entries (6th straight stand-aside) — correct all-day no-trade in a -4% QQQ rout. Day paper: 0 trades. EOD wrap next pass. PAPER lifetime: 61 closed, 26W/35L, net +2.22R, no open positions. Lifetime real 2W/6L -$0.52. Options/crypto/margin OFF. Prior EOD history below. ⟶
 
 ---
 
