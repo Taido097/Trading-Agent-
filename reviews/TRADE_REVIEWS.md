@@ -1950,3 +1950,8 @@ Tally: REAL −$0.45 lifetime, FLAT, 0 trades today (7 passes); PAPER open P-003
 - **CLF (0060) EOD flatten +0.61R** (14.28; held into close, no 2:1). **AAL (0061) stopped -1.0R** (12.76, faded into close).
 - Day paper: 2 trades, 1W/1L, -0.39R. LESSON: rotation open-strength != intraday follow-through when the index is red (cyclicals capped by QQQ -1.4%). Full wrap in DAILY_REVIEWS.md.
 - Lifetime paper: 61 closed, 26W/35L, net +2.22R. No open positions, nothing overnight.
+
+### 2026-10-30 ~10:06 ET (14:06Z) — engine pass 1
+- Real: PASS, BP $0 (67th poll, day 8). Deep risk-off (SPY -1.22%, QQQ -2.60%).
+- **No paper entries (stand aside).** Only RIVN +6.4% (12.18) shows real RS (EV earnings winner bucking the tape), but it's mid-round-trip (12.13->11.60->12.18) = chasing the recovery; everything else red (CLF/AAL/HBAN/KVUE all down). 10/22 lesson: counter-trend/lone-green longs fail in sustained deep risk-off; don't force volume (that's what caused 10/26 0/4 -3.2R).
+- RIVN = the one watch: want a clean coil-hold above 12.00 + tape stabilizing before any entry. PASS this pass.
