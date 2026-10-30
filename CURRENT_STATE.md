@@ -5,7 +5,7 @@
 > intent and status; it is NOT the brokerage record (that comes from
 > reconciliation).
 
-**Last updated:** 2026-10-30 (Fri, engine pass 3 ~12:44 ET / 16:44Z) — ⚠ DEEP RISK-OFF. **⚠ BP still $0 (69th poll, day 8)** — real BLOCKED; owner must verify •4713 in-app. REAL: PASS, flat. Regime: deep risk-off still deepening (SPY -1.55%, QQQ -3.20%), no stabilization. PAPER: NO entries (3rd straight stand-aside) — only RIVN +4.8% / RIG +2.5% green, rest red, no market-wide base. Don't force longs in all-day deep risk-off (10/22). Day paper: 0 trades. PAPER lifetime: 61 closed, 26W/35L, net +2.22R, no open positions. Lifetime real 2W/6L -$0.52. Options/crypto/margin OFF. Prior EOD history below. ⟶
+**Last updated:** 2026-10-30 (Fri, engine pass 4 ~1:09 ET / 17:09Z) — ⚠ DEEP RISK-OFF. **⚠ BP still $0 (70th poll, day 8)** — real BLOCKED; owner must verify •4713 in-app. REAL: PASS, flat. Regime: risk-off still deepening (SPY -1.81%, QQQ -3.62%); RIVN fading (+2.6%), no stabilization. PAPER: NO entries (4th straight stand-aside) — relentless all-day deep risk-off, correct to not trade. Day paper: 0 trades. PAPER lifetime: 61 closed, 26W/35L, net +2.22R, no open positions. Lifetime real 2W/6L -$0.52. Options/crypto/margin OFF. Prior EOD history below. ⟶
 
 ---
 

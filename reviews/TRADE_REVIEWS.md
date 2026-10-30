@@ -1964,3 +1964,7 @@ Tally: REAL −$0.45 lifetime, FLAT, 0 trades today (7 passes); PAPER open P-003
 ### 2026-10-30 ~12:44 ET (16:44Z) — engine pass 3
 - Real: PASS, BP $0 (69th poll, day 8). Risk-off still deepening (SPY -1.55%, QQQ -3.20%), no stabilization.
 - No paper entries (3rd straight stand-aside). Only RIVN +4.8% (12.00) and RIG +2.5% green; everything else red, no market-wide base. Genuine all-day deep risk-off → don't force longs (10/22 lesson). Day paper flat (0 trades).
+
+### 2026-10-30 ~1:09 ET (17:09Z) — engine pass 4
+- Real: PASS, BP $0 (70th poll, day 8). Risk-off still deepening (SPY -1.81%, QQQ -3.62%). RIVN fading to +2.6% (RS eroding); no stabilization.
+- No paper entries (4th straight stand-aside). Relentless all-day deep risk-off → correct to not trade. Day paper: 0 trades.
