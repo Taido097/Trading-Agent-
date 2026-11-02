@@ -2002,3 +2002,15 @@ Tally: REAL −$0.45 lifetime, FLAT, 0 trades today (7 passes); PAPER open P-003
 ### 2026-11-02 ~2:05 ET (19:05Z) — engine pass 5
 - Real: PASS, BP $0 (79th poll, day 9). Relief bounce FULLY FADED: QQQ -0.40% (red), SPY +0.11%. Dead-cat confirmed.
 - **AAL (0062) OPEN -0.70R:** rolled to 13.09 (just above 13.05 stop), now 13.115. Bounce didn't hold past midday (dead-cat caution was right). Stop 0.04 below; holding to stop/EOD, no new adds.
+
+---
+### 2026-11-02 — Engine pass 7 (EOD, ~3:05 ET / 20:05Z) — LAST PASS OF DAY
+
+**REAL:** BP $0 (80th poll, day 9). Flat all day, PASS. $20 preserved. The BP-$0 block cost a 2nd genuine clean ORB real setup this week (AAL this AM; CLF on 10/29) — both logged to REJECTED_TRADES. Owner must verify •4713 in-app before real resumes.
+
+**PAPER flatten — AAL (0062):** Hit the 13.05 stop at 19:20Z (bar low 13.03). Entry 13.27, 181sh, −1.00R (−$39.82). MFE +0.57R (HOD 13.395 @ 15:55Z), MAE −1.09R.
+- **What happened:** Clean ORB break-and-hold on what looked like a confirming relief-bounce AM (SPY/QQQ +0.6% at the open). Peaked +0.57R mid-morning, never tagged +1R, then ground lower all afternoon as the bounce rolled over. QQQ went red (−0.71% close); the RS leader followed the tape down into the stop.
+- **Rule check:** OK. Stop was placed below the OR base (wider, per whipsaw lesson) and it did its job — a clean −1R, not a rule break. Partials-at-1R plan never triggered because price never reached +1R after the morning.
+- **Lesson confirmed (#5, dead-cat bounce):** a post-rout first bounce that opens strong but comes on a tape that can't hold green is a dead-cat — the index roll drags even the RS leaders. The AM "confirmation" (indices holding +0.6%) was not durable confirmation. Next time: on a first-bounce-after-rout day, demand the index still green by late morning before trusting follow-through, and take partials faster.
+
+**EOD:** flat, nothing held overnight.
