@@ -1994,3 +1994,7 @@ Tally: REAL −$0.45 lifetime, FLAT, 0 trades today (7 passes); PAPER open P-003
 ### 2026-11-02 ~12:16 ET (17:16Z) — engine pass 3
 - Real: PASS, BP $0 (77th poll, day 9). Bounce cooling (SPY +0.54%, QQQ +0.41%, off highs).
 - **AAL (0062) OPEN +0.13R:** pulled from 13.395 high to 13.20 (held 13.05 stop), chopping 13.26-13.35, now 13.299. Dead-money but green; stop/tgt intact. Holding, no new adds.
+
+### 2026-11-02 ~1:05 ET (18:05Z) — engine pass 4
+- Real: PASS, BP $0 (78th poll, day 9). Bounce fading (SPY +0.41%, QQQ +0.23%).
+- **AAL (0062) OPEN -0.48R:** rolled from 13.30 to 13.12 low (now 13.165) as the relief bounce faded; MFE was +0.57R early. Stop 13.05 held, tgt 13.71 far. Dead-cat caution playing out; holding to stop/EOD, no new adds.
