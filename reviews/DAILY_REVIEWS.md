@@ -1893,3 +1893,26 @@ Excluded: CCL(26)/KEY/RF/SIRI/AMCR/KGC(22) >$19; CHPT wide spread; BTG/MARA/RIOT
 4. **Stand aside in sustained deep risk-off** (Fri): no trade is the trade; the lone RS name still cracked.
 
 **Next (Mon 11/03):** watch for stabilization/bounce after the rout, or continuation lower. If the market bounces and breadth broadens, the base-breakout playbook is back; if it keeps bleeding, stay defensive/stand-aside. Real account STILL gated on BP > $0 — owner must check ••••4713 (8 days at $0).
+
+---
+
+## 2026-11-02 (Mon) — PRE-MARKET PREP / watchlist
+
+**Real $20 (••••4713):** Reconciled — FLAT, no open orders. **BP still $0 (74th poll, day 9 of the anomaly).** Real trading remains hard-blocked; owner still needs to verify the account in-app. Lifetime real 2W/6L, -$0.52.
+
+**Regime (pre-market ~9:05 ET, now EST):** BROAD RELIEF BOUNCE after Friday's -3.5% QQQ rout. SPY 759.6 (+0.52% vs Fri close), QQQ 696.1 (+0.82%). Nearly everything green pre-market: RIVN +4.2%, AAL +3.4%, NCLH +3.1%/CCL +3.0% (cruise), metals bouncing together (KGC +2.9%, HL +2.6%, BTG +2.6%), crypto-miners +2% (MARA/RIOT). Only RIG red (-4.2%, oil reversing Fri's gain).
+
+**Event risk:** Post-rout relief bounce; first week of November (NFP jobs report Fri 11/06 later this week). No major scheduled macro today. CAVEAT: a first bounce after a sharp multi-day rout can be a dead-cat — confirm names HOLD intraday before trusting the pop (10/26 & 10/30 lesson).
+
+**WIDE SCREEN → ranked watchlist (affordable <=~$19, liquid, spread <=~0.5%):**
+| Rank | Ticker | Px(pre) | %chg | Note |
+|------|--------|---------|------|------|
+| 1 | AAL | 13.03 | +3.4% | Airline bounce, clean affordable, tight; fresh (not multi-day-extended) |
+| 2 | NCLH | 18.12 | +3.1% | Cruise bounce; CCL +3.0% confirms the group |
+| 3 | RIVN | 12.67 | +4.2% | Strongest sustained RS (EV) — but now ~+10% over 2 sessions = EXTENDED; want pullback/base, not chase (O002) |
+| 4 | HL | 13.88 | +2.6% | Silver/metals bounce; KGC +2.9% / BTG +2.6% confirm the group |
+| — | SOFI / F / CLF | 17.02 / 12.39 / 14.40 | +1.1-1.5% | Milder monitors |
+
+**Dropped on screen:** CCL 29.7 / KEY / RF / SIRI / AMCR (>$19); CHPT (spread 9.35/9.83 wide); RIG (reversing down -4.2%).
+
+**Plan:** relief-bounce day — favor the FRESH affordable RS leaders (AAL, cruise group) HOLDING above the open on an ORB/pullback, NOT chasing the pre-market pop (dead-cat risk after the rout). RIVN is strongest but extended (prefer its pullback). Apply the week's lessons: confirm intraday follow-through; on a bounce take partials at 1R if the broad tape wobbles. Real stays PASS (BP $0). Decision routine ~10:05 ET.
