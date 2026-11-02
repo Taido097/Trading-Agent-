@@ -5,7 +5,7 @@
 > intent and status; it is NOT the brokerage record (that comes from
 > reconciliation).
 
-**Last updated:** 2026-11-02 (Mon, OR decision ~9:47 ET / 14:47Z). **⚠ BP still $0 (75th poll, day 9) — and today it blocked a 2nd genuine setup this week (AAL ORB, after CLF 10/29).** Real BLOCKED; owner MUST verify •4713 in-app. REAL: OR-decision PASS (BP block ONLY; AAL ORB qualified). Regime: relief bounce confirming (SPY +0.58%, QQQ +0.69%). PAPER: AAL (0062) 13.27 ORB open (also the blocked real setup); stop 13.05/tgt 13.71. PAPER lifetime: 61 closed, 26W/35L, net +2.22R + 1 open. Lifetime real 2W/6L -$0.52. Options/crypto/margin OFF. Prior EOD history below. ⟶
+**Last updated:** 2026-11-02 (Mon, engine pass 2 ~11:05 ET / 16:05Z). **⚠ BP still $0 (76th poll, day 9)** — real BLOCKED (AAL ORB blocked this AM, 2nd setup lost this week). Owner must verify •4713 in-app. REAL: PASS, flat. Regime: relief bounce holding (SPY +0.72%, QQQ +0.75%). PAPER: AAL (0062) OPEN +0.30R (13.335; ground to 13.395 high, stop 13.05/tgt 13.71). Holding, no new adds. PAPER lifetime: 61 closed, 26W/35L, net +2.22R + 1 open. Lifetime real 2W/6L -$0.52. Options/crypto/margin OFF. Prior EOD history below. ⟶
 
 ---
 
