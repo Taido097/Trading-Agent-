@@ -2014,3 +2014,11 @@ Tally: REAL −$0.45 lifetime, FLAT, 0 trades today (7 passes); PAPER open P-003
 - **Lesson confirmed (#5, dead-cat bounce):** a post-rout first bounce that opens strong but comes on a tape that can't hold green is a dead-cat — the index roll drags even the RS leaders. The AM "confirmation" (indices holding +0.6%) was not durable confirmation. Next time: on a first-bounce-after-rout day, demand the index still green by late morning before trusting follow-through, and take partials faster.
 
 **EOD:** flat, nothing held overnight.
+
+---
+### 2026-11-03 — Engine pass 1 (~10:05 ET / 15:05Z)
+**REAL:** flat, BP $0 (day 10) — PASS.
+**PAPER:** opened 2 longs, both in the day's only strong theme (crypto-miners / BTC strength) on a narrow tape where most affordable cyclicals were red:
+- **RIOT (0063)** 12.90, stop 12.62, tgt 13.46 — higher-lows staircase continuation under 13.02 HOD. +9% on day but orderly (not a spike), so O002-compliant.
+- **MARA (0064)** 6.78, stop 6.66, tgt 7.02 — coil under 6.85 HOD. Correlated with RIOT (same BTC driver) — logged the concentration caveat; this is the narrow-breadth lesson in action (only the leaders are worth longs today).
+**Skipped:** RIVN (poked 13.50 OR high then rejected to 13.36 = failed breakout), and all red cyclicals (negative RS vs tape). Devil's advocate on the 2 opens: both ride one driver, so a BTC reversal stops both together — accepted for learning volume, sized to $40 risk each.

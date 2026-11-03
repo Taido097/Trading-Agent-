@@ -5,7 +5,7 @@
 > intent and status; it is NOT the brokerage record (that comes from
 > reconciliation).
 
-**Last updated:** 2026-11-02 (Mon, EOD / engine pass 7 ~3:05 ET / 20:05Z — last pass of day). **⚠ BP still $0 (80th poll, day 9)** — real BLOCKED all day. Owner must verify •4713 in-app. REAL: PASS, flat (day 9 flat — $20 preserved). Cost 2 genuine live ORB setups this week (CLF 10/29, AAL 11/02), both logged to REJECTED. Regime: relief bounce was a DEAD-CAT — opened +0.6% (SPY/QQQ) then rolled; closed SPY -0.06% (755.28), QQQ -0.71% (685.57). PAPER: flattened AAL (0062) at 13.05 stop (19:20Z) = -1.00R; valid setup, breadth fade (week lesson #5 confirmed). Flat into close, no overnight. PAPER lifetime: 62 closed, 26W/36L, net +1.22R. Lifetime real 2W/6L -$0.52. Options/crypto/margin OFF. Next: Tue 11/03 pre-market prep ~9:15 ET. Prior EOD history below. ⟶
+**Last updated:** 2026-11-03 (Tue, engine pass 1 ~10:05 ET / 15:05Z). **⚠ BP still $0 (day 10)** — real BLOCKED, FLAT, PASS. Owner must verify •4713 in-app. Crons re-aligned to EST (prep 14:15Z, decision 14:47Z, engine 15-21Z). Regime: NARROW risk-on — QQQ +0.52%, SPY +0.15%, but breadth weak (F/VALE/NCLH/AAL/CLF all red); crypto-miners the sole strong theme (BTC). PAPER: opened 2 longs on the leaders — RIOT (0063) 12.90, stop 12.62, tgt 13.46 (higher-lows continuation); MARA (0064) 6.78, stop 6.66, tgt 7.02 (coil-under-HOD; correlated w/ RIOT, noted). Skipped RIVN (failed breakout at 13.50) + red cyclicals. PAPER lifetime: 62 closed, 26W/36L, net +1.22R + 2 open. Lifetime real 2W/6L -$0.52. Options/crypto/margin OFF. Prior EOD history below. ⟶
 
 ---
 
