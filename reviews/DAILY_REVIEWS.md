@@ -1968,3 +1968,10 @@ Dropped — over ~$19 budget: KGC 20.40, CCL 29.80, KEY 21.49, RF 28.97, SIRI 30
 **Plan:** No trade in prep. Decision routine (now 9:47 ET) reads opening ranges on the Tier-1 names; real stays PASS until BP > $0. Crypto-miner RS (RIOT/MARA) is the cleanest theme but low-priced — demand a real break-and-hold, not a spike.
 
 **9:20 ET refresh (14:20Z, 10 min pre-open):** Tape FIRMED — SPY 752.86 (+0.10%, flipped green), QQQ 685.44 (+0.64%). Risk-on tilt into the open. RS leaders confirmed/strengthening: RIOT 12.17 (+2.8%), MARA 6.59 (+2.5%) — crypto-miner theme leads; SOFI 16.79 (+1.1%), RIVN 13.38 (+1.4%) firming and beating SPY. VALE flipped red (−0.4%), HBAN weak → both demoted. REAL ••••4713 still FLAT, BP $0 (day 10). Decision routine (9:47 ET) will read opening ranges on RIOT/MARA/SOFI/RIVN. Real stays PASS until BP > $0; paper engine (10:03 ET first pass) hunts the crypto-miner + fintech RS longs on a confirmed break-and-hold (not the spike).
+
+**9:47 ET opening-range decision (14:47Z):** REAL = **PASS, no trade.** ••••4713 flat, BP $0 (day 10 — hard block). Separately, no clean entry even if funded:
+- RIOT (OR high 12.33) now 12.675 (+7.0%) — broke & held but extended ~2.8% above OR high → chase (O002). Logged to REJECTED.
+- MARA (OR high 6.625) 6.75 (+5.0%) — extended, low-priced.
+- RIVN (OR high 13.50) 13.355 — coiling under OR high, higher lows (12.97→13.09→13.33); cleanest structure but NOT triggered (needs hold >13.50). Watch.
+- SOFI faded into range (16.54–16.69), no break.
+Regime holding risk-on: SPY +0.18%, QQQ +0.67%. Crypto-miner RS is extreme (RIOT +7%, MARA +5% — BTC strength) but too extended to chase. Hand-off to engine (first pass 10:03 ET) for paper longs on a break-and-hold / pullback-hold — no chasing the spike.
