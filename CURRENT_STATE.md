@@ -5,7 +5,7 @@
 > intent and status; it is NOT the brokerage record (that comes from
 > reconciliation).
 
-**Last updated:** 2026-11-03 (Tue, engine pass 3 ~12:05 ET / 17:05Z). **⚠ BP still $0 (day 10)** — real BLOCKED, FLAT, PASS. Owner must verify •4713 in-app. Regime: risk-on easing into midday — SPY +0.37%, QQQ +0.77% (off the AM highs). PAPER: MARA (0064) hit target +2.0R; SOFI (0065) whipsaw-stopped -1.0R (tagged 16.64 to the penny then bounced — stop too tight). FLAT now (0 open). No new entries (miners parabolic/no-chase, midday chop). Day realized: RIOT +2, MARA +2, SOFI -1 = +3R. PAPER lifetime: 65 closed, 28W/37L, net +4.22R. Lifetime real 2W/6L -$0.52. Options/crypto/margin OFF. Prior EOD history below. ⟶
+**Last updated:** 2026-11-03 (Tue, engine pass 4 ~1:05 ET / 18:05Z). **⚠ BP still $0 (day 10)** — real BLOCKED, FLAT, PASS. Owner must verify •4713 in-app. Regime: risk-on afternoon, split breadth — SPY +0.48%, QQQ +0.88% green; cyclicals red (NCLH -2.9%, VALE -2.8%, RIG -5%, AAL -1.6%). PAPER: FLAT, no new entries — leaders (RIOT +16%/MARA +10%) parabolic (no-chase O002); SNAP coiling under 5.64 HOD on FADING volume (watch for volume-backed break, not anticipating). Day realized +3R (RIOT+2, MARA+2, SOFI-1). PAPER lifetime: 65 closed, 28W/37L, net +4.22R, 0 open. Lifetime real 2W/6L -$0.52. Options/crypto/margin OFF. Prior EOD history below. ⟶
 
 ---
 

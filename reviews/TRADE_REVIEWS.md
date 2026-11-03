@@ -2039,3 +2039,8 @@ Tally: REAL −$0.45 lifetime, FLAT, 0 trades today (7 passes); PAPER open P-003
 - SOFI (0065) → **−1.0R** whipsaw. Tagged the 16.64 stop to the penny (16:30Z bar low 16.640) then immediately bounced to 16.72. **LESSON (whipsaw, repeat):** my stop at 16.64 was only ~3c below the coil top 16.67 — I called it "wider per the whipsaw lesson" but it wasn't; it sat right at the base. A breakout's first pullback usually retests the base, so the stop needed to be below the pre-breakout range low (~16.55-16.58). This is the SAME mistake the whipsaw lesson exists for — placing the stop at, not meaningfully below, the base. Re-flag it.
 **PAPER new:** none. Miners parabolic (+15%/+9%, no-chase O002), RIVN dead, SNAP marginal grind, midday chop — no clean setup. Didn't force a revenge trade after the SOFI stop (discipline).
 **Day realized so far: +3R** (RIOT +2, MARA +2, SOFI −1). Book flat.
+
+---
+### 2026-11-03 — Engine pass 4 (~1:05 ET / 18:05Z)
+**REAL:** flat, BP $0 — PASS.
+**PAPER:** no new, book flat. Leaders RIOT (+16%)/MARA (+10%) parabolic — no-chase (O002). SOFI chopping post-whipsaw, RIVN dead, cyclicals red. SNAP (+3.2%, day's #3 RS) coiling 5.60-5.635 under 5.64 HOD but on FADING volume (692k push -> 57-235k coil) = waning momentum. Declined: taking a weaker setup than the SOFI one I just lost on, in the afternoon, to hit a volume quota = the exact edge-erosion the lessons warn against. SNAP on WATCH for a volume-backed break of 5.64 (trigger-based, not anticipatory). Discipline > volume this pass.
