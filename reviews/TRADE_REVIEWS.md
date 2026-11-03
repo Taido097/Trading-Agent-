@@ -2030,3 +2030,12 @@ Tally: REAL −$0.45 lifetime, FLAT, 0 trades today (7 passes); PAPER open P-003
 **PAPER new:** SOFI (0065) long 16.80 — base breakout-and-hold reclaiming the OR high 16.81 on expanding volume; stop 16.64, target 17.12 (2:1). Adds a non-miner theme as breadth broadened (SPY/QQQ pushed to +0.5%/+1.0%).
 **Skipped:** SNAP (slow low-priced grind to a marginal HOD, thin-whipsaw risk), RIVN (earlier failed 13.50 breakout), red cyclicals.
 **Note:** tape flipped from AM-narrow to broadening risk-on — breakouts more trustworthy now than at 10am, so added a breakout (SOFI) where at 10:05 I'd only take continuations. Breadth-decides lesson cutting the right way today.
+
+---
+### 2026-11-03 — Engine pass 3 (~12:05 ET / 17:05Z)
+**REAL:** flat, BP $0 — PASS.
+**PAPER manage (both opens closed):**
+- MARA (0064) → **+2.0R** (target 7.02 at 16:25Z; ran to 7.08). Both miners (RIOT+MARA) won today on BTC strength — correlated pair paid off this time, but the concentration risk was real.
+- SOFI (0065) → **−1.0R** whipsaw. Tagged the 16.64 stop to the penny (16:30Z bar low 16.640) then immediately bounced to 16.72. **LESSON (whipsaw, repeat):** my stop at 16.64 was only ~3c below the coil top 16.67 — I called it "wider per the whipsaw lesson" but it wasn't; it sat right at the base. A breakout's first pullback usually retests the base, so the stop needed to be below the pre-breakout range low (~16.55-16.58). This is the SAME mistake the whipsaw lesson exists for — placing the stop at, not meaningfully below, the base. Re-flag it.
+**PAPER new:** none. Miners parabolic (+15%/+9%, no-chase O002), RIVN dead, SNAP marginal grind, midday chop — no clean setup. Didn't force a revenge trade after the SOFI stop (discipline).
+**Day realized so far: +3R** (RIOT +2, MARA +2, SOFI −1). Book flat.
