@@ -2044,3 +2044,8 @@ Tally: REAL −$0.45 lifetime, FLAT, 0 trades today (7 passes); PAPER open P-003
 ### 2026-11-03 — Engine pass 4 (~1:05 ET / 18:05Z)
 **REAL:** flat, BP $0 — PASS.
 **PAPER:** no new, book flat. Leaders RIOT (+16%)/MARA (+10%) parabolic — no-chase (O002). SOFI chopping post-whipsaw, RIVN dead, cyclicals red. SNAP (+3.2%, day's #3 RS) coiling 5.60-5.635 under 5.64 HOD but on FADING volume (692k push -> 57-235k coil) = waning momentum. Declined: taking a weaker setup than the SOFI one I just lost on, in the afternoon, to hit a volume quota = the exact edge-erosion the lessons warn against. SNAP on WATCH for a volume-backed break of 5.64 (trigger-based, not anticipatory). Discipline > volume this pass.
+
+---
+### 2026-11-03 — Engine pass 5 (~2:05 ET / 19:05Z)
+**REAL:** flat, BP $0 — PASS.
+**PAPER:** no new, flat. SNAP watch resolved: it poked 5.64 twice (18:10/18:15) but failed to break-and-hold, fading to 5.60 — the pass-4 decision to require a volume-backed break was validated (no chase of a stalling coil). Leaders RIOT/MARA still parabolic (no-chase). SOFI (16.77) & RIVN (13.36) recovered but remain below their pivots (16.85 / 13.50) — no trigger. 3rd straight no-entry pass: honest read of a tape whose only strong names ran away early; not forcing volume.
