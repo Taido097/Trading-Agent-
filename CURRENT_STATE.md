@@ -5,7 +5,7 @@
 > intent and status; it is NOT the brokerage record (that comes from
 > reconciliation).
 
-**Last updated:** 2026-11-03 (Tue, engine pass 1 ~10:05 ET / 15:05Z). **⚠ BP still $0 (day 10)** — real BLOCKED, FLAT, PASS. Owner must verify •4713 in-app. Crons re-aligned to EST (prep 14:15Z, decision 14:47Z, engine 15-21Z). Regime: NARROW risk-on — QQQ +0.52%, SPY +0.15%, but breadth weak (F/VALE/NCLH/AAL/CLF all red); crypto-miners the sole strong theme (BTC). PAPER: opened 2 longs on the leaders — RIOT (0063) 12.90, stop 12.62, tgt 13.46 (higher-lows continuation); MARA (0064) 6.78, stop 6.66, tgt 7.02 (coil-under-HOD; correlated w/ RIOT, noted). Skipped RIVN (failed breakout at 13.50) + red cyclicals. PAPER lifetime: 62 closed, 26W/36L, net +1.22R + 2 open. Lifetime real 2W/6L -$0.52. Options/crypto/margin OFF. Prior EOD history below. ⟶
+**Last updated:** 2026-11-03 (Tue, engine pass 2 ~11:05 ET / 16:05Z). **⚠ BP still $0 (day 10)** — real BLOCKED, FLAT, PASS. Owner must verify •4713 in-app. Regime: risk-on BROADENING — SPY +0.53%, QQQ +1.05% (breadth improving vs AM narrow tape). PAPER: RIOT (0063) hit target +2.0R (miner continuation worked). OPEN: MARA (0064) +1.9R near 7.02 tgt; SOFI (0065) 16.80 new base-breakout, stop 16.64, tgt 17.12. Skipped SNAP (low-priced grind), RIVN (failed breakout). PAPER lifetime: 63 closed, 27W/36L, net +3.22R + 2 open. Lifetime real 2W/6L -$0.52. Options/crypto/margin OFF. Prior EOD history below. ⟶
 
 ---
 

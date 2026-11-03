@@ -2022,3 +2022,11 @@ Tally: REAL −$0.45 lifetime, FLAT, 0 trades today (7 passes); PAPER open P-003
 - **RIOT (0063)** 12.90, stop 12.62, tgt 13.46 — higher-lows staircase continuation under 13.02 HOD. +9% on day but orderly (not a spike), so O002-compliant.
 - **MARA (0064)** 6.78, stop 6.66, tgt 7.02 — coil under 6.85 HOD. Correlated with RIOT (same BTC driver) — logged the concentration caveat; this is the narrow-breadth lesson in action (only the leaders are worth longs today).
 **Skipped:** RIVN (poked 13.50 OR high then rejected to 13.36 = failed breakout), and all red cyclicals (negative RS vs tape). Devil's advocate on the 2 opens: both ride one driver, so a BTC reversal stops both together — accepted for learning volume, sized to $40 risk each.
+
+---
+### 2026-11-03 — Engine pass 2 (~11:05 ET / 16:05Z)
+**REAL:** flat, BP $0 — PASS.
+**PAPER manage:** RIOT (0063) hit target 13.46 (+2.0R) at 15:40Z — the orderly higher-lows continuation thesis paid; it ran on to 13.68 after exit (left some on the table by taking the fixed target, acceptable for the mechanical rule). MARA (0064) at +1.9R, 7.01 vs 7.02 target — left OPEN per the rule (one tick short); stop never threatened.
+**PAPER new:** SOFI (0065) long 16.80 — base breakout-and-hold reclaiming the OR high 16.81 on expanding volume; stop 16.64, target 17.12 (2:1). Adds a non-miner theme as breadth broadened (SPY/QQQ pushed to +0.5%/+1.0%).
+**Skipped:** SNAP (slow low-priced grind to a marginal HOD, thin-whipsaw risk), RIVN (earlier failed 13.50 breakout), red cyclicals.
+**Note:** tape flipped from AM-narrow to broadening risk-on — breakouts more trustworthy now than at 10am, so added a breakout (SOFI) where at 10:05 I'd only take continuations. Breadth-decides lesson cutting the right way today.
