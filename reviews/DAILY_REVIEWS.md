@@ -1935,3 +1935,34 @@ Excluded: CCL(26)/KEY/RF/SIRI/AMCR/KGC(22) >$19; CHPT wide spread; BTG/MARA/RIOT
 2. Stop discipline held: the wider-than-base stop produced a clean −1R with no whipsaw-and-reverse regret.
 
 **Tomorrow (Tue 11/03):** Watch whether 11/02 was a true dead-cat (follow-through lower) or a base. Pre-market prep ~9:15 ET. Keep real PASS until BP > $0; flag the block to owner again.
+
+---
+## 2026-11-03 (Tue) — PRE-MARKET PREP (~8:20 ET / 13:20Z)
+
+**⚙ Cron fix:** US clocks now on EST. Shifted all three routines +1h to restore ET alignment — prep 14:15Z (9:15 ET), opening-range decision 14:47Z (9:47 ET), intraday engine 15–21Z (10a–4p ET, 7 passes). Previously they fired ~1h early; the decision routine would have fired at 8:47 ET (before the open, no opening range). Done per each routine's own EST-shift note.
+
+**REAL ••••4713:** FLAT. 0 positions, 0 orders. **BP = $0 (day 10 of the block).** Reconciled, matches internal state. Real trading remains BLOCKED. 👉 Owner must verify the account/buying power in the Robinhood app — the block has cost 2 genuine live ORB setups (CLF 10/29, AAL 11/02).
+
+**Regime (pre-market vs 11/02 close):** Mixed/flat. SPY 751.29 (−0.11%), QQQ 683.44 (+0.35%). Monday was a down day (dead-cat confirmed: SPY 755.72→752.10). Tech slightly firmer than broad tape this AM. Low-conviction open; treat as a flat/mixed tape → tighten criteria, favor coils/pullbacks over raw breakouts (standing lesson).
+
+**Event risk:** No top-tier macro print I can confirm for today. Week risk = monthly jobs report Fri 11/6. Earnings season ongoing — individual names can gap. (No live econ-calendar tool; flagging from the calendar, not a feed.)
+
+**WIDE SCREEN → watchlist (hard screen: 1 whole share ≤ ~$19 w/ buffer, liquid, spread ≤ ~0.5%, stop > spread; ranked by pre-market RS vs SPY/QQQ). NB pre-market spreads are inflated — re-screen spread at the open.**
+
+Tier 1 — RS leaders (watch for break-and-hold / pullback-hold at open):
+- **RIOT 12.03 (+1.6%)** — crypto-miner RS leader, BTC strength. Spread tight regular-hrs. Top RS.
+- **MARA 6.51 (+1.2%)** — crypto miner, same theme; $6 low-priced, confirm stop > spread.
+- **SOFI 16.67 (+0.4%)** — fintech, clean/liquid, spread ~0.24%. Reliable name.
+- **RIVN 13.25 (+0.5%)** — EV; positive RS but CHOPPY/extended history (O-lessons) → only a clean pullback-hold, no chasing.
+
+Tier 2 — affordable, neutral RS (need the open to confirm):
+- F 12.61 (+0.1%), VALE 11.33 (−0.1%), HBAN 15.91 (flat-ish).
+
+Weak / avoid longs today (negative RS, continuation-down risk):
+- AAL 13.00 (−0.6%, faded from yest stop), HL 13.33 (−1.6%, gold pulling back), NCLH 17.73 (−1.2%), CLF 14.12 (−1.1%).
+
+Flag / re-check at open (price or spread issues pre-market): SNAP 5.45 (spread ~1.3%, $5 stop<spread risk), CHPT 9.85 (illiquid pre-mkt, spread blown out), BTG 4.71 / RIG 6.23 (low-priced, stop<spread risk).
+
+Dropped — over ~$19 budget: KGC 20.40, CCL 29.80, KEY 21.49, RF 28.97, SIRI 30.27, AMCR 48.42. KVUE: no quote returned (likely delisted/M&A) — removing from active universe pending check.
+
+**Plan:** No trade in prep. Decision routine (now 9:47 ET) reads opening ranges on the Tier-1 names; real stays PASS until BP > $0. Crypto-miner RS (RIOT/MARA) is the cleanest theme but low-priced — demand a real break-and-hold, not a spike.
