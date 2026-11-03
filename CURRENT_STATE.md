@@ -5,7 +5,7 @@
 > intent and status; it is NOT the brokerage record (that comes from
 > reconciliation).
 
-**Last updated:** 2026-11-03 (Tue, engine pass 6 ~3:05 ET / 20:05Z). **⚠ BP still $0 (day 10)** — real BLOCKED, FLAT, PASS. Owner must verify •4713 in-app. Regime: cooling into the close — SPY +0.22%, QQQ +0.45% (off highs); leaders fading, SNAP rolled over. PAPER: FLAT, no new (late-day fade, O003). Day realized +3R (RIOT+2, MARA+2, SOFI-1). PAPER lifetime: 65 closed, 28W/37L, net +4.22R, 0 open. Lifetime real 2W/6L -$0.52. Options/crypto/margin OFF. Next: pass 7 ~4pm ET (EOD wrap). Prior EOD history below. ⟶
+**Last updated:** 2026-11-03 (Tue, EOD / engine pass 7 ~4pm ET / 21:05Z — close). **⚠ BP still $0 (day 10)** — real BLOCKED all day, FLAT, $20 preserved, zero real trades. Owner must verify •4713 in-app. Close: SPY +0.31% (754.40), QQQ +0.63% (685.34) — green day, split breadth (crypto-miners + tech led; cyclicals red). PAPER day: RIOT +2.0R, MARA +2.0R, SOFI -1.0R = **+3.0R** (2W/1L), flat into close, no overnight. Key lesson: SOFI whipsaw (stop at base not below it — closed above my stop). PAPER lifetime: 65 closed, 28W/37L, net +4.22R, 0 open. Lifetime real 2W/6L -$0.52. Options/crypto/margin OFF. Next: Wed 11/04 pre-market prep ~9:15 ET. Prior EOD history below. ⟶
 
 ---
 

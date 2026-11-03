@@ -2054,3 +2054,8 @@ Tally: REAL −$0.45 lifetime, FLAT, 0 trades today (7 passes); PAPER open P-003
 ### 2026-11-03 — Engine pass 6 (~3:05 ET / 20:05Z)
 **REAL:** flat, BP $0 — PASS.
 **PAPER:** no new, flat. Tape cooling into the last hour (SPY +0.22%, QQQ +0.45%, off highs); RIOT/MARA easing off highs, SNAP rolled over below its coil, cyclicals red. Late-day fade = no breakout environment (O003). Holding flat into the close; EOD wrap next pass.
+
+---
+### 2026-11-03 — Engine pass 7 (EOD close, ~4pm ET / 21:05Z) — LAST PASS
+**REAL:** flat, BP $0 (day 10) — PASS. $20 preserved. Zero real trades (blocked all day).
+**PAPER:** book already flat (nothing to flatten). Day closed +3.0R (RIOT +2, MARA +2, SOFI −1). Closing marks confirmed: RIOT +18%, MARA +12% (strong-trend leaders — fixed 2R targets left gains behind), SOFI 16.785 (above my 16.64 stop = whipsaw confirmed). Full EOD wrap + lessons in DAILY_REVIEWS. Lifetime 65 closed, 28W/37L, +4.22R.

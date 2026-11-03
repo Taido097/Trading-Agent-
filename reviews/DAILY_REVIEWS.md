@@ -1975,3 +1975,26 @@ Dropped — over ~$19 budget: KGC 20.40, CCL 29.80, KEY 21.49, RF 28.97, SIRI 30
 - RIVN (OR high 13.50) 13.355 — coiling under OR high, higher lows (12.97→13.09→13.33); cleanest structure but NOT triggered (needs hold >13.50). Watch.
 - SOFI faded into range (16.54–16.69), no break.
 Regime holding risk-on: SPY +0.18%, QQQ +0.67%. Crypto-miner RS is extreme (RIOT +7%, MARA +5% — BTC strength) but too extended to chase. Hand-off to engine (first pass 10:03 ET) for paper longs on a break-and-hold / pullback-hold — no chasing the spike.
+
+---
+## 2026-11-03 (Tue) — EOD WRAP (4pm ET close)
+
+**Close:** SPY 754.40 (+0.31%), QQQ 685.34 (+0.63%) — a genuine green day after Monday's dip, but on SPLIT breadth: a huge crypto-miner move (BTC strength) and firm tech carried it, while cyclicals/value lagged red most of the day (NCLH, VALE, RIG, AAL, F, HBAN).
+
+**REAL ••••4713:** FLAT all day — **day 10 of the BP-$0 block.** 0 positions, 0 orders, BP $0 on every poll. $20 preserved. Zero real trades (hard-blocked). 👉 Owner still needs to verify the account/buying power in the Robinhood app; real setup-gated trading resumes the instant BP > $0. Note: a clean affordable setup DID exist at the open (crypto-miners) — so the block again cost real opportunity, though by the time they were enterable they were extended.
+
+**PAPER:** 3 trades, all crypto-miner/fintech theme.
+- RIOT (0063) long 12.90 → target 13.46 = **+2.0R** (higher-lows staircase continuation; closed +18% on day — left a lot on the table vs the fixed target).
+- MARA (0064) long 6.78 → target 7.02 = **+2.0R** (coil-under-HOD; closed +12%).
+- SOFI (0065) long 16.80 → stopped 16.64 = **−1.0R** (whipsaw; closed the day at 16.785, ABOVE my stop — the shakeout confirmed).
+- **Day P&L: +3.0R** (2 wins, 1 loss). No overnight holds.
+
+**Lifetime paper:** 65 closed, 28W/37L, net **+4.22R**. Lifetime real 2W/6L, −$0.52.
+
+**Lessons today:**
+1. **Whipsaw (repeat, high-priority):** SOFI stop at 16.64 sat ~3c below the coil top (16.67) — at the base, not meaningfully below it. SOFI closed at 16.785, so the stop was pure shakeout. The whipsaw rule means stop BELOW the pre-breakout range low (~16.55-16.58 here), accepting a slightly smaller size. Second time this exact error has cost a trade — must internalize.
+2. **Breadth cut the right way:** only the miners had real RS; trading just the leaders and skipping red cyclicals produced 2 clean wins. Narrow-tape discipline worked.
+3. **Discipline > volume:** 4 straight no-trade passes (midday→close) when nothing clean/affordable set up; declined a weak SNAP grind. SNAP never triggered (closed 5.60, faded) — validated.
+4. **Observation (not yet a rule):** fixed 2R targets on parabolic trend-leaders (RIOT +18%, MARA +12% at close) left big gains behind. Worth testing a partial-at-2R + trail-the-runner variant on clear trend days — candidate hypothesis for a future pass.
+
+**Tomorrow (Wed 11/04):** watch whether the crypto-miner move has follow-through or mean-reverts (parabolic single-day moves often give back). Pre-market prep 9:15 ET. Real stays PASS until BP > $0; flag the block to owner again.
