@@ -1966,3 +1966,5 @@ Flag / re-check at open (price or spread issues pre-market): SNAP 5.45 (spread ~
 Dropped — over ~$19 budget: KGC 20.40, CCL 29.80, KEY 21.49, RF 28.97, SIRI 30.27, AMCR 48.42. KVUE: no quote returned (likely delisted/M&A) — removing from active universe pending check.
 
 **Plan:** No trade in prep. Decision routine (now 9:47 ET) reads opening ranges on the Tier-1 names; real stays PASS until BP > $0. Crypto-miner RS (RIOT/MARA) is the cleanest theme but low-priced — demand a real break-and-hold, not a spike.
+
+**9:20 ET refresh (14:20Z, 10 min pre-open):** Tape FIRMED — SPY 752.86 (+0.10%, flipped green), QQQ 685.44 (+0.64%). Risk-on tilt into the open. RS leaders confirmed/strengthening: RIOT 12.17 (+2.8%), MARA 6.59 (+2.5%) — crypto-miner theme leads; SOFI 16.79 (+1.1%), RIVN 13.38 (+1.4%) firming and beating SPY. VALE flipped red (−0.4%), HBAN weak → both demoted. REAL ••••4713 still FLAT, BP $0 (day 10). Decision routine (9:47 ET) will read opening ranges on RIOT/MARA/SOFI/RIVN. Real stays PASS until BP > $0; paper engine (10:03 ET first pass) hunts the crypto-miner + fintech RS longs on a confirmed break-and-hold (not the spike).
