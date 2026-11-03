@@ -2049,3 +2049,8 @@ Tally: REAL −$0.45 lifetime, FLAT, 0 trades today (7 passes); PAPER open P-003
 ### 2026-11-03 — Engine pass 5 (~2:05 ET / 19:05Z)
 **REAL:** flat, BP $0 — PASS.
 **PAPER:** no new, flat. SNAP watch resolved: it poked 5.64 twice (18:10/18:15) but failed to break-and-hold, fading to 5.60 — the pass-4 decision to require a volume-backed break was validated (no chase of a stalling coil). Leaders RIOT/MARA still parabolic (no-chase). SOFI (16.77) & RIVN (13.36) recovered but remain below their pivots (16.85 / 13.50) — no trigger. 3rd straight no-entry pass: honest read of a tape whose only strong names ran away early; not forcing volume.
+
+---
+### 2026-11-03 — Engine pass 6 (~3:05 ET / 20:05Z)
+**REAL:** flat, BP $0 — PASS.
+**PAPER:** no new, flat. Tape cooling into the last hour (SPY +0.22%, QQQ +0.45%, off highs); RIOT/MARA easing off highs, SNAP rolled over below its coil, cyclicals red. Late-day fade = no breakout environment (O003). Holding flat into the close; EOD wrap next pass.

@@ -5,7 +5,7 @@
 > intent and status; it is NOT the brokerage record (that comes from
 > reconciliation).
 
-**Last updated:** 2026-11-03 (Tue, engine pass 5 ~2:05 ET / 19:05Z). **⚠ BP still $0 (day 10)** — real BLOCKED, FLAT, PASS. Owner must verify •4713 in-app. Regime: steady risk-on — SPY +0.54%, QQQ +0.89%; breadth still split (cyclicals flat/red). PAPER: FLAT, no new (3rd straight pass). SNAP watch resolved — poked 5.64 twice, never held, now 5.60 (correct to pass). Leaders parabolic (no-chase); SOFI/RIVN below pivots. Day realized +3R. PAPER lifetime: 65 closed, 28W/37L, net +4.22R, 0 open. Lifetime real 2W/6L -$0.52. Options/crypto/margin OFF. Next: pass 6 ~3pm ET, pass 7 ~4pm ET (EOD). Prior EOD history below. ⟶
+**Last updated:** 2026-11-03 (Tue, engine pass 6 ~3:05 ET / 20:05Z). **⚠ BP still $0 (day 10)** — real BLOCKED, FLAT, PASS. Owner must verify •4713 in-app. Regime: cooling into the close — SPY +0.22%, QQQ +0.45% (off highs); leaders fading, SNAP rolled over. PAPER: FLAT, no new (late-day fade, O003). Day realized +3R (RIOT+2, MARA+2, SOFI-1). PAPER lifetime: 65 closed, 28W/37L, net +4.22R, 0 open. Lifetime real 2W/6L -$0.52. Options/crypto/margin OFF. Next: pass 7 ~4pm ET (EOD wrap). Prior EOD history below. ⟶
 
 ---
 
