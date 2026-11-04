@@ -2025,3 +2025,10 @@ Low-priced/thin flags: BTG 4.98, SNAP 5.72, RIG 5.86 (stop-vs-spread risk), CHPT
 Dropped >~$19: CCL 30.19, KEY 21.71, RF 29.21, SIRI 31.39, KGC 21.14.
 
 **Plan:** No trade in prep. Decision routine (9:47 ET) reads opening ranges on Tier-1 (HL, AAL, NCLH, F, RIVN). Broad green tape favors breakouts today — but gap-ups fade, so require break-and-HOLD. Real stays PASS until BP > $0; flag block to owner.
+
+**9:47 ET opening-range decision (14:47Z):** REAL = **PASS, no trade.** ••••4713 flat, BP $0 (day 11 — hard block). Separately, no confirmed trigger yet:
+- HL (OR high 14.77) 14.68 — gold RS leader +11%, strong staircase but consolidating just UNDER OR high; not yet broken-and-held. Top watch. (REJECTED logged.)
+- RIVN (OR high 14.31) 14.22 — reclaimed 13.50 decisively, strong; just under OR high, not triggered. #2.
+- AAL faded off the open (13.64→13.45) = dead-cat again; avoid (11/02 lesson).
+- F stalling under 12.75; skip.
+Tape ripping broad risk-on (SPY +1.80%, QQQ +1.97%). Good breakout environment — hand to engine (10:03 ET) for confirmed break-and-holds on HL/RIVN. Real PASS until BP > $0.
