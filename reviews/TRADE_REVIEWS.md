@@ -2059,3 +2059,12 @@ Tally: REAL −$0.45 lifetime, FLAT, 0 trades today (7 passes); PAPER open P-003
 ### 2026-11-03 — Engine pass 7 (EOD close, ~4pm ET / 21:05Z) — LAST PASS
 **REAL:** flat, BP $0 (day 10) — PASS. $20 preserved. Zero real trades (blocked all day).
 **PAPER:** book already flat (nothing to flatten). Day closed +3.0R (RIOT +2, MARA +2, SOFI −1). Closing marks confirmed: RIOT +18%, MARA +12% (strong-trend leaders — fixed 2R targets left gains behind), SOFI 16.785 (above my 16.64 stop = whipsaw confirmed). Full EOD wrap + lessons in DAILY_REVIEWS. Lifetime 65 closed, 28W/37L, +4.22R.
+
+---
+### 2026-11-04 — Engine pass 1 (~10:05 ET / 15:05Z)
+**REAL:** flat, BP $0 (day 11) — PASS.
+**PAPER new (2):** broad strong tape (SPY +1.8%, QQQ +2.0%), wide breadth — good breakout environment. Both leaders tested OR highs, got rejected, pulled back on declining volume → took the higher-lows pullback-continuation:
+- HL (0066) 14.50, stop 14.26, tgt 14.98 — gold-miner RS leader (+9.7%).
+- RIVN (0067) 14.17, stop 13.98, tgt 14.55 — reclaimed yesterday's 13.50 fakeout level.
+**Applied the SOFI whipsaw lesson:** both stops placed GENUINELY below the pullback lows (14.365→14.26; 14.06→13.98), not at the base. Testing whether I've internalized it.
+**Skipped:** AAL (opened 13.64, faded to 13.42 — dead-cat again, 11/02 lesson), SOFI (+5.2%, extended post-breakout), NCLH/F (fading).
