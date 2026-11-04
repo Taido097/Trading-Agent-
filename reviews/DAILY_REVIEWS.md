@@ -2032,3 +2032,24 @@ Dropped >~$19: CCL 30.19, KEY 21.71, RF 29.21, SIRI 31.39, KGC 21.14.
 - AAL faded off the open (13.64→13.45) = dead-cat again; avoid (11/02 lesson).
 - F stalling under 12.75; skip.
 Tape ripping broad risk-on (SPY +1.80%, QQQ +1.97%). Good breakout environment — hand to engine (10:03 ET) for confirmed break-and-holds on HL/RIVN. Real PASS until BP > $0.
+
+---
+## 2026-11-04 (Wed) — EOD WRAP (4pm ET close)
+
+**Close:** SPY 767.03 (+1.68%), QQQ 692.32 (+1.03%) — strong BROAD green day held into the close (big gap-up cooled midday but recovered). Wide breadth: gold miners led (HL +13%), cyclicals/airlines/cruises green. Opposite of Monday's narrow tape — and the breadth made breakouts/pullback-continuations work.
+
+**REAL ••••4713:** FLAT all day — **day 11 of the BP-$0 block.** 0 positions, 0 orders, BP $0 every poll. $20 preserved. Zero real trades (hard-blocked). 👉 Owner still needs to verify account/buying power in the Robinhood app; real resumes the instant BP > $0. (At the open, HL/RIVN were strong but not yet confirmed-triggered, so even funded this wasn't a clean open entry — the mid-morning pullback-hold was the spot, which the engine took in paper.)
+
+**PAPER:** 2 trades, both pullback-continuations on affordable RS leaders.
+- HL (0066) long 14.50 → target 14.98 = **+2.0R** (gold-miner leader; closed +13%, ran to 15.085 after target).
+- RIVN (0067) long 14.17 → stopped 13.98 = **−1.0R** (lost higher-lows structure; legit stop, correct placement).
+- **Day P&L: +1.0R** (1W/1L). No overnight holds.
+
+**Lifetime paper:** 67 closed, 29W/38L, net **+5.22R**. Lifetime real 2W/6L, −$0.52.
+
+**Lessons today:**
+1. **Whipsaw lesson HELD (the big one):** both stops placed genuinely BELOW the base this time (not at it, as with SOFI 11/03). Result: HL's stop was never threatened (max −0.6R) and ran to target; RIVN's stop was a *real* structure-break exit, not a shakeout. Correcting the SOFI error directly improved execution. This is the day's key win.
+2. **Breadth decides (lesson #1 confirmed again):** broad green tape (SPY-led, wide participation) made the pullback-continuation setups work — vs the narrow tape of 11/03 where only 2 names were tradable. Same setup type, better odds when breadth is wide.
+3. **Partial/trail hypothesis strengthening:** 2nd straight day fixed 2R targets left runner gains (HL +2.44R MFE vs +2.0R; yesterday RIOT +18%/MARA +12% at close). Candidate to formally test a partial-at-2R + trail variant on strong-trend days.
+
+**Tomorrow (Thu 11/05):** watch for follow-through vs. a pullback after a strong +1.7% SPY day (two-day rallies can consolidate). Gold miners (HL) the leading theme to track. Pre-market prep 9:15 ET. Real stays PASS until BP > $0; flag the block to owner again (now 11 days).

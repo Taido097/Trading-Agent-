@@ -2097,3 +2097,9 @@ Tally: REAL −$0.45 lifetime, FLAT, 0 trades today (7 passes); PAPER open P-003
 ### 2026-11-04 — Engine pass 6 (~3:05 ET / 20:05Z)
 **REAL:** flat, BP $0 — PASS.
 **PAPER manage:** HL (0066) OPEN ~+1.9R, grinding to a new HOD 14.955, just 2.5c under the 14.98 target (no bar has tagged it), stop 14.26 never threatened. Gold leader strong into the last hour. Holding to target or EOD flatten (next pass, 4pm). No new entries (late-day, already in leader).
+
+---
+### 2026-11-04 — Engine pass 7 (EOD close, ~4pm ET / 21:05Z) — LAST PASS
+**REAL:** flat, BP $0 (day 11) — PASS. $20 preserved, zero real trades (blocked all day).
+**PAPER:** HL (0066) hit 14.98 target at 20:00Z = **+2.0R** (ran to 15.085 after; closed +13%). Book flat. Day = +1.0R (HL +2, RIVN −1). Full EOD wrap + lessons in DAILY_REVIEWS. Lifetime 67 closed, 29W/38L, +5.22R.
+**Key takeaway:** the whipsaw lesson held all day — both stops genuinely below the base. That single correction turned the SOFI-type error into a clean winner (HL) + a legit stop (RIVN).
