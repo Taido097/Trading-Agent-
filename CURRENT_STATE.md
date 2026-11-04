@@ -5,7 +5,7 @@
 > intent and status; it is NOT the brokerage record (that comes from
 > reconciliation).
 
-**Last updated:** 2026-11-04 (Wed, engine pass 5 ~2:05 ET / 19:05Z). **⚠ BP still $0 (day 11)** — real BLOCKED, FLAT, PASS. Owner must verify •4713 in-app. Regime: strong risk-on holding — SPY +1.81%, QQQ +1.31%. PAPER: HL (0066) OPEN ~+1.2R, consolidating 14.75-14.90 under 14.98 tgt (MFE +1.71R), stop 14.26 untouched. No new (already in leader). Day: RIVN -1R; HL open winner. PAPER lifetime: 66 closed, 28W/38L, net +3.22R + 1 open. Lifetime real 2W/6L -$0.52. Options/crypto/margin OFF. Next: pass 6 ~3pm, pass 7 ~4pm (EOD). Prior EOD history below. ⟶
+**Last updated:** 2026-11-04 (Wed, engine pass 6 ~3:05 ET / 20:05Z). **⚠ BP still $0 (day 11)** — real BLOCKED, FLAT, PASS. Owner must verify •4713 in-app. Regime: strong risk-on into last hour — SPY +1.73%, QQQ +1.06%. PAPER: HL (0066) OPEN ~+1.9R at new HOD 14.955, 2.5c under 14.98 tgt, stop 14.26 untouched. No new. Day: RIVN -1R; HL open near-target winner. PAPER lifetime: 66 closed, 28W/38L, net +3.22R + 1 open. Lifetime real 2W/6L -$0.52. Options/crypto/margin OFF. Next: pass 7 ~4pm (EOD flatten). Prior EOD history below. ⟶
 
 ---
 
