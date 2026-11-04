@@ -1998,3 +1998,30 @@ Regime holding risk-on: SPY +0.18%, QQQ +0.67%. Crypto-miner RS is extreme (RIOT
 4. **Observation (not yet a rule):** fixed 2R targets on parabolic trend-leaders (RIOT +18%, MARA +12% at close) left big gains behind. Worth testing a partial-at-2R + trail-the-runner variant on clear trend days — candidate hypothesis for a future pass.
 
 **Tomorrow (Wed 11/04):** watch whether the crypto-miner move has follow-through or mean-reverts (parabolic single-day moves often give back). Pre-market prep 9:15 ET. Real stays PASS until BP > $0; flag the block to owner again.
+
+---
+## 2026-11-04 (Wed) — PRE-MARKET PREP (~9:17 ET / 14:17Z)
+
+**REAL ••••4713:** FLAT. 0 positions, 0 orders. **BP = $0 (day 11 of the block).** Reconciled, matches internal state. Real BLOCKED. 👉 Owner must verify the account/buying power in the Robinhood app — real resumes the instant BP > $0.
+
+**Regime (pre-market vs 11/03 close):** BROAD risk-on GAP-UP — SPY 763.28 (**+1.18%**), QQQ 688.29 (+0.44%). SPY outpacing QQQ = cyclical/value-led, WIDE breadth (opposite of yesterday's narrow miners-only tape). Gold miners leading (HL +8.9%, KGC +6.1%, BTG +6.0% — gold gapping), plus airlines/cruises/banks all green. Good environment for breakouts (breadth supports follow-through, per lesson #1) — but a big gap-up can fade, so demand break-and-HOLD, not the open spike.
+
+**Event risk:** Likely ADP private payrolls this AM (first-Wed) — plausible catalyst for the gap; monitor. Monthly jobs report Fri 11/6 is the week's main risk. No FOMC today. (Flagging from calendar, not a live feed.)
+
+**WIDE SCREEN → watchlist (hard screen ≤~$19, liquid, spread ≤~0.5% [re-check at open — pre-mkt spreads inflated], ranked by pre-market RS vs SPY +1.18%):**
+
+Tier 1 — affordable RS leaders (break-and-hold candidates):
+- **HL 14.38 (+8.9%)** — gold-miner leader, clean affordable RS #1. Watch for ORB hold.
+- **AAL 13.42 (+4.7%)** — airline bouncing hard off the 2-day fade; needs to HOLD (burned me on 11/02 dead-cat, so demand confirmation).
+- **NCLH 18.08 (+3.8%)** — cruise, near top of budget.
+- **F 12.63 (+2.6%)** — liquid, flipped green from yesterday's red.
+- **RIVN 13.56 (+2.0%)** — reclaimed the 13.50 it FAILED at yesterday; if it holds >13.50 on the open it's a valid reclaim (watch for another fakeout).
+
+Tier 2 — affordable, moderate RS: SOFI 17.03 (+1.5%), HBAN 16.22 (+2.3%), VALE 11.19 (+1.9%).
+
+Extended / caution: RIOT 15.83 (+12.9%) — 2-day parabolic, NO chase (O002); only a deep pullback-hold. 
+AVOID long: **MARA 6.74 (−5.9%)** — diverging red from RIOT (likely earnings/dilution news); broken, not a long today.
+Low-priced/thin flags: BTG 4.98, SNAP 5.72, RIG 5.86 (stop-vs-spread risk), CHPT 10.70 (pre-mkt spread blown out).
+Dropped >~$19: CCL 30.19, KEY 21.71, RF 29.21, SIRI 31.39, KGC 21.14.
+
+**Plan:** No trade in prep. Decision routine (9:47 ET) reads opening ranges on Tier-1 (HL, AAL, NCLH, F, RIVN). Broad green tape favors breakouts today — but gap-ups fade, so require break-and-HOLD. Real stays PASS until BP > $0; flag block to owner.
