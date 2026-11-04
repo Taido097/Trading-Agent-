@@ -2074,3 +2074,9 @@ Tally: REAL −$0.45 lifetime, FLAT, 0 trades today (7 passes); PAPER open P-003
 **REAL:** flat, BP $0 — PASS.
 **PAPER manage:** RIVN (0067) stopped −1.0R at 15:45Z — lost the higher-lows structure (lower low 13.93), EV faded with the market pullback (QQQ +2.0%→+0.9%). **Stop placement was CORRECT this time** (13.98, genuinely below the 14.06 base per the whipsaw lesson) — this was a real invalidation, not a shakeout (contrast with SOFI 11/03 whose stop sat at the base). Good: the lesson is holding even on a losing trade. HL (0066) OPEN, chopping 14.36-14.62 (+0.5R MFE), gold holding independent of the tech fade.
 **PAPER new:** none — tape cooling off the highs (gap-up partially fading), so not adding into a pullback-from-highs. Holding HL.
+
+---
+### 2026-11-04 — Engine pass 3 (~12:05 ET / 17:05Z)
+**REAL:** flat, BP $0 — PASS.
+**PAPER manage:** HL (0066) OPEN, working as planned — chopped then climbed back to the OR-high zone, high 14.82 (+1.33R MFE), now 14.685 (~+0.77R). Stop 14.26 never threatened; target 14.98. Gold leader holding through the tape's midday dip/recovery (SPY +1.73%, QQQ +1.35%). HL reached +1.3R then pulled to +0.77R — a candidate for the "partial-at-1R/trail" hypothesis, but keeping the mechanical fixed stop/target for consistency (will test trailing as a deliberate variant, not ad hoc).
+**PAPER new:** none — midday, already positioned in the day's leader; no fresh clean setup worth adding.
