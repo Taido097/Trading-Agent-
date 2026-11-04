@@ -5,7 +5,7 @@
 > intent and status; it is NOT the brokerage record (that comes from
 > reconciliation).
 
-**Last updated:** 2026-11-04 (Wed, engine pass 1 ~10:05 ET / 15:05Z). **⚠ BP still $0 (day 11)** — real BLOCKED, FLAT, PASS. Owner must verify •4713 in-app. Regime: BROAD risk-on gap-up — SPY +1.83%, QQQ +2.03%; gold miners + cyclicals lead, wide breadth. PAPER: opened 2 pullback-continuation longs on affordable RS leaders — HL (0066) 14.50 gold, stop 14.26, tgt 14.98; RIVN (0067) 14.17 EV/reclaim, stop 13.98, tgt 14.55. Stops placed GENUINELY below pullback lows (SOFI whipsaw lesson applied). Skipped AAL (dead-cat fade), SOFI (extended +5%). PAPER lifetime: 65 closed, 28W/37L, net +4.22R + 2 open. Lifetime real 2W/6L -$0.52. Options/crypto/margin OFF. Prior EOD history below. ⟶
+**Last updated:** 2026-11-04 (Wed, engine pass 2 ~11:05 ET / 16:05Z). **⚠ BP still $0 (day 11)** — real BLOCKED, FLAT, PASS. Owner must verify •4713 in-app. Regime: gap-up COOLING off highs — SPY +1.44% (was +1.83%), QQQ +0.93% (gave back from +2.03%). PAPER: RIVN (0067) stopped -1.0R (lower low broke the higher-lows structure — legit stop, correct placement). HL (0066) OPEN ~+0.5R (gold holding up vs tech pullback; stop 14.26, tgt 14.98). No new entries into the pullback-from-highs. Day realized -1R so far. PAPER lifetime: 66 closed, 28W/38L, net +3.22R + 1 open. Lifetime real 2W/6L -$0.52. Options/crypto/margin OFF. Prior EOD history below. ⟶
 
 ---
 

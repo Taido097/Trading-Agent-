@@ -2068,3 +2068,9 @@ Tally: REAL −$0.45 lifetime, FLAT, 0 trades today (7 passes); PAPER open P-003
 - RIVN (0067) 14.17, stop 13.98, tgt 14.55 — reclaimed yesterday's 13.50 fakeout level.
 **Applied the SOFI whipsaw lesson:** both stops placed GENUINELY below the pullback lows (14.365→14.26; 14.06→13.98), not at the base. Testing whether I've internalized it.
 **Skipped:** AAL (opened 13.64, faded to 13.42 — dead-cat again, 11/02 lesson), SOFI (+5.2%, extended post-breakout), NCLH/F (fading).
+
+---
+### 2026-11-04 — Engine pass 2 (~11:05 ET / 16:05Z)
+**REAL:** flat, BP $0 — PASS.
+**PAPER manage:** RIVN (0067) stopped −1.0R at 15:45Z — lost the higher-lows structure (lower low 13.93), EV faded with the market pullback (QQQ +2.0%→+0.9%). **Stop placement was CORRECT this time** (13.98, genuinely below the 14.06 base per the whipsaw lesson) — this was a real invalidation, not a shakeout (contrast with SOFI 11/03 whose stop sat at the base). Good: the lesson is holding even on a losing trade. HL (0066) OPEN, chopping 14.36-14.62 (+0.5R MFE), gold holding independent of the tech fade.
+**PAPER new:** none — tape cooling off the highs (gap-up partially fading), so not adding into a pullback-from-highs. Holding HL.
