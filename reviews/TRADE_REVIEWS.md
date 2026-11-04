@@ -2080,3 +2080,9 @@ Tally: REAL −$0.45 lifetime, FLAT, 0 trades today (7 passes); PAPER open P-003
 **REAL:** flat, BP $0 — PASS.
 **PAPER manage:** HL (0066) OPEN, working as planned — chopped then climbed back to the OR-high zone, high 14.82 (+1.33R MFE), now 14.685 (~+0.77R). Stop 14.26 never threatened; target 14.98. Gold leader holding through the tape's midday dip/recovery (SPY +1.73%, QQQ +1.35%). HL reached +1.3R then pulled to +0.77R — a candidate for the "partial-at-1R/trail" hypothesis, but keeping the mechanical fixed stop/target for consistency (will test trailing as a deliberate variant, not ad hoc).
 **PAPER new:** none — midday, already positioned in the day's leader; no fresh clean setup worth adding.
+
+---
+### 2026-11-04 — Engine pass 4 (~1:05 ET / 18:05Z)
+**REAL:** flat, BP $0 — PASS.
+**PAPER manage:** HL (0066) OPEN, grinding toward target — high 14.91 (+1.71R MFE), now 14.83 (~+1.4R), stop 14.26 never threatened, target 14.98 close. Gold leader working cleanly in a strong tape (SPY +1.92%, QQQ +1.57%). The pullback-continuation entry (pass 1) is paying — correct read on a broad-breadth day.
+**PAPER new:** none — already positioned in the day's leader; no other fresh clean setup to add. Holding to target/EOD.
