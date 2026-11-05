@@ -2113,3 +2113,8 @@ Tally: REAL −$0.45 lifetime, FLAT, 0 trades today (7 passes); PAPER open P-003
 ### 2026-11-05 — Engine pass 2 (~11:05 ET / 16:05Z)
 **REAL:** flat, BP $0 (day 12) — PASS. (The block is protective today — kept the $20 out of a brutal tape.)
 **PAPER:** STAND ASIDE, no entries, book flat. Rout ACCELERATING: SPY -3.56%, QQQ -5.92% (major down day). Everything red including the gold miners (HL -7.6%, KGC -2.4%). Zero exposure is exactly correct in a deep risk-off rout (lesson #4). No heroics, no bottom-picking. Holding flat.
+
+---
+### 2026-11-05 — Engine pass 3 (~12:05 ET / 17:05Z)
+**REAL:** flat, BP $0 (day 12) — PASS.
+**PAPER:** STAND ASIDE, no entries, book flat. Tape tried to stabilize (QQQ bounced 650.98→655.29) but still -5.3%; no base. Gold is the only relative-strength pocket (KGC +0.6%, HL bounced 13.82→14.47 as a safe haven) but chasing a bounce mid-rout is a dead-cat trap (lesson #5), especially with NFP tomorrow. Continuing zero exposure (lesson #4). Watching for a genuine intraday base before considering anything, but default = flat into a down tape.
