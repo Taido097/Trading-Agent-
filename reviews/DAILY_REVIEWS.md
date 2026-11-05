@@ -2077,3 +2077,5 @@ Avoid long (red / growth selling off): SNAP 5.24 (−11.5% CRASH), RIOT 14.96 (�
 Dropped >~$19: KGC 21.90, CCL 31.20. (NCLH 18.54 affordable but flat, near cap.)
 
 **Plan:** No trade in prep. Decision routine (9:47 ET) reads opening ranges on Tier-1 (HL, F, HBAN, VALE) — gold/value side only, avoid the red growth names. Pre-NFP chop likely, so demand clean break-and-HOLD and keep size/risk standard. Real stays PASS until BP > $0; flag block to owner (day 12).
+
+**9:47 ET opening-range decision (14:47Z):** REAL = **PASS, no trade.** ••••4713 flat, BP $0 (day 12). The open flipped to a RISK-OFF ROUT (worse than pre-market): SPY −1.44% (755.74), QQQ −3.25% (669.45) — tech routed. Watchlist leaders FAILED: HL opened 15.24→spiked 15.48→crashed 14.52 (gold reversed, now −2.2%); F/VALE/HBAN all faded off their opens. No valid long in a routing tape — stand aside (lesson #4, cf. 10/30 rout). Not a BP-blocked clean setup; genuinely nothing to buy. Engine will stay cautious/flat; favor stand-aside on paper too until the tape stabilizes. Real PASS until BP > $0. NFP tomorrow adds caution.
