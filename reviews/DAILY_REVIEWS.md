@@ -2053,3 +2053,27 @@ Tape ripping broad risk-on (SPY +1.80%, QQQ +1.97%). Good breakout environment �
 3. **Partial/trail hypothesis strengthening:** 2nd straight day fixed 2R targets left runner gains (HL +2.44R MFE vs +2.0R; yesterday RIOT +18%/MARA +12% at close). Candidate to formally test a partial-at-2R + trail variant on strong-trend days.
 
 **Tomorrow (Thu 11/05):** watch for follow-through vs. a pullback after a strong +1.7% SPY day (two-day rallies can consolidate). Gold miners (HL) the leading theme to track. Pre-market prep 9:15 ET. Real stays PASS until BP > $0; flag the block to owner again (now 11 days).
+
+---
+## 2026-11-05 (Thu) — PRE-MARKET PREP (~9:20 ET / 14:20Z)
+
+**REAL ••••4713:** FLAT. 0 positions, 0 orders. **BP = $0 (day 12 of the block).** Reconciled, matches internal state. Real BLOCKED. 👉 Owner must verify account/buying power in the Robinhood app — real resumes the instant BP > $0. (12 trading days now.)
+
+**Regime (pre-market vs 11/04 close):** ROTATION / divergence. SPY 766.12 (−0.09%, flat) but QQQ 683.72 (**−1.19%**) — tech/growth selling off after two strong up days, broad market holding via value. Rotation OUT of growth INTO gold + value/cyclicals. Gold miners leading for a 2nd day (HL +1.5%, KGC +2.2%, BTG +3.5%); tech/crypto red (SOFI/RIVN/RIOT/MARA), SNAP CRASHED −11.5% (news). Split tape — favor the green (gold/value) side, avoid growth longs.
+
+**Event risk:** Weekly jobless claims this AM. **Monthly jobs report (NFP) TOMORROW Fri 11/6 = the week's big catalyst** — expect pre-NFP caution/chop today, markets often hesitant the day before. No FOMC. (From calendar, not a live feed.)
+
+**WIDE SCREEN → watchlist (hard screen ≤~$19, liquid, spread ≤~0.5% [re-check at open], ranked by pre-market RS vs SPY −0.09%):**
+
+Tier 1 — affordable RS leaders (gold/value side):
+- **HL 15.17 (+1.5%)** — gold-miner leader, 3rd day of strength (worked +2R yesterday); liquid, clean. #1 watch.
+- **F 12.82 (+1.2%)** — liquid value name, green against a red-tech tape.
+- **HBAN 16.25 (+1.2%)** — regional bank, green.
+- **VALE 11.52 (+0.8%)** — materials, green.
+
+Tier 2 — low-priced gold/energy (stop-vs-spread caution): BTG 5.29 (+3.5%, gold, $5), RIG 5.53 (+1.5%, $5).
+
+Avoid long (red / growth selling off): SNAP 5.24 (−11.5% CRASH), RIOT 14.96 (−2.7%), MARA 6.67 (−3.0%), SOFI 17.16 (−1.3%), RIVN 13.91 (−1.1%), AAL 13.53 (−0.7%). CLF 12.96 green pre-mkt but broke down ~10% on 11/04 — caution.
+Dropped >~$19: KGC 21.90, CCL 31.20. (NCLH 18.54 affordable but flat, near cap.)
+
+**Plan:** No trade in prep. Decision routine (9:47 ET) reads opening ranges on Tier-1 (HL, F, HBAN, VALE) — gold/value side only, avoid the red growth names. Pre-NFP chop likely, so demand clean break-and-HOLD and keep size/risk standard. Real stays PASS until BP > $0; flag block to owner (day 12).
