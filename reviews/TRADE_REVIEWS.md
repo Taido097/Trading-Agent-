@@ -2123,3 +2123,8 @@ Tally: REAL −$0.45 lifetime, FLAT, 0 trades today (7 passes); PAPER open P-003
 ### 2026-11-05 — Engine pass 4 (~1:05 ET / 18:05Z)
 **REAL:** flat, BP $0 (day 12) — PASS.
 **PAPER:** STAND ASIDE, no entries, book flat. No recovery — SPY -4.14% (new lows), QQQ -6.01% (back at lows); midday bounce faded, gold RS gone (KGC -0.4%). Deep risk-off with no base = zero exposure (lesson #4). Not tempted by the earlier bounce (correctly — it faded). Holding flat into the close/NFP.
+
+---
+### 2026-11-05 — Engine pass 5 (~2:05 ET / 19:05Z)
+**REAL:** flat, BP $0 (day 12) — PASS.
+**PAPER:** STAND ASIDE, no entries, book flat. Tape basing at the lows (~1hr flat: SPY -4.16%, QQQ -5.92%) — no recovery, no new lows. Gold firming marginally (KGC +0.1%, VALE +0.35%). A base at the lows of a -6% day is not a long signal (breakdown risk, NFP tomorrow). Zero exposure held all day (lesson #4) — the right call on a brutal tape.

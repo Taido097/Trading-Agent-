@@ -5,7 +5,7 @@
 > intent and status; it is NOT the brokerage record (that comes from
 > reconciliation).
 
-**Last updated:** 2026-11-05 (Thu, engine pass 4 ~1:05 ET / 18:05Z). **⚠ BP still $0 (day 12)** — real BLOCKED, FLAT, PASS (block protective today). Owner must verify •4713 in-app. Regime: deep RISK-OFF, new lows — SPY -4.14% (735.10), QQQ -6.01% (650.39). Midday bounce faded; gold RS gone (KGC -0.4%). PAPER: STAND ASIDE, no longs, book FLAT (lesson #4). No base yet; NFP tomorrow. PAPER lifetime: 67 closed, 29W/38L, net +5.22R, 0 open. Lifetime real 2W/6L -$0.52. Options/crypto/margin OFF. Prior EOD history below. ⟶
+**Last updated:** 2026-11-05 (Thu, engine pass 5 ~2:05 ET / 19:05Z). **⚠ BP still $0 (day 12)** — real BLOCKED, FLAT, PASS (block protective today). Owner must verify •4713 in-app. Regime: deep risk-off basing at lows — SPY -4.16% (734.90), QQQ -5.92% (650.97), flat ~1hr, no recovery. Gold firming (KGC +0.1%). PAPER: STAND ASIDE, no longs, book FLAT. Base-at-lows != buy (breakdown risk + NFP tmrw). Day realized $0 (zero trades). PAPER lifetime: 67 closed, 29W/38L, net +5.22R, 0 open. Lifetime real 2W/6L -$0.52. Options/crypto/margin OFF. Next: pass 6 ~3pm, pass 7 ~4pm EOD. Prior EOD history below. ⟶
 
 ---
 
