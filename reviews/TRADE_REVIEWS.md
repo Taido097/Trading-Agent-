@@ -2108,3 +2108,8 @@ Tally: REAL −$0.45 lifetime, FLAT, 0 trades today (7 passes); PAPER open P-003
 ### 2026-11-05 — Engine pass 1 (~10:05 ET / 15:05Z)
 **REAL:** flat, BP $0 (day 12) — PASS.
 **PAPER:** STAND ASIDE, no entries. Rout deepening — SPY -1.90%, QQQ -3.92% (worse than the open). Everything weak/falling: HL -4.4% (gold leader rolled over hard), AAL -4.3%; the only marginally-green names (BTG +0.8%, HBAN +0.7%) won't hold against a -4% QQQ. Buying into a deepening risk-off rout is fighting the tape — stand aside (lesson #4, cf 10/30, 10/22). Book flat. Pre-NFP + rout = double reason for caution.
+
+---
+### 2026-11-05 — Engine pass 2 (~11:05 ET / 16:05Z)
+**REAL:** flat, BP $0 (day 12) — PASS. (The block is protective today — kept the $20 out of a brutal tape.)
+**PAPER:** STAND ASIDE, no entries, book flat. Rout ACCELERATING: SPY -3.56%, QQQ -5.92% (major down day). Everything red including the gold miners (HL -7.6%, KGC -2.4%). Zero exposure is exactly correct in a deep risk-off rout (lesson #4). No heroics, no bottom-picking. Holding flat.
