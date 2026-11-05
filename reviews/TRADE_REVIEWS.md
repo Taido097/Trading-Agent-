@@ -2133,3 +2133,9 @@ Tally: REAL −$0.45 lifetime, FLAT, 0 trades today (7 passes); PAPER open P-003
 ### 2026-11-05 — Engine pass 6 (~3:05 ET / 20:05Z)
 **REAL:** flat, BP $0 (day 12) — PASS.
 **PAPER:** STAND ASIDE, no entries, book flat. Weak bounce into the last hour (SPY -3.79%, QQQ -5.41%) off the lows but still deeply red; gold green (KGC +0.3%). A feeble last-hour bounce on a -5% day ahead of NFP is not an entry. Zero exposure held. EOD wrap next pass.
+
+---
+### 2026-11-05 — Engine pass 7 (EOD close, ~4pm ET / 21:05Z) — LAST PASS
+**REAL:** flat, BP $0 (day 12) — PASS. $20 preserved; block was protective on a brutal tape.
+**PAPER:** ZERO trades all day (stood aside 7/7). Close: SPY -4.38%, QQQ -6.38% — major rout. Day P&L $0.0R. Full EOD wrap + lessons in DAILY_REVIEWS. Lifetime 67 closed, 29W/38L, +5.22R.
+**Key takeaway:** the best trade today was the one not taken. Lesson #4 (stand aside in deep risk-off) executed cleanly — recognized the rout early, never chased a bounce (all faded), preserved all R for better conditions. Gold confirmed as genuine RS leadership (held green/best in the rout).

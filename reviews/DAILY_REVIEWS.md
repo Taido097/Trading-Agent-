@@ -2079,3 +2079,22 @@ Dropped >~$19: KGC 21.90, CCL 31.20. (NCLH 18.54 affordable but flat, near cap.)
 **Plan:** No trade in prep. Decision routine (9:47 ET) reads opening ranges on Tier-1 (HL, F, HBAN, VALE) — gold/value side only, avoid the red growth names. Pre-NFP chop likely, so demand clean break-and-HOLD and keep size/risk standard. Real stays PASS until BP > $0; flag block to owner (day 12).
 
 **9:47 ET opening-range decision (14:47Z):** REAL = **PASS, no trade.** ••••4713 flat, BP $0 (day 12). The open flipped to a RISK-OFF ROUT (worse than pre-market): SPY −1.44% (755.74), QQQ −3.25% (669.45) — tech routed. Watchlist leaders FAILED: HL opened 15.24→spiked 15.48→crashed 14.52 (gold reversed, now −2.2%); F/VALE/HBAN all faded off their opens. No valid long in a routing tape — stand aside (lesson #4, cf. 10/30 rout). Not a BP-blocked clean setup; genuinely nothing to buy. Engine will stay cautious/flat; favor stand-aside on paper too until the tape stabilizes. Real PASS until BP > $0. NFP tomorrow adds caution.
+
+---
+## 2026-11-05 (Thu) — EOD WRAP (4pm ET close)
+
+**Close:** SPY 733.25 (**−4.38%**), QQQ 647.77 (**−6.38%**) — a brutal broad risk-off ROUT, closing near the lows. Tech hit hardest; gold the lone relative-strength haven (KGC +0.8% green, HL −3.4% vs the market's −6%). The entire Mon–Wed rally reversed in a single day.
+
+**REAL ••••4713:** FLAT all day — **day 12 of the BP-$0 block.** $20 fully preserved. Zero real trades. Today the block was PROTECTIVE — it kept the $20 out of a −4% to −6% tape. 👉 Owner: verify account/buying power in the Robinhood app when convenient; real resumes when BP > $0 (no rush on a day like this).
+
+**PAPER:** ZERO trades — stood aside every pass (7/7). Rout deepened through midday (QQQ hit −6.0%), bounced weakly, faded to new lows. **Day P&L: $0.0R** — and that's the win: no losses on one of the worst tape days of the run.
+
+**Lifetime paper:** 67 closed, 29W/38L, net **+5.22R** (unchanged — correctly inactive). Lifetime real 2W/6L, −$0.52.
+
+**Lessons today:**
+1. **Lesson #4 executed perfectly (stand aside in deep risk-off):** recognized the rout at the open (watchlist leaders failing, QQQ −3%+), never took a single long, never bottom-picked the bounces (which all faded). Discipline on a rout day = preserving capital/R to deploy when conditions are favorable. This is the single most valuable "trade" of the week — the one not taken.
+2. **Bounces in a rout are dead-cats until proven (lesson #5):** the midday bounce (QQQ 650→655) and the 2pm base both faded to new lows. Confirmed: no intraday bounce is a buy in a sustained −5%+ risk-off day.
+3. **Gold = genuine leadership:** even in the rout, gold miners held best (KGC green) — the week's RS leader (HL/gold) was real, not a fluke. Keep gold top of the watchlist.
+4. **Week shape:** Mon–Wed broad rally (HL +2R win), Thu one-day rout erased it. Two-day rallies into a vertical move are vulnerable — a reminder that follow-through can snap.
+
+**Tomorrow (Fri 11/06): NFP (monthly jobs report) pre-market — the week's biggest catalyst.** Expect a volatile open; a jobs number either stabilizes this selloff or extends it. Pre-market prep 9:15 ET will read the NFP reaction before any watchlist. Real stays PASS until BP > $0; flag the block to owner (day 12). Default posture after a rout: cautious, demand a confirmed base, favor the relative-strength survivors (gold).
