@@ -5,7 +5,7 @@
 > intent and status; it is NOT the brokerage record (that comes from
 > reconciliation).
 
-**Last updated:** 2026-11-04 (Wed, EOD / engine pass 7 ~4pm ET / 21:05Z — close). **⚠ BP still $0 (day 11)** — real BLOCKED all day, FLAT, $20 preserved, zero real trades. Owner must verify •4713 in-app. Close: SPY +1.68% (767.03), QQQ +1.03% (692.32) — strong BROAD green day; gold miners led (HL +13%). PAPER day: HL (0066) +2.0R (target), RIVN (0067) -1.0R (valid structure-break stop) = **+1.0R** (1W/1L), flat into close, no overnight. KEY WIN: whipsaw lesson HELD - both stops placed genuinely below the base (fixed the SOFI error). PAPER lifetime: 67 closed, 29W/38L, net +5.22R, 0 open. Lifetime real 2W/6L -$0.52. Options/crypto/margin OFF. Next: Thu 11/05 pre-market prep ~9:15 ET. Prior EOD history below. ⟶
+**Last updated:** 2026-11-05 (Thu, engine pass 1 ~10:05 ET / 15:05Z). **⚠ BP still $0 (day 12)** — real BLOCKED, FLAT, PASS. Owner must verify •4713 in-app. Regime: RISK-OFF ROUT deepening — SPY -1.90% (752.23), QQQ -3.92% (664.79). Tech routed; even gold rolled (HL -4.4%). PAPER: STAND ASIDE, no longs (lesson #4 - deepening risk-off; cf 10/30). Book FLAT. No new. PAPER lifetime: 67 closed, 29W/38L, net +5.22R, 0 open. Lifetime real 2W/6L -$0.52. Options/crypto/margin OFF. NFP tomorrow. Prior EOD history below. ⟶
 
 ---
 
