@@ -2155,3 +2155,9 @@ Tally: REAL −$0.45 lifetime, FLAT, 0 trades today (7 passes); PAPER open P-003
 **REAL:** flat, BP $0 (day 13) — PASS.
 **PAPER new (1, B-grade):** RIVN (0068) long 13.51 — held-reclaim continuation: it failed the AM break but then reclaimed OR high 13.43 (~15:45Z) and HELD for 1hr+ with higher lows (contrast w/ the morning one-bar fakeout). Stop 13.35 genuinely below the 13.40 coil base; target 13.83 (2:1). Explicitly lower-conviction: coil volume light, RIVN a repeat faker — a learning test of held-reclaim vs fakeout on a choppy NFP day, sized to $40 risk.
 **Watch:** VALE coiling under 11.70 HOD (materials RS +1.8%) — take on a clean >11.70 break. RIOT +12% extended (no chase). SOFI still below its failed level.
+
+---
+### 2026-11-06 — Engine pass 4 (~1:05 ET / 18:05Z, NFP day)
+**REAL:** flat, BP $0 (day 13) — PASS.
+**PAPER manage:** RIVN (0068) stopped −1.0R at 17:50Z — faded, lost the 13.40 base, tagged 13.35 stop. The held-reclaim did NOT follow through; faded with the cooling bounce (QQQ +1.8%→+1.3%). **LESSON:** the B-grade caveat played out — a "held reclaim" in a serial-faker (RIVN) on a choppy NFP day with LIGHT coil volume still failed. The held-vs-fakeout structural distinction didn't save it; the quality filter (thin volume + faker + whippy tape) was the real tell. Stop placement correct (clean −1R). Takeaway: skip B-grade reclaims in known-choppy names on whippy days — I flagged it lower-conviction and it behaved like one. Better to have passed.
+**PAPER new:** none — bounce cooling into the afternoon, VALE didn't trigger (pulled back from 11.70). Book flat.
