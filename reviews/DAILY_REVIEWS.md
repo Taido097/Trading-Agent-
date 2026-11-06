@@ -2121,3 +2121,9 @@ Tier 2 — affordable, modest RS: CLF 11.38 (+1.0%), RIG 5.17 (+1.4%, $5), AAL 1
 Avoid / caution: gold miners (HL, KGC, BTG — rotation reversing out, now red); SNAP 5.04 (still weak post-crash); F/VALE/HBAN (flat-red).
 
 **Plan:** No trade in prep. Decision routine (9:47 ET) reads opening ranges on Tier-1 (RIOT, MARA, RIVN, SOFI) — but with HEIGHTENED caution: post-rout + NFP = high reversal risk, so require a clean break-AND-hold (lesson #5), standard risk, no spike-chasing. A zero-trade day is fine if nothing confirms. Real stays PASS until BP > $0; flag block to owner (day 13).
+
+**9:47 ET opening-range decision (14:47Z, NFP day):** REAL = **PASS, no trade.** ••••4713 flat, BP $0 (day 13). Relief bounce holding: SPY +1.07%, QQQ +2.56%. Reads:
+- SOFI (OR high 16.42) 16.465 — cleanest: higher lows, reclaiming above OR high on strong vol (+2.6%). Break just forming (1 bar). Top watch; logged REJECTED (BP block + NFP/post-rout caution).
+- RIOT (OR 14.87–16.40, ~10% range) & MARA — too wild, NFP whipsaw, no-chase (O002).
+- RIVN 13.20 — fading below OR high, weak. Skip.
+Post-rout first bounce + NFP = high reversal risk; demanding confirmed break-and-hold. Engine (10:03 ET) to take SOFI only on a clean hold >16.42. Real PASS until BP > $0.
