@@ -2144,3 +2144,8 @@ Tally: REAL −$0.45 lifetime, FLAT, 0 trades today (7 passes); PAPER open P-003
 ### 2026-11-06 — Engine pass 1 (~10:05 ET / 15:05Z, NFP day)
 **REAL:** flat, BP $0 (day 13) — PASS.
 **PAPER:** no entries, book flat. SOFI (the pass-0 top watch) FAILED its break — pushed to 16.555 above OR high 16.42 then faded back to 16.14-16.24 (below OR high). Textbook post-rout first-bounce fakeout on an NFP day; the "demand confirmed hold" rule (lesson #5) kept me out of a failed breakout. RIOT still choppy (15.87, below OR high), RIVN red (13.18), MARA flat. Bounce easing (QQQ +2.56%->+2.09%). Nothing holding = no clean setup. Correctly flat.
+
+---
+### 2026-11-06 — Engine pass 2 (~11:05 ET / 16:05Z, NFP day)
+**REAL:** flat, BP $0 (day 13) — PASS.
+**PAPER:** no entries, book flat. Bounce consolidating (SPY +0.83%, QQQ +1.83%), choppy. Breaks keep failing on the NFP whipsaw: SOFI still below its failed 16.42 break, RIOT pulled back off the open spike, MARA faded. RIVN reclaimed its OR high (13.45) but it's been a repeat faker (skip without a fuller hold). VALE +1.7% firming but no clean intraday structure to act on. Nothing cleanly confirmed = no forced entry on a whippy post-rout NFP tape. Flat.
