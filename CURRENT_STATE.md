@@ -5,7 +5,7 @@
 > intent and status; it is NOT the brokerage record (that comes from
 > reconciliation).
 
-**Last updated:** 2026-11-06 (Fri, engine pass 4 ~1:05 ET / 18:05Z, NFP day). **⚠ BP still $0 (day 13)** — real BLOCKED, FLAT, PASS. Owner must verify •4713 in-app. Regime: relief bounce COOLING into afternoon — SPY +0.44% (was +0.80%), QQQ +1.29% (was +1.81%). PAPER: RIVN (0068) stopped -1.0R (held-reclaim failed, lost 13.40 base; B-grade/faker caveat played out - valid stop). FLAT now. No new (bounce fading, VALE didn't trigger 11.70). Day realized -1R. PAPER lifetime: 68 closed, 29W/39L, net +4.22R, 0 open. Lifetime real 2W/6L -$0.52. Options/crypto/margin OFF. Prior EOD history below. ⟶
+**Last updated:** 2026-11-06 (Fri, engine pass 5 ~2:05 ET / 19:05Z, NFP day). **⚠ BP still $0 (day 13)** — real BLOCKED, FLAT, PASS. Owner must verify •4713 in-app. Regime: choppy range-bound bounce (oscillating 1.3-1.8% all day) — SPY +0.77%, QQQ +1.84%. PAPER: no new, book FLAT. RIOT parabolic +15% (no chase); RIVN chopped back to 13.49 post-stop (untradeable, stop was right); SOFI/VALE range-bound. Not forcing into chop after the RIVN -1R. Day realized -1R. PAPER lifetime: 68 closed, 29W/39L, net +4.22R, 0 open. Lifetime real 2W/6L -$0.52. Options/crypto/margin OFF. Next: pass 6 ~3pm, pass 7 ~4pm EOD. Prior EOD history below. ⟶
 
 ---
 

@@ -2161,3 +2161,8 @@ Tally: REAL −$0.45 lifetime, FLAT, 0 trades today (7 passes); PAPER open P-003
 **REAL:** flat, BP $0 (day 13) — PASS.
 **PAPER manage:** RIVN (0068) stopped −1.0R at 17:50Z — faded, lost the 13.40 base, tagged 13.35 stop. The held-reclaim did NOT follow through; faded with the cooling bounce (QQQ +1.8%→+1.3%). **LESSON:** the B-grade caveat played out — a "held reclaim" in a serial-faker (RIVN) on a choppy NFP day with LIGHT coil volume still failed. The held-vs-fakeout structural distinction didn't save it; the quality filter (thin volume + faker + whippy tape) was the real tell. Stop placement correct (clean −1R). Takeaway: skip B-grade reclaims in known-choppy names on whippy days — I flagged it lower-conviction and it behaved like one. Better to have passed.
 **PAPER new:** none — bounce cooling into the afternoon, VALE didn't trigger (pulled back from 11.70). Book flat.
+
+---
+### 2026-11-06 — Engine pass 5 (~2:05 ET / 19:05Z, NFP day)
+**REAL:** flat, BP $0 (day 13) — PASS.
+**PAPER:** no entries, book flat. Choppy range-bound bounce (QQQ oscillating 1.3-1.8% all day). RIOT parabolic +15% (no chase, O002); RIVN bounced back to 13.49 right after stopping me at 13.35 (classic untradeable chop — the stop was correct, don't re-enter a name that whipsaws both ways); SOFI/VALE range-bound, VALE off the 11.70 HOD. No clean setup; not forcing another trade into chop after the RIVN −1R. Flat into the last hour.
