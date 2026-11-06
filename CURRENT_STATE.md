@@ -5,7 +5,7 @@
 > intent and status; it is NOT the brokerage record (that comes from
 > reconciliation).
 
-**Last updated:** 2026-11-05 (Thu, EOD / engine pass 7 ~4pm ET / 21:05Z — close). **⚠ BP still $0 (day 12)** — real BLOCKED all day, FLAT, $20 preserved (block PROTECTIVE today), zero real trades. Owner must verify •4713 in-app. Close: SPY -4.38% (733.25), QQQ -6.38% (647.77) — BRUTAL risk-off ROUT; gold the lone haven (KGC +0.8%). PAPER: ZERO trades, stood aside 7/7 passes (lesson #4). Day P&L $0.0R — no losses on a -6% QQQ day = the win. PAPER lifetime: 67 closed, 29W/38L, net +5.22R, 0 open. Lifetime real 2W/6L -$0.52. Options/crypto/margin OFF. Next: Fri 11/06 pre-market prep ~9:15 ET (NFP day). Prior EOD history below. ⟶
+**Last updated:** 2026-11-06 (Fri, engine pass 1 ~10:05 ET / 15:05Z, NFP day). **⚠ BP still $0 (day 13)** — real BLOCKED, FLAT, PASS. Owner must verify •4713 in-app. Regime: relief bounce easing — SPY +0.86%, QQQ +2.09% (off the +2.56% high). PAPER: no new, book FLAT. SOFI break FAILED (pushed 16.555 > OR high 16.42, faded back to 16.14 - post-rout/NFP fakeout; confirmation rule kept me out). RIOT choppy, RIVN red. Nothing holding. PAPER lifetime: 67 closed, 29W/38L, net +5.22R, 0 open. Lifetime real 2W/6L -$0.52. Options/crypto/margin OFF. Prior EOD history below. ⟶
 
 ---
 

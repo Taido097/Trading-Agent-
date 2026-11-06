@@ -2139,3 +2139,8 @@ Tally: REAL −$0.45 lifetime, FLAT, 0 trades today (7 passes); PAPER open P-003
 **REAL:** flat, BP $0 (day 12) — PASS. $20 preserved; block was protective on a brutal tape.
 **PAPER:** ZERO trades all day (stood aside 7/7). Close: SPY -4.38%, QQQ -6.38% — major rout. Day P&L $0.0R. Full EOD wrap + lessons in DAILY_REVIEWS. Lifetime 67 closed, 29W/38L, +5.22R.
 **Key takeaway:** the best trade today was the one not taken. Lesson #4 (stand aside in deep risk-off) executed cleanly — recognized the rout early, never chased a bounce (all faded), preserved all R for better conditions. Gold confirmed as genuine RS leadership (held green/best in the rout).
+
+---
+### 2026-11-06 — Engine pass 1 (~10:05 ET / 15:05Z, NFP day)
+**REAL:** flat, BP $0 (day 13) — PASS.
+**PAPER:** no entries, book flat. SOFI (the pass-0 top watch) FAILED its break — pushed to 16.555 above OR high 16.42 then faded back to 16.14-16.24 (below OR high). Textbook post-rout first-bounce fakeout on an NFP day; the "demand confirmed hold" rule (lesson #5) kept me out of a failed breakout. RIOT still choppy (15.87, below OR high), RIVN red (13.18), MARA flat. Bounce easing (QQQ +2.56%->+2.09%). Nothing holding = no clean setup. Correctly flat.
