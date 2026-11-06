@@ -2171,3 +2171,9 @@ Tally: REAL −$0.45 lifetime, FLAT, 0 trades today (7 passes); PAPER open P-003
 ### 2026-11-06 — Engine pass 6 (~3:05 ET / 20:05Z, NFP day)
 **REAL:** flat, BP $0 (day 13) — PASS.
 **PAPER:** no entries, book flat. Bounce holding (SPY +0.67%, QQQ +1.81%) but range-bound into the last hour. RIOT extended, SOFI/VALE range-bound; late-day breakout caution (O003). No clean setup. Holding flat; EOD wrap next pass.
+
+---
+### 2026-11-06 — Engine pass 7 (EOD close + week end, ~4pm ET / 21:05Z) — LAST PASS
+**REAL:** flat, BP $0 (day 13) — PASS. $20 preserved; flat all week.
+**PAPER:** book flat (RIVN stopped pass-4). Day −1.0R (RIVN). **Week: 7 trades, 3W/4L, +2.0R.** Full EOD + week recap in DAILY_REVIEWS. Lifetime 68 closed, 29W/39L, +4.22R.
+**Week in one line:** +2R on disciplined paper trading through a violent week (rally → −6% rout → whippy NFP bounce); the standout was standing fully aside Thursday's rout (0 losses), and the whipsaw-stop fix holding from Wednesday on. Real: protected, flat, 13 days blocked.

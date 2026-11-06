@@ -2127,3 +2127,32 @@ Avoid / caution: gold miners (HL, KGC, BTG — rotation reversing out, now red);
 - RIOT (OR 14.87–16.40, ~10% range) & MARA — too wild, NFP whipsaw, no-chase (O002).
 - RIVN 13.20 — fading below OR high, weak. Skip.
 Post-rout first bounce + NFP = high reversal risk; demanding confirmed break-and-hold. Engine (10:03 ET) to take SOFI only on a clean hold >16.42. Real PASS until BP > $0.
+
+---
+## 2026-11-06 (Fri) — EOD WRAP (4pm ET close) + WEEK RECAP
+
+**Close:** SPY 735.44 (+0.33%), QQQ 656.18 (+1.41%) — relief bounce held but FADED off the highs (was +2.6% at the open), recovering only a fraction of Thursday's −6% rout. Whippy NFP day: open spike, mid-day fade, range-bound chop.
+
+**REAL ••••4713:** FLAT — **day 13 of the BP-$0 block.** $20 preserved, zero real trades. 👉 Owner: verify the account/buying power in the Robinhood app — real resumes when BP > $0. The block is now 13 trading days; it cost 2 clean live setups earlier (CLF 10/29, AAL 11/02) but was protective during Thursday's rout.
+
+**PAPER today:** 1 trade — RIVN (0068) −1.0R (B-grade held-reclaim that failed; see pass-4 lesson). **Day P&L: −1.0R.**
+
+**Lifetime paper:** 68 closed, 29W/39L, net **+4.22R**. Lifetime real 2W/6L, −$0.52.
+
+### WEEK RECAP (Mon 11/02 – Fri 11/06)
+- **Mon 11/02:** AAL (0062) −1.0R — dead-cat bounce faded. **−1R.**
+- **Tue 11/03:** RIOT +2, MARA +2, SOFI −1 — crypto-miner continuations on a narrow tape. **+3R.**
+- **Wed 11/04:** HL +2 (gold leader, broad tape), RIVN −1 (valid stop). **+1R.**
+- **Thu 11/05:** ZERO trades — stood aside the −6% QQQ rout. **0R.**
+- **Fri 11/06:** RIVN −1 (B-grade reclaim, NFP whipsaw). **−1R.**
+- **WEEK PAPER: 7 trades, 3W/4L, net +2.0R.** Real: FLAT all week (days 9–13 of the BP block), $20 preserved, zero real trades.
+
+**Week lessons (consolidated):**
+1. **Whipsaw stop placement — corrected & validated.** SOFI (−1R, 11/03) stop sat AT the base (shakeout). Wed onward I placed stops GENUINELY below the base: HL (+2R) never threatened, RIVN stops were valid structure-breaks. The fix held. Still: avoid B-grade reclaims in serial-faker names (RIVN cost −1R twice) — quality filter > structure.
+2. **Breadth decides follow-through.** Narrow tape (Tue, miners-only) → trade only the leaders; broad tape (Wed) → breakouts work; rout (Thu) → stand aside. Reading breadth first set the right posture each day.
+3. **Stand aside in deep risk-off = the week's best decision.** Thu's −6% QQQ rout: zero trades, zero losses. Not bottom-picking the bounces (all faded) preserved R.
+4. **Post-rout first bounce + event day = fakeout factory.** Fri (NFP, post-rout): every early break failed (SOFI, RIVN). Demand confirmed holds; a zero/low-trade day is the right outcome.
+5. **Gold = genuine leadership** (held best through the rout; HL was the week's cleanest winner). **Fixed 2R targets left runner gains** (RIOT/MARA/HL all ran well past 2R) — partial-at-2R + trail is the hypothesis to test next.
+6. **Ops:** fixed the EST cron drift Monday (prep/decision/engine back on ET).
+
+**Next week (starts Mon 11/09):** watch whether this bounce builds a base or rolls over (two-day rout-then-bounce is fragile). Gold + whatever shows RS off the lows lead the watchlist. Real stays PASS until BP > $0 — escalation to owner stands (day 13). Pre-market prep Mon ~9:15 ET.
