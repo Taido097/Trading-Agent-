@@ -2098,3 +2098,26 @@ Dropped >~$19: KGC 21.90, CCL 31.20. (NCLH 18.54 affordable but flat, near cap.)
 4. **Week shape:** Mon–Wed broad rally (HL +2R win), Thu one-day rout erased it. Two-day rallies into a vertical move are vulnerable — a reminder that follow-through can snap.
 
 **Tomorrow (Fri 11/06): NFP (monthly jobs report) pre-market — the week's biggest catalyst.** Expect a volatile open; a jobs number either stabilizes this selloff or extends it. Pre-market prep 9:15 ET will read the NFP reaction before any watchlist. Real stays PASS until BP > $0; flag the block to owner (day 12). Default posture after a rout: cautious, demand a confirmed base, favor the relative-strength survivors (gold).
+
+---
+## 2026-11-06 (Fri) — PRE-MARKET PREP (~9:20 ET / 14:20Z) — NFP DAY
+
+**REAL ••••4713:** FLAT. 0 positions, 0 orders. **BP = $0 (day 13 of the block).** Reconciled, matches internal state. Real BLOCKED. 👉 Owner must verify account/buying power in the Robinhood app — real resumes the instant BP > $0. (13 trading days.)
+
+**Regime (pre-market vs 11/05 close):** RELIEF BOUNCE after the −6% rout — SPY 734.63 (+0.22%), QQQ 658.28 (**+1.74%**). Rotation REVERSING (mirror of yesterday): risk back ON — crypto/growth bouncing (RIOT +7.9%, MARA +6.6%, RIVN +1.1%, SOFI +0.8%), gold pulling back (HL −1.1%, KGC −1.7%, BTG −2.3%). ⚠ This is a POST-ROUT BOUNCE on NFP day — lesson #5 (first bounce can be a dead-cat; yesterday every intraday bounce faded). Demand intraday confirmation (hold above the opening range, higher lows) before trusting; do NOT chase the pre-market spike (O002), especially crypto.
+
+**Event risk:** **NFP (monthly jobs report) released this AM — THE catalyst.** The bounce is the initial reaction. NFP days are whippy; the first 15–30 min often reverses. Extra caution on entries. No FOMC.
+
+**WIDE SCREEN → watchlist (hard screen ≤~$19, liquid, spread ≤~0.5% [re-check at open], ranked by pre-market RS vs SPY +0.22%):**
+
+Tier 1 — bounce leaders (confirm intraday, no chasing):
+- **RIOT 15.93 (+7.9%)** — crypto-miner, biggest bouncer; BTC recovering. Most volatile — demand a real break-and-hold, not the spike.
+- **MARA 6.26 (+6.6%)** — crypto-miner, $6; same BTC driver (correlated w/ RIOT).
+- **RIVN 13.43 (+1.1%)** — EV, bouncing with growth.
+- **SOFI 16.17 (+0.8%)** — fintech, reclaiming after the selloff.
+
+Tier 2 — affordable, modest RS: CLF 11.38 (+1.0%), RIG 5.17 (+1.4%, $5), AAL 13.01 (+0.6%).
+
+Avoid / caution: gold miners (HL, KGC, BTG — rotation reversing out, now red); SNAP 5.04 (still weak post-crash); F/VALE/HBAN (flat-red).
+
+**Plan:** No trade in prep. Decision routine (9:47 ET) reads opening ranges on Tier-1 (RIOT, MARA, RIVN, SOFI) — but with HEIGHTENED caution: post-rout + NFP = high reversal risk, so require a clean break-AND-hold (lesson #5), standard risk, no spike-chasing. A zero-trade day is fine if nothing confirms. Real stays PASS until BP > $0; flag block to owner (day 13).
