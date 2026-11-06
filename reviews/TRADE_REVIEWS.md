@@ -2166,3 +2166,8 @@ Tally: REAL −$0.45 lifetime, FLAT, 0 trades today (7 passes); PAPER open P-003
 ### 2026-11-06 — Engine pass 5 (~2:05 ET / 19:05Z, NFP day)
 **REAL:** flat, BP $0 (day 13) — PASS.
 **PAPER:** no entries, book flat. Choppy range-bound bounce (QQQ oscillating 1.3-1.8% all day). RIOT parabolic +15% (no chase, O002); RIVN bounced back to 13.49 right after stopping me at 13.35 (classic untradeable chop — the stop was correct, don't re-enter a name that whipsaws both ways); SOFI/VALE range-bound, VALE off the 11.70 HOD. No clean setup; not forcing another trade into chop after the RIVN −1R. Flat into the last hour.
+
+---
+### 2026-11-06 — Engine pass 6 (~3:05 ET / 20:05Z, NFP day)
+**REAL:** flat, BP $0 (day 13) — PASS.
+**PAPER:** no entries, book flat. Bounce holding (SPY +0.67%, QQQ +1.81%) but range-bound into the last hour. RIOT extended, SOFI/VALE range-bound; late-day breakout caution (O003). No clean setup. Holding flat; EOD wrap next pass.
