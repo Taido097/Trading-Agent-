@@ -2149,3 +2149,9 @@ Tally: REAL −$0.45 lifetime, FLAT, 0 trades today (7 passes); PAPER open P-003
 ### 2026-11-06 — Engine pass 2 (~11:05 ET / 16:05Z, NFP day)
 **REAL:** flat, BP $0 (day 13) — PASS.
 **PAPER:** no entries, book flat. Bounce consolidating (SPY +0.83%, QQQ +1.83%), choppy. Breaks keep failing on the NFP whipsaw: SOFI still below its failed 16.42 break, RIOT pulled back off the open spike, MARA faded. RIVN reclaimed its OR high (13.45) but it's been a repeat faker (skip without a fuller hold). VALE +1.7% firming but no clean intraday structure to act on. Nothing cleanly confirmed = no forced entry on a whippy post-rout NFP tape. Flat.
+
+---
+### 2026-11-06 — Engine pass 3 (~12:05 ET / 17:05Z, NFP day)
+**REAL:** flat, BP $0 (day 13) — PASS.
+**PAPER new (1, B-grade):** RIVN (0068) long 13.51 — held-reclaim continuation: it failed the AM break but then reclaimed OR high 13.43 (~15:45Z) and HELD for 1hr+ with higher lows (contrast w/ the morning one-bar fakeout). Stop 13.35 genuinely below the 13.40 coil base; target 13.83 (2:1). Explicitly lower-conviction: coil volume light, RIVN a repeat faker — a learning test of held-reclaim vs fakeout on a choppy NFP day, sized to $40 risk.
+**Watch:** VALE coiling under 11.70 HOD (materials RS +1.8%) — take on a clean >11.70 break. RIOT +12% extended (no chase). SOFI still below its failed level.
