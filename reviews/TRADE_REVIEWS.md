@@ -2177,3 +2177,11 @@ Tally: REAL −$0.45 lifetime, FLAT, 0 trades today (7 passes); PAPER open P-003
 **REAL:** flat, BP $0 (day 13) — PASS. $20 preserved; flat all week.
 **PAPER:** book flat (RIVN stopped pass-4). Day −1.0R (RIVN). **Week: 7 trades, 3W/4L, +2.0R.** Full EOD + week recap in DAILY_REVIEWS. Lifetime 68 closed, 29W/39L, +4.22R.
 **Week in one line:** +2R on disciplined paper trading through a violent week (rally → −6% rout → whippy NFP bounce); the standout was standing fully aside Thursday's rout (0 losses), and the whipsaw-stop fix holding from Wednesday on. Real: protected, flat, 13 days blocked.
+
+---
+### 2026-11-09 — Engine pass 1 (~10:05 ET / 15:05Z)
+**REAL:** flat, BP $0 (day 14) — PASS.
+**PAPER new (2):** strength rotated from the gold/travel opens (which faded) into GROWTH as QQQ ripped +2.45%.
+- SOFI (0069) 16.73 — A-grade base-breakout-and-HOLD above OR high 16.48 on expanding volume, higher lows; stop 16.44 below pivot, tgt 17.31. Clean.
+- CLF (0070) 12.25 — B+ breakout; clean structure but a beaten-down (-20% last wk) mean-reversion bounce = higher reversal risk; stop 11.90, tgt 12.95. Noted lower-conviction, sized to $40.
+**Skipped:** HL/KGC (gold faded intraday as risk-on surged — rotation OUT of gold), AAL (dead-cat pop-then-fade again), VALE/NCLH (below OR highs). Took the names actually breaking-AND-holding, not the openers that faded.
