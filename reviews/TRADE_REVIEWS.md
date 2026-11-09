@@ -2190,3 +2190,8 @@ Tally: REAL −$0.45 lifetime, FLAT, 0 trades today (7 passes); PAPER open P-003
 ### 2026-11-09 — Engine pass 2 (~11:05 ET / 16:05Z)
 **REAL:** flat, BP $0 (day 14) — PASS.
 **PAPER manage:** SOFI (0069) working — grinding up to 16.97 (+0.83R MFE), now 16.87, stop 16.44 never threatened; riding the strong tape (QQQ +3.22%) toward 17.31. CLF (0070) consolidating the breakout 12.15-12.33 on FADING volume (the beaten-down mean-reversion pop is stalling — the B+ caveat showing), now 12.30 ~flat, stop 11.90 safe. Both OPEN, both above entry/stops. No new entries.
+
+---
+### 2026-11-09 — Engine pass 3 (~12:05 ET / 17:05Z)
+**REAL:** flat, BP $0 (day 14) — PASS.
+**PAPER manage:** both OPEN, above entry/stops, strong tape (SPY +2.20%, QQQ +3.19%). SOFI (0069) consolidating 16.78-16.90 (~+0.47R), healthy pause above entry, stop 16.44 safe. CLF (0070) grinding 12.23-12.39 (~+0.31R), holding the bounce, stop 11.90 safe. Neither at target/stop. No new entries (already positioned, midday).
