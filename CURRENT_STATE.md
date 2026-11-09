@@ -5,7 +5,7 @@
 > intent and status; it is NOT the brokerage record (that comes from
 > reconciliation).
 
-**Last updated:** 2026-11-09 (Mon, engine pass 3 ~12:05 ET / 17:05Z). **⚠ BP still $0 (day 14)** — real BLOCKED, FLAT, PASS. Owner must verify •4713 in-app. Regime: strong broad rally holding — SPY +2.20%, QQQ +3.19%. PAPER: SOFI (0069) OPEN ~+0.47R (16.87, consolidating above entry, stop 16.44 safe, tgt 17.31); CLF (0070) OPEN ~+0.31R (12.36, grinding, stop 11.90 safe, tgt 12.95). No new. PAPER lifetime: 68 closed, 29W/39L, net +4.22R + 2 open. Lifetime real 2W/6L -$0.52. Options/crypto/margin OFF. Prior EOD history below. ⟶
+**Last updated:** 2026-11-09 (Mon, engine pass 4 ~1:05 ET / 18:05Z). **⚠ BP still $0 (day 14)** — real BLOCKED, FLAT, PASS. Owner must verify •4713 in-app. Regime: strong broad rally holding — SPY +2.34%, QQQ +3.19%. PAPER: SOFI (0069) OPEN ~+0.43R (16.86, consolidating 16.83-16.93, stop 16.44 safe, tgt 17.31); CLF (0070) OPEN ~+0.19R (12.32, drifting, stop 11.90 safe, tgt 12.95). No new. PAPER lifetime: 68 closed, 29W/39L, net +4.22R + 2 open. Lifetime real 2W/6L -$0.52. Options/crypto/margin OFF. Next: pass 5 ~2pm, 6 ~3pm, 7 ~4pm EOD. Prior EOD history below. ⟶
 
 ---
 
