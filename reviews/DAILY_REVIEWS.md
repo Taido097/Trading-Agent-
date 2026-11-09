@@ -2182,3 +2182,9 @@ Low-priced: BTG 5.56 (+3.0%, gold $5).
 Avoid / lagging: RIOT (flat), MARA (−2.2%, crypto diverging down), SNAP (4.94, sub-$5 weak). Dropped >~$19: KGC 23.01, CCL 30.60.
 
 **Plan:** No trade in prep. Decision routine (9:47 ET) reads opening ranges on Tier-1 (HL, AAL, NCLH, VALE) — gold/materials/travel side. Broad green favors breakouts; Monday-gap-after-volatile-week → require clean break-and-hold, standard risk. Real stays PASS until BP > $0; flag block to owner (day 14).
+
+**9:47 ET opening-range decision (14:47Z):** REAL = **PASS, no trade.** ••••4713 flat, BP $0 (day 14). Tape ripping (SPY +1.53%, QQQ +2.33%, broad). But all affordable leaders faded off their open spikes — no confirmed OR-high break-and-hold:
+- HL (OR high 15.58) 15.465 — gold leader +4.9%, faded below OR high. Top watch (REJECTED logged).
+- AAL (OR high 14.14) 13.945 — popped to 14.14 then faded (dead-cat pattern, as cautioned). Skip.
+- VALE fading (11.91→11.79); NCLH chopping below 18.575 OR high.
+Gap-up-then-digest open. Hand to engine (10:03 ET) for a confirmed re-break (HL >15.58). Real PASS until BP > $0.
