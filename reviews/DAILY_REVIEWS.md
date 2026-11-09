@@ -2156,3 +2156,29 @@ Post-rout first bounce + NFP = high reversal risk; demanding confirmed break-and
 6. **Ops:** fixed the EST cron drift Monday (prep/decision/engine back on ET).
 
 **Next week (starts Mon 11/09):** watch whether this bounce builds a base or rolls over (two-day rout-then-bounce is fragile). Gold + whatever shows RS off the lows lead the watchlist. Real stays PASS until BP > $0 — escalation to owner stands (day 13). Pre-market prep Mon ~9:15 ET.
+
+---
+## 2026-11-09 (Mon) — PRE-MARKET PREP (~9:22 ET / 14:22Z)
+
+**(Fresh weekend container — re-cloned the memory repo before journaling.)**
+
+**REAL ••••4713:** FLAT. 0 positions, BP = $0 (**day 14 of the block**). Reconciled, matches internal state. Real BLOCKED. 👉 Owner must verify the account/buying power in the Robinhood app — real resumes the instant BP > $0.
+
+**Regime (pre-market vs 11/06 close):** BROAD recovery continuation — SPY 741.64 (+0.86%), QQQ 662.02 (+0.90%). Risk-on follow-through after Friday's bounce, led by CYCLICALS/COMMODITIES not tech: gold miners ripping (HL +3.7%, KGC +3.5%, BTG +3.0%), materials/steel (VALE +2.7%, CLF +2.4%), travel (AAL +4.6%, NCLH +3.5%, CCL +3.4%). Crypto miners lagging (RIOT flat, MARA −2.2%). Wide breadth — supportive for breakouts, but it's a Monday gap-up after a violent week, so demand break-and-HOLD (not the open spike).
+
+**Event risk:** No major scheduled release I can confirm today (NFP was Fri). CPI likely mid-week (~Wed/Thu 11/11-12) = the week's catalyst to watch. No FOMC. (From calendar, not a live feed.)
+
+**WIDE SCREEN → watchlist (hard screen ≤~$19, liquid, spread ≤~0.5% [re-check at open], ranked by pre-market RS vs SPY +0.86%):**
+
+Tier 1 — affordable RS leaders:
+- **HL 15.28 (+3.7%)** — GOLD leader, the week's cleanest winner (+2R Wed); gold is the genuine RS theme. #1 watch.
+- **AAL 13.78 (+4.6%)** — airline, biggest affordable mover; BUT dead-cat history (11/02) → demand a held break, not the open pop.
+- **NCLH 18.54 (+3.5%)** — cruise, near top of budget.
+- **VALE 11.90 (+2.7%)** — materials/iron ore.
+
+Tier 2 — affordable, moderate RS: CLF 11.74 (+2.4%, but down ~20% on the week — beaten-down bounce, lower quality), HBAN 15.75 (+1.8%), F 12.61 (+1.4%), SOFI 16.37 (+1.0%).
+Low-priced: BTG 5.56 (+3.0%, gold $5).
+
+Avoid / lagging: RIOT (flat), MARA (−2.2%, crypto diverging down), SNAP (4.94, sub-$5 weak). Dropped >~$19: KGC 23.01, CCL 30.60.
+
+**Plan:** No trade in prep. Decision routine (9:47 ET) reads opening ranges on Tier-1 (HL, AAL, NCLH, VALE) — gold/materials/travel side. Broad green favors breakouts; Monday-gap-after-volatile-week → require clean break-and-hold, standard risk. Real stays PASS until BP > $0; flag block to owner (day 14).
