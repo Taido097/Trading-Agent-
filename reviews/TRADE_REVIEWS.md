@@ -2210,3 +2210,9 @@ Tally: REAL −$0.45 lifetime, FLAT, 0 trades today (7 passes); PAPER open P-003
 ### 2026-11-09 — Engine pass 6 (~3:05 ET / 20:05Z)
 **REAL:** flat, BP $0 (day 14) — PASS.
 **PAPER manage:** both OPEN, strong tape into the last hour (SPY +2.56%, QQQ +3.52%). SOFI (0069) 16.96 (~+0.8R), pushed to 17.01 late, nearing the 17.31 target, stop 16.44 safe. CLF (0070) 12.30 (~+0.14R), stalling, stop 11.90 safe. No new entries. EOD flatten next pass (~4pm) if targets not tagged.
+
+---
+### 2026-11-09 — Engine pass 7 (EOD close, ~4pm ET / 21:05Z) — LAST PASS
+**REAL:** flat, BP $0 (day 14) — PASS. $20 preserved.
+**PAPER:** EOD-flattened both at ~breakeven — SOFI (0069) +0.07R, CLF (0070) +0.03R. Day +0.10R. Lifetime 70 closed, 31W/39L, +4.32R.
+**KEY LESSON (acted on):** SOFI reached +1.07R then round-tripped to flat by the close. 3rd confirmation that fixed 2:1 targets leak gains — **adopting a partial-at-+1R + trail-the-runner rule** as the next deliberate refinement (logged in DAILY_REVIEWS). Full EOD wrap there.

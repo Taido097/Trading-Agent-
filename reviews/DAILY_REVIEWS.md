@@ -2188,3 +2188,24 @@ Avoid / lagging: RIOT (flat), MARA (−2.2%, crypto diverging down), SNAP (4.94,
 - AAL (OR high 14.14) 13.945 — popped to 14.14 then faded (dead-cat pattern, as cautioned). Skip.
 - VALE fading (11.91→11.79); NCLH chopping below 18.575 OR high.
 Gap-up-then-digest open. Hand to engine (10:03 ET) for a confirmed re-break (HL >15.58). Real PASS until BP > $0.
+
+---
+## 2026-11-09 (Mon) — EOD WRAP (4pm ET close)
+
+**Close:** SPY 752.83 (+2.39%), QQQ 678.95 (+3.48%) — big BROAD risk-on recovery day (continuing Friday's bounce). Leadership rotated intraday: gold/travel opened strong then faded, growth/tech (QQQ) carried the day.
+
+**REAL ••••4713:** FLAT — **day 14 of the BP-$0 block.** $20 preserved, zero real trades. 👉 Owner: verify the account/buying power in the Robinhood app — real resumes when BP > $0. (Two full weeks blocked now.)
+
+**PAPER:** 2 trades, both EOD-flattened at ~breakeven (no overnight):
+- SOFI (0069) 16.73 → 16.75 EOD = **+0.07R** (scratch). A-grade base-breakout; reached +1.07R MFE midday then round-tripped to flat into the close.
+- CLF (0070) 12.25 → 12.26 EOD = **+0.03R** (scratch). B+ beaten-down bounce; stalled all day, no follow-through.
+- **Day P&L: +0.10R** (effectively flat).
+
+**Lifetime paper:** 70 closed, 31W/39L, net **+4.32R**. Lifetime real 2W/6L, −$0.52.
+
+**Lessons today:**
+1. **PARTIAL/TRAIL — now a priority (3rd confirmation).** SOFI was a clean A-grade breakout that hit +1.07R, then gave it ALL back to breakeven by the close on a +3.5% QQQ day. The fixed 2:1 target captured nothing. This is the third time (RIOT/MARA/HL earlier) the fixed target left gains on the table — but today it's sharper because the trade round-tripped to ZERO. **Adopt a partial-at-+1R (bank half) + trail-the-rest rule** as the next refinement; log it as the standing change to test deliberately from here.
+2. **Trend-leader > beaten-down bounce (confirmed).** SOFI (genuine RS leader) at least reached +1R; CLF (beaten-down −20%-last-week bounce) never moved despite a +3.5% tape. Favor the real leaders; beaten-down names often lack the trend to reach 2:1.
+3. **Read rotation correctly:** skipping the faded gold/travel openers and taking the growth names that actually broke-and-held was the right call (even if the day ended flat, the process picked the right side).
+
+**Tomorrow (Tue 11/10):** two strong up days off the rout — watch for continuation vs. digestion/pullback. CPI mid-week (~Wed/Thu) still the catalyst. Consider applying the partial-at-1R rule to the next paper breakout. Real stays PASS until BP > $0; flag the block to owner (day 14). Pre-market prep ~9:15 ET.
