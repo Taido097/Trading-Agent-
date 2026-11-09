@@ -2185,3 +2185,8 @@ Tally: REAL −$0.45 lifetime, FLAT, 0 trades today (7 passes); PAPER open P-003
 - SOFI (0069) 16.73 — A-grade base-breakout-and-HOLD above OR high 16.48 on expanding volume, higher lows; stop 16.44 below pivot, tgt 17.31. Clean.
 - CLF (0070) 12.25 — B+ breakout; clean structure but a beaten-down (-20% last wk) mean-reversion bounce = higher reversal risk; stop 11.90, tgt 12.95. Noted lower-conviction, sized to $40.
 **Skipped:** HL/KGC (gold faded intraday as risk-on surged — rotation OUT of gold), AAL (dead-cat pop-then-fade again), VALE/NCLH (below OR highs). Took the names actually breaking-AND-holding, not the openers that faded.
+
+---
+### 2026-11-09 — Engine pass 2 (~11:05 ET / 16:05Z)
+**REAL:** flat, BP $0 (day 14) — PASS.
+**PAPER manage:** SOFI (0069) working — grinding up to 16.97 (+0.83R MFE), now 16.87, stop 16.44 never threatened; riding the strong tape (QQQ +3.22%) toward 17.31. CLF (0070) consolidating the breakout 12.15-12.33 on FADING volume (the beaten-down mean-reversion pop is stalling — the B+ caveat showing), now 12.30 ~flat, stop 11.90 safe. Both OPEN, both above entry/stops. No new entries.
