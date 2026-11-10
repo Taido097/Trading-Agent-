@@ -5,7 +5,7 @@
 > intent and status; it is NOT the brokerage record (that comes from
 > reconciliation).
 
-**Last updated:** 2026-11-09 (Mon, EOD / engine pass 7 ~4pm ET / 21:05Z — close). **⚠ BP still $0 (day 14)** — real BLOCKED all day, FLAT, $20 preserved, zero real trades. Owner must verify •4713 in-app. Close: SPY +2.39% (752.83), QQQ +3.48% (678.95) — big broad recovery day. PAPER day: SOFI (0069) +0.07R + CLF (0070) +0.03R = **+0.10R** (both EOD scratch, no overnight). KEY LESSON: SOFI hit +1.07R then round-tripped to breakeven -> ADOPT partial-at-1R + trail (3rd confirmation). PAPER lifetime: 70 closed, 31W/39L, net +4.32R, 0 open. Lifetime real 2W/6L -$0.52. Options/crypto/margin OFF. Next: Tue 11/10 pre-market prep ~9:15 ET. Prior EOD history below. ⟶
+**Last updated:** 2026-11-10 (Tue, engine pass 1 ~10:07 ET / 15:07Z). **⚠ BP still $0 (day 15)** — real BLOCKED, FLAT, 0 positions, $20 preserved. Owner must verify •4713 in-app. Open 9:47 decision = PASS (red open spikes faded). Tape now flat-ish: SPY 751.33 (-0.18%), QQQ 679.27 (-0.01%) — digestion after 2-day rip. RS leaders = crypto miners + steel: MARA +12.5%, CLF +5.5%, RIOT +3.6%. PAPER pass 1: opened 2 continuation longs — CLF (0071) RS stair-step breakout, MARA (0072) pullback-rebreak; both partial-at-+1R+trail (new rule). RIOT passed (choppy spike-fade). PAPER lifetime: 70 closed 31W/39L +4.32R, now 2 OPEN. Lifetime real 2W/6L -$0.52. Options/crypto/margin OFF. Next: engine pass 2 ~11am ET. ⟶
 
 ---
 
