@@ -2209,3 +2209,24 @@ Gap-up-then-digest open. Hand to engine (10:03 ET) for a confirmed re-break (HL 
 3. **Read rotation correctly:** skipping the faded gold/travel openers and taking the growth names that actually broke-and-held was the right call (even if the day ended flat, the process picked the right side).
 
 **Tomorrow (Tue 11/10):** two strong up days off the rout — watch for continuation vs. digestion/pullback. CPI mid-week (~Wed/Thu) still the catalyst. Consider applying the partial-at-1R rule to the next paper breakout. Real stays PASS until BP > $0; flag the block to owner (day 14). Pre-market prep ~9:15 ET.
+
+---
+## 2026-11-10 (Tue) — PRE-MARKET PREP (~9:20 ET / 14:20Z)
+
+**REAL ••••4713:** FLAT. 0 positions, BP = $0 (**day 15 of the block**). Reconciled, matches internal state. Real BLOCKED. 👉 Owner must verify the account/buying power in the Robinhood app — real resumes the instant BP > $0. (3 calendar weeks.)
+
+**Regime (pre-market vs 11/09 close):** PULLBACK / digestion after the 2-day rip (Fri bounce + Mon +3.5% QQQ). SPY 748.59 (−0.54%), QQQ 672.15 (−1.06%) — broad red, tech leading down. Yesterday's gold leaders REVERSING hard (HL −5.1%, KGC −4.0%, BTG −3.9%); crypto-miners mixed (MARA −4.1%, RIOT +0.2%). Travel holding up (AAL flat, NCLH −0.1%). Red-tape playbook: TIGHTEN criteria, momentum mean-reverts → favor pullback-holds/coils over breakouts; a stand-aside day is fine if nothing firms.
+
+**Event risk:** No top-tier release I can confirm today. **CPI is the week's catalyst (~Wed/Thu).** NOTE: Wed 11/11 is Veterans Day — STOCK market open, BOND market closed (thinner liquidity, can be whippy). No FOMC. (From calendar, not a live feed.)
+
+**WIDE SCREEN → watchlist (hard screen ≤~$19, liquid; red tape so ranked by RELATIVE strength = least-red vs SPY −0.54%):**
+
+Relative holders (the only names not deeply red — watch for intraday pullback-holds, NOT breakouts):
+- **RIOT 17.70 (+0.2%)** — only green name; crypto-miner diverging up (vs MARA −4%). Watch if it holds.
+- **AAL 14.16 (flat)** — airline, holding; +3-day base building.
+- **NCLH 18.41 (−0.1%)** — cruise, holding near top of budget.
+- **HBAN 15.85 (−0.4%)** — bank, relatively firm.
+
+Deeply red / avoid longs today: gold miners (HL −5.1%, KGC −4.0%, BTG −3.9% — sharp reversal), SOFI −1.9%, RIVN −1.5%, MARA −4.1%, VALE −2.5%, CLF −1.7%, F −1.5%, RIG −1.2%, SNAP −1.0% (sub-$5). Dropped >~$19: KGC 21.95.
+
+**Plan:** No trade in prep. Decision routine (9:47 ET) reads opening ranges but on a RED pullback tape I'm demanding a confirmed higher-low/pullback-hold on a relative holder (RIOT/AAL/NCLH), NOT an ORB breakout — and will readily PASS (stand-aside day is fine after a 2-day rip). Plan to apply the NEW partial-at-+1R rule (adopted 11/09) to any entry. Real stays PASS until BP > $0; flag block to owner (day 15).
