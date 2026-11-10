@@ -2225,3 +2225,10 @@ Tally: REAL −$0.45 lifetime, FLAT, 0 trades today (7 passes); PAPER open P-003
   - 0071 CLF 12.93 long — cleanest trend: steady stair-step to new HODs on rising volume. Stop 12.63 (below 14:55 breakout pivot), target 13.53 (2.0R). Partial +1R @13.23 then trail.
   - 0072 MARA 7.47 long — RS leader +12.5%, entered on 14:50 pullback-hold (7.16) + 14:55 re-break (NOT the open spike, per O002). Stop 7.28 (below minor base, wider than immediate base per whipsaw lesson), target 7.85 (2.0R). Partial +1R @7.66 then trail. Note: extended, so managing tighter.
   - RIOT PASS — vertical open-spike that faded; choppy 18.07-18.65 range, no clean hold (serial-whipsaw name). Quality filter > structure.
+
+### 2026-11-10 engine pass 2 (~11:05 ET / 16:05Z)
+- REAL: FLAT, BP $0 (day 15) -> STEP A PASS. Nothing to manage.
+- Regime: open bounce FADED back to red (SPY -0.67%, QQQ -0.83%). Tape weakening mid-morning.
+- 0072 MARA -1.0R STOP @7.28 (low tagged 7.28 at 15:55/16:00). MFE only +0.58R (high 7.58, never hit +1R 7.66 so no partial). Crypto miners rolled (RIOT +3.6%->+1.5%); the +12% extended entry mean-reverted when QQQ turned down. Clean valid loss = regime_rollover; confirms "extended momentum name + weakening tape = mean-revert" lesson.
+- 0071 CLF OPEN, held 12.74-13.04, well above stop 12.63, never hit +1R (13.23) or target. Steel RS holding (+4.9%); keeping it.
+- New entries: PASS. Red/rolling tape + my momentum name just stopped = do NOT chase breakouts (mean-reversion trap). AMD +3.6% vs red QQQ is real RS but $527 and no pullback-hold confirmed -> watch only.
