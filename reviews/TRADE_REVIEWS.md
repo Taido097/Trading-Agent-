@@ -2256,3 +2256,8 @@ Tally: REAL −$0.45 lifetime, FLAT, 0 trades today (7 passes); PAPER open P-003
 - Regime: red, range-bound (SPY -0.61%, QQQ -1.14%).
 - 0071 CLF OPEN: flat coil 12.74-12.865 all afternoon, holding +4.4% above stop. No breach, no +1R/target. Carrying to EOD flatten (pass 7).
 - No new entries: 3pm red tape, late-day breakout caution (O003). Nothing clean.
+
+### 2026-11-10 engine pass 7 / EOD (~4pm ET / 21:04Z)
+- REAL: FLAT, BP $0 (day 15) -> PASS all 7 passes + open decision. $20 preserved, zero real trades. On a red day the block was again net-protective.
+- Close: SPY -0.36%, QQQ -0.67% (bounced off intraday lows of -0.86%/-1.47%). Failed-flush/recovery, still red.
+- 0071 CLF FLATTEN @12.855 EOD (no overnight). -0.25R. MFE +0.35R, MAE -0.80R. Held RS all day (strongest name) but never extended to +1R(13.23)/target; heavy tape capped it. Clean valid scratch.

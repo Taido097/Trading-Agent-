@@ -2236,3 +2236,18 @@ Deeply red / avoid longs today: gold miners (HL −5.1%, KGC −4.0%, BTG −3.9
 - AAL 14.17 — chopping below OR high 14.365, flat on day.
 - NCLH 18.32 — faded below OR high 18.58 (−0.6%).
 No clean pullback-hold/break on the red tape = stand aside (as prepped). Not a BP-blocked clean setup; genuinely nothing clean. Engine will stay selective; default PASS/stand-aside on a digestion day. Real PASS until BP > $0.
+
+## 2026-11-10 (Tue) — EOD WRAP
+- REGIME: opened red, bounced to ~flat by 10am, then rolled risk-off (QQQ -1.47% intraday), recovered into close (SPY -0.36%, QQQ -0.67%). Net: a heavy, choppy, failed-flush red day after the 2-day rip. Digestion.
+- REAL $20: PASS all day (open decision + 7 engine passes). BP $0 day 15 — hard block. FLAT, $20 preserved, zero real trades. Separately, nothing clean cleared the gate anyway (RIOT open spike-fade; relative holders faded). On a red day, standing aside cost nothing.
+- PAPER: 2 longs opened at pass 1 (10:07, when SPY -0.18%/QQQ -0.01% looked flat) = CLF 0071 (RS steel stair-step breakout) + MARA 0072 (RS crypto pullback-rebreak). Tape then rolled risk-off:
+  - MARA 0072 STOP -1.0R (extended +12% name mean-reverted as QQQ turned down; MFE only +0.58R).
+  - CLF 0071 EOD scratch -0.25R (best RS name, coiled all day, heavy tape wouldn't let it extend; MFE +0.35R).
+  - RIOT considered, PASSED (vertical open spike-fade, choppy).
+  - PAPER DAY = -1.25R (2 losers, 0 winners).
+- LESSONS:
+  1. REGIME > entry quality (reinforced): on a QQQ -0.7%+ risk-off day, even the strongest RS leader (CLF) can't make money long. The regime gate is the ceiling. When QQQ confirms risk-off by late morning, LONG-only paper should go flat/aside, not keep holding hopeful RS coils.
+  2. Opening momentum longs early on a day that reverses = the recurring trap (MARA). Pass-1 entries looked fine (flat tape) but the right adjustment once the tape rolled (pass 2) was correct: NO new entries the rest of the day. Discipline held.
+  3. New partial-at-+1R rule never triggered (neither name reached +1R) — nothing to validate today, but the discipline of defining it up front is in place.
+- TALLY: PAPER lifetime 72 closed, 31W/41L, net +3.07R, 0 open. Real lifetime 2W/6L -$0.52.
+- TOMORROW (Wed 11/11): watch whether today's recovery-close follows through (green open = re-engage breakouts) or fails (continue red-tape caution/aside). Real stays PASS until BP > $0.
