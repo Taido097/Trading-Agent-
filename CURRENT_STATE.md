@@ -5,7 +5,7 @@
 > intent and status; it is NOT the brokerage record (that comes from
 > reconciliation).
 
-**Last updated:** 2026-11-10 (Tue, engine pass 6 ~3:04 ET / 20:04Z). **⚠ BP still $0 (day 15)** — real BLOCKED, FLAT, 0 positions, $20 preserved. Owner must verify •4713 in-app. Tape red, range-bound: SPY 748.11 (-0.61%), QQQ 671.59 (-1.14%). PAPER pass 6: CLF (0071) still OPEN — flat coil 12.74-12.865 all afternoon, holding +4.4% above stop 12.63 (no +1R/target). No new entries (late-day red tape, O003). PAPER lifetime: 71 closed 31W/40L net +3.32R, 1 open (CLF). Lifetime real 2W/6L -$0.52. Options/crypto/margin OFF. Next: pass 7 ~4pm ET = EOD flatten CLF + day wrap. ⟶
+**Last updated:** 2026-11-10 (Tue, EOD / engine pass 7 ~4pm ET / 21:04Z — close). **⚠ BP $0 all day (day 15)** — real BLOCKED, FLAT, $20 preserved, ZERO real trades. Owner must verify •4713 in-app. Close: SPY 749.96 (-0.36%), QQQ 674.81 (-0.67%) — bounced off lows (intraday QQQ -1.47%) = failed-flush/recovery, still red. PAPER day: MARA (0072) -1.0R stop + CLF (0071) -0.25R EOD scratch = -1.25R (2 longs opened pass 1 when tape looked flat, tape then rolled risk-off; no new entries passes 2-7 = correct). KEY LESSON reinforced: on a red/risk-off tape (QQQ -0.7%+), even the best RS leader (CLF) cant run long — REGIME is the ceiling. PAPER lifetime: 72 closed 31W/41L net +3.07R, 0 open. Lifetime real 2W/6L -$0.52. Options/crypto/margin OFF. Next: Wed 11/11 pre-market prep ~9:15 ET. ⟶
 
 ---
 
