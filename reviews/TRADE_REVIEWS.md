@@ -2244,3 +2244,9 @@ Tally: REAL −$0.45 lifetime, FLAT, 0 trades today (7 passes); PAPER open P-003
 - Regime: still red lunchtime grind (SPY -0.86%, QQQ -1.47%), volume thin.
 - 0071 CLF OPEN: coiled flat 12.78-12.88, holding +4.6% RS above stop, no progress toward +1R(13.23)/target. Keeping - strongest name, no stop breach, no reason to exit early.
 - No new entries: risk-off lunch chop, nothing clean. Patience.
+
+### 2026-11-10 engine pass 5 (~2:08 ET / 19:08Z)
+- REAL: FLAT, BP $0 (day 15) -> STEP A PASS.
+- Regime: red but stabilizing off lows (SPY -0.57%, QQQ -1.07% vs -1.47% prior). Mild afternoon bounce.
+- 0071 CLF OPEN: dipped to 12.69 (18:50) then bounced to 12.80; above stop 12.63 (~18c), +4.4%. Losing a little steam but no breach. Keeping into pass 6; will flatten at EOD (pass 7) per paper rule.
+- No new entries: crypto bounced (MARA 7.20, RIOT +0.7%) but choppy; nothing clean on a red tape.
