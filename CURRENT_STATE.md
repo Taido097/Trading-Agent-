@@ -5,7 +5,7 @@
 > intent and status; it is NOT the brokerage record (that comes from
 > reconciliation).
 
-**Last updated:** 2026-11-10 (Tue, engine pass 2 ~11:05 ET / 16:05Z). **⚠ BP still $0 (day 15)** — real BLOCKED, FLAT, 0 positions, $20 preserved. Owner must verify •4713 in-app. Tape rolled back RED after the open bounce: SPY 747.62 (-0.67%), QQQ 673.73 (-0.83%) — weakening. PAPER pass 2: MARA (0072) STOPPED -1.0R (crypto faded, extended name mean-reverted); CLF (0071) still OPEN, holding +4.9% above stop. No new entries (red tape, tightened). AMD +3.6% RS watch (too pricey/unconfirmed). PAPER lifetime: 71 closed 31W/40L net +3.32R, 1 open (CLF). Lifetime real 2W/6L -$0.52. Options/crypto/margin OFF. Next: engine pass 3 ~12pm ET. ⟶
+**Last updated:** 2026-11-10 (Tue, engine pass 3 ~12:04 ET / 17:04Z). **⚠ BP still $0 (day 15)** — real BLOCKED, FLAT, 0 positions, $20 preserved. Owner must verify •4713 in-app. Tape grinding lower / risk-off deepening: SPY 746.71 (-0.79%), QQQ 670.55 (-1.30%). PAPER pass 3: CLF (0071) still OPEN — coiling tight 12.79-12.97, only green name holding (+4.7%) vs -1.3% QQQ = strong RS; kept. Everything else rolled (MARA 7.02, RIOT now red, HL -7.9%). No new entries (risk-off, don't fight tape). PAPER lifetime: 71 closed 31W/40L net +3.32R, 1 open (CLF). Lifetime real 2W/6L -$0.52. Options/crypto/margin OFF. Next: engine pass 4 ~1pm ET. ⟶
 
 ---
 

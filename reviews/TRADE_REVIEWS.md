@@ -2232,3 +2232,9 @@ Tally: REAL −$0.45 lifetime, FLAT, 0 trades today (7 passes); PAPER open P-003
 - 0072 MARA -1.0R STOP @7.28 (low tagged 7.28 at 15:55/16:00). MFE only +0.58R (high 7.58, never hit +1R 7.66 so no partial). Crypto miners rolled (RIOT +3.6%->+1.5%); the +12% extended entry mean-reverted when QQQ turned down. Clean valid loss = regime_rollover; confirms "extended momentum name + weakening tape = mean-revert" lesson.
 - 0071 CLF OPEN, held 12.74-13.04, well above stop 12.63, never hit +1R (13.23) or target. Steel RS holding (+4.9%); keeping it.
 - New entries: PASS. Red/rolling tape + my momentum name just stopped = do NOT chase breakouts (mean-reversion trap). AMD +3.6% vs red QQQ is real RS but $527 and no pullback-hold confirmed -> watch only.
+
+### 2026-11-10 engine pass 3 (~12:04 ET / 17:04Z)
+- REAL: FLAT, BP $0 (day 15) -> STEP A PASS.
+- Regime: risk-off deepening, QQQ -1.30% (tech selling), SPY -0.79%. Broad red.
+- 0071 CLF OPEN: coiled 12.79-12.97, held above stop 12.63, no +1R (13.23)/target hit. ONLY green name holding (+4.7%) while everything else rolled -> textbook relative strength in a down tape. Keeping; this is exactly the kind of RS holdout worth riding.
+- No new entries: QQQ -1.3% risk-off, crypto fully rolled (RIOT red, MARA 7.02), gold HL -7.9%. Adding longs here fights the tape. Discipline = hold the one RS winner, wait.
