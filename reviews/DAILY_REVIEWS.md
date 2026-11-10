@@ -2230,3 +2230,9 @@ Relative holders (the only names not deeply red — watch for intraday pullback-
 Deeply red / avoid longs today: gold miners (HL −5.1%, KGC −4.0%, BTG −3.9% — sharp reversal), SOFI −1.9%, RIVN −1.5%, MARA −4.1%, VALE −2.5%, CLF −1.7%, F −1.5%, RIG −1.2%, SNAP −1.0% (sub-$5). Dropped >~$19: KGC 21.95.
 
 **Plan:** No trade in prep. Decision routine (9:47 ET) reads opening ranges but on a RED pullback tape I'm demanding a confirmed higher-low/pullback-hold on a relative holder (RIOT/AAL/NCLH), NOT an ORB breakout — and will readily PASS (stand-aside day is fine after a 2-day rip). Plan to apply the NEW partial-at-+1R rule (adopted 11/09) to any entry. Real stays PASS until BP > $0; flag block to owner (day 15).
+
+**9:47 ET opening-range decision (14:47Z):** REAL = **PASS, no trade.** ••••4713 flat, BP $0 (day 15). Red pullback tape (SPY −0.59%, QQQ −0.87%). Reads:
+- RIOT 18.26 — only green name (+3.4%) but SPIKED to 18.65 on the open bar then faded; vertical spike-and-fade, not a clean break-and-hold (O002 no-chase). Watch only for a pullback-hold re-break.
+- AAL 14.17 — chopping below OR high 14.365, flat on day.
+- NCLH 18.32 — faded below OR high 18.58 (−0.6%).
+No clean pullback-hold/break on the red tape = stand aside (as prepped). Not a BP-blocked clean setup; genuinely nothing clean. Engine will stay selective; default PASS/stand-aside on a digestion day. Real PASS until BP > $0.
