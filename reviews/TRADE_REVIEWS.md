@@ -2216,3 +2216,12 @@ Tally: REAL −$0.45 lifetime, FLAT, 0 trades today (7 passes); PAPER open P-003
 **REAL:** flat, BP $0 (day 14) — PASS. $20 preserved.
 **PAPER:** EOD-flattened both at ~breakeven — SOFI (0069) +0.07R, CLF (0070) +0.03R. Day +0.10R. Lifetime 70 closed, 31W/39L, +4.32R.
 **KEY LESSON (acted on):** SOFI reached +1.07R then round-tripped to flat by the close. 3rd confirmation that fixed 2:1 targets leak gains — **adopting a partial-at-+1R + trail-the-runner rule** as the next deliberate refinement (logged in DAILY_REVIEWS). Full EOD wrap there.
+
+### 2026-11-10 engine pass 1 (~10:07 ET / 15:07Z)
+- REAL: FLAT, BP $0 (day 15) -> STEP A PASS (hard block). Nothing to manage.
+- Regime: tape recovered from red open to ~flat (SPY -0.18%, QQQ -0.01%) = digestion after the 2-day rip. Tightened criteria (favor coils/pullbacks/leaders over breakouts).
+- RS leaders bucking the flat tape: crypto miners (MARA +12.5%, RIOT +3.6%) + steel (CLF +5.5%).
+- PAPER entries (2, quality over quantity):
+  - 0071 CLF 12.93 long — cleanest trend: steady stair-step to new HODs on rising volume. Stop 12.63 (below 14:55 breakout pivot), target 13.53 (2.0R). Partial +1R @13.23 then trail.
+  - 0072 MARA 7.47 long — RS leader +12.5%, entered on 14:50 pullback-hold (7.16) + 14:55 re-break (NOT the open spike, per O002). Stop 7.28 (below minor base, wider than immediate base per whipsaw lesson), target 7.85 (2.0R). Partial +1R @7.66 then trail. Note: extended, so managing tighter.
+  - RIOT PASS — vertical open-spike that faded; choppy 18.07-18.65 range, no clean hold (serial-whipsaw name). Quality filter > structure.
