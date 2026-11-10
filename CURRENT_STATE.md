@@ -5,7 +5,7 @@
 > intent and status; it is NOT the brokerage record (that comes from
 > reconciliation).
 
-**Last updated:** 2026-11-10 (Tue, engine pass 5 ~2:08 ET / 19:08Z). **⚠ BP still $0 (day 15)** — real BLOCKED, FLAT, 0 positions, $20 preserved. Owner must verify •4713 in-app. Tape red but stabilizing off lows: SPY 748.43 (-0.57%), QQQ 672.06 (-1.07%, up from -1.47%). PAPER pass 5: CLF (0071) still OPEN — drifted to 12.69 low then bounced to 12.80, still above stop 12.63 (+4.4%), losing a little steam (no +1R/target). No new entries (red tape, nothing clean). PAPER lifetime: 71 closed 31W/40L net +3.32R, 1 open (CLF). Lifetime real 2W/6L -$0.52. Options/crypto/margin OFF. Next: engine pass 6 ~3pm ET; pass 7 ~4pm = EOD flatten CLF. ⟶
+**Last updated:** 2026-11-10 (Tue, engine pass 6 ~3:04 ET / 20:04Z). **⚠ BP still $0 (day 15)** — real BLOCKED, FLAT, 0 positions, $20 preserved. Owner must verify •4713 in-app. Tape red, range-bound: SPY 748.11 (-0.61%), QQQ 671.59 (-1.14%). PAPER pass 6: CLF (0071) still OPEN — flat coil 12.74-12.865 all afternoon, holding +4.4% above stop 12.63 (no +1R/target). No new entries (late-day red tape, O003). PAPER lifetime: 71 closed 31W/40L net +3.32R, 1 open (CLF). Lifetime real 2W/6L -$0.52. Options/crypto/margin OFF. Next: pass 7 ~4pm ET = EOD flatten CLF + day wrap. ⟶
 
 ---
 
