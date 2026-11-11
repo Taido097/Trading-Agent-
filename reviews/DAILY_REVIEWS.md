@@ -2251,3 +2251,18 @@ No clean pullback-hold/break on the red tape = stand aside (as prepped). Not a B
   3. New partial-at-+1R rule never triggered (neither name reached +1R) — nothing to validate today, but the discipline of defining it up front is in place.
 - TALLY: PAPER lifetime 72 closed, 31W/41L, net +3.07R, 0 open. Real lifetime 2W/6L -$0.52.
 - TOMORROW (Wed 11/11): watch whether today's recovery-close follows through (green open = re-engage breakouts) or fails (continue red-tape caution/aside). Real stays PASS until BP > $0.
+
+## 2026-11-11 (Wed) — PRE-MARKET PREP (~9:18 ET / 14:18Z)
+- RECONCILE: ••••4713 FLAT, 0 positions, BP $0 (DAY 16 of block). Real BLOCKED. Internal state matches (flat, 0 open paper after yesterday's EOD flatten).
+- REGIME: RISK-ON reversal. Pre-market SPY +0.97% (757.19), QQQ +1.93% (687.87) — tech-led bounce back off yesterday's red failed-flush. Growth leading (QQQ >> SPY). Flips to re-engage-breakouts posture (per 11/10 wrap).
+- EVENT RISK: Veterans Day — BOND market closed, equities OPEN (watch for thinner liquidity/wider spreads). No major CPI/PPI/FOMC today.
+- WIDE SCREEN watchlist (affordable <=~$19, liquid, ranked by pre-market RS):
+  1. MARA 7.66 (+4.4%) crypto leader
+  2. RIOT 18.85 (+4.3%) crypto leader (near $19 cap)
+  3. SOFI 16.64 (+1.6%) fintech
+  4. CLF 13.06 (+1.6%) steel, yesterday's RS holdout gapping up
+  5. RIVN 13.88 (+1.3%) EV
+  6. HL 14.45 (+1.1%) gold
+  7. VALE 11.69 (+0.95%) materials
+  Excluded: KGC/CCL/KEY/RF >$19; AAL/NCLH/CCL red; F/BTG flat; CHPT thin.
+- PLAN: Decision routine (9:47 ET) reads opening ranges. On a GREEN risk-on tape I re-engage breakouts/continuations, but crypto miners (RIOT/MARA) led AND faked out yesterday -> demand a confirmed pullback-hold/re-break, NOT the pre-market/open spike (O002). CLF is the cleanest story (held all of yesterday's red, now extending). Apply new partial-at-+1R+trail on any entry. Real stays PASS until BP > $0 regardless.

@@ -5,7 +5,7 @@
 > intent and status; it is NOT the brokerage record (that comes from
 > reconciliation).
 
-**Last updated:** 2026-11-10 (Tue, EOD / engine pass 7 ~4pm ET / 21:04Z — close). **⚠ BP $0 all day (day 15)** — real BLOCKED, FLAT, $20 preserved, ZERO real trades. Owner must verify •4713 in-app. Close: SPY 749.96 (-0.36%), QQQ 674.81 (-0.67%) — bounced off lows (intraday QQQ -1.47%) = failed-flush/recovery, still red. PAPER day: MARA (0072) -1.0R stop + CLF (0071) -0.25R EOD scratch = -1.25R (2 longs opened pass 1 when tape looked flat, tape then rolled risk-off; no new entries passes 2-7 = correct). KEY LESSON reinforced: on a red/risk-off tape (QQQ -0.7%+), even the best RS leader (CLF) cant run long — REGIME is the ceiling. PAPER lifetime: 72 closed 31W/41L net +3.07R, 0 open. Lifetime real 2W/6L -$0.52. Options/crypto/margin OFF. Next: Wed 11/11 pre-market prep ~9:15 ET. ⟶
+**Last updated:** 2026-11-11 (Wed, pre-market prep ~9:18 ET / 14:18Z). **⚠ BP $0 (DAY 16)** — real BLOCKED, FLAT, 0 positions, $20 preserved. Owner must verify •4713 in-app. REGIME: RISK-ON reversal — pre-market SPY +0.97%, QQQ +1.93% (tech-led bounce off yesterday's red). Veterans Day (bonds closed, equities open; watch thin liquidity). Watchlist (affordable, RS-ranked): MARA +4.4%, RIOT +4.3%, SOFI +1.6%, CLF +1.6%, RIVN +1.3%, HL +1.1%, VALE +0.95%. Plan: re-engage breakouts on green tape BUT demand confirmed pullback-hold/re-break (crypto faked out yesterday, O002); CLF cleanest; partial-at-+1R+trail on entries. PAPER lifetime: 72 closed 31W/41L net +3.07R, 0 open. Lifetime real 2W/6L -$0.52. Options/crypto/margin OFF. Next: 9:47 ET open-range decision. ⟶
 
 ---
 
