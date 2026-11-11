@@ -5,7 +5,7 @@
 > intent and status; it is NOT the brokerage record (that comes from
 > reconciliation).
 
-**Last updated:** 2026-11-11 (Wed, engine pass 3 ~12:04 ET / 17:04Z). **⚠ BP $0 (DAY 16)** — real BLOCKED, FLAT, 0 positions, $20 preserved. Owner must verify •4713 in-app. Tape very strong risk-on: SPY +1.40%, QQQ +2.76% (trend day). PAPER pass 3: SNAP (0073) OPEN & working — broke to new HOD 5.36 (+1.2% from entry, MFE ~+0.56R, no +1R 5.42 yet). Added CLF (0075) 13.175 — steel broke+HELD above OR high 13.12 (genuine break-and-hold, not a spike), stop 12.95. MARA +7% passed (extended faker). PAPER lifetime: 73 closed 31W/42L net +2.07R, 2 open (SNAP, CLF). Lifetime real 2W/6L -$0.52. Options/crypto/margin OFF. Next: engine pass 4 ~1pm ET. ⟶
+**Last updated:** 2026-11-11 (Wed, engine pass 4 ~1:04 ET / 18:04Z). **⚠ BP $0 (DAY 16)** — real BLOCKED, FLAT, 0 positions, $20 preserved. Owner must verify •4713 in-app. Tape strong but digesting sideways: SPY +1.46%, QQQ +2.77% (flat vs last pass). PAPER pass 4: SNAP (0073) HIT +1R — booked half@5.42, runner stop->BE 5.285, trailing (FIRST live test of partial-at-+1R rule, gain locked). CLF (0075) OPEN, tight consolidation on the 13.12 breakout (holding, no +1R/stop). No new entries (QQQ stalled after +2.8% morning). PAPER lifetime: 73 closed 31W/42L net +2.07R, 2 open (SNAP runner, CLF). Lifetime real 2W/6L -$0.52. Options/crypto/margin OFF. Next: engine pass 5 ~2pm ET. ⟶
 
 ---
 

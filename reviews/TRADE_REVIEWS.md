@@ -2285,3 +2285,10 @@ Tally: REAL −$0.45 lifetime, FLAT, 0 trades today (7 passes); PAPER open P-003
 - 0075 CLF 13.175 NEW long: broke AND HELD above OR high 13.12 (grinding break-and-hold off the 12.86-13.00 base, NOT a spike -> O002 ok). Steel held all of yesterday's red, now extending on strong tape. Stop 12.95 (below base, per whipsaw lesson -> deliberately NOT right under 13.05), target 13.63 (2.0R), partial +1R @13.40.
 - MARA +7% new HOD passed: extended + serial faker; not chasing a +7% vertical.
 - Contrast w/ pass 2: this CLF entry is a HELD breakout on a confirmed trend tape, vs the RIOT reclaim that was a too-early faker grab. That's the quality line.
+
+### 2026-11-11 engine pass 4 (~1:04 ET / 18:04Z)
+- REAL: FLAT, BP $0 (day 16) -> STEP A PASS.
+- Regime: strong but digesting (SPY +1.46%, QQQ +2.77%, flat vs last pass).
+- 0073 SNAP: HIT +1R (tagged 5.42 @17:45Z). FIRST live application of the partial-at-+1R rule -> booked half @5.42, raised runner stop to breakeven 5.285, trailing the rest. Now 5.38. Worst case on runner is now scratch; gain locked. A-grade trend paying.
+- 0075 CLF OPEN: tight flat consolidation 13.11-13.20 right on the 13.12 breakout since entry = healthy hold. No +1R(13.40)/stop. Keep.
+- No new entries: QQQ stalled sideways after the +2.8% morning; chasing breakouts into digestion is lower quality. Hold the two.
