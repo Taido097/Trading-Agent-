@@ -2277,3 +2277,11 @@ Tally: REAL −$0.45 lifetime, FLAT, 0 trades today (7 passes); PAPER open P-003
 - 0073 SNAP OPEN: tight consolidation 5.22-5.32 under HOD, above stop 5.15, no +1R(5.42). A-grade name behaving; keep.
 - No new entries: MARA +6.7% / CLF 13.12 breaking out but both failed once at these levels today and I just got whipsawed -> wait for confirmed hold, no chase at the failure line.
 - META: A-grade (SNAP, clean new-high trend) still working; B-grade (RIOT reclaim) stopped. Quality > forced volume, again.
+
+### 2026-11-11 engine pass 3 (~12:04 ET / 17:04Z)
+- REAL: FLAT, BP $0 (day 16) -> STEP A PASS.
+- Regime: very strong trend day (SPY +1.40%, QQQ +2.76%).
+- 0073 SNAP OPEN & working: broke to new HOD 5.36 (from 5.285 entry), MFE ~+0.56R, not yet +1R(5.42). Holding great; keep. The A-grade name is paying.
+- 0075 CLF 13.175 NEW long: broke AND HELD above OR high 13.12 (grinding break-and-hold off the 12.86-13.00 base, NOT a spike -> O002 ok). Steel held all of yesterday's red, now extending on strong tape. Stop 12.95 (below base, per whipsaw lesson -> deliberately NOT right under 13.05), target 13.63 (2.0R), partial +1R @13.40.
+- MARA +7% new HOD passed: extended + serial faker; not chasing a +7% vertical.
+- Contrast w/ pass 2: this CLF entry is a HELD breakout on a confirmed trend tape, vs the RIOT reclaim that was a too-early faker grab. That's the quality line.
