@@ -2273,3 +2273,18 @@ No clean pullback-hold/break on the red tape = stand aside (as prepped). Not a B
 - RIOT 18.25 — spiked 19.12 then gave it all back (O002, repeat of 11/10).
 - SOFI 16.43 / RIVN 13.66 — both faded below OR low.
 No ORB long holds above OR high on volume -> PASS (logged RIOT+CLF to REJECTED). KEY READ: the green is MEGA-CAP/QQQ-led; the affordable small-caps are NOT participating (narrow breadth) -> nothing tradeable in my <=$19 universe even if BP were live. Engine will stay selective; demand a genuine reclaim/hold, not another open-spike-fade.
+
+## 2026-11-11 (Wed) — EOD WRAP
+- REGIME: strong risk-ON trend day. Gapped up, faded the open (small-caps gap-failed = open PASS), then ground higher all day. Close SPY +1.32%, QQQ +2.31% (tech-led), near highs. Full reversal of yesterday's red.
+- REAL $20: PASS all day (open decision + 7 passes). BP $0 DAY 16 - hard block. FLAT, $20 preserved, zero real trades. Open-decision read (mega-cap-led, affordable small-caps gap-faded) was correct; the tradeable names only set up ~10am+.
+- PAPER (3 trades):
+  - 0073 SNAP +0.74R WIN. A-grade: cleanest RS new-high staircase on the board. Partial +1R@5.42 + runner +0.48R@5.35 EOD. Partial-at-+1R rule WORKED (first clean execution) -> banks gain, removes round-trip risk.
+  - 0074 RIOT -1.0R LOSS (whipsaw). B-grade reclaim of a serial faker already REJECTED for real that morning; stop too tight at the obvious level -> wicked out, then ran to target without me. The one forced trade.
+  - 0075 CLF -0.16R scratch. Legit break-and-hold that just didn't extend; EOD flatten, stop never hit.
+  - PAPER DAY = -0.42R (1W/2L).
+- LESSONS:
+  1. QUALITY > FORCED VOLUME (headline): A-grade SNAP +0.74R; the single B-grade forced trade (RIOT) cost -1.0R and flipped the day from +0.58R to -0.42R. On a strong trend day the clean new-high leader is the trade; the serial-faker reclaim is not, however green the tape.
+  2. Partial-at-+1R rule validated in live paper: banked +1R on half, let runner add +0.48R, zero round-trip risk. Keep applying.
+  3. Stop placement (again): RIOT stop at the obvious higher-low got wicked. For volatile fakers, either skip or place the stop genuinely beyond the noise (here: below 17.98, not 18.20) and size down.
+- TALLY: PAPER lifetime 75 closed, 32W/43L, net +2.65R, 0 open. Real lifetime 2W/6L -$0.52.
+- TOMORROW (Thu 11/12): if the trend-day strength follows through, favor clean RS new-high leaders (SNAP-style) over reclaims/fakers. Real stays PASS until BP > $0 (day 16 and counting).

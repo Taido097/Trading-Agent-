@@ -2306,3 +2306,10 @@ Tally: REAL −$0.45 lifetime, FLAT, 0 trades today (7 passes); PAPER open P-003
 - 0073 SNAP runner OPEN ~5.42 (+2.6%), BE stop 5.285 safe, +1R half booked. Target 5.555 not hit. Ride to EOD.
 - 0075 CLF OPEN but weakening: breakout stalled, drifted 13.23->13.155 (~BE vs 13.175 entry), above stop 12.95, no +1R(13.40). Flatten at EOD.
 - No new entries: 3pm, both open, flatten next pass.
+
+### 2026-11-11 engine pass 7 / EOD (~4pm ET / 21:04Z)
+- REAL: FLAT, BP $0 (day 16) -> PASS all day. $20 preserved, zero real trades.
+- Close: SPY +1.32%, QQQ +2.31% (strong trend day, near highs).
+- 0073 SNAP FLATTEN: half booked +1R @5.42 (17:45Z), runner flattened EOD @5.35 (+0.48R) = blended +0.74R WIN. MFE +1.07R, MAE ~0 (never below entry). Partial-at-+1R rule executed cleanly and banked the gain -> exactly the fix for the SOFI round-trip. A-grade RS new-high trend delivered.
+- 0075 CLF FLATTEN @13.14 = -0.16R. Break-and-hold held but never extended to +1R(13.40); EOD scratch. Stop 12.95 never threatened. Fine trade, just didn't run.
+- PAPER DAY = SNAP +0.74 + RIOT -1.0 + CLF -0.16 = -0.42R.

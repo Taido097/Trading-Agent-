@@ -5,7 +5,7 @@
 > intent and status; it is NOT the brokerage record (that comes from
 > reconciliation).
 
-**Last updated:** 2026-11-11 (Wed, engine pass 6 ~3:04 ET / 20:04Z). **⚠ BP $0 (DAY 16)** — real BLOCKED, FLAT, 0 positions, $20 preserved. Owner must verify •4713 in-app. Tape strong: SPY +1.40%, QQQ +2.53% (eased off highs, firmly green). PAPER pass 6: SNAP (0073) runner OPEN ~5.42 (+2.6%), BE stop safe, +1R half already booked. CLF (0075) OPEN but weakening — breakout stalled, drifted to 13.155 (~BE vs 13.175), above stop 12.95, no +1R. No new entries. PAPER lifetime: 73 closed 31W/42L net +2.07R, 2 open (SNAP runner, CLF). Lifetime real 2W/6L -$0.52. Options/crypto/margin OFF. Next: pass 7 ~4pm = EOD flatten both + day wrap. ⟶
+**Last updated:** 2026-11-11 (Wed, EOD / engine pass 7 ~4pm ET / 21:04Z — close). **⚠ BP $0 all day (DAY 16)** — real BLOCKED, FLAT, $20 preserved, ZERO real trades. Owner must verify •4713 in-app. Close: SPY 759.79 (+1.32%), QQQ 690.38 (+2.31%) — strong green trend day, closed near highs (recovered yesterday's red). PAPER day: SNAP (0073) +0.74R (partial +1R@5.42 half + runner +0.48R@5.35; partial-rule WORKED), RIOT (0074) -1.0R (whipsaw), CLF (0075) -0.16R (breakout stalled, EOD scratch) = **-0.42R**. KEY LESSON: the ONE B-grade forced trade (RIOT reclaim) cost -1R and flipped a would-be +0.58R day negative; A-grade SNAP + patience would have been green. Quality > volume, and the partial-at-+1R rule banks gains cleanly. PAPER lifetime: 75 closed 32W/43L net +2.65R, 0 open. Lifetime real 2W/6L -$0.52. Options/crypto/margin OFF. Next: Thu 11/12 pre-market prep ~9:15 ET. ⟶
 
 ---
 
