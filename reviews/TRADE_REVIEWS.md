@@ -2299,3 +2299,10 @@ Tally: REAL −$0.45 lifetime, FLAT, 0 trades today (7 passes); PAPER open P-003
 - 0073 SNAP runner OPEN: pulled from 5.42 to 5.365, BE stop 5.285 never threatened (low 5.34). +1R half booked earlier; runner riding at zero risk. Keep.
 - 0075 CLF OPEN: ground to mini new HOD 13.23, now 13.205 (+2.7%), above stop 12.95, no +1R(13.40). Healthy. Keep.
 - No new entries: both runners working, no fresh breakout trigger at 2pm. Will flatten remainder at EOD (pass 7).
+
+### 2026-11-11 engine pass 6 (~3:04 ET / 20:04Z)
+- REAL: FLAT, BP $0 (day 16) -> STEP A PASS.
+- Regime: strong, eased off highs (SPY +1.40%, QQQ +2.53%).
+- 0073 SNAP runner OPEN ~5.42 (+2.6%), BE stop 5.285 safe, +1R half booked. Target 5.555 not hit. Ride to EOD.
+- 0075 CLF OPEN but weakening: breakout stalled, drifted 13.23->13.155 (~BE vs 13.175 entry), above stop 12.95, no +1R(13.40). Flatten at EOD.
+- No new entries: 3pm, both open, flatten next pass.
