@@ -5,7 +5,7 @@
 > intent and status; it is NOT the brokerage record (that comes from
 > reconciliation).
 
-**Last updated:** 2026-11-11 (Wed, engine pass 1 ~10:05 ET / 15:05Z). **⚠ BP $0 (DAY 16)** — real BLOCKED, FLAT, 0 positions, $20 preserved. Owner must verify •4713 in-app. Tape genuinely risk-on & holding: SPY +0.84%, QQQ +1.72% (tech-led, extending). PAPER pass 1: opened 2 longs — SNAP (0073) A-grade RS new-high staircase +5.7% (cleanest chart), RIOT (0074) B-grade reclaim after open spike-fade (higher lows rebuilding, O002-valid). MARA/CLF reclaim-but-no-new-high (chop), SOFI/RIVN weak = passed. Both partial-at-+1R+trail. REAL STEP A PASS (BP $0; and the affordable small-caps gapped-faded at open, narrow breadth). PAPER lifetime: 72 closed 31W/41L net +3.07R, 2 open (SNAP, RIOT). Lifetime real 2W/6L -$0.52. Options/crypto/margin OFF. Next: engine pass 2 ~11am ET. ⟶
+**Last updated:** 2026-11-11 (Wed, engine pass 2 ~11:05 ET / 16:05Z). **⚠ BP $0 (DAY 16)** — real BLOCKED, FLAT, 0 positions, $20 preserved. Owner must verify •4713 in-app. Tape strong risk-on: SPY +1.13%, QQQ +2.39%. PAPER pass 2: RIOT (0074) STOPPED -1.0R (whipsaw — stop 18.20 wicked by pullback to 18.12 then ran to target without me; B-grade faker reclaim, stop too tight at obvious level = SOFI 11/03 repeat). SNAP (0073) OPEN, holding tight under HOD 5.32 (A-grade, no +1R yet). No new entries (MARA/CLF breaking out but already failed once today + just got whipsawed = no chase). PAPER lifetime: 73 closed 31W/42L net +2.07R, 1 open (SNAP). Lifetime real 2W/6L -$0.52. Options/crypto/margin OFF. Next: engine pass 3 ~12pm ET. ⟶
 
 ---
 
