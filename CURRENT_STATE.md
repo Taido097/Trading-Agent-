@@ -5,7 +5,7 @@
 > intent and status; it is NOT the brokerage record (that comes from
 > reconciliation).
 
-**Last updated:** 2026-11-11 (Wed, 9:48 ET open-range decision / 14:48Z). **⚠ BP $0 (DAY 16)** — real BLOCKED, FLAT, 0 positions, $20 preserved. Owner must verify •4713 in-app. Open decision = PASS. Regime risk-on (SPY +0.73%, QQQ +1.43%, tech-led) BUT every affordable watchlist name gapped-up then FADED off the open (CLF gap failed below prior close; MARA/RIOT spike-faded per O002; SOFI/RIVN faded). KEY READ: green is MEGA-CAP/QQQ-led — affordable small-caps NOT participating (narrow breadth), nothing tradeable in <=$19 universe. Logged RIOT+CLF REJECTED. PAPER lifetime: 72 closed 31W/41L net +3.07R, 0 open. Lifetime real 2W/6L -$0.52. Options/crypto/margin OFF. Next: engine pass 1 ~10:03 ET. ⟶
+**Last updated:** 2026-11-11 (Wed, engine pass 1 ~10:05 ET / 15:05Z). **⚠ BP $0 (DAY 16)** — real BLOCKED, FLAT, 0 positions, $20 preserved. Owner must verify •4713 in-app. Tape genuinely risk-on & holding: SPY +0.84%, QQQ +1.72% (tech-led, extending). PAPER pass 1: opened 2 longs — SNAP (0073) A-grade RS new-high staircase +5.7% (cleanest chart), RIOT (0074) B-grade reclaim after open spike-fade (higher lows rebuilding, O002-valid). MARA/CLF reclaim-but-no-new-high (chop), SOFI/RIVN weak = passed. Both partial-at-+1R+trail. REAL STEP A PASS (BP $0; and the affordable small-caps gapped-faded at open, narrow breadth). PAPER lifetime: 72 closed 31W/41L net +3.07R, 2 open (SNAP, RIOT). Lifetime real 2W/6L -$0.52. Options/crypto/margin OFF. Next: engine pass 2 ~11am ET. ⟶
 
 ---
 

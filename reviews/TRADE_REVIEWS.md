@@ -2261,3 +2261,11 @@ Tally: REAL −$0.45 lifetime, FLAT, 0 trades today (7 passes); PAPER open P-003
 - REAL: FLAT, BP $0 (day 15) -> PASS all 7 passes + open decision. $20 preserved, zero real trades. On a red day the block was again net-protective.
 - Close: SPY -0.36%, QQQ -0.67% (bounced off intraday lows of -0.86%/-1.47%). Failed-flush/recovery, still red.
 - 0071 CLF FLATTEN @12.855 EOD (no overnight). -0.25R. MFE +0.35R, MAE -0.80R. Held RS all day (strongest name) but never extended to +1R(13.23)/target; heavy tape capped it. Clean valid scratch.
+
+### 2026-11-11 engine pass 1 (~10:05 ET / 15:05Z)
+- REAL: FLAT, BP $0 (day 16) -> STEP A PASS. (Open-decision PASS already logged: affordable names gap-faded, narrow breadth.)
+- Regime: genuinely risk-on and HOLDING (SPY +0.84%, QQQ +1.72%, tech-led) -> re-engage mode, unlike yesterday's red.
+- PAPER entries (2):
+  - 0073 SNAP 5.285 long -- A-grade. Cleanest chart on the board: orderly higher-low staircase every 5min bar (5.04->5.285) to new intraday highs on rising volume, +5.7% RS leader. Stop 5.15 (below 5.13-5.17 shelf), target 5.555 (2.0R). Partial +1R @5.42.
+  - 0074 RIOT 18.49 long -- B-grade reclaim. Spike-faded the open (19.12->18.06) then rebuilt higher lows 17.98->18.26->18.49 = O002-valid RE-ENTRY (not the spike). Crypto leader, green tape. Stop 18.20 (below higher-low cluster), target 19.07 (~OR high, 2.0R). Partial +1R @18.78. Flagged lower-conviction (serial faker; taking the reclaim as a learning test).
+- Passed: MARA/CLF reclaiming but no new high (chop); SOFI below OR low; RIVN red.
