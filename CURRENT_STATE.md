@@ -5,7 +5,7 @@
 > intent and status; it is NOT the brokerage record (that comes from
 > reconciliation).
 
-**Last updated:** 2026-11-11 (Wed, engine pass 4 ~1:04 ET / 18:04Z). **⚠ BP $0 (DAY 16)** — real BLOCKED, FLAT, 0 positions, $20 preserved. Owner must verify •4713 in-app. Tape strong but digesting sideways: SPY +1.46%, QQQ +2.77% (flat vs last pass). PAPER pass 4: SNAP (0073) HIT +1R — booked half@5.42, runner stop->BE 5.285, trailing (FIRST live test of partial-at-+1R rule, gain locked). CLF (0075) OPEN, tight consolidation on the 13.12 breakout (holding, no +1R/stop). No new entries (QQQ stalled after +2.8% morning). PAPER lifetime: 73 closed 31W/42L net +2.07R, 2 open (SNAP runner, CLF). Lifetime real 2W/6L -$0.52. Options/crypto/margin OFF. Next: engine pass 5 ~2pm ET. ⟶
+**Last updated:** 2026-11-11 (Wed, engine pass 5 ~2:04 ET / 19:04Z). **⚠ BP $0 (DAY 16)** — real BLOCKED, FLAT, 0 positions, $20 preserved. Owner must verify •4713 in-app. Tape strong risk-on: SPY +1.54%, QQQ +2.84% (grinding highs). PAPER pass 5: SNAP (0073) runner OPEN — pulled to 5.365, BE stop 5.285 safe (+1R half already booked @5.42, zero risk on runner). CLF (0075) OPEN — mini new high 13.23 now 13.205 (+2.7%), above stop 12.95, no +1R(13.40) yet. No new entries (both working, tape grinding, 2pm). PAPER lifetime: 73 closed 31W/42L net +2.07R, 2 open (SNAP runner, CLF). Lifetime real 2W/6L -$0.52. Options/crypto/margin OFF. Next: pass 6 ~3pm ET; pass 7 ~4pm = EOD flatten. ⟶
 
 ---
 

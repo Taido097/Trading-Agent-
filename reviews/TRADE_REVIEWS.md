@@ -2292,3 +2292,10 @@ Tally: REAL −$0.45 lifetime, FLAT, 0 trades today (7 passes); PAPER open P-003
 - 0073 SNAP: HIT +1R (tagged 5.42 @17:45Z). FIRST live application of the partial-at-+1R rule -> booked half @5.42, raised runner stop to breakeven 5.285, trailing the rest. Now 5.38. Worst case on runner is now scratch; gain locked. A-grade trend paying.
 - 0075 CLF OPEN: tight flat consolidation 13.11-13.20 right on the 13.12 breakout since entry = healthy hold. No +1R(13.40)/stop. Keep.
 - No new entries: QQQ stalled sideways after the +2.8% morning; chasing breakouts into digestion is lower quality. Hold the two.
+
+### 2026-11-11 engine pass 5 (~2:04 ET / 19:04Z)
+- REAL: FLAT, BP $0 (day 16) -> STEP A PASS.
+- Regime: strong risk-on grinding highs (SPY +1.54%, QQQ +2.84%).
+- 0073 SNAP runner OPEN: pulled from 5.42 to 5.365, BE stop 5.285 never threatened (low 5.34). +1R half booked earlier; runner riding at zero risk. Keep.
+- 0075 CLF OPEN: ground to mini new HOD 13.23, now 13.205 (+2.7%), above stop 12.95, no +1R(13.40). Healthy. Keep.
+- No new entries: both runners working, no fresh breakout trigger at 2pm. Will flatten remainder at EOD (pass 7).
