@@ -2266,3 +2266,10 @@ No clean pullback-hold/break on the red tape = stand aside (as prepped). Not a B
   7. VALE 11.69 (+0.95%) materials
   Excluded: KGC/CCL/KEY/RF >$19; AAL/NCLH/CCL red; F/BTG flat; CHPT thin.
 - PLAN: Decision routine (9:47 ET) reads opening ranges. On a GREEN risk-on tape I re-engage breakouts/continuations, but crypto miners (RIOT/MARA) led AND faked out yesterday -> demand a confirmed pullback-hold/re-break, NOT the pre-market/open spike (O002). CLF is the cleanest story (held all of yesterday's red, now extending). Apply new partial-at-+1R+trail on any entry. Real stays PASS until BP > $0 regardless.
+
+**9:48 ET opening-range decision (14:48Z):** REAL = **PASS, no trade.** ••••4713 flat, BP $0 (day 16). Regime risk-on (SPY +0.73%, QQQ +1.43%, tech-led) BUT every affordable watchlist name gapped-up and FADED off the open:
+- CLF 12.87 — gapped to 13.12 then faded below OR low AND prior close 12.86 (gap failed).
+- MARA 7.51 — spiked 7.85 then faded to OR low (O002).
+- RIOT 18.25 — spiked 19.12 then gave it all back (O002, repeat of 11/10).
+- SOFI 16.43 / RIVN 13.66 — both faded below OR low.
+No ORB long holds above OR high on volume -> PASS (logged RIOT+CLF to REJECTED). KEY READ: the green is MEGA-CAP/QQQ-led; the affordable small-caps are NOT participating (narrow breadth) -> nothing tradeable in my <=$19 universe even if BP were live. Engine will stay selective; demand a genuine reclaim/hold, not another open-spike-fade.

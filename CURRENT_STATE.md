@@ -5,7 +5,7 @@
 > intent and status; it is NOT the brokerage record (that comes from
 > reconciliation).
 
-**Last updated:** 2026-11-11 (Wed, pre-market prep ~9:18 ET / 14:18Z). **⚠ BP $0 (DAY 16)** — real BLOCKED, FLAT, 0 positions, $20 preserved. Owner must verify •4713 in-app. REGIME: RISK-ON reversal — pre-market SPY +0.97%, QQQ +1.93% (tech-led bounce off yesterday's red). Veterans Day (bonds closed, equities open; watch thin liquidity). Watchlist (affordable, RS-ranked): MARA +4.4%, RIOT +4.3%, SOFI +1.6%, CLF +1.6%, RIVN +1.3%, HL +1.1%, VALE +0.95%. Plan: re-engage breakouts on green tape BUT demand confirmed pullback-hold/re-break (crypto faked out yesterday, O002); CLF cleanest; partial-at-+1R+trail on entries. PAPER lifetime: 72 closed 31W/41L net +3.07R, 0 open. Lifetime real 2W/6L -$0.52. Options/crypto/margin OFF. Next: 9:47 ET open-range decision. ⟶
+**Last updated:** 2026-11-11 (Wed, 9:48 ET open-range decision / 14:48Z). **⚠ BP $0 (DAY 16)** — real BLOCKED, FLAT, 0 positions, $20 preserved. Owner must verify •4713 in-app. Open decision = PASS. Regime risk-on (SPY +0.73%, QQQ +1.43%, tech-led) BUT every affordable watchlist name gapped-up then FADED off the open (CLF gap failed below prior close; MARA/RIOT spike-faded per O002; SOFI/RIVN faded). KEY READ: green is MEGA-CAP/QQQ-led — affordable small-caps NOT participating (narrow breadth), nothing tradeable in <=$19 universe. Logged RIOT+CLF REJECTED. PAPER lifetime: 72 closed 31W/41L net +3.07R, 0 open. Lifetime real 2W/6L -$0.52. Options/crypto/margin OFF. Next: engine pass 1 ~10:03 ET. ⟶
 
 ---
 
