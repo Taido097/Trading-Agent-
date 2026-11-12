@@ -2325,3 +2325,9 @@ Tally: REAL −$0.45 lifetime, FLAT, 0 trades today (7 passes); PAPER open P-003
 - Regime: recovered red gap to FLAT (SPY +0.05%, QQQ -0.02%).
 - 0076 CLF: HIT +1R (tagged 13.44 ~15:40Z). Partial rule -> booked half @13.44, runner stop to BE 13.245, trailing. Ran to 13.56 (MFE +1.6R), now 13.505. The RS new-high breakout blocked for real is working cleanly in paper -> validates the setup read.
 - No new entries: CLF is the only RS leader; rest of universe red/flat. Manage the runner.
+
+### 2026-11-12 engine pass 3 (~12:04 ET / 17:04Z)
+- REAL: FLAT, BP $0 (day 17) -> PASS.
+- Regime: mild green (SPY +0.16%, QQQ +0.11%).
+- 0076 CLF CLOSED WIN +1.5R: runner hit the 2:1 target 13.64 @16:10 (high 13.645), on top of the +1R half booked @13.44 -> blended +1.5R. MFE +2.05R. Faded to 13.38 afterward, so the target exit was well-timed. *** This is the SAME setup blocked for real this morning by BP $0 -> it would have been a real +1.5R winner on the $20. *** The partial-at-+1R + 2:1 target structure executed perfectly.
+- No new entries: CLF (leader) exhausted after hitting 2:1 and fading; flat tape, nothing else set up.
