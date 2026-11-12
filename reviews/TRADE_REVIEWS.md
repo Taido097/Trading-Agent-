@@ -2342,3 +2342,8 @@ Tally: REAL −$0.45 lifetime, FLAT, 0 trades today (7 passes); PAPER open P-003
 - REAL: FLAT, BP $0 (day 17) -> PASS.
 - Regime: slipped mildly red (SPY -0.16%, QQQ -0.25%), afternoon drift.
 - No new entries: CLF faded to 13.21 (gave back the breakout; confirms target exit timing, not re-entering a spent leader). RIG +0.66% weak; SOFI -3.4%/VALE -2.3%/SNAP -1.8%/HBAN -1.0% red. No clean setup. 0 open.
+
+### 2026-11-12 engine pass 6 (~3:04 ET / 20:04Z)
+- REAL: FLAT, BP $0 (day 17) -> PASS.
+- Regime: drifting red (SPY -0.33%, QQQ -0.43%).
+- No new entries: CLF chopping near base (spent), RIG +0.85% weak, VALE/SOFI red; late-day, nothing clean (O003). 0 open into EOD.

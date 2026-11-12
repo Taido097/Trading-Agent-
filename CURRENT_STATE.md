@@ -5,7 +5,7 @@
 > intent and status; it is NOT the brokerage record (that comes from
 > reconciliation).
 
-**Last updated:** 2026-11-12 (Thu, engine pass 5 ~2:05 ET / 19:05Z). **⚠ BP $0 (DAY 17)** — real BLOCKED, FLAT, $20 preserved. (CLF was a real-qualifying +1.5R setup today, blocked by BP — owner must restore •4713.) Tape slipped mildly red (SPY -0.16%, QQQ -0.25%). PAPER pass 5: no new entries — CLF faded to 13.21 (gave back breakout, target exit well-timed), RIG +0.66% weak, rest red (SOFI -3.4%, VALE -2.3%). Staying flat; no clean setups. 0 open. PAPER lifetime: 76 closed 33W/43L net +4.15R, 0 open. Lifetime real 2W/6L -$0.52. Options/crypto/margin OFF. Next: pass 6 ~3pm; pass 7 ~4pm = EOD wrap (0 open, nothing to flatten). ⟶
+**Last updated:** 2026-11-12 (Thu, engine pass 6 ~3:04 ET / 20:04Z). **⚠ BP $0 (DAY 17)** — real BLOCKED, FLAT, $20 preserved. (CLF was a real-qualifying +1.5R setup today, blocked by BP.) Tape drifting red (SPY -0.33%, QQQ -0.43%). PAPER pass 6: no new entries — CLF chopping near base (no momentum), RIG +0.85% weak, VALE/SOFI red. Late-day, nothing clean (O003). 0 open. PAPER lifetime: 76 closed 33W/43L net +4.15R, 0 open. Lifetime real 2W/6L -$0.52. Options/crypto/margin OFF. Next: pass 7 ~4pm = EOD wrap (0 open). ⟶
 
 ---
 
