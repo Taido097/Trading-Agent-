@@ -5,7 +5,7 @@
 > intent and status; it is NOT the brokerage record (that comes from
 > reconciliation).
 
-**Last updated:** 2026-11-12 (Thu, engine pass 3 ~12:04 ET / 17:04Z). **⚠ BP $0 (DAY 17) — TODAY IT COST A REAL +1.5R WINNER:** CLF (0076) hit its 2:1 target — the SAME RS breakout that cleared the real gate this morning but was BLOCKED by BP $0. It would have been a real +1.5R win on the $20. Owner must restore BP to •4713. FLAT, $20 preserved. Tape mild green (SPY +0.16%, QQQ +0.11%). PAPER pass 3: CLF (0076) CLOSED WIN +1.5R (half +1R@13.44, runner TARGET 13.64; MFE +2.05R; faded after = good exit). No new entries (leader exhausted, flat tape). PAPER lifetime: 76 closed 33W/43L net +4.15R, 0 open. Lifetime real 2W/6L -$0.52. Options/crypto/margin OFF. Next: engine pass 4 ~1pm ET. ⟶
+**Last updated:** 2026-11-12 (Thu, engine pass 4 ~1:04 ET / 18:04Z). **⚠ BP $0 (DAY 17)** — real BLOCKED, FLAT, $20 preserved. (CLF was a real-qualifying +1.5R setup today, blocked by BP — owner must restore •4713.) Tape mild green/quiet lunch (SPY +0.14%, QQQ +0.09%). PAPER pass 4: no new entries — CLF (closed +1.5R) consolidating off its target (extended, re-chase = no), RIG +0.85% weak $5 mover, all else red. Not forcing a chase after banking the morning winner. 0 open. PAPER lifetime: 76 closed 33W/43L net +4.15R, 0 open. Lifetime real 2W/6L -$0.52. Options/crypto/margin OFF. Next: engine pass 5 ~2pm ET. ⟶
 
 ---
 
