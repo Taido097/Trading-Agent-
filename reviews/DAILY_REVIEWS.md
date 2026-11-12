@@ -2288,3 +2288,14 @@ No ORB long holds above OR high on volume -> PASS (logged RIOT+CLF to REJECTED).
   3. Stop placement (again): RIOT stop at the obvious higher-low got wicked. For volatile fakers, either skip or place the stop genuinely beyond the noise (here: below 17.98, not 18.20) and size down.
 - TALLY: PAPER lifetime 75 closed, 32W/43L, net +2.65R, 0 open. Real lifetime 2W/6L -$0.52.
 - TOMORROW (Thu 11/12): if the trend-day strength follows through, favor clean RS new-high leaders (SNAP-style) over reclaims/fakers. Real stays PASS until BP > $0 (day 16 and counting).
+
+## 2026-11-12 (Thu) — PRE-MARKET PREP (~9:17 ET / 14:17Z)
+- RECONCILE: ••••4713 FLAT, 0 positions, BP $0 (DAY 17 of block). Real BLOCKED. Internal state matches (0 open paper after yesterday's EOD flatten).
+- REGIME: RISK-OFF giveback. Pre-market SPY -0.73% (754.27), QQQ -1.42% (680.55) — gap down reversing ~40% of yesterday's +2.3% pop. Tech-led down. Back to defensive/red-tape posture.
+- CRYPTO WASHOUT: RIOT -7.7%, MARA -7.2% pre-market (full giveback) -> falling knives, AVOID.
+- EVENT RISK: no major scheduled print; risk is yesterday's rally failing.
+- WIDE SCREEN (thin; RS holders only on a red tape):
+  1. CLF 13.12 (-0.15%) — steel ~flat vs -1.4% QQQ = strongest RS; held yesterday's red too.
+  2. RIG 5.36 (+0.9%) — offshore driller, only green name; energy bucking tech selloff.
+  Everything else red in line with/worse than market (SOFI -2.7%, HL -4.2%, SNAP -2.4%, RIVN -2.3%, VALE -1.7%, BTG -3.5%). SIRI/CCL/NCLH >$19 or red.
+- PLAN: RED gap-down = demand a confirmed higher-low/pullback-hold on a relative holder (CLF/RIG), NOT an ORB breakout, and readily PASS (stand-aside fine after a big up day reverses). No chasing the crypto knives. Apply partial-at-+1R+trail on any entry. Real PASS until BP > $0.
