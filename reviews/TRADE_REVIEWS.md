@@ -2313,3 +2313,9 @@ Tally: REAL −$0.45 lifetime, FLAT, 0 trades today (7 passes); PAPER open P-003
 - 0073 SNAP FLATTEN: half booked +1R @5.42 (17:45Z), runner flattened EOD @5.35 (+0.48R) = blended +0.74R WIN. MFE +1.07R, MAE ~0 (never below entry). Partial-at-+1R rule executed cleanly and banked the gain -> exactly the fix for the SOFI round-trip. A-grade RS new-high trend delivered.
 - 0075 CLF FLATTEN @13.14 = -0.16R. Break-and-hold held but never extended to +1R(13.40); EOD scratch. Stop 12.95 never threatened. Fine trade, just didn't run.
 - PAPER DAY = SNAP +0.74 + RIOT -1.0 + CLF -0.16 = -0.42R.
+
+### 2026-11-12 engine pass 1 (~10:05 ET / 15:05Z)
+- REAL: FLAT, BP $0 (DAY 17). *** CLF was a GENUINE real-qualifying setup this pass *** (RS leader green +0.8% vs red QQQ, confirmed break-and-hold above OR high 13.225 on rising volume/new intraday high, affordable 13.25, tight 1c spread, clean stop 13.05). It cleared RISK_RULES §9 + the gate. BP $0 FORCED a PASS -> a real live setup missed. Logged BLOCKED_BP in REJECTED. This is now the second+ real setup the block has cost; escalated to owner.
+- Regime: mildly red digestion (SPY -0.37%, QQQ -0.64%).
+- PAPER 0076 CLF 13.245 long: the same RS new-high breakout on a red tape (relative strength = the edge). Stop 13.05 (below 13.065 base, whipsaw-lesson width), target 13.64 (2.0R), partial +1R @13.44. 4th straight RS day for CLF.
+- Passed all else: RIVN -4.8%, MARA -6.1%, RIOT -1.6%, SNAP -3.4%, SOFI -2.1%, RIG faded -0.6% -- all red/weak. CLF is the only leader.

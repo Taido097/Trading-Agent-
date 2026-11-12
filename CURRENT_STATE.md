@@ -5,7 +5,7 @@
 > intent and status; it is NOT the brokerage record (that comes from
 > reconciliation).
 
-**Last updated:** 2026-11-12 (Thu, 9:48 ET open-range decision / 14:48Z). **⚠ BP $0 (DAY 17)** — real BLOCKED, FLAT, 0 positions, $20 preserved. Owner must verify •4713 in-app. Open decision = PASS. Regime recovered off red gap (SPY -0.25%, QQQ -0.45%, mildly red/digestion). CLF 13.21 (+0.5%) only RS holder (3rd day), near OR high 13.225 but not a confirmed break-hold yet = engine watch if it holds >13.23. RIG/SNAP faded. Logged CLF REJECTED near-miss. PAPER lifetime: 75 closed 32W/43L net +2.65R, 0 open. Lifetime real 2W/6L -$0.52. Options/crypto/margin OFF. Next: engine pass 1 ~10:03 ET. ⟶
+**Last updated:** 2026-11-12 (Thu, engine pass 1 ~10:05 ET / 15:05Z). **⚠ BP $0 (DAY 17) — AND IT COST A REAL SETUP TODAY:** CLF confirmed a genuine real-$20-qualifying RS breakout (green +0.8% vs red QQQ, new intraday high, break-and-hold, affordable, tight spread) but BP $0 FORCED a real PASS. Owner must restore BP to •4713. FLAT, $20 preserved. Tape mildly red/digestion (SPY -0.37%, QQQ -0.64%). PAPER pass 1: opened CLF (0076) 13.245 long — the same RS new-high breakout, stop 13.05, target 13.64, partial-at-+1R. Only RS leader; all else red (RIVN -4.8%, MARA -6.1%, SNAP -3.4%) = passed. PAPER lifetime: 75 closed 32W/43L net +2.65R, 1 open (CLF). Lifetime real 2W/6L -$0.52. Options/crypto/margin OFF. Next: engine pass 2 ~11am ET. ⟶
 
 ---
 
