@@ -2337,3 +2337,8 @@ Tally: REAL −$0.45 lifetime, FLAT, 0 trades today (7 passes); PAPER open P-003
 - Regime: mild green, quiet lunch (SPY +0.14%, QQQ +0.09%).
 - No new entries: CLF (closed +1.5R) pulled off its 13.64 target to 13.45, consolidating/extended -> re-chasing a name that just hit 2:1 is not a clean setup. RIG +0.85% is a weak $5 mover; all else red (RIVN -3.9%, SOFI -2.4%, SNAP -2.2%). Banked the morning winner; not forcing volume into a flat afternoon. 0 open.
 - Watch: CLF only if it builds a fresh base and re-breaks; otherwise done for the day.
+
+### 2026-11-12 engine pass 5 (~2:05 ET / 19:05Z)
+- REAL: FLAT, BP $0 (day 17) -> PASS.
+- Regime: slipped mildly red (SPY -0.16%, QQQ -0.25%), afternoon drift.
+- No new entries: CLF faded to 13.21 (gave back the breakout; confirms target exit timing, not re-entering a spent leader). RIG +0.66% weak; SOFI -3.4%/VALE -2.3%/SNAP -1.8%/HBAN -1.0% red. No clean setup. 0 open.
