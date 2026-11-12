@@ -5,7 +5,7 @@
 > intent and status; it is NOT the brokerage record (that comes from
 > reconciliation).
 
-**Last updated:** 2026-11-12 (Thu, pre-market prep ~9:17 ET / 14:17Z). **⚠ BP $0 (DAY 17)** — real BLOCKED, FLAT, 0 positions, $20 preserved. Owner must verify •4713 in-app. REGIME: RISK-OFF giveback — pre-market SPY -0.73%, QQQ -1.42% (gap down reversing ~40% of yesterday's pop, tech-led). Crypto crushed (RIOT -7.7%, MARA -7.2% = avoid). Watchlist thin (RS holders only): CLF 13.12 (-0.15%, strongest RS), RIG 5.36 (+0.9%, only green). Everything else red. Plan: red gap-down = demand confirmed pullback-hold on a holder, readily PASS; no chasing crypto knives; partial-at-+1R+trail on entries. PAPER lifetime: 75 closed 32W/43L net +2.65R, 0 open. Lifetime real 2W/6L -$0.52. Options/crypto/margin OFF. Next: 9:47 ET open-range decision. ⟶
+**Last updated:** 2026-11-12 (Thu, 9:48 ET open-range decision / 14:48Z). **⚠ BP $0 (DAY 17)** — real BLOCKED, FLAT, 0 positions, $20 preserved. Owner must verify •4713 in-app. Open decision = PASS. Regime recovered off red gap (SPY -0.25%, QQQ -0.45%, mildly red/digestion). CLF 13.21 (+0.5%) only RS holder (3rd day), near OR high 13.225 but not a confirmed break-hold yet = engine watch if it holds >13.23. RIG/SNAP faded. Logged CLF REJECTED near-miss. PAPER lifetime: 75 closed 32W/43L net +2.65R, 0 open. Lifetime real 2W/6L -$0.52. Options/crypto/margin OFF. Next: engine pass 1 ~10:03 ET. ⟶
 
 ---
 

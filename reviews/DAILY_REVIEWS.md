@@ -2299,3 +2299,9 @@ No ORB long holds above OR high on volume -> PASS (logged RIOT+CLF to REJECTED).
   2. RIG 5.36 (+0.9%) — offshore driller, only green name; energy bucking tech selloff.
   Everything else red in line with/worse than market (SOFI -2.7%, HL -4.2%, SNAP -2.4%, RIVN -2.3%, VALE -1.7%, BTG -3.5%). SIRI/CCL/NCLH >$19 or red.
 - PLAN: RED gap-down = demand a confirmed higher-low/pullback-hold on a relative holder (CLF/RIG), NOT an ORB breakout, and readily PASS (stand-aside fine after a big up day reverses). No chasing the crypto knives. Apply partial-at-+1R+trail on any entry. Real PASS until BP > $0.
+
+**9:48 ET opening-range decision (14:48Z):** REAL = **PASS, no trade.** ••••4713 flat, BP $0 (day 17). Regime recovered off the red gap (SPY -0.25%, QQQ -0.45%, mildly red/digestion vs -1.4% pre-mkt). Reads:
+- CLF 13.21 (+0.5%) — only RS holder (green vs red QQQ), 3rd straight RS day, recovered from 12.97 dip to near OR high 13.225, but NOT a confirmed break-and-hold yet. The engine watch.
+- RIG 5.28 (-0.6%) — faded below prior close, lost pre-market green.
+- SNAP 5.255 (-1.6%) — chopping below OR, weak.
+No confirmed ORB break-and-hold -> PASS (logged CLF near-miss to REJECTED). Engine will take CLF only on a genuine hold >13.23 with volume; otherwise keep standing aside on a red/digestion tape. Real PASS until BP > $0.
