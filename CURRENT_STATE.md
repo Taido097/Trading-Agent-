@@ -5,7 +5,7 @@
 > intent and status; it is NOT the brokerage record (that comes from
 > reconciliation).
 
-**Last updated:** 2026-11-12 (Thu, engine pass 6 ~3:04 ET / 20:04Z). **⚠ BP $0 (DAY 17)** — real BLOCKED, FLAT, $20 preserved. (CLF was a real-qualifying +1.5R setup today, blocked by BP.) Tape drifting red (SPY -0.33%, QQQ -0.43%). PAPER pass 6: no new entries — CLF chopping near base (no momentum), RIG +0.85% weak, VALE/SOFI red. Late-day, nothing clean (O003). 0 open. PAPER lifetime: 76 closed 33W/43L net +4.15R, 0 open. Lifetime real 2W/6L -$0.52. Options/crypto/margin OFF. Next: pass 7 ~4pm = EOD wrap (0 open). ⟶
+**Last updated:** 2026-11-12 (Thu, EOD / engine pass 7 ~4pm ET / 21:04Z — close). **⚠ BP $0 ALL DAY (DAY 17) — AND IT COST A REAL +1.5R WINNER:** CLF was a genuine real-$20-qualifying RS breakout (cleared the gate) that hit its 2:1 target for +1.5R, but BP $0 forced it to PASS/paper. Owner MUST restore BP to •4713 — the block is now directly costing real gains, not just opportunity. FLAT, $20 preserved, zero real trades. Close: SPY 757.20 (-0.34%), QQQ 688.17 (-0.32%) — gapped down ~1.4% then recovered most, modestly red (choppy digestion after the +2.3% day). PAPER day: CLF (0076) +1.5R WIN (only trade; half +1R@13.44 + runner target 13.64; partial-rule executed clean). Passes 4-6 correctly stood aside (quiet/choppy, no forced trades) — contrast to 11/11 where forcing RIOT cost -1R. PAPER lifetime: 76 closed 33W/43L net +4.15R, 0 open. Lifetime real 2W/6L -$0.52. Options/crypto/margin OFF. Next: Fri 11/13 pre-market prep ~9:15 ET. ⟶
 
 ---
 

@@ -2305,3 +2305,16 @@ No ORB long holds above OR high on volume -> PASS (logged RIOT+CLF to REJECTED).
 - RIG 5.28 (-0.6%) — faded below prior close, lost pre-market green.
 - SNAP 5.255 (-1.6%) — chopping below OR, weak.
 No confirmed ORB break-and-hold -> PASS (logged CLF near-miss to REJECTED). Engine will take CLF only on a genuine hold >13.23 with volume; otherwise keep standing aside on a red/digestion tape. Real PASS until BP > $0.
+
+## 2026-11-12 (Thu) — EOD WRAP
+- REGIME: gapped DOWN hard pre-market (QQQ -1.4%) reversing yesterday's pop, then recovered most of it intraday, drifted to a modestly red close (SPY -0.34%, QQQ -0.32%). Choppy digestion/two-sided day.
+- REAL $20: PASS all day (open decision + 7 passes). BP $0 DAY 17 - hard block. FLAT, $20 preserved, zero real trades. *** KEY: CLF was a GENUINE real-qualifying setup (RS leader, confirmed break-and-hold on volume, affordable, tight spread) that went on to hit its 2:1 target = a real +1.5R winner MISSED purely because BP reads $0. Logged BLOCKED_BP. The block has now cost multiple real setups incl. a confirmed winner. Owner must verify/restore •4713. ***
+- PAPER: 1 trade.
+  - 0076 CLF +1.5R WIN. RS new-high breakout on a red/mixed tape (only green name, 4th straight RS day). Partial +1R@13.44 + runner hit 2:1 target 13.64. MFE +2.05R. Faded hard after -> exits well-timed. Textbook execution of the full rule set (RS leader selection + break-and-hold entry + stop below base + partial-at-+1R + 2:1 target).
+  - Passes 4-6: NO new entries. CLF spent after target; tape choppy/flat-to-red; nothing clean. Correctly stood aside rather than forcing volume.
+- LESSONS:
+  1. Discipline contrast with 11/11: yesterday forcing a B-grade trade (RIOT) cost -1R; today, after banking the A-grade winner (CLF), standing aside through a quiet afternoon kept the day clean at +1.5R. Quality + patience = the edge.
+  2. The RS-leader-on-a-weak-tape read works: CLF was green while everything else was red at the open, held it, and broke out. Relative strength is the single best filter.
+  3. BP block cost: today is the clearest proof yet the block is costing REAL money (a confirmed +1.5R setup), not just practice. Escalation stands.
+- TALLY: PAPER lifetime 76 closed, 33W/43L, net +4.15R, 0 open. Real lifetime 2W/6L -$0.52.
+- TOMORROW (Fri 11/13): after a two-sided choppy day, watch the open for direction; favor RS leaders that hold green vs the tape (CLF-style). Real stays PASS until BP > $0 (day 17 and counting).

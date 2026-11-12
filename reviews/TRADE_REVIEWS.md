@@ -2347,3 +2347,9 @@ Tally: REAL −$0.45 lifetime, FLAT, 0 trades today (7 passes); PAPER open P-003
 - REAL: FLAT, BP $0 (day 17) -> PASS.
 - Regime: drifting red (SPY -0.33%, QQQ -0.43%).
 - No new entries: CLF chopping near base (spent), RIG +0.85% weak, VALE/SOFI red; late-day, nothing clean (O003). 0 open into EOD.
+
+### 2026-11-12 engine pass 7 / EOD (~4pm ET / 21:04Z)
+- REAL: FLAT, BP $0 (day 17) -> PASS all day. $20 preserved. CLF real setup blocked by BP cost a real +1.5R winner (it hit 2:1). Escalated.
+- Close: SPY -0.34%, QQQ -0.32% (gapped -1.4%, recovered most, modestly red). CLF closed 13.065 (faded below start) -> target exit at +1.5R was perfectly timed.
+- 0 open paper, nothing to flatten.
+- PAPER DAY = CLF +1.5R (only trade). Clean, disciplined day.
