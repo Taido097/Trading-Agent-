@@ -2319,3 +2319,9 @@ Tally: REAL −$0.45 lifetime, FLAT, 0 trades today (7 passes); PAPER open P-003
 - Regime: mildly red digestion (SPY -0.37%, QQQ -0.64%).
 - PAPER 0076 CLF 13.245 long: the same RS new-high breakout on a red tape (relative strength = the edge). Stop 13.05 (below 13.065 base, whipsaw-lesson width), target 13.64 (2.0R), partial +1R @13.44. 4th straight RS day for CLF.
 - Passed all else: RIVN -4.8%, MARA -6.1%, RIOT -1.6%, SNAP -3.4%, SOFI -2.1%, RIG faded -0.6% -- all red/weak. CLF is the only leader.
+
+### 2026-11-12 engine pass 2 (~11:04 ET / 16:04Z)
+- REAL: FLAT, BP $0 (day 17) -> PASS. (CLF real setup from pass 1 remains blocked by BP.)
+- Regime: recovered red gap to FLAT (SPY +0.05%, QQQ -0.02%).
+- 0076 CLF: HIT +1R (tagged 13.44 ~15:40Z). Partial rule -> booked half @13.44, runner stop to BE 13.245, trailing. Ran to 13.56 (MFE +1.6R), now 13.505. The RS new-high breakout blocked for real is working cleanly in paper -> validates the setup read.
+- No new entries: CLF is the only RS leader; rest of universe red/flat. Manage the runner.

@@ -5,7 +5,7 @@
 > intent and status; it is NOT the brokerage record (that comes from
 > reconciliation).
 
-**Last updated:** 2026-11-12 (Thu, engine pass 1 ~10:05 ET / 15:05Z). **⚠ BP $0 (DAY 17) — AND IT COST A REAL SETUP TODAY:** CLF confirmed a genuine real-$20-qualifying RS breakout (green +0.8% vs red QQQ, new intraday high, break-and-hold, affordable, tight spread) but BP $0 FORCED a real PASS. Owner must restore BP to •4713. FLAT, $20 preserved. Tape mildly red/digestion (SPY -0.37%, QQQ -0.64%). PAPER pass 1: opened CLF (0076) 13.245 long — the same RS new-high breakout, stop 13.05, target 13.64, partial-at-+1R. Only RS leader; all else red (RIVN -4.8%, MARA -6.1%, SNAP -3.4%) = passed. PAPER lifetime: 75 closed 32W/43L net +2.65R, 1 open (CLF). Lifetime real 2W/6L -$0.52. Options/crypto/margin OFF. Next: engine pass 2 ~11am ET. ⟶
+**Last updated:** 2026-11-12 (Thu, engine pass 2 ~11:04 ET / 16:04Z). **⚠ BP $0 (DAY 17)** — real BLOCKED, FLAT, $20 preserved. (CLF was a real-qualifying setup this morning, blocked by BP — owner must restore.) Tape recovered to FLAT: SPY +0.05%, QQQ -0.02%. PAPER pass 2: CLF (0076) HIT +1R — booked half@13.44, runner stop->BE 13.245, trailing; ran to 13.56 (MFE +1.6R), now 13.505. The blocked-for-real RS breakout is paying in paper. No new entries (CLF the lone leader). PAPER lifetime: 75 closed 32W/43L net +2.65R, 1 open (CLF runner). Lifetime real 2W/6L -$0.52. Options/crypto/margin OFF. Next: engine pass 3 ~12pm ET. ⟶
 
 ---
 
