@@ -5,7 +5,7 @@
 > intent and status; it is NOT the brokerage record (that comes from
 > reconciliation).
 
-**Last updated:** 2026-11-13 (Fri, pre-market prep ~9:03 ET — DEGRADED). **⚠ Robin MCP DOWN (502) this pass** — could NOT reconcile •4713 or pull quotes; no watchlist built, NOT fabricating data. Memory repo intact (2a29c4d). **BP $0 (DAY 18)** (carried from internal state) — real BLOCKED, FLAT, $20 preserved, 0 open paper. Owner must restore BP to •4713. Plan: real PASS regardless; 9:47 decision + engine retry, will build watchlist when Robin reconnects; log PASS/no-data if still down rather than guess. PAPER lifetime: 76 closed 33W/43L net +4.15R, 0 open. Lifetime real 2W/6L -$0.52. Options/crypto/margin OFF. Next: 9:47 ET open-range decision (data permitting). ⟶
+**Last updated:** 2026-11-13 (Fri, open-range decision ~10:34 ET / 15:34Z — fired late post-outage). Robin MCP back up, data restored. **⚠ BP $0 (DAY 18)** — real BLOCKED, FLAT, 0 positions, $20 preserved. Owner must restore BP to •4713. Open decision = PASS. Regime RISK-OFF hard red: SPY -0.89%, QQQ -2.03% (tech hit). CLF (4-day RS leader) ROLLED OVER -3.5% to new lows = no longer a candidate. Only RIG +0.66% / SNAP +1.8% green but no clean break-and-hold (RIG chopping, SNAP unconfirmed). Logged RIG no-setup REJECTED. PAPER lifetime: 76 closed 33W/43L net +4.15R, 0 open. Lifetime real 2W/6L -$0.52. Options/crypto/margin OFF. Next: engine pass ~top of hour (defensive on -2% tape). ⟶
 
 ---
 

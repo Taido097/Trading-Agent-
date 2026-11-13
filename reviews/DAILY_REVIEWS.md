@@ -2325,3 +2325,10 @@ No confirmed ORB break-and-hold -> PASS (logged CLF near-miss to REJECTED). Engi
 - Internal state carried forward: real FLAT, BP $0 (DAY 18 of block), $20 preserved, 0 open paper. Lifetime paper 76 closed 33W/43L +4.15R; real 2W/6L -$0.52.
 - PLAN: real stays PASS regardless (BP $0). The 9:47 open-range decision + hourly engine will retry; if Robin is still down at those fires, they degrade too and I will log PASS/no-data rather than guess. Will build the watchlist on the first pass Robin reconnects.
 - Note: Robin has flapped (connect/disconnect) repeatedly in recent sessions; it may recover within the hour.
+
+**9:47 ET open-range decision (fired late 10:34 ET / 15:34Z after Robin recovered):** REAL = **PASS, no trade.** ••••4713 flat, BP $0 (day 18). Robin MCP back up (data restored). Regime RISK-OFF hard red: SPY -0.89%, QQQ -2.03% (tech hit, reversing the week's gains). Reads:
+- CLF 12.61 (-3.5%) — the 4-day RS leader ROLLED OVER; broke down to new lows, red, no longer a candidate.
+- RIG 5.355 (+0.66%) — RS holder (green vs red) but chopping 5.32-5.38, no breakout.
+- SNAP 5.315 (+1.8%) — green but unconfirmed structure.
+- All else red (MARA -6.7%, RIOT -5.7%, SOFI -2.2%, RIVN -2%, VALE -0.4%).
+No clean break-and-hold on a -2% QQQ tape -> PASS (logged RIG no-setup to REJECTED). Belated watchlist = RIG + SNAP (only RS holders); engine will stay defensive and demand a genuine hold, not chase. Real PASS until BP > $0.
