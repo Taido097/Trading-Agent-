@@ -5,7 +5,7 @@
 > intent and status; it is NOT the brokerage record (that comes from
 > reconciliation).
 
-**Last updated:** 2026-11-13 (Fri, engine pass 2 ~11:22 ET / 16:22Z). **⚠ BP $0 (DAY 18)** — real BLOCKED, FLAT, $20 preserved. (RIG/AAL are real-qualifying RS breakouts this pass, blocked by BP — owner must restore •4713.) Tape hard red (SPY -1.13%, QQQ -2.36%) — but DEFENSIVE/CYCLICAL ROTATION: energy (RIG) + travel (AAL) breaking out GREEN while tech craters. PAPER pass 2: opened 2 RS-breakout longs — RIG (0077) 5.42 energy break-and-hold on rising volume, AAL (0078) 13.455 travel breakout+pullback-hold. Both genuine inverse-RS (green vs -2.4% QQQ), partial-at-+1R+trail. CLF rolled -4.3%, rest red. PAPER lifetime: 76 closed 33W/43L net +4.15R, 2 open (RIG, AAL). Lifetime real 2W/6L -$0.52. Options/crypto/margin OFF. Next: engine pass ~top of hour. ⟶
+**Last updated:** 2026-11-13 (Fri, engine pass 3 ~12:04 ET / 17:04Z). **⚠ BP $0 (DAY 18)** — real BLOCKED, FLAT, $20 preserved. Owner must restore BP to •4713. Tape red but bouncing off lows (SPY -0.91%, QQQ -1.87% vs -2.36%); energy/travel rotation leading. PAPER pass 3: AAL (0078) HIT +1R — booked half@13.56, runner stop->BE 13.455, trailing. RIG (0077) OPEN +2.1% (MFE +0.5R, no +1R yet). Rotation RS working; no new entries. PAPER lifetime: 76 closed 33W/43L net +4.15R, 2 open (RIG, AAL runner). Lifetime real 2W/6L -$0.52. Options/crypto/margin OFF. Next: engine pass ~top of hour. ⟶
 
 ---
 

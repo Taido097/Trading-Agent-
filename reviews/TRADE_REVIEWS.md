@@ -2366,3 +2366,10 @@ Tally: REAL −$0.45 lifetime, FLAT, 0 trades today (7 passes); PAPER open P-003
 - 0078 AAL 13.455 long: travel RS. Broke 13.40-13.45 range to 13.515 on rising volume, pulled back to hold 13.455 (O002 pullback-hold entry). Green +1.1% vs red. Stop 13.35 (below base), target 13.665 (2.0R), partial +1R @13.56.
 - Contrast w/ pass 1: at 10:43 these were chopping (correctly passed); by 11:22 they CONFIRMED breakouts on volume -> now valid. Waiting for the confirmation = the right process. Rotation RS on a tech-down day is a legit setup (not fighting the tape; inversely correlated).
 - CLF rolled -4.3% (former leader); SOFI/VALE/HL red. Did not touch.
+
+### 2026-11-13 engine pass 3 (~12:04 ET / 17:04Z)
+- REAL: FLAT, BP $0 (day 18) -> PASS.
+- Regime: red but bouncing off lows (QQQ -1.87% vs -2.36%); energy/travel rotation leading the bounce (confirms the RS read).
+- 0078 AAL: HIT +1R (tagged 13.56 @16:55). Partial rule -> booked half @13.56, runner stop to BE 13.455, trailing. Now 13.485. MFE +1.0R.
+- 0077 RIG: OPEN, ran to 5.47 (+2.1%), now 5.43 above entry; MFE +0.5R, no +1R(5.52) yet. Holding breakout. Keep.
+- No new entries: rotation captured with 2 working; not over-adding.
