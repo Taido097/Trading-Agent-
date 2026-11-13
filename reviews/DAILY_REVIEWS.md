@@ -2318,3 +2318,10 @@ No confirmed ORB break-and-hold -> PASS (logged CLF near-miss to REJECTED). Engi
   3. BP block cost: today is the clearest proof yet the block is costing REAL money (a confirmed +1.5R setup), not just practice. Escalation stands.
 - TALLY: PAPER lifetime 76 closed, 33W/43L, net +4.15R, 0 open. Real lifetime 2W/6L -$0.52.
 - TOMORROW (Fri 11/13): after a two-sided choppy day, watch the open for direction; favor RS leaders that hold green vs the tape (CLF-style). Real stays PASS until BP > $0 (day 17 and counting).
+
+## 2026-11-13 (Fri) — PRE-MARKET PREP (~9:03 ET / 14:xxZ) — DEGRADED (Robin MCP down)
+- DATA OUTAGE: the Robin brokerage MCP failed to connect this pass (502 CLIENT_HTTP_NOT_IMPLEMENTED). Could NOT reconcile ••••4713 (portfolio/positions/orders) or pull SPY/QQQ/universe quotes. No watchlist built this pass — NOT fabricating data.
+- Memory repo intact (clone present, synced to 2a29c4d).
+- Internal state carried forward: real FLAT, BP $0 (DAY 18 of block), $20 preserved, 0 open paper. Lifetime paper 76 closed 33W/43L +4.15R; real 2W/6L -$0.52.
+- PLAN: real stays PASS regardless (BP $0). The 9:47 open-range decision + hourly engine will retry; if Robin is still down at those fires, they degrade too and I will log PASS/no-data rather than guess. Will build the watchlist on the first pass Robin reconnects.
+- Note: Robin has flapped (connect/disconnect) repeatedly in recent sessions; it may recover within the hour.
