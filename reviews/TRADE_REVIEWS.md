@@ -2353,3 +2353,8 @@ Tally: REAL −$0.45 lifetime, FLAT, 0 trades today (7 passes); PAPER open P-003
 - Close: SPY -0.34%, QQQ -0.32% (gapped -1.4%, recovered most, modestly red). CLF closed 13.065 (faded below start) -> target exit at +1.5R was perfectly timed.
 - 0 open paper, nothing to flatten.
 - PAPER DAY = CLF +1.5R (only trade). Clean, disciplined day.
+
+### 2026-11-13 engine pass 1 (~10:43 ET / 15:43Z, late post-outage)
+- REAL: FLAT, BP $0 (day 18) -> STEP A PASS. (Robin recovered.)
+- Regime: hard red risk-off (SPY -0.90%, QQQ -2.01%).
+- No new entries: RIG (+0.75%) and SNAP (+1.3%) are the only green/RS names but both CHOPPING sideways (RIG 5.32-5.385, SNAP 5.26-5.33), no break-and-hold. CLF rolled -4.1%; SOFI/VALE/HBAN red. On a -2% QQQ tape, holding-green-while-chopping is not a setup -> stand aside, don't fight the tape (11/05 & 11/10 red-day discipline). RIG/SNAP = watch for a range break on volume. 0 open.

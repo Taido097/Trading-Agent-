@@ -5,7 +5,7 @@
 > intent and status; it is NOT the brokerage record (that comes from
 > reconciliation).
 
-**Last updated:** 2026-11-13 (Fri, open-range decision ~10:34 ET / 15:34Z — fired late post-outage). Robin MCP back up, data restored. **⚠ BP $0 (DAY 18)** — real BLOCKED, FLAT, 0 positions, $20 preserved. Owner must restore BP to •4713. Open decision = PASS. Regime RISK-OFF hard red: SPY -0.89%, QQQ -2.03% (tech hit). CLF (4-day RS leader) ROLLED OVER -3.5% to new lows = no longer a candidate. Only RIG +0.66% / SNAP +1.8% green but no clean break-and-hold (RIG chopping, SNAP unconfirmed). Logged RIG no-setup REJECTED. PAPER lifetime: 76 closed 33W/43L net +4.15R, 0 open. Lifetime real 2W/6L -$0.52. Options/crypto/margin OFF. Next: engine pass ~top of hour (defensive on -2% tape). ⟶
+**Last updated:** 2026-11-13 (Fri, engine pass 1 ~10:43 ET / 15:43Z — late start post-outage). **⚠ BP $0 (DAY 18)** — real BLOCKED, FLAT, 0 positions, $20 preserved. Owner must restore BP to •4713. Tape hard red risk-off: SPY -0.90%, QQQ -2.01%. PAPER pass 1: no new entries — only RS holders RIG (+0.75%) & SNAP (+1.3%) both just CHOPPING sideways (green vs red but no break-and-hold); CLF -4.1%, rest red. On a -2% tape, chop-holding-green is not a setup; stand aside (no fighting the tape). RIG/SNAP watches on a range break. 0 open. PAPER lifetime: 76 closed 33W/43L net +4.15R, 0 open. Lifetime real 2W/6L -$0.52. Options/crypto/margin OFF. Next: engine pass ~top of hour. ⟶
 
 ---
 
