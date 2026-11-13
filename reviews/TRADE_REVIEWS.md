@@ -2386,3 +2386,9 @@ Tally: REAL −$0.45 lifetime, FLAT, 0 trades today (7 passes); PAPER open P-003
 - Regime: recovering off lows (SPY -0.51%, QQQ -1.28% vs -2.36%).
 - 0077 RIG OPEN: ground to 5.50 (+3.1%), now 5.485; MFE +0.8R, just short of +1R partial (5.52). Clean uptrend hold on a down tape (energy RS persisting). Keep; partial at 5.52, target 5.62, flatten at EOD.
 - No new entries: RIG is the play; let it run.
+
+### 2026-11-13 engine pass 7 / EOD (~4pm ET / 20:04Z)
+- REAL: FLAT, BP $0 (day 18) -> PASS all day. $20 preserved.
+- Close: SPY -0.48%, QQQ -1.24% (recovered off -2.36% lows). Tech-led down, energy/travel rotation held.
+- 0077 RIG FLATTEN @5.466 = +0.46R WIN. Ground to 5.51 (missed +1R 5.52 by 1c -> no partial), eased into close. MFE +0.90R. Clean energy-RS winner all day on a tech-down tape.
+- PAPER DAY = AAL +0.5R + RIG +0.46R = +0.96R (2 winners).

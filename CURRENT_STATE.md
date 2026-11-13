@@ -5,7 +5,7 @@
 > intent and status; it is NOT the brokerage record (that comes from
 > reconciliation).
 
-**Last updated:** 2026-11-13 (Fri, engine pass 5 ~2:04 ET / 19:04Z). **⚠ BP $0 (DAY 18)** — real BLOCKED, FLAT, $20 preserved. Owner must restore BP to •4713. Tape recovering off lows (SPY -0.51%, QQQ -1.28% vs -2.36%). PAPER pass 5: RIG (0077) OPEN grinding to 5.50 (+3.1%), MFE +0.8R, just short of +1R partial 5.52; holding uptrend, keep. AAL already closed +0.5R. No new entries. PAPER lifetime: 77 closed 34W/43L net +4.65R, 1 open (RIG). Lifetime real 2W/6L -$0.52. Options/crypto/margin OFF. Next: pass 6 ~3pm; pass 7 ~4pm = EOD flatten RIG. ⟶
+**Last updated:** 2026-11-13 (Fri, EOD / engine pass 7 ~4pm ET / 20:04Z — close). **⚠ BP $0 ALL DAY (DAY 18)** — real BLOCKED, FLAT, $20 preserved, ZERO real trades. Owner must restore BP to •4713. Close: SPY 753.46 (-0.48%), QQQ 679.65 (-1.24%) — red day (recovered off -2.36% QQQ lows), tech-led with energy/travel ROTATION holding. PAPER day: AAL (0078) +0.5R + RIG (0077) +0.46R = +0.96R, 2 winners from the inverse-RS rotation read (energy/travel green vs tech-down). Partial-rule saved AAL. Morning had a Robin MCP outage (prep degraded, recovered by open). PAPER lifetime: 78 closed 35W/43L net +5.11R, 0 open. Lifetime real 2W/6L -$0.52. Options/crypto/margin OFF. Next: Mon pre-market prep ~9:15 ET. ⟶
 
 ---
 

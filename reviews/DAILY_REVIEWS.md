@@ -2332,3 +2332,19 @@ No confirmed ORB break-and-hold -> PASS (logged CLF near-miss to REJECTED). Engi
 - SNAP 5.315 (+1.8%) — green but unconfirmed structure.
 - All else red (MARA -6.7%, RIOT -5.7%, SOFI -2.2%, RIVN -2%, VALE -0.4%).
 No clean break-and-hold on a -2% QQQ tape -> PASS (logged RIG no-setup to REJECTED). Belated watchlist = RIG + SNAP (only RS holders); engine will stay defensive and demand a genuine hold, not chase. Real PASS until BP > $0.
+
+## 2026-11-13 (Fri) — EOD WRAP
+- REGIME: risk-off, tech-led. QQQ gapped -2% / hit -2.36% intraday, recovered to close -1.24%; SPY -0.48%. Clear defensive/cyclical ROTATION: energy (RIG) + travel (AAL) GREEN all day while tech fell.
+- DATA NOTE: Robin MCP had a morning outage (pre-market prep ran degraded, no reconcile/quotes; NOT fabricated). Recovered by the open-range decision; full data rest of day.
+- REAL $20: PASS all day. BP $0 DAY 18 - hard block. FLAT, $20 preserved, zero real trades. RIG + AAL were real-qualifying RS breakouts blocked by BP (another day of missed real setups; the block keeps costing).
+- PAPER: 2 trades, both winners.
+  - 0078 AAL +0.5R: travel RS breakout+pullback-hold; +1R partial @13.56, runner stopped BE -> partial rule saved a round-trip.
+  - 0077 RIG +0.46R: energy RS breakout, ground to 5.51 (missed +1R by 1c), EOD flatten +0.46R. MFE +0.90R.
+  - PAPER DAY = +0.96R (2W/0L).
+- LESSONS:
+  1. INVERSE-RS ROTATION is a real edge on a tech-down day: don't just stand aside on red -- scan for what's GREEN against the tape (energy/travel today). Both rotation longs worked.
+  2. WAIT FOR CONFIRMATION: at pass 1 (10:43) RIG/AAL were chopping -> correctly passed; by pass 2 they confirmed breakouts on volume -> entered. The confirmation step = the process.
+  3. Partial-at-+1R validated a 3rd time (AAL) -- banks gains, kills round-trips.
+- WEEK RECAP (11/10-11/13): PAPER by day -- 11/10 -1.25R (CLF -0.25, MARA -1.0), 11/11 -0.42R (SNAP +0.74, RIOT -1.0, CLF -0.16), 11/12 +1.5R (CLF), 11/13 +0.96R (AAL +0.5, RIG +0.46). WEEK = +0.79R. Theme: discipline (quality>forced volume on 11/11), regime-reading (red 11/10 & 11/13 vs green 11/11-12), and the partial-rule all paid. Real: zero trades all week (BP $0 days 14->18), $20 fully preserved, but the block cost >=2 confirmed real-qualifying winners (CLF 11/12 +1.5R, RIG/AAL 11/13).
+- TALLY: PAPER lifetime 78 closed, 35W/43L, net +5.11R, 0 open. Real lifetime 2W/6L -$0.52.
+- NEXT WEEK (Mon): watch whether this week's late selloff continues or bounces; keep favoring confirmed RS leaders / rotation. Real stays PASS until BP > $0 (day 18). ESCALATE the BP block to owner -- it is now costing real money weekly.
