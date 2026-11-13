@@ -2380,3 +2380,9 @@ Tally: REAL −$0.45 lifetime, FLAT, 0 trades today (7 passes); PAPER open P-003
 - 0078 AAL CLOSED +0.5R WIN: half booked +1R @13.56, runner BE stop 13.455 hit on 17:30 pullback (low 13.41). Partial-at-+1R rule SAVED it -> +0.5R net instead of a breakeven round-trip. 3rd clean execution of the rule (SNAP, CLF, now AAL).
 - 0077 RIG OPEN: ground to 5.46 (+2.2%), now 5.435 above entry; MFE +0.4R, no +1R(5.52). Holding; keep.
 - No new entries: RIG is the remaining rotation play; AAL lost momentum (don't re-enter below BE).
+
+### 2026-11-13 engine pass 5 (~2:04 ET / 19:04Z)
+- REAL: FLAT, BP $0 (day 18) -> PASS.
+- Regime: recovering off lows (SPY -0.51%, QQQ -1.28% vs -2.36%).
+- 0077 RIG OPEN: ground to 5.50 (+3.1%), now 5.485; MFE +0.8R, just short of +1R partial (5.52). Clean uptrend hold on a down tape (energy RS persisting). Keep; partial at 5.52, target 5.62, flatten at EOD.
+- No new entries: RIG is the play; let it run.
