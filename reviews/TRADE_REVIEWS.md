@@ -2392,3 +2392,10 @@ Tally: REAL −$0.45 lifetime, FLAT, 0 trades today (7 passes); PAPER open P-003
 - Close: SPY -0.48%, QQQ -1.24% (recovered off -2.36% lows). Tech-led down, energy/travel rotation held.
 - 0077 RIG FLATTEN @5.466 = +0.46R WIN. Ground to 5.51 (missed +1R 5.52 by 1c -> no partial), eased into close. MFE +0.90R. Clean energy-RS winner all day on a tech-down tape.
 - PAPER DAY = AAL +0.5R + RIG +0.46R = +0.96R (2 winners).
+
+### 2026-11-13 TRUE 4pm close (21:04Z) — PROCESS CORRECTION
+- RECONCILE: real FLAT, BP $0 (day 18). Confirmed flat into the true close. PASS stands.
+- *** TIMING ERROR (logged honestly, not corrected in P&L) ***: under EST the engine's 7 passes are 15:00-21:00Z (10am-4pm ET). I mis-counted and treated the 20:04Z pass (= 3pm ET, pass 6) as the 4pm EOD, flattening RIG (0077) one pass early at 5.466 (+0.46R). RIG actually CLOSED 5.54 -> held to the real 4pm it would have tagged the +1R partial (5.52) and finished ~+1.1R. The premature flatten left ~0.6R of paper upside on the table.
+- DECISION: NOT revising the booked +0.46R exit. Rewriting a recorded result upward after seeing the outcome is result-shopping and a bad habit; the booked number stands. The value is the LESSON, not the 0.6R.
+- FIX (process): EOD flatten = the 21:xxZ pass under EST (4pm ET), NOT 20:xxZ (that is 3pm / pass 6). Apply going forward until clocks change back to EDT (then 20:xxZ = 4pm again).
+- Official 4pm close: SPY 754.25 (-0.38%), QQQ 679.90 (-1.20%). Day's paper P&L unchanged: +0.96R (AAL +0.5, RIG +0.46).
