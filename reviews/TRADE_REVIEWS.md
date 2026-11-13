@@ -2358,3 +2358,11 @@ Tally: REAL −$0.45 lifetime, FLAT, 0 trades today (7 passes); PAPER open P-003
 - REAL: FLAT, BP $0 (day 18) -> STEP A PASS. (Robin recovered.)
 - Regime: hard red risk-off (SPY -0.90%, QQQ -2.01%).
 - No new entries: RIG (+0.75%) and SNAP (+1.3%) are the only green/RS names but both CHOPPING sideways (RIG 5.32-5.385, SNAP 5.26-5.33), no break-and-hold. CLF rolled -4.1%; SOFI/VALE/HBAN red. On a -2% QQQ tape, holding-green-while-chopping is not a setup -> stand aside, don't fight the tape (11/05 & 11/10 red-day discipline). RIG/SNAP = watch for a range break on volume. 0 open.
+
+### 2026-11-13 engine pass 2 (~11:22 ET / 16:22Z)
+- REAL: FLAT, BP $0 (day 18) -> STEP A PASS. RIG/AAL are real-qualifying RS breakouts blocked by BP.
+- Regime: hard red (SPY -1.13%, QQQ -2.36%) BUT clear defensive/cyclical rotation -> energy + travel GREEN while tech craters. The inverse-RS is the trade.
+- 0077 RIG 5.42 long: energy RS breakout. Hour-long base 5.35-5.37 -> broke to new HODs 5.40-5.445 on rising volume (16:15 bar 427k, biggest). Green +1.5% vs QQQ -2.4%. Break-and-hold, not spike. Stop 5.32 (below base), target 5.62 (2.0R), partial +1R @5.52.
+- 0078 AAL 13.455 long: travel RS. Broke 13.40-13.45 range to 13.515 on rising volume, pulled back to hold 13.455 (O002 pullback-hold entry). Green +1.1% vs red. Stop 13.35 (below base), target 13.665 (2.0R), partial +1R @13.56.
+- Contrast w/ pass 1: at 10:43 these were chopping (correctly passed); by 11:22 they CONFIRMED breakouts on volume -> now valid. Waiting for the confirmation = the right process. Rotation RS on a tech-down day is a legit setup (not fighting the tape; inversely correlated).
+- CLF rolled -4.3% (former leader); SOFI/VALE/HL red. Did not touch.
