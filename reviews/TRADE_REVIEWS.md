@@ -2406,3 +2406,8 @@ Tally: REAL −$0.45 lifetime, FLAT, 0 trades today (7 passes); PAPER open P-003
 - NO paper entry: AAL's open-decision breakout (green, broke OR high 13.44 at 9:48) FADED by this pass -> stalled, now 13.42 below the OR high as QQQ fell to -2.2%. Chasing a stalling breakout into a worsening tape = the trap; PASS. RIG -3.1% red (energy gave back Fri). All else red.
 - Honest follow-up on the BLOCKED_BP AAL "real setup": it has faded (entry would've been ~13.49, now 13.42 and dropping) -> the BP block did NOT cost a winner here; deferring the paper entry to confirmation (engine pass) rather than the 9:48 spike correctly avoided a fade. Good process: the setup read was valid at 9:48 but required confirmation that didn't come.
 - 0 open. Defensive stand-aside on a -2.2% risk-off tape.
+
+### 2026-11-16 engine pass 2 (~11:05 ET / 16:05Z)
+- REAL: FLAT, BP $0 (day 19) -> PASS.
+- Regime: deep red (SPY -1.11%, QQQ -1.81%), slight bounce off -2.2% low.
+- No new entries: AAL (+1.3%) faded from its breakout, chopping above prior close (no re-break = no setup); all else red (SOFI -3.3%, CLF -2.8%, RIG -2.6%, F -1.3%). No clean RS hold on a -1.8% risk-off tape. Stand aside. 0 open.
