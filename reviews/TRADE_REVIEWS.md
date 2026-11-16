@@ -2426,3 +2426,8 @@ Tally: REAL −$0.45 lifetime, FLAT, 0 trades today (7 passes); PAPER open P-003
 - REAL: FLAT, BP $0 (day 19) -> PASS.
 - Regime: selloff deepening (SPY -1.80%, QQQ -2.43% new lows).
 - No new entries: whole universe red, no RS hold (AAL -0.5%, RIG -4.7%, F -2.9%, KGC -3.1%). Clean risk-off stand-aside. 0 open.
+
+### 2026-11-16 engine pass 6 (~3:04 ET / 20:04Z)
+- REAL: FLAT, BP $0 (day 19) -> PASS.
+- Regime: deep red at lows (SPY -1.89%, QQQ -2.47%).
+- No new entries: AAL ~flat (no RS), all else red (RIG -4.9%, F -3.2%, KGC -3.3%). Late-day risk-off, nothing clean. 0 open. Clean zero-trade stand-aside day.
