@@ -5,7 +5,7 @@
 > intent and status; it is NOT the brokerage record (that comes from
 > reconciliation).
 
-**Last updated:** 2026-11-16 (Mon, engine pass 3 ~12:04 ET / 17:04Z). **⚠ BP $0 (DAY 19)** — real BLOCKED, FLAT, 0 positions, $20 preserved. Owner must restore BP to •4713. Tape deep red at lows (SPY -1.29%, QQQ -1.89%), no recovery. PAPER pass 3: no new entries — AAL faded to +0.7% (losing RS), all else red (SOFI -3.2%, RIG -2.9%, F -1.7%). No green/clean setup on a -1.9% risk-off tape. Stand aside. 0 open. PAPER lifetime: 78 closed 35W/43L net +5.11R, 0 open. Lifetime real 2W/6L -$0.52. Options/crypto/margin OFF. Next: engine pass ~1pm ET. ⟶
+**Last updated:** 2026-11-16 (Mon, engine pass 4 ~1:04 ET / 18:04Z). **⚠ BP $0 (DAY 19)** — real BLOCKED, FLAT, 0 positions, $20 preserved. Owner must restore BP to •4713. Selloff intensifying: SPY -1.61%, QQQ -2.33% (new lows). PAPER pass 4: no new entries — AAL now RED (gave up all RS from +2.4% open), whole universe red (MARA -6.5%, RIG -4.5%, SOFI -3.8%). Clean risk-off, no setup; stand aside (validated NOT chasing AAL's open breakout). 0 open. PAPER lifetime: 78 closed 35W/43L net +5.11R, 0 open. Lifetime real 2W/6L -$0.52. Options/crypto/margin OFF. Next: engine pass ~2pm ET. ⟶
 
 ---
 
