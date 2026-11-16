@@ -5,7 +5,7 @@
 > intent and status; it is NOT the brokerage record (that comes from
 > reconciliation).
 
-**Last updated:** 2026-11-16 (Mon, engine pass 6 ~3:04 ET / 20:04Z). **⚠ BP $0 (DAY 19)** — real BLOCKED, FLAT, 0 positions, $20 preserved. Owner must restore BP to •4713. Tape deep red at lows (SPY -1.89%, QQQ -2.47%). PAPER pass 6: no new entries — AAL ~flat (no RS), all else red (RIG -4.9%, F -3.2%, KGC -3.3%). Late-day risk-off, nothing clean. 0 open. Shaping up as a clean zero-trade stand-aside day. PAPER lifetime: 78 closed 35W/43L net +5.11R, 0 open. Lifetime real 2W/6L -$0.52. Options/crypto/margin OFF. Next: pass 7 ~4pm = EOD wrap (0 open). ⟶
+**Last updated:** 2026-11-16 (Mon, EOD wrap ~4:04 ET / 21:04Z). **⚠ BP $0 (DAY 19)** — real BLOCKED, FLAT, 0 positions, $20 preserved. Owner must restore BP to •4713. Tape CLOSED deep red (SPY 740.04 −1.90%, QQQ 661.82 −2.66%), 2nd straight red day. PAPER: clean ZERO-TRADE risk-off stand-aside day — no setup cleared on a red-continuation tape; AAL never confirmed (faded to ~flat), everything else red (RIG −5.6%). Real PASS all day. 0 open overnight. PAPER lifetime: 78 closed 35W/43L net +5.11R, 0 open. Lifetime real 2W/6L -$0.52. Options/crypto/margin OFF. Next: Tue 11/17 pre-market prep ~9:15 ET. ⟶
 
 ---
 

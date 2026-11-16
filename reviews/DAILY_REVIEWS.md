@@ -2361,3 +2361,19 @@ No clean break-and-hold on a -2% QQQ tape -> PASS (logged RIG no-setup to REJECT
 - PLAN: red-continuation, no RS leader -> demand a CONFIRMED higher-low/reclaim at the open on a holder (esp. RIG/AAL if energy/travel rotation resumes), readily PASS. Momentum mean-reverts on red tape; no chasing crypto knives. Real PASS until BP > $0 (day 19).
 
 **9:48 ET open-range decision (14:48Z):** REAL = **PASS, no trade** (BP $0 day 19 hard block). Regime red/tech-led (SPY -0.76%, QQQ -1.37%, Fri selloff continuing). AAL = GENUINE real-qualifying setup: travel RS leader green +2.4% vs red QQQ, broke+holding OR high 13.439 (new highs 13.52), rotation resuming from Fri, affordable 13.49 tight 1c spread. Cleared the gate -> BP $0 FORCED PASS (logged BLOCKED_BP). RIG faded -2.0% (energy not leading today; travel is). Engine will take AAL in PAPER next pass. Real PASS until BP > $0.
+
+---
+
+### EOD WRAP — Mon 2026-11-16 (risk-off stand-aside, 0 trades)
+
+**Market close (official 4pm):** SPY 740.04 (−1.90%), QQQ 661.82 (−2.66%). Second straight red day after Fri 11/13. Deep-red, risk-off tape all session — opened weak, bled lower, closed near lows. No bid, no clean leadership.
+
+**Real $20 (••••4713):** FLAT. BP $0 — **DAY 19** of the block. Zero real orders possible; stayed on PASS. $20 preserved. Owner must restore buying power before real trading can resume. The block cost nothing today (no real-qualifying setup cleared), but the 19-day drought remains the single open escalation.
+
+**Paper:** **0 trades.** Correct, disciplined zero-trade day. On a red-continuation tape I demand a confirmed reclaim/hold before committing; nothing offered one. The only candidate with any relative strength was AAL (travel/inverse-RS theme that worked 11/13), but it never confirmed a hold above its morning base and faded to ~flat (13.23, +0.46%) — no entry trigger, so no trade. Validated: AAL did not break out; standing aside was right. Everything else was red (RIG −5.6% to 5.23, giving back Fri's strength; energy/materials/autos all lower).
+
+**Lesson reinforced:** Regime is the ceiling. On a −2.66% QQQ day with no reclaim, the right number of trades is often zero. Quality > forced volume; a flat P&L day beats a forced loss. No rule violations — this is what the red-tape gate is for.
+
+**Lifetime (paper):** 78 closed, 35W/43L, net +5.11R, 0 open. **Real:** 2W/6L, −$0.52.
+
+**Next:** Tue 11/17 — pre-market prep ~9:15 ET, open-range decision ~9:47 ET, hourly engine 10am–4pm. Watch for a reclaim/stabilization after 2 red days; stay patient, keep demanding confirmation.
