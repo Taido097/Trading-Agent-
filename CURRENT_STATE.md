@@ -5,7 +5,7 @@
 > intent and status; it is NOT the brokerage record (that comes from
 > reconciliation).
 
-**Last updated:** 2026-11-16 (Mon, pre-market prep ~9:21 ET / 14:21Z). **⚠ BP $0 (DAY 19)** — real BLOCKED, FLAT, 0 positions, $20 preserved. Owner must restore BP to •4713. REGIME: RED continuation, tech-led — pre-market SPY -0.60%, QQQ -1.23% (Friday's selloff extending). No green/RS leader in affordable universe (all red); crypto crushed (MARA -6.3%, RIOT -4.9%); Fri leaders pulling back (RIG -1.6%, AAL -0.6%). Watchlist (relative holders/reclaim watches): RIG, AAL, F, NCLH, HBAN. Plan: demand confirmed reclaim/higher-low, readily PASS; no chasing crypto knives. PAPER lifetime: 78 closed 35W/43L net +5.11R, 0 open. Lifetime real 2W/6L -$0.52. Options/crypto/margin OFF. Next: 9:47 ET open-range decision. ⟶
+**Last updated:** 2026-11-16 (Mon, 9:48 ET open-range decision / 14:48Z). **⚠ BP $0 (DAY 19) — cost another real setup:** AAL is a real-qualifying travel-RS ORB breakout (green +2.4% vs red QQQ -1.37%, broke+holding OR high 13.439) but BP $0 FORCED a real PASS; engine will take it in PAPER. Owner must restore BP to •4713. FLAT, $20 preserved. Regime red/tech-led (SPY -0.76%, QQQ -1.37%, Fri selloff continuing). RIG faded -2.0% (energy not leading; travel is). Logged AAL BLOCKED_BP. PAPER lifetime: 78 closed 35W/43L net +5.11R, 0 open. Lifetime real 2W/6L -$0.52. Options/crypto/margin OFF. Next: engine pass 1 ~10:03 ET (paper AAL). ⟶
 
 ---
 

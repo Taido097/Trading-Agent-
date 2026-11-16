@@ -2359,3 +2359,5 @@ No clean break-and-hold on a -2% QQQ tape -> PASS (logged RIG no-setup to REJECT
   - F 11.91 (~flat), NCLH 17.87 (-0.5%), HBAN 15.76 (-0.4%) relative holders
   Excluded: crypto (crushed), >$19 (CCL/SIRI/KGC/KEY), growth red (SOFI/RIVN/VALE/HL).
 - PLAN: red-continuation, no RS leader -> demand a CONFIRMED higher-low/reclaim at the open on a holder (esp. RIG/AAL if energy/travel rotation resumes), readily PASS. Momentum mean-reverts on red tape; no chasing crypto knives. Real PASS until BP > $0 (day 19).
+
+**9:48 ET open-range decision (14:48Z):** REAL = **PASS, no trade** (BP $0 day 19 hard block). Regime red/tech-led (SPY -0.76%, QQQ -1.37%, Fri selloff continuing). AAL = GENUINE real-qualifying setup: travel RS leader green +2.4% vs red QQQ, broke+holding OR high 13.439 (new highs 13.52), rotation resuming from Fri, affordable 13.49 tight 1c spread. Cleared the gate -> BP $0 FORCED PASS (logged BLOCKED_BP). RIG faded -2.0% (energy not leading today; travel is). Engine will take AAL in PAPER next pass. Real PASS until BP > $0.
