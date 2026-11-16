@@ -5,7 +5,7 @@
 > intent and status; it is NOT the brokerage record (that comes from
 > reconciliation).
 
-**Last updated:** 2026-11-16 (Mon, 9:48 ET open-range decision / 14:48Z). **⚠ BP $0 (DAY 19) — cost another real setup:** AAL is a real-qualifying travel-RS ORB breakout (green +2.4% vs red QQQ -1.37%, broke+holding OR high 13.439) but BP $0 FORCED a real PASS; engine will take it in PAPER. Owner must restore BP to •4713. FLAT, $20 preserved. Regime red/tech-led (SPY -0.76%, QQQ -1.37%, Fri selloff continuing). RIG faded -2.0% (energy not leading; travel is). Logged AAL BLOCKED_BP. PAPER lifetime: 78 closed 35W/43L net +5.11R, 0 open. Lifetime real 2W/6L -$0.52. Options/crypto/margin OFF. Next: engine pass 1 ~10:03 ET (paper AAL). ⟶
+**Last updated:** 2026-11-16 (Mon, engine pass 1 ~10:05 ET / 15:05Z). **⚠ BP $0 (DAY 19)** — real BLOCKED, FLAT, 0 positions, $20 preserved. Owner must restore BP to •4713. Selloff DEEPENING: SPY -1.26%, QQQ -2.20% (worse than open). PAPER pass 1: NO entry — AAL's 9:48 breakout FADED (stalled below OR high 13.44, now 13.42) as QQQ dropped to -2.2%; not chasing a stalling move into a deepening selloff. RIG -3.1% red. Honest note: the 'BLOCKED_BP' AAL real setup has since faded (would be ~BE/underwater now) — block didn't cost here; deferring to confirmation saved it. 0 open. PAPER lifetime: 78 closed 35W/43L net +5.11R, 0 open. Lifetime real 2W/6L -$0.52. Options/crypto/margin OFF. Next: engine pass ~top of hour (defensive on -2.2% tape). ⟶
 
 ---
 

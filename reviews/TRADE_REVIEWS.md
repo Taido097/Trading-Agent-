@@ -2399,3 +2399,10 @@ Tally: REAL −$0.45 lifetime, FLAT, 0 trades today (7 passes); PAPER open P-003
 - DECISION: NOT revising the booked +0.46R exit. Rewriting a recorded result upward after seeing the outcome is result-shopping and a bad habit; the booked number stands. The value is the LESSON, not the 0.6R.
 - FIX (process): EOD flatten = the 21:xxZ pass under EST (4pm ET), NOT 20:xxZ (that is 3pm / pass 6). Apply going forward until clocks change back to EDT (then 20:xxZ = 4pm again).
 - Official 4pm close: SPY 754.25 (-0.38%), QQQ 679.90 (-1.20%). Day's paper P&L unchanged: +0.96R (AAL +0.5, RIG +0.46).
+
+### 2026-11-16 engine pass 1 (~10:05 ET / 15:05Z)
+- REAL: FLAT, BP $0 (day 19) -> STEP A PASS.
+- Regime: selloff DEEPENING (SPY -1.26%, QQQ -2.20% vs -1.37% at the open).
+- NO paper entry: AAL's open-decision breakout (green, broke OR high 13.44 at 9:48) FADED by this pass -> stalled, now 13.42 below the OR high as QQQ fell to -2.2%. Chasing a stalling breakout into a worsening tape = the trap; PASS. RIG -3.1% red (energy gave back Fri). All else red.
+- Honest follow-up on the BLOCKED_BP AAL "real setup": it has faded (entry would've been ~13.49, now 13.42 and dropping) -> the BP block did NOT cost a winner here; deferring the paper entry to confirmation (engine pass) rather than the 9:48 spike correctly avoided a fade. Good process: the setup read was valid at 9:48 but required confirmation that didn't come.
+- 0 open. Defensive stand-aside on a -2.2% risk-off tape.
