@@ -2348,3 +2348,14 @@ No clean break-and-hold on a -2% QQQ tape -> PASS (logged RIG no-setup to REJECT
 - WEEK RECAP (11/10-11/13): PAPER by day -- 11/10 -1.25R (CLF -0.25, MARA -1.0), 11/11 -0.42R (SNAP +0.74, RIOT -1.0, CLF -0.16), 11/12 +1.5R (CLF), 11/13 +0.96R (AAL +0.5, RIG +0.46). WEEK = +0.79R. Theme: discipline (quality>forced volume on 11/11), regime-reading (red 11/10 & 11/13 vs green 11/11-12), and the partial-rule all paid. Real: zero trades all week (BP $0 days 14->18), $20 fully preserved, but the block cost >=2 confirmed real-qualifying winners (CLF 11/12 +1.5R, RIG/AAL 11/13).
 - TALLY: PAPER lifetime 78 closed, 35W/43L, net +5.11R, 0 open. Real lifetime 2W/6L -$0.52.
 - NEXT WEEK (Mon): watch whether this week's late selloff continues or bounces; keep favoring confirmed RS leaders / rotation. Real stays PASS until BP > $0 (day 18). ESCALATE the BP block to owner -- it is now costing real money weekly.
+
+## 2026-11-16 (Mon) — PRE-MARKET PREP (~9:21 ET / 14:21Z)
+- RECONCILE: ••••4713 FLAT, 0 positions, BP $0 (DAY 19 of block). Real BLOCKED. Internal state matches (0 open paper after Fri EOD).
+- REGIME: RED CONTINUATION, tech-led. Pre-market SPY -0.60% (749.88), QQQ -1.23% (671.50) — Friday's selloff extending. Risk-off again.
+- EVENT RISK: nothing major scheduled pre-open; risk is the selloff continuing.
+- WIDE SCREEN: NO green/RS leader in the affordable universe pre-market (all red). Crypto crushed (MARA -6.3%, RIOT -4.9%). Fri rotation leaders pulling back: RIG -1.6%, AAL -0.6%. Best relative holders / reclaim watches (affordable):
+  - RIG 5.45 (-1.6%) energy, watch rotation reclaim
+  - AAL 13.09 (-0.6%) travel, watch reclaim
+  - F 11.91 (~flat), NCLH 17.87 (-0.5%), HBAN 15.76 (-0.4%) relative holders
+  Excluded: crypto (crushed), >$19 (CCL/SIRI/KGC/KEY), growth red (SOFI/RIVN/VALE/HL).
+- PLAN: red-continuation, no RS leader -> demand a CONFIRMED higher-low/reclaim at the open on a holder (esp. RIG/AAL if energy/travel rotation resumes), readily PASS. Momentum mean-reverts on red tape; no chasing crypto knives. Real PASS until BP > $0 (day 19).

@@ -5,7 +5,7 @@
 > intent and status; it is NOT the brokerage record (that comes from
 > reconciliation).
 
-**Last updated:** 2026-11-13 (Fri, TRUE 4pm close / 21:04Z). Real FLAT, BP $0 (DAY 18), $20 preserved, PASS stands. **PROCESS NOTE:** EOD flatten fired one pass EARLY (EST pass-count miscount: flattened RIG at the 20:04Z/3pm pass, not the 21:xxZ/4pm pass). RIG closed 5.54 (would've been ~+1.1R held); booked +0.46R LEFT AS IS (no result-shopping). FIX: under EST the 4pm EOD pass is 21:xxZ, not 20:xxZ. Official close SPY 754.25 (-0.38%), QQQ 679.90 (-1.20%). PAPER day +0.96R (AAL +0.5, RIG +0.46) unchanged. PAPER lifetime: 78 closed 35W/43L net +5.11R, 0 open. Lifetime real 2W/6L -$0.52. Options/crypto/margin OFF. Owner must restore BP to •4713. Next: Mon pre-market prep ~9:15 ET. ⟶
+**Last updated:** 2026-11-16 (Mon, pre-market prep ~9:21 ET / 14:21Z). **⚠ BP $0 (DAY 19)** — real BLOCKED, FLAT, 0 positions, $20 preserved. Owner must restore BP to •4713. REGIME: RED continuation, tech-led — pre-market SPY -0.60%, QQQ -1.23% (Friday's selloff extending). No green/RS leader in affordable universe (all red); crypto crushed (MARA -6.3%, RIOT -4.9%); Fri leaders pulling back (RIG -1.6%, AAL -0.6%). Watchlist (relative holders/reclaim watches): RIG, AAL, F, NCLH, HBAN. Plan: demand confirmed reclaim/higher-low, readily PASS; no chasing crypto knives. PAPER lifetime: 78 closed 35W/43L net +5.11R, 0 open. Lifetime real 2W/6L -$0.52. Options/crypto/margin OFF. Next: 9:47 ET open-range decision. ⟶
 
 ---
 
