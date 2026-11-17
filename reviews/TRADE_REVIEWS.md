@@ -2466,3 +2466,13 @@ Tape rolled hard red since pass 1: SPY −1.06%, QQQ −1.07% (risk-off accelera
 - **HL P-0079 OPEN.** Lone RS name (+4.2% while QQQ −1.1%) — gold/silver holding green against a red tape, exactly the counter-cyclical thesis. High 12.88 (+0.4R, no +1R partial), never near stop 12.54. Keeping original stop; watching into the risk-off leg.
 - **No new entries.** MARA/CLF/RIOT all broke down through their bases on the −1% leg. Adding longs into an accelerating risk-off tape = the exact mistake the red-tape rule exists to prevent. Stand aside.
 - Real: FLAT, BP $0 (day 20), PASS.
+
+---
+
+#### 2026-11-17 Tue — engine pass 3 (12:05 ET / 17:05Z)
+
+Tape deep red grind: SPY −1.44%, QQQ −1.66%. Risk-off all session, 3rd red day.
+
+- **HL P-0079 STOPPED −1.0R (−$40).** Held as the lone RS name ~2h (gold/silver counter-cyclical), but the relentless −1.5% grind finally pulled it through the 12.54 stop (16:45 bar low 12.525). MFE only +0.4R (12.88) — never tagged +1R (13.04), so no partial cushion. Loss class = regime: the setup and the stop were both correct; a persistent risk-off tape just wears down even the strongest RS eventually. No second-guessing the entry — the edge was real, the macro was stronger.
+- **No new entries.** Only green names are precious-metals miners >$19 (KGC +1.8%) — fail the ≤~$19 affordability screen. Every affordable name is red. A −1.5% risk-off grind is a stand-aside tape.
+- **Day paper tally: SNAP +0.5R, HL −1.0R = −0.5R, 0 open.** Net honest small loss on a brutal tape; the partial rule on SNAP cut what would've been a worse day. Real: FLAT, BP $0 (day 20), PASS.
