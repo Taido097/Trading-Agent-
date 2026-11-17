@@ -2455,3 +2455,14 @@ Reconciled ••••4713: FLAT, BP $0 (day 20). Pre-market green faded by the
 **PASS:** MARA (6.82 at OR high, valid but choppy stop), VALE (10.59 grinding, lower conviction) — not taken, keeping one clean position. RIOT (pulled below OR high 17.60, no hold), RIG (faded red) — no setup.
 
 Exit management handled by the hourly engine passes (10am–4pm). Watch HL for +1R partial at 13.04, EOD flatten if not stopped/targeted.
+
+---
+
+#### 2026-11-17 Tue — engine pass 2 (11:05 ET / 16:05Z)
+
+Tape rolled hard red since pass 1: SPY −1.06%, QQQ −1.07% (risk-off accelerating, 3rd red day building).
+
+- **SNAP P-0080 CLOSED +0.5R (+$19.92).** Entry 5.39 → tagged +1R (5.51 high, 15:10 bar) → partial rule: half booked @5.51, runner stop→BE 5.39. Runner then BE-stopped (15:40 low 5.39) as the whole tape rolled over. Half @+1R + half @BE = +0.5R. Textbook partial-rule save — banked the gain before the round-trip back to entry (identical to AAL 11/13). Validates the rule again under a sudden regime flip.
+- **HL P-0079 OPEN.** Lone RS name (+4.2% while QQQ −1.1%) — gold/silver holding green against a red tape, exactly the counter-cyclical thesis. High 12.88 (+0.4R, no +1R partial), never near stop 12.54. Keeping original stop; watching into the risk-off leg.
+- **No new entries.** MARA/CLF/RIOT all broke down through their bases on the −1% leg. Adding longs into an accelerating risk-off tape = the exact mistake the red-tape rule exists to prevent. Stand aside.
+- Real: FLAT, BP $0 (day 20), PASS.
