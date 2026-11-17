@@ -5,7 +5,7 @@
 > intent and status; it is NOT the brokerage record (that comes from
 > reconciliation).
 
-**Last updated:** 2026-11-17 (Tue, engine pass 2 ~11:05 ET / 16:05Z). **⚠ BP $0 (DAY 20)** — real FLAT, BLOCKED, $20 preserved. Owner must restore BP to •4713. Tape ROLLED RED (SPY -1.06%, QQQ -1.07%) — risk-off accelerating, 3rd red day building. PAPER: SNAP P-0080 CLOSED +0.5R (+1R half @5.51 + runner BE @5.39; partial rule banked it before the round-trip, like AAL 11/13). HL P-0079 still OPEN (12.73, lone RS +4.2% vs QQQ -1.1%, stop 12.54 intact, no +1R yet). NO new entries — MARA/CLF/RIOT broke down; red tape = stand aside. Real PASS (BP $0). PAPER lifetime: 79 closed 36W/43L net +5.61R, 1 open (HL). Lifetime real 2W/6L -$0.52. Options/crypto/margin OFF. Next: pass 3 ~12pm. ⟶
+**Last updated:** 2026-11-17 (Tue, engine pass 3 ~12:05 ET / 17:05Z). **⚠ BP $0 (DAY 20)** — real FLAT, BLOCKED, $20 preserved. Owner must restore BP to •4713. Tape DEEP RED grind (SPY -1.44%, QQQ -1.66%), risk-off all session, 3rd red day. PAPER: HL P-0079 STOPPED -1.0R (held RS longest but -1.5% grind dragged it thru 12.54; MFE only +0.4R, no partial). SNAP P-0080 earlier +0.5R. Day paper = -0.5R, 0 open now. NO new entries — only greens are precious metals >$19 (KGC +1.8%); everything affordable red. Red grind = stand aside. Real PASS (BP $0). PAPER lifetime: 80 closed 36W/44L net +4.61R, 0 open. Lifetime real 2W/6L -$0.52. Options/crypto/margin OFF. Next: pass 4 ~1pm. ⟶
 
 ---
 
