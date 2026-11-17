@@ -5,7 +5,7 @@
 > intent and status; it is NOT the brokerage record (that comes from
 > reconciliation).
 
-**Last updated:** 2026-11-17 (Tue, open-range decision ~9:48 ET / 14:48Z). **⚠ BP $0 (DAY 20)** — real BLOCKED, FLAT, 0 positions, $20 preserved. Owner must restore BP to •4713. Tape: pre-mkt bounce FADED — SPY 738.66 (-0.17%), QQQ 661.24 (-0.08%), flat-red. DECISION: HL clean ORB (OR-high break+hold, +4.6%, gold/silver counter-cyclical RS) QUALIFIED → real BLOCKED_BP, taken in PAPER as P-2026-0079 (long 160sh @12.79, stop 12.54, tgt 13.29 2:1, +1R=13.04 partial+BE). 1 PAPER open. Other names (MARA/VALE valid but lower-conviction; RIOT/RIG failed hold) PASS. PAPER lifetime: 78 closed 35W/43L net +5.11R, +1 open. Lifetime real 2W/6L -$0.52. Options/crypto/margin OFF. Next: engine passes manage HL exit, 10am-4pm. ⟶
+**Last updated:** 2026-11-17 (Tue, engine pass 1 ~10:05 ET / 15:05Z). **⚠ BP $0 (DAY 20)** — real FLAT, BLOCKED, $20 preserved. Owner must restore BP to •4713. Tape flat-red (SPY -0.25%, QQQ -0.09%), bounce not holding. PAPER: 2 OPEN — HL P-0079 (long @12.79, now 12.76, MFE +0.4R, stop 12.54 intact) + SNAP P-0080 NEW (long @5.39 RS-continuation coil near HOD, +5.7% leader; stop 5.27 tgt 5.63). MARA/CLF/RIOT valid coils but not triggering (armed for re-break). Real: no setup placeable (BP $0) — logged BLOCKED_BP at open (HL). PAPER lifetime: 78 closed 35W/43L +5.11R, 2 open. Lifetime real 2W/6L -$0.52. Options/crypto/margin OFF. Next: pass 2 ~11am. ⟶
 
 ---
 
