@@ -5,7 +5,7 @@
 > intent and status; it is NOT the brokerage record (that comes from
 > reconciliation).
 
-**Last updated:** 2026-11-17 (Tue, engine pass 1 ~10:05 ET / 15:05Z). **⚠ BP $0 (DAY 20)** — real FLAT, BLOCKED, $20 preserved. Owner must restore BP to •4713. Tape flat-red (SPY -0.25%, QQQ -0.09%), bounce not holding. PAPER: 2 OPEN — HL P-0079 (long @12.79, now 12.76, MFE +0.4R, stop 12.54 intact) + SNAP P-0080 NEW (long @5.39 RS-continuation coil near HOD, +5.7% leader; stop 5.27 tgt 5.63). MARA/CLF/RIOT valid coils but not triggering (armed for re-break). Real: no setup placeable (BP $0) — logged BLOCKED_BP at open (HL). PAPER lifetime: 78 closed 35W/43L +5.11R, 2 open. Lifetime real 2W/6L -$0.52. Options/crypto/margin OFF. Next: pass 2 ~11am. ⟶
+**Last updated:** 2026-11-17 (Tue, engine pass 2 ~11:05 ET / 16:05Z). **⚠ BP $0 (DAY 20)** — real FLAT, BLOCKED, $20 preserved. Owner must restore BP to •4713. Tape ROLLED RED (SPY -1.06%, QQQ -1.07%) — risk-off accelerating, 3rd red day building. PAPER: SNAP P-0080 CLOSED +0.5R (+1R half @5.51 + runner BE @5.39; partial rule banked it before the round-trip, like AAL 11/13). HL P-0079 still OPEN (12.73, lone RS +4.2% vs QQQ -1.1%, stop 12.54 intact, no +1R yet). NO new entries — MARA/CLF/RIOT broke down; red tape = stand aside. Real PASS (BP $0). PAPER lifetime: 79 closed 36W/43L net +5.61R, 1 open (HL). Lifetime real 2W/6L -$0.52. Options/crypto/margin OFF. Next: pass 3 ~12pm. ⟶
 
 ---
 
