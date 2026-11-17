@@ -5,7 +5,7 @@
 > intent and status; it is NOT the brokerage record (that comes from
 > reconciliation).
 
-**Last updated:** 2026-11-16 (Mon, EOD wrap ~4:04 ET / 21:04Z). **⚠ BP $0 (DAY 19)** — real BLOCKED, FLAT, 0 positions, $20 preserved. Owner must restore BP to •4713. Tape CLOSED deep red (SPY 740.04 −1.90%, QQQ 661.82 −2.66%), 2nd straight red day. PAPER: clean ZERO-TRADE risk-off stand-aside day — no setup cleared on a red-continuation tape; AAL never confirmed (faded to ~flat), everything else red (RIG −5.6%). Real PASS all day. 0 open overnight. PAPER lifetime: 78 closed 35W/43L net +5.11R, 0 open. Lifetime real 2W/6L -$0.52. Options/crypto/margin OFF. Next: Tue 11/17 pre-market prep ~9:15 ET. ⟶
+**Last updated:** 2026-11-17 (Tue, open-range decision ~9:48 ET / 14:48Z). **⚠ BP $0 (DAY 20)** — real BLOCKED, FLAT, 0 positions, $20 preserved. Owner must restore BP to •4713. Tape: pre-mkt bounce FADED — SPY 738.66 (-0.17%), QQQ 661.24 (-0.08%), flat-red. DECISION: HL clean ORB (OR-high break+hold, +4.6%, gold/silver counter-cyclical RS) QUALIFIED → real BLOCKED_BP, taken in PAPER as P-2026-0079 (long 160sh @12.79, stop 12.54, tgt 13.29 2:1, +1R=13.04 partial+BE). 1 PAPER open. Other names (MARA/VALE valid but lower-conviction; RIOT/RIG failed hold) PASS. PAPER lifetime: 78 closed 35W/43L net +5.11R, +1 open. Lifetime real 2W/6L -$0.52. Options/crypto/margin OFF. Next: engine passes manage HL exit, 10am-4pm. ⟶
 
 ---
 

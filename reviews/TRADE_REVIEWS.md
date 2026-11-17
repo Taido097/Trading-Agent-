@@ -2441,3 +2441,17 @@ Reconciled ••••4713: FLAT, 0 positions, BP $0 (day 19), portfolio total_
 Day result: **0 paper trades, 0 real trades.** Clean risk-off stand-aside. SPY −1.90% / QQQ −2.66% into the close, 2nd straight red day. AAL (only RS candidate) never confirmed a hold, faded to ~flat → correctly no entry. All else red. No setup cleared the red-tape confirmation gate at any pass. No rule violations; disciplined zero.
 
 Lifetime paper: 78 closed 35W/43L +5.11R, 0 open. Real 2W/6L −$0.52.
+
+---
+
+#### 2026-11-17 Tue — OPEN-RANGE DECISION (9:48 ET / 14:48Z)
+
+Reconciled ••••4713: FLAT, BP $0 (day 20). Pre-market green faded by the open — SPY −0.17%, QQQ −0.08% (bounce attempt not holding). Equity-beta longs risky; only regime-independent RS qualifies.
+
+**DECISION: HL — qualifying ORB long.** OR high 12.755; three rising 5-min bars (12.62→12.685→12.729 closes) then break to 12.785 (+4.6% day), solid volume, spread 0.08%. Gold/silver miner → strength counter-cyclical, independent of the soft tape (same inverse-RS edge as CLF 11/12, RIG/AAL 11/13). Not spike-chasing (O002 OK — orderly multi-bar break, not one parabolic bar). 7-lens + Devil's Advocate: only real caution is it's already +4.6%/extended, but entry is an orderly OR-high break with a genuine base stop, so R:R holds.
+- Entry 12.79, stop 12.54 (below the 12.55–12.60 base, genuinely below — whipsaw lesson), risk/sh $0.25, target 13.29 (2:1). Paper size 160 sh ($40 risk on $20k sim). +1R=13.04 → book half, stop→BE, trail.
+- **Real = BLOCKED_BP** (BP $0 day 20): setup CLEARED the §9 gate but no buying power to place it. Logged REJECTED_TRADES.csv decision=BLOCKED_BP. Taken in PAPER as P-2026-0079. 20th day the block is costing a qualifying setup.
+
+**PASS:** MARA (6.82 at OR high, valid but choppy stop), VALE (10.59 grinding, lower conviction) — not taken, keeping one clean position. RIOT (pulled below OR high 17.60, no hold), RIG (faded red) — no setup.
+
+Exit management handled by the hourly engine passes (10am–4pm). Watch HL for +1R partial at 13.04, EOD flatten if not stopped/targeted.
