@@ -2476,3 +2476,13 @@ Tape deep red grind: SPY −1.44%, QQQ −1.66%. Risk-off all session, 3rd red d
 - **HL P-0079 STOPPED −1.0R (−$40).** Held as the lone RS name ~2h (gold/silver counter-cyclical), but the relentless −1.5% grind finally pulled it through the 12.54 stop (16:45 bar low 12.525). MFE only +0.4R (12.88) — never tagged +1R (13.04), so no partial cushion. Loss class = regime: the setup and the stop were both correct; a persistent risk-off tape just wears down even the strongest RS eventually. No second-guessing the entry — the edge was real, the macro was stronger.
 - **No new entries.** Only green names are precious-metals miners >$19 (KGC +1.8%) — fail the ≤~$19 affordability screen. Every affordable name is red. A −1.5% risk-off grind is a stand-aside tape.
 - **Day paper tally: SNAP +0.5R, HL −1.0R = −0.5R, 0 open.** Net honest small loss on a brutal tape; the partial rule on SNAP cut what would've been a worse day. Real: FLAT, BP $0 (day 20), PASS.
+
+---
+
+#### 2026-11-17 Tue — EOD (pass 7, 21:04Z / 4:04 ET)
+
+Reconciled ••••4713: FLAT, BP $0 (day 20). Nothing real to flatten.
+
+- **SNAP P-0081 EOD-flattened +0.58R (+$23.31).** Entry 5.46 held the whole afternoon as the lone RS name (+7.9% on a red tape), coiling 5.44–5.51 under the 5.51 HOD. Never extended to +1R (5.52) so no partial; never threatened the 5.40 stop. Closed at the 4pm mark 5.495 per the no-overnight rule. MFE +0.83R, MAE −0.33R. A clean, patient hold of the day's strongest name — didn't give back, didn't force an exit.
+
+**Day paper: 3 trades, +0.08R (2W/1L).** SNAP P-0080 +0.5R (partial-rule save), HL P-0079 −1.0R (regime stop), SNAP P-0081 +0.58R. Essentially flat on a brutal −1% day — exactly the goal in risk-off: don't give it back. The two SNAP trades (the one idiosyncratic RS name) carried the day; HL was the correct counter-cyclical idea that the macro simply overwhelmed. No forced trades, no rule breaks, red-tape discipline held (stood aside at passes 2/3/5/6 when nothing was clean).

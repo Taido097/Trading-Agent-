@@ -2398,3 +2398,22 @@ No clean break-and-hold on a -2% QQQ tape -> PASS (logged RIG no-setup to REJECT
 **Screened OUT:** AAL (−1.42%, giving back Mon's fade — no); F/NCLH/CCL (weak/red); CHPT & BTG (spread 4%+ — fail liquidity screen); KGC/KEY/RF/SIRI/AMCR/CCL (>$19, fail 1-share screen); HBAN (flat + wide spread).
 
 **Plan:** Decision routine ~9:47 ET on top names (HL, RIG, MARA). Red-tape caution lifted only slightly — this is a bounce *attempt*, not confirmed strength. Require a clean open-range hold/reclaim before any paper entry; stop defined FIRST. Real stays PASS (BP $0). Quality > volume.
+
+---
+
+### EOD WRAP — Tue 2026-11-17 (3rd red day; paper ~flat, real blocked day 20)
+
+**Market close:** SPY 732.38 (−1.02%), QQQ 657.00 (−0.72%). Third straight down day; opened trying to bounce, faded to −1.5% intraday, clawed back into the close but still red. Risk-off regime intact.
+
+**Real $20 (••••4713):** FLAT. BP **$0 — DAY 20.** One genuine setup qualified today (HL ORB at the open, +4.6% RS) but was BLOCKED_BP — logged. The block has now cost a clean qualifying real setup on multiple days; $20 still preserved, still waiting on the owner to restore buying power.
+
+**Paper: 3 trades, +0.08R net (2W/1L)** — flat on a −1% tape, which is a win in risk-off:
+- P-0079 HL long (ORB, open) → −1.0R, stopped 12.54. Correct counter-cyclical RS idea; the relentless grind overwhelmed it. Loss class = regime.
+- P-0080 SNAP long (RS coil, open) → +0.5R. Tagged +1R, partial rule banked half + runner BE as tape rolled — classic save.
+- P-0081 SNAP long (RS continuation, midday) → +0.58R. Held the day's lone strong RS name to the 4pm flatten.
+
+**Lesson reinforced:** On a trending-down day, the one idiosyncratic RS name (SNAP, +7.9%, social/tech bucking the tape) is where the edge lives — and the partial/BE discipline keeps a flat-to-green day flat-to-green instead of giving it back. Standing aside at the four passes where nothing was clean was as important as the trades taken. Regime is still the ceiling, but good name-selection + risk rules produced a positive day inside a −1% tape.
+
+**Lifetime (paper):** 81 closed, 37W/44L, net +5.19R, 0 open. **Real:** 2W/6L, −$0.52.
+
+**Next:** Wed 11/18 — pre-market prep ~9:15 ET. Watch whether the 3-day selloff stabilizes or accelerates; stay patient, keep demanding confirmation and RS.

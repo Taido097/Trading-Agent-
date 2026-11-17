@@ -5,7 +5,7 @@
 > intent and status; it is NOT the brokerage record (that comes from
 > reconciliation).
 
-**Last updated:** 2026-11-17 (Tue, engine pass 6 ~3:05 ET / 20:05Z). **⚠ BP $0 (DAY 20)** — real FLAT, BLOCKED, $20 preserved. Owner must restore BP to •4713. Tape red near lows (SPY -1.46%, QQQ -1.44%), 3rd red day. PAPER: SNAP P-0081 HOLDING OPEN (long @5.46, now 5.485 ~+0.4R unrealized, stalling under 5.51 HOD; MFE +0.83R; stop 5.40 intact, +1R 5.52 not tagged; lone RS +7.8%). No new entries (late-day O003 + red tape). Earlier: SNAP P-0080 +0.5R, HL P-0079 -1.0R (day paper -0.5R). Real PASS (BP $0). PAPER lifetime: 80 closed 36W/44L net +4.61R, 1 open. Lifetime real 2W/6L -$0.52. Options/crypto/margin OFF. Next: pass 7 ~4pm = EOD flatten SNAP + day wrap. ⟶
+**Last updated:** 2026-11-17 (Tue, EOD wrap ~4:04 ET / 21:04Z). **⚠ BP $0 (DAY 20)** — real FLAT, BLOCKED, $20 preserved. Owner must restore BP to •4713. Market CLOSED 3rd straight red day (SPY 732.38 -1.02%, QQQ 657.00 -0.72%), bounced off lows into close. PAPER day: 3 trades, SNAP P-0080 +0.5R, HL P-0079 -1.0R, SNAP P-0081 +0.58R = +0.08R net (2W/1L) — flat on a -1% tape; partial rule + RS discipline offset the one regime loss. 0 open overnight. Real: HL ORB qualified at open but BLOCKED_BP (day 20 cost a setup again). PAPER lifetime: 81 closed 37W/44L net +5.19R, 0 open. Lifetime real 2W/6L -$0.52. Options/crypto/margin OFF. Next: Wed 11/18 pre-market prep ~9:15 ET. ⟶
 
 ---
 
