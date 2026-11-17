@@ -5,7 +5,7 @@
 > intent and status; it is NOT the brokerage record (that comes from
 > reconciliation).
 
-**Last updated:** 2026-11-17 (Tue, engine pass 4 ~1:05 ET / 18:05Z). **⚠ BP $0 (DAY 20)** — real FLAT, BLOCKED, $20 preserved. Owner must restore BP to •4713. Tape still deep red (SPY -1.13%, QQQ -1.16%), small bounce off lows, risk-off. PAPER: 1 OPEN — SNAP P-0081 NEW (long @5.46, lone strong RS +7.1% new highs, tight higher-lows coil under 5.50 HOD; stop 5.40 tgt 5.58, +1R 5.52). Earlier today: SNAP P-0080 +0.5R, HL P-0079 -1.0R (day paper so far -0.5R). Kept to 1 quality name (red tape). Real PASS (BP $0). PAPER lifetime: 80 closed 36W/44L net +4.61R, 1 open. Lifetime real 2W/6L -$0.52. Options/crypto/margin OFF. Next: pass 5 ~2pm. ⟶
+**Last updated:** 2026-11-17 (Tue, engine pass 5 ~2:05 ET / 19:05Z). **⚠ BP $0 (DAY 20)** — real FLAT, BLOCKED, $20 preserved. Owner must restore BP to •4713. Tape still red (SPY -1.25%, QQQ -1.19%), chop near lows. PAPER: SNAP P-0081 HOLDING OPEN (long @5.46, now 5.46, MFE +0.83R to 5.51, stop 5.40 intact, +1R 5.52 not yet tagged; lone RS +7.3%). No new entries (nothing else affordable holding a high). Earlier: SNAP P-0080 +0.5R, HL P-0079 -1.0R (day paper -0.5R). Real PASS (BP $0). PAPER lifetime: 80 closed 36W/44L net +4.61R, 1 open. Lifetime real 2W/6L -$0.52. Options/crypto/margin OFF. Next: pass 6 ~3pm; EOD flatten ~4pm. ⟶
 
 ---
 
