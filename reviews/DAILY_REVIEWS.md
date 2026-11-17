@@ -2377,3 +2377,24 @@ No clean break-and-hold on a -2% QQQ tape -> PASS (logged RIG no-setup to REJECT
 **Lifetime (paper):** 78 closed, 35W/43L, net +5.11R, 0 open. **Real:** 2W/6L, −$0.52.
 
 **Next:** Tue 11/17 — pre-market prep ~9:15 ET, open-range decision ~9:47 ET, hourly engine 10am–4pm. Watch for a reclaim/stabilization after 2 red days; stay patient, keep demanding confirmation.
+
+---
+
+### PRE-MARKET PREP — Tue 2026-11-17 (~9:18 ET / 14:18Z)
+
+**Reconcile ••••4713:** FLAT, 0 positions, 0 open orders, BP **$0 — DAY 20** of the block. Real BLOCKED; $20 preserved. Pre-market prep only, no trading in this step.
+
+**Regime (pre-market):** SPY 739.05 (−0.12%, ~flat) · QQQ 663.76 (+0.30%, green). Mild bounce-attempt / stabilization after 2 straight red days (Fri + Mon). Tech leading slightly green, broad market flat — NOT a clean risk-on tape. After 2 red days, a gap-up that fails is a classic bull trap; demand confirmation at the open before committing. Decision gate stays strict.
+
+**Event risk:** No FOMC today (next is December). No live econ-calendar tool loaded, so I can't fully verify a CPI/PPI/jobs print today — treating any pre-open spike with the usual caution; nothing changes the setup-gated discipline.
+
+**WIDE SCREEN → ranked watchlist (pre-market RS vs flat/green tape, hard-screen passers):**
+1. **HL 12.38 (+1.31%)** — gold/silver miner, strongest RS, tight spread (~0.5%), 1 share ~$12.4. Top candidate if it holds green at open.
+2. **RIG 5.28 (+1.17%)** — energy, bouncing off Mon's −5.6% flush; liquid, spread should tighten at open. Worked as inverse-RS name 11/13.
+3. **MARA 6.70 (+0.90%)** — crypto miner, helped by QQQ green; tight spread, ~$6.7.
+4. **RIOT 17.19 (+0.74%)** — crypto miner; wide pre-market spread (~3%), needs to tighten at open to qualify. Watch only.
+5. **VALE 10.50 (+0.38%)** — materials, tight spread, modest RS. Secondary.
+
+**Screened OUT:** AAL (−1.42%, giving back Mon's fade — no); F/NCLH/CCL (weak/red); CHPT & BTG (spread 4%+ — fail liquidity screen); KGC/KEY/RF/SIRI/AMCR/CCL (>$19, fail 1-share screen); HBAN (flat + wide spread).
+
+**Plan:** Decision routine ~9:47 ET on top names (HL, RIG, MARA). Red-tape caution lifted only slightly — this is a bounce *attempt*, not confirmed strength. Require a clean open-range hold/reclaim before any paper entry; stop defined FIRST. Real stays PASS (BP $0). Quality > volume.
