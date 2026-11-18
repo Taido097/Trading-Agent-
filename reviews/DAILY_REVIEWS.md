@@ -2439,3 +2439,9 @@ No clean break-and-hold on a -2% QQQ tape -> PASS (logged RIG no-setup to REJECT
 **Screened OUT:** HL/KGC/BTG/VALE (precious-metals sharp reversal down — avoid); CHPT (spread 5%+); F/RIVN/RIG (flat/red); SNAP (−0.65% pre-mkt, giving back yesterday's +7.9% — no longer leading); CCL/KEY/RF/SIRI/AMCR (>$19).
 
 **Plan:** Decision routine ~9:47 ET on RIOT/MARA/SOFI. This is the 3rd straight bounce-attempt open — stay strict: require a clean open-range hold/reclaim, stop FIRST, before any paper entry. Real stays PASS (BP $0 day 21). Watch the crypto-miner rotation but don't chase the pre-market gap; wait for the pullback/hold or re-break (O002).
+
+---
+
+### OPEN DECISION — Wed 2026-11-18 (~9:48 ET) → PASS
+
+Bounce faded again: SPY −0.36%, QQQ −0.23% (green pre-mkt → red by the open). 3rd straight failed-bounce open; 4th red day building. Watchlist OR read: RIOT spiked to 17.88 then faded (no hold), MARA/SOFI faded red. AAL was the lone RS (+1.9%, rising OR, HOD 13.29, tight spread) but pulled back to 13.17 — no confirmed hold above OR high. **PASS** — no clean qualifying ORB; won't force a mid-range entry into a repeatedly-failing bounce. Logged REJECTED_TRADES (decision=PASS). Real BP $0 (day 21) regardless. AAL armed for a re-break of 13.29 on the engine passes.

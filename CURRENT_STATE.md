@@ -5,7 +5,7 @@
 > intent and status; it is NOT the brokerage record (that comes from
 > reconciliation).
 
-**Last updated:** 2026-11-17 (Tue, EOD wrap ~4:04 ET / 21:04Z). **⚠ BP $0 (DAY 20)** — real FLAT, BLOCKED, $20 preserved. Owner must restore BP to •4713. Market CLOSED 3rd straight red day (SPY 732.38 -1.02%, QQQ 657.00 -0.72%), bounced off lows into close. PAPER day: 3 trades, SNAP P-0080 +0.5R, HL P-0079 -1.0R, SNAP P-0081 +0.58R = +0.08R net (2W/1L) — flat on a -1% tape; partial rule + RS discipline offset the one regime loss. 0 open overnight. Real: HL ORB qualified at open but BLOCKED_BP (day 20 cost a setup again). PAPER lifetime: 81 closed 37W/44L net +5.19R, 0 open. Lifetime real 2W/6L -$0.52. Options/crypto/margin OFF. Next: Wed 11/18 pre-market prep ~9:15 ET. ⟶
+**Last updated:** 2026-11-18 (Wed, open-range decision ~9:48 ET / 14:48Z). **⚠ BP $0 (DAY 21)** — real FLAT, BLOCKED, $20 preserved. Owner must restore BP to •4713. Tape: pre-mkt bounce FADED AGAIN — SPY 729.80 (-0.36%), QQQ 655.45 (-0.23%), 3rd straight failed-bounce open, 4th red day building. DECISION: PASS — no clean OR-hold; RIOT/MARA/SOFI all faded from OR highs; AAL best RS (+1.9%, OR high 13.29) but pulled back to 13.17, no confirmed hold. Logged REJECTED (PASS). 0 open. Real PASS (BP $0). PAPER lifetime: 81 closed 37W/44L net +5.19R, 0 open. Lifetime real 2W/6L -$0.52. Options/crypto/margin OFF. Next: engine passes 10am-4pm; AAL armed for re-break of 13.29. ⟶
 
 ---
 
