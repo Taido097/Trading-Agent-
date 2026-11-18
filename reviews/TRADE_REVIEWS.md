@@ -2486,3 +2486,9 @@ Reconciled ••••4713: FLAT, BP $0 (day 20). Nothing real to flatten.
 - **SNAP P-0081 EOD-flattened +0.58R (+$23.31).** Entry 5.46 held the whole afternoon as the lone RS name (+7.9% on a red tape), coiling 5.44–5.51 under the 5.51 HOD. Never extended to +1R (5.52) so no partial; never threatened the 5.40 stop. Closed at the 4pm mark 5.495 per the no-overnight rule. MFE +0.83R, MAE −0.33R. A clean, patient hold of the day's strongest name — didn't give back, didn't force an exit.
 
 **Day paper: 3 trades, +0.08R (2W/1L).** SNAP P-0080 +0.5R (partial-rule save), HL P-0079 −1.0R (regime stop), SNAP P-0081 +0.58R. Essentially flat on a brutal −1% day — exactly the goal in risk-off: don't give it back. The two SNAP trades (the one idiosyncratic RS name) carried the day; HL was the correct counter-cyclical idea that the macro simply overwhelmed. No forced trades, no rule breaks, red-tape discipline held (stood aside at passes 2/3/5/6 when nothing was clean).
+
+---
+
+#### 2026-11-18 Wed — engine pass 5 (2:05 ET / 19:05Z)
+
+- **RIOT P-0082 CLOSED +1.5R (+$60).** Day's RS leader (crypto-miner, QQQ-green bounce). Entry 17.89 (reclaim of OR high + pullback). Survived a midday fade to 17.55 — within 6c of the 17.49 stop — without stopping, then ran: tagged +1R (18.29 → half booked), runner trailed from BE, and the runner hit the 2:1 target 18.69 (18:50 bar). Half @+1R + runner @+2R = +1.5R. MFE +2.03R. Textbook execution of the partial-then-target rule, and the wide-enough stop (17.49, honoring the whipsaw lesson) is exactly why the 17.55 dip didn't shake it out. WOULD have been a real winner — qualified at the open but BLOCKED_BP (day 21). No new entries this pass (NCLH pulled back, no clean trigger). Real PASS.
