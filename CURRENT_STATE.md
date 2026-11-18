@@ -5,7 +5,7 @@
 > intent and status; it is NOT the brokerage record (that comes from
 > reconciliation).
 
-**Last updated:** 2026-11-18 (Wed, engine pass 1 ~10:05 ET / 15:05Z). **⚠ BP $0 (DAY 21)** — real FLAT, BLOCKED, $20 preserved. Owner must restore BP to •4713. Tape: bounce now HOLDING (SPY +0.03%, QQQ +0.46% green) after faded open. PAPER: 1 OPEN — RIOT P-0082 NEW (long @17.89, crypto-miner top RS +4.9%, reclaimed OR high 17.88->HOD 18.14 + pullback entry; stop 17.49 tgt 18.69, +1R 18.29). Real: RIOT qualified but BLOCKED_BP (day 21 cost a setup again, logged). AAL armed name failed to reclaim 13.30 (pass). PAPER lifetime: 81 closed 37W/44L net +5.19R, 1 open. Lifetime real 2W/6L -$0.52. Options/crypto/margin OFF. Next: pass 2 ~11am. ⟶
+**Last updated:** 2026-11-18 (Wed, engine pass 2 ~11:05 ET / 16:05Z). **⚠ BP $0 (DAY 21)** — real FLAT, BLOCKED, $20 preserved. Owner must restore BP to •4713. Tape mixed (SPY -0.24%, QQQ +0.22%), choppy. PAPER: RIOT P-0082 HOLDING OPEN (long @17.89, now 18.05 ~+0.4R, MFE +0.85R to 18.23, stop 17.49 intact, +1R 18.29 not tagged; top RS +5.9% crypto-miner). No new entries (NCLH/MARA/SNAP green but no clean trigger; choppy tape, hold the leader). Real: RIOT qualified at open but BLOCKED_BP (day 21, logged). PAPER lifetime: 81 closed 37W/44L net +5.19R, 1 open. Lifetime real 2W/6L -$0.52. Options/crypto/margin OFF. Next: pass 3 ~12pm. ⟶
 
 ---
 
