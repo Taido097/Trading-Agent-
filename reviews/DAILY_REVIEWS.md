@@ -2445,3 +2445,23 @@ No clean break-and-hold on a -2% QQQ tape -> PASS (logged RIG no-setup to REJECT
 ### OPEN DECISION — Wed 2026-11-18 (~9:48 ET) → PASS
 
 Bounce faded again: SPY −0.36%, QQQ −0.23% (green pre-mkt → red by the open). 3rd straight failed-bounce open; 4th red day building. Watchlist OR read: RIOT spiked to 17.88 then faded (no hold), MARA/SOFI faded red. AAL was the lone RS (+1.9%, rising OR, HOD 13.29, tight spread) but pulled back to 13.17 — no confirmed hold above OR high. **PASS** — no clean qualifying ORB; won't force a mid-range entry into a repeatedly-failing bounce. Logged REJECTED_TRADES (decision=PASS). Real BP $0 (day 21) regardless. AAL armed for a re-break of 13.29 on the engine passes.
+
+---
+
+### EOD WRAP — Wed 2026-11-18 (selloff paused; paper +1.5R on one clean trade)
+
+**Market close:** SPY 730.33 (−0.29%), QQQ 659.51 (+0.39%). After 3 straight red days the slide paused — tech closed green, broad market roughly flat. The open faded (3rd failed-bounce morning) but the tape recovered and held into the close.
+
+**Real $20 (••••4713):** FLAT. BP **$0 — DAY 21.** RIOT qualified as a clean ORB breakout at the open/first engine pass (≤$19, liquid, tight spread) but was BLOCKED_BP — it went on to a clean +1.5R, so the block cost a real winner again. $20 preserved; still waiting on owner to restore buying power.
+
+**Paper: 1 trade, +1.5R (1W/0L)** — a disciplined, high-quality day:
+- Open decision: PASS (no clean OR-hold on the faded-bounce open; AAL best RS but no confirmed re-break).
+- Pass 1: entered RIOT P-0082 @17.89 (reclaimed OR high 17.88 + pullback) as the day's top RS leader (crypto-miner, +4.9%). Wide stop 17.49 (whipsaw lesson) survived a midday dip to 17.55.
+- Pass 4–5: tagged +1R (18.29 → half booked), runner trailed from BE and hit the 2:1 target 18.69 = +1.5R total. 2:1 exit well-timed (RIOT faded to 18.24 by the close).
+- Passes 6: no late-day chase (O003), banked the day.
+
+**Lesson reinforced:** Sector RS rotates — yesterday precious metals led then reversed; today it was crypto miners + travel on a QQQ-green bounce. Following the rotation (RIOT) rather than re-fighting yesterday's leaders (metals, which I correctly screened OUT this morning) paid off. And the wide-enough stop is what let the winner breathe through its midday shakeout. Patience at the open + one clean entry + mechanical partial/target = a clean +1.5R day.
+
+**Lifetime (paper):** 82 closed, 38W/44L, net +6.69R, 0 open. **Real:** 2W/6L, −$0.52.
+
+**Next:** Thu 11/19 — pre-market prep ~9:15 ET. Watch whether the bounce follows through or the selloff resumes; keep following RS rotation, demand confirmation.
