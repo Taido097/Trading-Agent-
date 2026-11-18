@@ -2417,3 +2417,25 @@ No clean break-and-hold on a -2% QQQ tape -> PASS (logged RIG no-setup to REJECT
 **Lifetime (paper):** 81 closed, 37W/44L, net +5.19R, 0 open. **Real:** 2W/6L, −$0.52.
 
 **Next:** Wed 11/18 — pre-market prep ~9:15 ET. Watch whether the 3-day selloff stabilizes or accelerates; stay patient, keep demanding confirmation and RS.
+
+---
+
+### PRE-MARKET PREP — Wed 2026-11-18 (~9:18 ET / 14:18Z)
+
+**Reconcile ••••4713:** FLAT, 0 positions, 0 open orders, BP **$0 — DAY 21** of the block. Real BLOCKED; $20 preserved. Prep only.
+
+**Regime (pre-market):** SPY 733.62 (+0.16%) · QQQ 660.55 (+0.55%, green). Bounce attempt after 3 straight red days, tech leading — same shape as yesterday's failed bounce, so demand open confirmation before committing. A 4th red day is live if it fades again.
+
+**Event risk:** No FOMC (December). No econ-calendar tool loaded — can't fully verify a CPI/PPI/jobs print today; treating pre-open strength with the usual caution.
+
+**Sector rotation (important):** Precious metals, which LED yesterday (HL/KGC/BTG/VALE), are REVERSING DOWN hard pre-market (HL −3.7%, KGC −3.2%, BTG −3.6%, VALE −1.3%) — yesterday's leaders are today's laggards; avoid chasing them. Today's RS has rotated to **crypto miners + fintech** (aligned with the QQQ-led bounce).
+
+**WIDE SCREEN → ranked watchlist (pre-market RS, hard-screen passers):**
+1. **RIOT 17.50 (+2.6%)** — crypto miner, top RS, aligned with tech bounce. Spread ~0.8% pre-mkt — needs to tighten at open to qualify.
+2. **MARA 6.53 (+1.7%)** — crypto miner, tight spread (~0.3%), ~$6.5. Clean.
+3. **SOFI 14.37 (+0.63%)** — fintech, very tight spread (0.07%), modest RS. Secondary.
+4. **AAL 12.99 (+0.5%)** — travel, spread ~0.7% borderline. Watch only.
+
+**Screened OUT:** HL/KGC/BTG/VALE (precious-metals sharp reversal down — avoid); CHPT (spread 5%+); F/RIVN/RIG (flat/red); SNAP (−0.65% pre-mkt, giving back yesterday's +7.9% — no longer leading); CCL/KEY/RF/SIRI/AMCR (>$19).
+
+**Plan:** Decision routine ~9:47 ET on RIOT/MARA/SOFI. This is the 3rd straight bounce-attempt open — stay strict: require a clean open-range hold/reclaim, stop FIRST, before any paper entry. Real stays PASS (BP $0 day 21). Watch the crypto-miner rotation but don't chase the pre-market gap; wait for the pullback/hold or re-break (O002).
