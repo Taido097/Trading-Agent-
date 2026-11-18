@@ -5,7 +5,7 @@
 > intent and status; it is NOT the brokerage record (that comes from
 > reconciliation).
 
-**Last updated:** 2026-11-18 (Wed, engine pass 3 ~12:05 ET / 17:05Z). **⚠ BP $0 (DAY 21)** — real FLAT, BLOCKED, $20 preserved. Owner must restore BP to •4713. Tape flat/mixed (SPY -0.32%, QQQ +0.04%). PAPER: RIOT P-0082 OPEN but momentum cooled — faded from 18.23 (MFE +0.85R) to 17.55 (within 6c of 17.49 stop, not hit), bounced to 17.90 ~flat/entry; still +5.0% RS, stop 17.49 intact, no +1R. No new entries (NCLH +4.6% strong but extended; flat tape, hold leader). Real PASS (BP $0 day 21). PAPER lifetime: 81 closed 37W/44L net +5.19R, 1 open. Lifetime real 2W/6L -$0.52. Options/crypto/margin OFF. Next: pass 4 ~1pm. ⟶
+**Last updated:** 2026-11-18 (Wed, engine pass 4 ~1:05 ET / 18:05Z). **⚠ BP $0 (DAY 21)** — real FLAT, BLOCKED, $20 preserved. Owner must restore BP to •4713. Tape mixed (SPY -0.14%, QQQ +0.31% green). PAPER: RIOT P-0082 +1R HIT -> partial rule engaged: half booked @18.29 (+0.5R locked), runner stop BE->trailed 17.97; ran to 18.47 (MFE +1.45R), now 18.20; runner open, tgt 18.69. No new entries (NCLH +4.7% extended; hold RIOT runner). Real PASS (BP $0 day 21). PAPER lifetime: 81 closed 37W/44L net +5.19R, 1 open (RIOT runner, +0.5R already locked). Lifetime real 2W/6L -$0.52. Options/crypto/margin OFF. Next: pass 5 ~2pm. ⟶
 
 ---
 
