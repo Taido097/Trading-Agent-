@@ -5,7 +5,7 @@
 > intent and status; it is NOT the brokerage record (that comes from
 > reconciliation).
 
-**Last updated:** 2026-11-19 (Thu, open-range decision ~9:48 ET / 14:48Z). **⚠ BP $0 (DAY 22)** — real FLAT, BLOCKED, $20 preserved. Owner must restore BP to •4713. Tape RISK-ON holding (SPY +0.92%, QQQ +1.95%) — real relief bounce after 4-day pullback. DECISION: PASS — MARA top affordable RS (+5.0%) at OR high 6.93 but not confirmed hold-above (6.89); RIOT strongest (+6.8%) but >$19 real-ineligible + below OR high; SOFI/RIG faded. Logged REJECTED (PASS). MARA armed for engine re-break of 6.93. 0 open. Real PASS (BP $0). PAPER lifetime: 82 closed 38W/44L net +6.69R, 0 open. Lifetime real 2W/6L -$0.52. Options/crypto/margin OFF. Next: engine passes 10am-4pm. ⟶
+**Last updated:** 2026-11-19 (Thu, engine pass 1 ~10:05 ET / 15:05Z). **⚠ BP $0 (DAY 22)** — real FLAT, BLOCKED, $20 preserved. Owner must restore BP to •4713. Tape strong RISK-ON (SPY +0.95%, QQQ +2.06%) — relief bounce holding. PAPER: 1 OPEN — CLF P-0083 NEW (long @12.20, steel RS +3.6% new-HOD breakout 12.285 on rising vol; stop 11.95 tgt 12.70, +1R 12.45). Armed MARA FAILED re-break (poked 6.97 then reversed to 6.61 - good PASS); RIOT faded too. Real: CLF qualified but BLOCKED_BP (day 22, logged). PAPER lifetime: 82 closed 38W/44L net +6.69R, 1 open. Lifetime real 2W/6L -$0.52. Options/crypto/margin OFF. Next: pass 2 ~11am. ⟶
 
 ---
 
