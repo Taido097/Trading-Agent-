@@ -5,7 +5,7 @@
 > intent and status; it is NOT the brokerage record (that comes from
 > reconciliation).
 
-**Last updated:** 2026-11-19 (Thu, engine pass 1 ~10:05 ET / 15:05Z). **⚠ BP $0 (DAY 22)** — real FLAT, BLOCKED, $20 preserved. Owner must restore BP to •4713. Tape strong RISK-ON (SPY +0.95%, QQQ +2.06%) — relief bounce holding. PAPER: 1 OPEN — CLF P-0083 NEW (long @12.20, steel RS +3.6% new-HOD breakout 12.285 on rising vol; stop 11.95 tgt 12.70, +1R 12.45). Armed MARA FAILED re-break (poked 6.97 then reversed to 6.61 - good PASS); RIOT faded too. Real: CLF qualified but BLOCKED_BP (day 22, logged). PAPER lifetime: 82 closed 38W/44L net +6.69R, 1 open. Lifetime real 2W/6L -$0.52. Options/crypto/margin OFF. Next: pass 2 ~11am. ⟶
+**Last updated:** 2026-11-19 (Thu, engine pass 2 ~11:05 ET / 16:05Z). **⚠ BP $0 (DAY 22)** — real FLAT, BLOCKED, $20 preserved. Owner must restore BP to •4713. Tape: risk-on gap FADED (SPY 729.84 -0.05% back red, QQQ 662.23 +0.41% off the +2% high) — 4th faded bounce this week. PAPER: CLF P-0083 STOPPED -1.0R (new-HOD breakout failed as gap faded; stop 11.95 hit 15:30; MFE +0.28R). Crypto leaders faded too (MARA -1.5%, RIOT -0.4%). No new entries (gap-fade, nothing clean). Day paper -1.0R, 0 open. Real PASS (BP $0 day 22; CLF was BLOCKED_BP). PAPER lifetime: 83 closed 38W/45L net +5.69R, 0 open. Lifetime real 2W/6L -$0.52. Options/crypto/margin OFF. Next: pass 3 ~12pm. ⟶
 
 ---
 

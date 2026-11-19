@@ -2502,3 +2502,13 @@ Reconciled ••••4713: FLAT, BP $0 (day 21). Nothing to flatten (0 open).
 Market close: SPY 730.33 (−0.29%), QQQ 659.51 (+0.39%). The 3-day selloff paused — QQQ green, SPY marginally red, bounce held.
 
 **Day paper: 1 trade, +1.5R.** RIOT P-0082 — the only entry, a clean ORB breakout-hold on the day's RS leader (crypto-miner, QQQ-green rotation). Full partial-then-target execution: +1R half @18.29, runner @2:1 target 18.69 = +1.5R. The 2:1 exit was well-timed — RIOT faded to 18.24 into the close. One high-quality trade > many forced ones. Also the day's discipline wins: PASS at the open (no clean OR-hold on the 3rd failed-bounce morning), PASS on late-day chases (pass 6, O003). Real: RIOT qualified at the open but BLOCKED_BP — 21st day the block cost a real winner.
+
+---
+
+#### 2026-11-19 Thu — engine pass 2 (11:05 ET / 16:05Z)
+
+Risk-on gap faded hard: SPY back red (−0.05%), QQQ +0.41% (off the +2.06% open high). 4th faded bounce this week.
+
+- **CLF P-0083 STOPPED −1.0R (−$40).** Entered 12.20 on a clean new-HOD breakout (12.285) with rising volume — but the whole tape reversed within ~25 min of entry and CLF hit the 11.95 stop (15:30 bar low 11.93). MFE only +0.28R. Loss class = regime/failed-breakout: the setup and the genuine stop were both right, but the +2% gap faded back toward flat and dragged the breakout with it. Nothing wrong with the entry; the macro reversal killed it (same shape as HL 11/17). Contrast with yesterday's RIOT (+1.5R) where the tape held — regime is the deciding variable.
+- Crypto leaders (MARA, RIOT) failed their breakouts too. No new entries — a gap-fade tape is a stand-aside.
+- Real: FLAT, BP $0 (day 22), PASS (CLF was BLOCKED_BP at entry).
