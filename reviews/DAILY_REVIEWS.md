@@ -2465,3 +2465,27 @@ Bounce faded again: SPY −0.36%, QQQ −0.23% (green pre-mkt → red by the ope
 **Lifetime (paper):** 82 closed, 38W/44L, net +6.69R, 0 open. **Real:** 2W/6L, −$0.52.
 
 **Next:** Thu 11/19 — pre-market prep ~9:15 ET. Watch whether the bounce follows through or the selloff resumes; keep following RS rotation, demand confirmation.
+
+---
+
+### PRE-MARKET PREP — Thu 2026-11-19 (~9:18 ET / 14:18Z)
+
+**Reconcile ••••4713:** FLAT, 0 positions, 0 open orders, BP **$0 — DAY 22** of the block. Real BLOCKED; $20 preserved. Prep only.
+
+**Regime (pre-market):** SPY 738.44 (+1.13%) · QQQ 672.50 (+1.97% — strong green). Big risk-on gap UP after the 4-day pullback (yesterday paused it; today's a real relief bounce, tech leading hard). Much larger gap than this week's failed +0.5% bounces — more likely to hold, but still demand open confirmation (gap-ups after multi-day slides can fade). On a genuine risk-on tape, breakouts are favored over fades.
+
+**Event risk:** No FOMC. Possible weekly jobless claims (Thu) — minor; can't fully verify without a calendar tool. Usual caution.
+
+**Rotation:** Crypto miners leading again (RIOT +7.2%, MARA +5.0%) with the tech-led rally; precious metals still red (KGC −0.6%, HL −0.5%, BTG −0.4%) — the metals-down/crypto-up rotation continues for a 2nd day. Follow the strength.
+
+**WIDE SCREEN → ranked watchlist (pre-market RS, hard-screen passers):**
+1. **MARA 6.89 (+5.0%)** — crypto miner, top affordable RS, tight spread (~0.15%), ~$6.9. Leader.
+2. **SOFI 14.36 (+1.74%)** — fintech, very tight spread (0.07%), solid RS.
+3. **RIG 5.10 (+1.39%)** — energy, RS, ~$5.1.
+4. **CLF 11.92 (+1.19%)** — steel, RS.
+
+**Note — RIOT 19.55 (+7.2%):** the strongest RS name (yesterday's +1.5R winner, gapping again) but has now gapped ABOVE ~$19 → fails the 1-whole-share affordability screen for REAL (no buffer vs $20 BP). Paper-eligible only; will watch it but it's real-ineligible at this price.
+
+**Screened OUT:** KGC/HL/BTG (precious-metals still red); CHPT (spread huge ~13%); CCL/KEY/RF/SIRI/AMCR (>$19); NCLH/AAL (flat/red); SNAP (+0.74%, lagging today).
+
+**Plan:** Decision routine ~9:47 ET on MARA/SOFI/RIG (+ RIOT for paper). Risk-on gap → favor a clean ORB break-and-hold; stop FIRST, ≥2:1. Don't chase the pre-market gap — wait for the pullback/hold or re-break (O002). Real stays PASS (BP $0 day 22; and today's top name RIOT is now >$19 anyway).
