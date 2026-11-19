@@ -2489,3 +2489,9 @@ Bounce faded again: SPY −0.36%, QQQ −0.23% (green pre-mkt → red by the ope
 **Screened OUT:** KGC/HL/BTG (precious-metals still red); CHPT (spread huge ~13%); CCL/KEY/RF/SIRI/AMCR (>$19); NCLH/AAL (flat/red); SNAP (+0.74%, lagging today).
 
 **Plan:** Decision routine ~9:47 ET on MARA/SOFI/RIG (+ RIOT for paper). Risk-on gap → favor a clean ORB break-and-hold; stop FIRST, ≥2:1. Don't chase the pre-market gap — wait for the pullback/hold or re-break (O002). Real stays PASS (BP $0 day 22; and today's top name RIOT is now >$19 anyway).
+
+---
+
+### OPEN DECISION — Thu 2026-11-19 (~9:48 ET) → PASS
+
+Risk-on gap holding: SPY +0.92%, QQQ +1.95% (genuine relief bounce, unlike this week's failed opens). OR read: MARA top affordable RS (+5.0%, rising OR closes to 6.93) but sitting 4c under the OR high — tapped-and-consolidating, not a confirmed hold-above. RIOT strongest (+6.8%) but >$19 (real-ineligible) and below its wide OR high 19.79. SOFI/RIG faded. **PASS** — no confirmed OR-hold; won't anticipate the break. Logged REJECTED (PASS). Real BP $0 (day 22). MARA armed for a decisive re-break of 6.93 on the engine passes — the risk-on tape favors it if it confirms.
