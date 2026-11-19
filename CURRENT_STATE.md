@@ -5,7 +5,7 @@
 > intent and status; it is NOT the brokerage record (that comes from
 > reconciliation).
 
-**Last updated:** 2026-11-19 (Thu, engine pass 6 ~3:05 ET / 20:05Z). **⚠ BP $0 (DAY 22)** — real FLAT, BLOCKED, $20 preserved. Owner must restore BP to •4713. Tape making NEW LOWS (SPY 716.31 -1.90%, QQQ 645.23 -2.16%), accelerating down — bull-trap reversal full risk-off. PAPER: 0 open. No new entries — late-day + deep red (O003), hard stand-aside. Day paper -1.0R. Real PASS (BP $0 day 22). PAPER lifetime: 83 closed 38W/45L net +5.69R, 0 open. Lifetime real 2W/6L -$0.52. Options/crypto/margin OFF. Next: pass 7 ~4pm = EOD wrap (0 open). ⟶
+**Last updated:** 2026-11-19 (Thu, EOD wrap ~4:04 ET / 21:04Z). **⚠ BP $0 (DAY 22)** — real FLAT, BLOCKED, $20 preserved. Owner must restore BP to •4713. Market CLOSED deep red BULL TRAP: SPY 715.84 (-1.97%), QQQ 645.10 (-2.19%) — gapped +2% at open, closed -2% (~4% top-to-bottom reversal). PAPER day: 1 trade, CLF P-0083 -1.0R (clean RS breakout that reversed with the tape; stop 11.95 validated, CLF closed 11.72). Then correctly stood aside passes 2-6 (no revenge trade on a reversal day). 0 open overnight. Real: CLF qualified at open but BLOCKED_BP (day 22). PAPER lifetime: 83 closed 38W/45L net +5.69R, 0 open. Lifetime real 2W/6L -$0.52. Options/crypto/margin OFF. Next: Fri 11/20 pre-market prep ~9:15 ET. ⟶
 
 ---
 

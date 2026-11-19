@@ -2495,3 +2495,23 @@ Bounce faded again: SPY −0.36%, QQQ −0.23% (green pre-mkt → red by the ope
 ### OPEN DECISION — Thu 2026-11-19 (~9:48 ET) → PASS
 
 Risk-on gap holding: SPY +0.92%, QQQ +1.95% (genuine relief bounce, unlike this week's failed opens). OR read: MARA top affordable RS (+5.0%, rising OR closes to 6.93) but sitting 4c under the OR high — tapped-and-consolidating, not a confirmed hold-above. RIOT strongest (+6.8%) but >$19 (real-ineligible) and below its wide OR high 19.79. SOFI/RIG faded. **PASS** — no confirmed OR-hold; won't anticipate the break. Logged REJECTED (PASS). Real BP $0 (day 22). MARA armed for a decisive re-break of 6.93 on the engine passes — the risk-on tape favors it if it confirms.
+
+---
+
+### EOD WRAP — Thu 2026-11-19 (bull-trap reversal; paper −1.0R, real blocked day 22)
+
+**Market close:** SPY 715.84 (−1.97%), QQQ 645.10 (−2.19%). A textbook bull trap: the market gapped +2% at the open (biggest bounce attempt of the week after the 4-day pullback), held it for ~30 min, then reversed all day to close −2% — a ~4% top-to-bottom swing. The pullback is deepening, not ending.
+
+**Real $20 (••••4713):** FLAT. BP **$0 — DAY 22.** CLF qualified as a clean RS breakout at the first engine pass (≤$19, liquid, tight spread) but was BLOCKED_BP. This time the block "saved" a real loss (CLF would have been −1R real) — the first day in a while the block didn't cost; noted honestly. $20 preserved; still waiting on owner to restore buying power.
+
+**Paper: 1 trade, −1.0R (0W/1L):**
+- Open decision: PASS (MARA at OR high but not confirmed — vindicated, MARA's re-break failed).
+- Pass 1: entered CLF P-0083 @12.20 (clean new-HOD RS breakout on rising volume, the day's best-behaved leader). Correct setup selection.
+- Pass 2: CLF stopped −1.0R (11.95) as the +2% gap reversed within 25 min of entry. Regime/failed-breakout loss — not an execution error.
+- Passes 3–6: stood aside (gap-fade → new lows, nothing with RS). No revenge trade.
+
+**Lesson reinforced:** Same breakout setup type, opposite outcomes two days running — RIOT +1.5R (11/18, tape held) vs CLF −1.0R (11/19, tape reversed). Regime is the ceiling AND the floor; a mid-morning macro reversal is the one thing no entry screen can pre-empt, which is exactly why position sizing (fixed $40 risk) and the mandatory stop matter — the loss was contained to 1R. Discipline held: one clean entry, honored the stop, then stood aside through a brutal reversal.
+
+**Lifetime (paper):** 83 closed, 38W/45L, net +5.69R, 0 open. **Real:** 2W/6L, −$0.52.
+
+**Next:** Fri 11/20 — pre-market prep ~9:15 ET. Market is in a clear multi-day downtrend with failed bounces; stay defensive, demand confirmed RS, keep standing aside when nothing is clean.

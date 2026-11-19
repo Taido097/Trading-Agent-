@@ -2512,3 +2512,13 @@ Risk-on gap faded hard: SPY back red (−0.05%), QQQ +0.41% (off the +2.06% open
 - **CLF P-0083 STOPPED −1.0R (−$40).** Entered 12.20 on a clean new-HOD breakout (12.285) with rising volume — but the whole tape reversed within ~25 min of entry and CLF hit the 11.95 stop (15:30 bar low 11.93). MFE only +0.28R. Loss class = regime/failed-breakout: the setup and the genuine stop were both right, but the +2% gap faded back toward flat and dragged the breakout with it. Nothing wrong with the entry; the macro reversal killed it (same shape as HL 11/17). Contrast with yesterday's RIOT (+1.5R) where the tape held — regime is the deciding variable.
 - Crypto leaders (MARA, RIOT) failed their breakouts too. No new entries — a gap-fade tape is a stand-aside.
 - Real: FLAT, BP $0 (day 22), PASS (CLF was BLOCKED_BP at entry).
+
+---
+
+#### 2026-11-19 Thu — EOD (pass 7, 21:04Z / 4:04 ET)
+
+Reconciled ••••4713: FLAT, BP $0 (day 22). Nothing to flatten (0 open).
+
+Market close: SPY 715.84 (−1.97%), QQQ 645.10 (−2.19%). BULL TRAP — gapped +2% at the open, closed −2%; ~4% top-to-bottom reversal.
+
+**Day paper: 1 trade, −1.0R.** CLF P-0083 — a clean RS new-HOD breakout (steel leader, rising vol) that reversed with the whole tape within ~25 min of entry and stopped at 11.95 (closed 11.72, stop validated). Loss class = regime/failed-breakout: identical setup *type* to yesterday's RIOT (+1.5R) but opposite outcome — the only difference was the tape held yesterday and reversed today. That's the core lesson restated: on breakout entries, regime is the deciding variable, and no entry screen catches a mid-morning macro reversal. After the stop, I stood aside for passes 2–6 (gap-fade → new lows) rather than revenge-trading a bull-trap — a contained −1R on a −2% day. Real: CLF qualified at the open but BLOCKED_BP (day 22).
