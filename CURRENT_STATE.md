@@ -5,7 +5,7 @@
 > intent and status; it is NOT the brokerage record (that comes from
 > reconciliation).
 
-**Last updated:** 2026-11-20 (Fri, engine pass 3 ~12:05 ET / 17:05Z). **⚠ BP $0 (DAY 23)** — real FLAT, BLOCKED, $20 preserved. Owner must restore BP to •4713. Tape CAPITULATION (SPY 701.10 -2.06%, QQQ 620.27 -3.84%) — deep risk-off accelerating. PAPER: F P-0084 STOPPED -1.0R (held defensive RS longest +3.4% peak but -3.8% QQQ dragged it thru 11.40; MFE +0.69R, no +1R). 0 open. No new entries — capitulation = hard stand-aside. Day paper -1.0R. Real PASS (BP $0 day 23; F was BLOCKED_BP - block saved a real loss). PAPER lifetime: 84 closed 38W/46L net +4.69R, 0 open. Lifetime real 2W/6L -$0.52. Options/crypto/margin OFF. Next: pass 4 ~1pm. ⟶
+**Last updated:** 2026-11-20 (Fri, engine pass 4 ~1:05 ET / 18:05Z). **⚠ BP $0 (DAY 23)** — real FLAT, BLOCKED, $20 preserved. Owner must restore BP to •4713. Tape deep capitulation holding (SPY 699.96 -2.22%, QQQ 620.08 -3.87%), no recovery; even defensive names broke down (AAL -4.4%, NCLH -4.2%, SOFI -5.5%), only F marginally green. PAPER: 0 open. No new entries — capitulation, no RS, hard stand-aside. Day paper -1.0R. Real PASS (BP $0 day 23). PAPER lifetime: 84 closed 38W/46L net +4.69R, 0 open. Lifetime real 2W/6L -$0.52. Options/crypto/margin OFF. Next: pass 5 ~2pm. ⟶
 
 ---
 
