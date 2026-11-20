@@ -5,7 +5,7 @@
 > intent and status; it is NOT the brokerage record (that comes from
 > reconciliation).
 
-**Last updated:** 2026-11-20 (Fri, engine pass 5 ~2:05 ET / 19:05Z). **⚠ BP $0 (DAY 23)** — real FLAT, BLOCKED, $20 preserved. Owner must restore BP to •4713. Tape still deep red, stabilizing off lows (SPY 700.62 -2.13%, QQQ 621.01 -3.73%). PAPER: 0 open. F lone green (+0.9%) but already stopped us once - no revenge re-entry on a -3.7% tape; nothing else clean. No new entries - deep risk-off stand-aside. Day paper -1.0R. Real PASS (BP $0 day 23). PAPER lifetime: 84 closed 38W/46L net +4.69R, 0 open. Lifetime real 2W/6L -$0.52. Options/crypto/margin OFF. Next: pass 6 ~3pm. ⟶
+**Last updated:** 2026-11-20 (Fri, engine pass 6 ~3:05 ET / 20:05Z). **⚠ BP $0 (DAY 23)** — real FLAT, BLOCKED, $20 preserved. Owner must restore BP to •4713. Tape NEW LOWS — major liquidation: SPY 694.27 (-3.02%), QQQ 614.27 (-4.77%), accelerating. Even F gave up RS (~flat); everything deep red. PAPER: 0 open. No new entries — late-day -4.8% QQQ liquidation, hard stand-aside. Day paper -1.0R. Real PASS (BP $0 day 23). PAPER lifetime: 84 closed 38W/46L net +4.69R, 0 open. Lifetime real 2W/6L -$0.52. Options/crypto/margin OFF. Next: pass 7 ~4pm = EOD wrap (0 open). ⟶
 
 ---
 
