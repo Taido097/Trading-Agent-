@@ -2543,3 +2543,36 @@ Risk-on gap holding: SPY +0.92%, QQQ +1.95% (genuine relief bounce, unlike this 
 ### OPEN DECISION — Fri 2026-11-20 (~9:48 ET) → F ORB (paper); real BLOCKED_BP
 
 SPY ~flat (−0.13%), QQQ −0.99% (tech still weak, broad mkt stabilizing). F is the clear RS leader — steady higher closes breaking OR high 11.55 on rising volume (+2.8%), a defensive/value rotation (autos up while tech/crypto/metals all red). Clean ORB breakout-hold, tight spread, ≤$19 → QUALIFIED. Real BLOCKED_BP (day 23, logged REJECTED). Taken in PAPER P-0084: long 11.56, stop 11.40 (below 11.47 base), target 11.88 (2:1), +1R 11.72. AAL/NCLH/HBAN mild, no clean break. Managing tight (OpEx Friday, fragile tape after yesterday's bull trap).
+
+---
+
+### EOD WRAP — Fri 2026-11-20 (−5.4% QQQ liquidation; paper −1.0R)
+
+**Market close:** SPY 690.91 (−3.49%), QQQ 610.04 (−5.43%). A full liquidation day — gapped down, never bounced, closed on the lows. Caps a brutal week (QQQ ~−10%).
+
+**Real $20 (••••4713):** FLAT. BP **$0 — DAY 23.** F qualified as a clean defensive ORB at the open but was BLOCKED_BP; it then stopped −1R, so the block saved a real loss (2nd day running the block helped rather than hurt). $20 preserved.
+
+**Paper: 1 trade, −1.0R.** F P-0084 — the day's best RS (defensive/value rotation, +3.4% peak while tech bled), a correctly-selected clean ORB breakout, stopped at 11.40 when the −5.4% QQQ capitulation dragged even the leader down. Stood aside all remaining passes (2–6) as the tape made new lows. No revenge trade.
+
+### WEEK RECAP — Mon 11/16 → Fri 11/20
+
+**Market:** a sharp multi-day correction — QQQ roughly −10% on the week, with Friday a −5.4% liquidation. Risk-off dominated 4 of 5 days; the only up day was Tue 11/18 (a one-day bounce that reversed Wed).
+
+**Paper trades (8 this window, net result):**
+- 11/16 Mon: 0 trades (clean risk-off stand-aside).
+- 11/17 Tue: SNAP +0.5R, HL −1.0R, SNAP +0.58R = **+0.08R**.
+- 11/18 Wed: RIOT **+1.5R** (the week's standout — RS breakout on the one day the tape held).
+- 11/19 Thu: CLF **−1.0R** (bull-trap reversal).
+- 11/20 Fri: F **−1.0R** (−5.4% liquidation).
+- **Week net: ≈ −0.42R** on a week QQQ fell ~10%.
+
+**Real:** 0 trades all week. BP $0 the entire week (days 19→23). $20 preserved. The block cost confirmed-winner setups early in the week (CLF 11/12, RIG/AAL 11/13, RIOT 11/18) but saved losses late (CLF 11/19, F 11/20) — net, it has simply prevented the agent from participating at all for 23 days.
+
+**Lessons (week):**
+1. **Regime is the dominant variable.** Same ORB-breakout setup produced +1.5R (RIOT, tape held 11/18) and three −1R losses (HL, CLF, F — tape reversed/capitulated). Setup selection was consistently correct; outcome was decided by the macro tape every time.
+2. **Risk control worked exactly as designed.** Fixed $40 (1R) sizing + mandatory stops capped every loss at 1R through a −10% week; the partial-at-+1R rule banked gains before round-trips (SNAP, RIOT). Net −0.42R vs a −10% index = strong relative capital preservation.
+3. **Standing aside is a position.** Full zero-trade days (11/16) and stand-aside passes through capitulation (11/19–20) avoided compounding losses. Discipline held all week — no forced trades, no revenge trades, no rule breaks.
+
+**Lifetime (paper):** 84 closed, 38W/46L, net +4.69R, 0 open. **Real:** 2W/6L, −$0.52.
+
+**Next:** Mon 11/23 — pre-market prep ~9:15 ET. After a −10% week, watch for either continuation or a sharp oversold bounce; stay defensive, demand confirmed RS, size small.

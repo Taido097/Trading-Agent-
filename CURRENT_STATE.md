@@ -5,7 +5,7 @@
 > intent and status; it is NOT the brokerage record (that comes from
 > reconciliation).
 
-**Last updated:** 2026-11-20 (Fri, engine pass 6 ~3:05 ET / 20:05Z). **⚠ BP $0 (DAY 23)** — real FLAT, BLOCKED, $20 preserved. Owner must restore BP to •4713. Tape NEW LOWS — major liquidation: SPY 694.27 (-3.02%), QQQ 614.27 (-4.77%), accelerating. Even F gave up RS (~flat); everything deep red. PAPER: 0 open. No new entries — late-day -4.8% QQQ liquidation, hard stand-aside. Day paper -1.0R. Real PASS (BP $0 day 23). PAPER lifetime: 84 closed 38W/46L net +4.69R, 0 open. Lifetime real 2W/6L -$0.52. Options/crypto/margin OFF. Next: pass 7 ~4pm = EOD wrap (0 open). ⟶
+**Last updated:** 2026-11-20 (Fri, EOD + WEEK CLOSE ~4:04 ET / 21:04Z). **⚠ BP $0 (DAY 23)** — real FLAT, BLOCKED, $20 preserved. Owner must restore BP to •4713. Market CLOSED: SPY 690.91 (-3.49%), QQQ 610.04 (-5.43%) — massive liquidation capping a brutal down week (QQQ ~-10% on wk). PAPER day: 1 trade, F P-0084 -1.0R (defensive ORB killed by the -5.4% QQQ crash; BLOCKED_BP so block saved a real loss). 0 open overnight/weekend. WEEK paper (Tue-Fri): +0.08R(11/17)+1.5R(11/18 RIOT)-1.0R(11/19 CLF)-1.0R(11/20 F) = -0.42R net on a ~-10% QQQ week - solid capital preservation. Real: 0 trades all week, $20 preserved (BP $0 days 19-23). PAPER lifetime: 84 closed 38W/46L net +4.69R, 0 open. Lifetime real 2W/6L -$0.52. Options/crypto/margin OFF. Next: Mon 11/23 pre-market prep ~9:15 ET. ⟶
 
 ---
 
