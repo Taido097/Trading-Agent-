@@ -2522,3 +2522,12 @@ Reconciled ••••4713: FLAT, BP $0 (day 22). Nothing to flatten (0 open).
 Market close: SPY 715.84 (−1.97%), QQQ 645.10 (−2.19%). BULL TRAP — gapped +2% at the open, closed −2%; ~4% top-to-bottom reversal.
 
 **Day paper: 1 trade, −1.0R.** CLF P-0083 — a clean RS new-HOD breakout (steel leader, rising vol) that reversed with the whole tape within ~25 min of entry and stopped at 11.95 (closed 11.72, stop validated). Loss class = regime/failed-breakout: identical setup *type* to yesterday's RIOT (+1.5R) but opposite outcome — the only difference was the tape held yesterday and reversed today. That's the core lesson restated: on breakout entries, regime is the deciding variable, and no entry screen catches a mid-morning macro reversal. After the stop, I stood aside for passes 2–6 (gap-fade → new lows) rather than revenge-trading a bull-trap — a contained −1R on a −2% day. Real: CLF qualified at the open but BLOCKED_BP (day 22).
+
+---
+
+#### 2026-11-20 Fri — engine pass 3 (12:05 ET / 17:05Z)
+
+Tape capitulating: SPY −2.06%, QQQ −3.84%. Deep risk-off, 5th-6th straight down leg.
+
+- **F P-0084 STOPPED −1.0R (−$40).** Entered 11.56 on a clean defensive-rotation ORB breakout; it was the day's best RS (+3.4% peak while tech bled) and held that strength for ~1.5h, but the −3.8% QQQ capitulation finally pulled it through the 11.40 stop (16:15/16:20 bars). MFE +0.69R, never tagged +1R (11.72). Loss class = regime: third time this week a valid, correctly-selected RS breakout was killed by a macro reversal/capitulation (HL 11/17, CLF 11/19, F today) — vs RIOT (11/18) which worked because the tape held. The contained −1R (fixed $40 risk, honored stop) is the whole point on days like this. Real: F was BLOCKED_BP — the block saved a real loss again.
+- No new entries — a −3.8% QQQ capitulation is a hard stand-aside. Real PASS (BP $0 day 23).
