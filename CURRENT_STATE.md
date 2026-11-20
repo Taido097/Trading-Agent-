@@ -5,7 +5,7 @@
 > intent and status; it is NOT the brokerage record (that comes from
 > reconciliation).
 
-**Last updated:** 2026-11-20 (Fri, engine pass 1 ~10:05 ET / 15:05Z). **⚠ BP $0 (DAY 23)** — real FLAT, BLOCKED, $20 preserved. Owner must restore BP to •4713. Tape: SPY flat (-0.01%), QQQ -0.89% (tech still red, broad mkt stabilizing). PAPER: F P-0084 WORKING OPEN (long @11.56, now 11.625 ~+0.4R, MFE +0.56R, stop 11.40 intact, +1R 11.72 not tagged; defensive RS +3.4% leader). No new entries (AAL/NCLH mild, HBAN +0.9%; narrow rotation, hold leader). Real: F qualified but BLOCKED_BP (day 23, logged). PAPER lifetime: 83 closed 38W/45L net +5.69R, 1 open. Lifetime real 2W/6L -$0.52. OpEx Fri - tight mgmt. Options/crypto/margin OFF. Next: pass 2 ~11am. ⟶
+**Last updated:** 2026-11-20 (Fri, engine pass 2 ~11:05 ET / 16:05Z). **⚠ BP $0 (DAY 23)** — real FLAT, BLOCKED, $20 preserved. Owner must restore BP to •4713. Tape SOLD OFF HARD (SPY 705.71 -1.42%, QQQ 626.22 -2.92%) — deep risk-off accelerating, 5th-6th down leg. PAPER: F P-0084 OPEN hanging on (long @11.56, now 11.44 ~-0.75R, peaked 11.67 no +1R; low 11.45 within 5c of 11.40 stop, not hit; still RS +1.8% vs QQQ -2.9% but pressured). Honoring 11.40 stop, no early exit/no move. No new entries (deep risk-off). Real PASS (BP $0 day 23). PAPER lifetime: 83 closed 38W/45L net +5.69R, 1 open. Lifetime real 2W/6L -$0.52. Options/crypto/margin OFF. Next: pass 3 ~12pm. ⟶
 
 ---
 
