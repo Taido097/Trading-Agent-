@@ -2515,3 +2515,25 @@ Risk-on gap holding: SPY +0.92%, QQQ +1.95% (genuine relief bounce, unlike this 
 **Lifetime (paper):** 83 closed, 38W/45L, net +5.69R, 0 open. **Real:** 2W/6L, −$0.52.
 
 **Next:** Fri 11/20 — pre-market prep ~9:15 ET. Market is in a clear multi-day downtrend with failed bounces; stay defensive, demand confirmed RS, keep standing aside when nothing is clean.
+
+---
+
+### PRE-MARKET PREP — Fri 2026-11-20 (~9:17 ET / 14:17Z)
+
+**Reconcile ••••4713:** FLAT, 0 positions, 0 open orders, BP **$0 — DAY 23** of the block. Real BLOCKED; $20 preserved. Prep only.
+
+**Regime (pre-market):** SPY 711.99 (−0.54%) · QQQ 636.75 (−1.28% red). Continued risk-off — 5th down day building after yesterday's bull-trap reversal. No bounce this morning; gapping lower. This is a clear multi-day downtrend; posture is defensive, demand a confirmed reclaim/hold, readily PASS.
+
+**Event risk:** No FOMC. It's the 3rd-Friday monthly OpEx (options expiration) — can add intraday volatility/pins. No econ-calendar tool to verify other prints; usual caution, extra on OpEx.
+
+**Rotation:** Tech/crypto/metals all deep red pre-market (MARA −2.8%, RIOT −2.7%, SOFI −2.6%, HL −2.1%, KGC −1.9%, CLF −1.7%). The ONLY names holding slightly green are defensive/value: AAL +0.55%, F +0.4%, NCLH +0.18%, HBAN +0.14% — a possible defensive rotation, but the RS is marginal (barely positive on a −1.3% tape).
+
+**WIDE SCREEN → ranked watchlist (relative strength on a red tape — all marginal):**
+1. **AAL 12.79 (+0.55%)** — airline, least-bad RS; spread ~0.9% pre-mkt (needs to tighten).
+2. **F 11.29 (+0.4%)** — auto, tight spread (~0.3%), ~$11.3.
+3. **NCLH 17.10 (+0.18%)** — cruise, ~flat.
+4. **HBAN 14.73 (+0.14%)** — bank, ~flat.
+
+**Screened OUT:** all tech/crypto/metals (MARA/RIOT/SOFI/SNAP/HL/KGC/BTG/CLF/VALE/RIVN — deep red); CHPT (spread huge); CCL/KEY/RF/SIRI/AMCR (>$19 or weak).
+
+**Plan:** Decision routine ~9:47 ET on AAL/F (defensive RS). But this is a 5th-down-day risk-off tape with only marginal RS — the base case is PASS unless a defensive name shows a genuinely confirmed ORB-hold/reclaim on volume. Stop FIRST, ≥2:1, no chasing. Yesterday's bull-trap is the fresh warning: do not trust an early pop. Real stays PASS (BP $0 day 23).
