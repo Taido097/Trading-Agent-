@@ -5,7 +5,7 @@
 > intent and status; it is NOT the brokerage record (that comes from
 > reconciliation).
 
-**Last updated:** 2026-11-19 (Thu, EOD wrap ~4:04 ET / 21:04Z). **⚠ BP $0 (DAY 22)** — real FLAT, BLOCKED, $20 preserved. Owner must restore BP to •4713. Market CLOSED deep red BULL TRAP: SPY 715.84 (-1.97%), QQQ 645.10 (-2.19%) — gapped +2% at open, closed -2% (~4% top-to-bottom reversal). PAPER day: 1 trade, CLF P-0083 -1.0R (clean RS breakout that reversed with the tape; stop 11.95 validated, CLF closed 11.72). Then correctly stood aside passes 2-6 (no revenge trade on a reversal day). 0 open overnight. Real: CLF qualified at open but BLOCKED_BP (day 22). PAPER lifetime: 83 closed 38W/45L net +5.69R, 0 open. Lifetime real 2W/6L -$0.52. Options/crypto/margin OFF. Next: Fri 11/20 pre-market prep ~9:15 ET. ⟶
+**Last updated:** 2026-11-20 (Fri, open-range decision ~9:48 ET / 14:48Z). **⚠ BP $0 (DAY 23)** — real FLAT, BLOCKED, $20 preserved. Owner must restore BP to •4713. Tape: SPY -0.13% flat / QQQ -0.99% red — broad mkt stabilizing, tech still weak (5th down day); defensive/value rotation. DECISION: F qualified (clean OR-high 11.55 break on rising vol, defensive RS +2.8%) -> real BLOCKED_BP (day 23, logged), taken in PAPER P-0084 (long @11.56 stop 11.40 tgt 11.88, +1R 11.72). AAL/NCLH/HBAN mild no break. 1 PAPER open. Real PASS (BP $0). PAPER lifetime: 83 closed 38W/45L net +5.69R, 1 open. Lifetime real 2W/6L -$0.52. OpEx Friday - manage tight. Options/crypto/margin OFF. Next: engine passes 10am-4pm. ⟶
 
 ---
 

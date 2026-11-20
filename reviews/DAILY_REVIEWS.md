@@ -2537,3 +2537,9 @@ Risk-on gap holding: SPY +0.92%, QQQ +1.95% (genuine relief bounce, unlike this 
 **Screened OUT:** all tech/crypto/metals (MARA/RIOT/SOFI/SNAP/HL/KGC/BTG/CLF/VALE/RIVN — deep red); CHPT (spread huge); CCL/KEY/RF/SIRI/AMCR (>$19 or weak).
 
 **Plan:** Decision routine ~9:47 ET on AAL/F (defensive RS). But this is a 5th-down-day risk-off tape with only marginal RS — the base case is PASS unless a defensive name shows a genuinely confirmed ORB-hold/reclaim on volume. Stop FIRST, ≥2:1, no chasing. Yesterday's bull-trap is the fresh warning: do not trust an early pop. Real stays PASS (BP $0 day 23).
+
+---
+
+### OPEN DECISION — Fri 2026-11-20 (~9:48 ET) → F ORB (paper); real BLOCKED_BP
+
+SPY ~flat (−0.13%), QQQ −0.99% (tech still weak, broad mkt stabilizing). F is the clear RS leader — steady higher closes breaking OR high 11.55 on rising volume (+2.8%), a defensive/value rotation (autos up while tech/crypto/metals all red). Clean ORB breakout-hold, tight spread, ≤$19 → QUALIFIED. Real BLOCKED_BP (day 23, logged REJECTED). Taken in PAPER P-0084: long 11.56, stop 11.40 (below 11.47 base), target 11.88 (2:1), +1R 11.72. AAL/NCLH/HBAN mild, no clean break. Managing tight (OpEx Friday, fragile tape after yesterday's bull trap).
