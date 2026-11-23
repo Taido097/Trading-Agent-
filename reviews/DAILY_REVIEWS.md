@@ -2576,3 +2576,26 @@ SPY ~flat (−0.13%), QQQ −0.99% (tech still weak, broad mkt stabilizing). F i
 **Lifetime (paper):** 84 closed, 38W/46L, net +4.69R, 0 open. **Real:** 2W/6L, −$0.52.
 
 **Next:** Mon 11/23 — pre-market prep ~9:15 ET. After a −10% week, watch for either continuation or a sharp oversold bounce; stay defensive, demand confirmed RS, size small.
+
+---
+
+### PRE-MARKET PREP — Mon 2026-11-23 (~9:21 ET / 14:21Z)
+
+**Reconcile ••••4713:** FLAT, 0 positions, 0 open orders, BP **$0 — DAY 24** of the block. Real BLOCKED; $20 preserved. Prep only.
+
+**Regime (pre-market):** SPY 721.63 (+4.6%) · QQQ 651.97 (+7.2%) — a MASSIVE oversold relief-bounce gap after last week's ~−10% QQQ rout (Fri was a −5.4% capitulation). This is a violent snapback. Two ways it goes: a V-bottom follow-through, OR a vicious bounce that fades/retests the lows. A +7% QQQ gap is extremely volatile and gap-fade prone — demand a confirmed open-range HOLD before trusting it; do NOT chase the pre-market gap (O002).
+
+**Event risk:** Thanksgiving week — markets CLOSED Thu 11/26, half-day Fri 11/27. Lower liquidity all week (thinner tape, bigger swings). No FOMC.
+
+**Character of the move:** everything is gapping green (broad short-covering/relief), so RS is NOT selective today — the biggest % movers are the most-beaten-down high-beta names snapping back: MARA +16%, RIOT +14%, SOFI +10%, HL +10%, SNAP +8%. Those extreme gaps are pure dead-cat/short-cover — highest reversal risk, NOT the cleanest to chase.
+
+**WIDE SCREEN → ranked watchlist (pre-market RS; oversold-snapback caveat):**
+1. **SOFI 13.77 (+10.3%)** — fintech, tight spread (0.3%), strong orderly bounce; preferred over the parabolic crypto names.
+2. **MARA 5.92 (+16.3%)** — crypto, tight spread but most extended/speculative — only on a confirmed pullback-hold, never the spike.
+3. **RIOT 18.50 (+14.0%)** — crypto, ≤$19, spread ~0.5% borderline; extended.
+4. **HL 11.58 (+10.1%)** — silver bounce.
+5. **AAL 12.57 (+5.6%)** / **F 11.44 (+2.4%)** — more measured (less extended) bounce; lower reversal risk if they hold.
+
+**Screened OUT:** CHPT/KGC/BTG/HBAN/RF (wide pre-mkt spreads); CCL/KEY/SIRI/AMCR (>$19).
+
+**Plan:** Decision routine ~9:47 ET. On a huge oversold-bounce gap the entry discipline is critical: require a clean open-range break-and-HOLD or a pullback-hold (O002 — never the spike); favor orderly RS (SOFI, or a measured name) over the +14–16% parabolic crypto gappers that are likeliest to reverse. Stop FIRST, ≥2:1. Last week's whipsaws (bull trap 11/19, capitulation 11/20) are the warning: a violent gap can reverse just as hard. Real stays PASS (BP $0 day 24).
