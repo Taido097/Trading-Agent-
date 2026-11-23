@@ -5,7 +5,7 @@
 > intent and status; it is NOT the brokerage record (that comes from
 > reconciliation).
 
-**Last updated:** 2026-11-20 (Fri, EOD + WEEK CLOSE ~4:04 ET / 21:04Z). **⚠ BP $0 (DAY 23)** — real FLAT, BLOCKED, $20 preserved. Owner must restore BP to •4713. Market CLOSED: SPY 690.91 (-3.49%), QQQ 610.04 (-5.43%) — massive liquidation capping a brutal down week (QQQ ~-10% on wk). PAPER day: 1 trade, F P-0084 -1.0R (defensive ORB killed by the -5.4% QQQ crash; BLOCKED_BP so block saved a real loss). 0 open overnight/weekend. WEEK paper (Tue-Fri): +0.08R(11/17)+1.5R(11/18 RIOT)-1.0R(11/19 CLF)-1.0R(11/20 F) = -0.42R net on a ~-10% QQQ week - solid capital preservation. Real: 0 trades all week, $20 preserved (BP $0 days 19-23). PAPER lifetime: 84 closed 38W/46L net +4.69R, 0 open. Lifetime real 2W/6L -$0.52. Options/crypto/margin OFF. Next: Mon 11/23 pre-market prep ~9:15 ET. ⟶
+**Last updated:** 2026-11-23 (Mon, open-range decision ~9:48 ET / 14:48Z). **⚠ BP $0 (DAY 24)** — real FLAT, BLOCKED, $20 preserved. Owner must restore BP to •4713. Tape: huge oversold bounce FADING (SPY +4.04%, QQQ +5.91% off +7.2% pre-mkt high). DECISION: PASS — every watchlist name gapped-and-faded at the open (SOFI 13.73->13.44, RIOT 18.91->17.55, MARA 6.31->5.97, AAL faded); no confirmed OR-hold; don't chase a fading bounce. Logged REJECTED (PASS). 0 open. Real PASS (BP $0). PAPER lifetime: 84 closed 38W/46L net +4.69R, 0 open. Lifetime real 2W/6L -$0.52. Thanksgiving wk (thin; Thu closed). Options/crypto/margin OFF. Next: engine passes 10am-4pm; watch for 2nd-chance reclaim. ⟶
 
 ---
 

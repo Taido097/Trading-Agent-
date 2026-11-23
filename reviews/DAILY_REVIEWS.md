@@ -2599,3 +2599,9 @@ SPY ~flat (−0.13%), QQQ −0.99% (tech still weak, broad mkt stabilizing). F i
 **Screened OUT:** CHPT/KGC/BTG/HBAN/RF (wide pre-mkt spreads); CCL/KEY/SIRI/AMCR (>$19).
 
 **Plan:** Decision routine ~9:47 ET. On a huge oversold-bounce gap the entry discipline is critical: require a clean open-range break-and-HOLD or a pullback-hold (O002 — never the spike); favor orderly RS (SOFI, or a measured name) over the +14–16% parabolic crypto gappers that are likeliest to reverse. Stop FIRST, ≥2:1. Last week's whipsaws (bull trap 11/19, capitulation 11/20) are the warning: a violent gap can reverse just as hard. Real stays PASS (BP $0 day 24).
+
+---
+
+### OPEN DECISION — Mon 2026-11-23 (~9:48 ET) → PASS
+
+Massive oversold gap fading: QQQ +5.91% (off +7.2% pre-mkt), SPY +4.04%. OR read: every watchlist name GAPPED-AND-FADED — opened at/near highs then sold off in the first 15 min (SOFI 13.73→13.44, RIOT 18.91→17.55, MARA 6.31→5.97, AAL 12.55→12.28). No confirmed hold above any OR high; textbook vicious-bounce distribution. **PASS** — won't chase a fading oversold snapback (prep caution vindicated). Logged REJECTED (PASS). Real BP $0 (day 24). Engine will watch for a 2nd-chance reclaim, but base case is a gap-fade day.
