@@ -5,7 +5,7 @@
 > intent and status; it is NOT the brokerage record (that comes from
 > reconciliation).
 
-**Last updated:** 2026-11-23 (Mon, engine pass 5 ~2:05 ET / 19:05Z). **⚠ BP $0 (DAY 24)** — real FLAT, BLOCKED, $20 preserved. Owner must restore BP to •4713. Tape holding green, drifting up (SPY +4.92%, QQQ +7.14%); gap-and-grind-sideways all day. PAPER: 0 open. AAL/F/NCLH still in tight all-day ranges at highs, no decisive fresh breakout. No new entries - no clean trend, 2pm thin holiday liquidity, stand aside. Real PASS (BP $0 day 24). PAPER lifetime: 84 closed 38W/46L net +4.69R, 0 open. Lifetime real 2W/6L -$0.52. Options/crypto/margin OFF. Next: pass 6 ~3pm. ⟶
+**Last updated:** 2026-11-23 (Mon, engine pass 6 ~3:05 ET / 20:05Z). **⚠ BP $0 (DAY 24)** — real FLAT, BLOCKED, $20 preserved. Owner must restore BP to •4713. Tape holding big gap (SPY +4.76%, QQQ +6.87%), grinding sideways near highs all day. PAPER: 0 open. AAL/F/NCLH range-bound near highs, no breakout; late-day thin holiday liquidity, no clean trend all session. No new entries - stand aside into the close. Real PASS (BP $0 day 24). PAPER lifetime: 84 closed 38W/46L net +4.69R, 0 open. Lifetime real 2W/6L -$0.52. Options/crypto/margin OFF. Next: pass 7 ~4pm = EOD wrap (0 open). ⟶
 
 ---
 
