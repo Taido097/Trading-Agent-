@@ -5,7 +5,7 @@
 > intent and status; it is NOT the brokerage record (that comes from
 > reconciliation).
 
-**Last updated:** 2026-11-23 (Mon, engine pass 1 ~10:05 ET / 15:05Z). **⚠ BP $0 (DAY 24)** — real FLAT, BLOCKED, $20 preserved. Owner must restore BP to •4713. Tape: oversold bounce RECLAIMED after early fade — SPY +4.68%, QQQ +6.92% (back near pre-mkt highs), holding/re-accelerating. PAPER: 0 open. No new entries — names faded-then-recovered = mid-range chop, no clean breakout base yet (SOFI 13.54 below OR high 13.73; RIOT 17.67 well off 18.91; MARA choppy); won't force a chop entry on a violent-bounce day. Armed SOFI for 13.73 reclaim-hold. Real PASS (BP $0 day 24). PAPER lifetime: 84 closed 38W/46L net +4.69R, 0 open. Lifetime real 2W/6L -$0.52. Thanksgiving wk (thin). Options/crypto/margin OFF. Next: pass 2 ~11am. ⟶
+**Last updated:** 2026-11-23 (Mon, engine pass 2 ~11:05 ET / 16:05Z). **⚠ BP $0 (DAY 24)** — real FLAT, BLOCKED, $20 preserved. Owner must restore BP to •4713. Tape holding big bounce (SPY +4.76%, QQQ +6.92%). PAPER: 0 open. SOFI armed-reclaim FAILED (rose to 13.68, never took 13.73, faded to 13.36) - good no-chase; crypto faded (MARA/RIOT). Only defensive/value holding (AAL +5.8% above OR high, F +3.6% new highs, NCLH +6.1%) but no crisp fresh-base breakout. No new entries - respecting the chop (repeated fakeouts), thin holiday week, +7% one-day bounce in a downtrend. Real PASS (BP $0 day 24). PAPER lifetime: 84 closed 38W/46L net +4.69R, 0 open. Lifetime real 2W/6L -$0.52. Options/crypto/margin OFF. Next: pass 3 ~12pm. ⟶
 
 ---
 
