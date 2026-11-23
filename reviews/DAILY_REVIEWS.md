@@ -2605,3 +2605,22 @@ SPY ~flat (−0.13%), QQQ −0.99% (tech still weak, broad mkt stabilizing). F i
 ### OPEN DECISION — Mon 2026-11-23 (~9:48 ET) → PASS
 
 Massive oversold gap fading: QQQ +5.91% (off +7.2% pre-mkt), SPY +4.04%. OR read: every watchlist name GAPPED-AND-FADED — opened at/near highs then sold off in the first 15 min (SOFI 13.73→13.44, RIOT 18.91→17.55, MARA 6.31→5.97, AAL 12.55→12.28). No confirmed hold above any OR high; textbook vicious-bounce distribution. **PASS** — won't chase a fading oversold snapback (prep caution vindicated). Logged REJECTED (PASS). Real BP $0 (day 24). Engine will watch for a 2nd-chance reclaim, but base case is a gap-fade day.
+
+---
+
+### EOD WRAP — Mon 2026-11-23 (massive oversold bounce; clean zero-trade day)
+
+**Market close:** SPY 722.42 (+4.73%), QQQ 650.88 (+6.97%). A violent oversold relief rally — gapped +7% at the open (recovering ~2/3 of last week's −10% in a day) and held it, but it was gap-up-and-chop: the move was the opening gap, then tight range-bound digestion all session.
+
+**Real $20 (••••4713):** FLAT. BP **$0 — DAY 24.** 0 real trades; nothing qualified (no clean OR-hold), so the block cost nothing today. $20 preserved.
+
+**Paper: 0 trades** — a disciplined, clean zero-trade day:
+- Open decision PASS: every watchlist name gapped-and-faded (opened at highs, sold off) — no confirmed OR-hold. Vindicated.
+- Passes 1-6: tape reclaimed the fade and held +7%, but the affordable names (AAL/F/SOFI/NCLH) chopped sideways in tight all-day ranges with repeated fakeouts; the parabolic crypto gappers (MARA/RIOT) faded. No clean trend, breakout, or pullback-continuation to capture.
+- Stood aside all day rather than force a trade into a gap-and-chop in thin Thanksgiving-week liquidity.
+
+**Lesson:** A big index up-day is not automatically a tradeable day for a breakout/pullback style. When the whole move is an opening gap and price then digests sideways, there is no clean edge — and chasing the most-gapped names (which faded) would have been the mistake. Zero trades on a +7% day is the right call when no setup is clean. Contrast with the week's winners (RIOT +1.5R 11/18, SNAP) which came from clean trending breakouts, not gap-and-chop.
+
+**Lifetime (paper):** 84 closed, 38W/46L, net +4.69R, 0 open. **Real:** 2W/6L, −$0.52.
+
+**Next:** Tue 11/24 — pre-market prep ~9:15 ET. Holiday week (thin; Thu closed, Fri half-day). After today's snapback, watch whether the bounce follows through or gives back; demand clean confirmed setups, keep sizing/risk tight.

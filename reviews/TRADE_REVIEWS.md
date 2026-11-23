@@ -2541,3 +2541,13 @@ Reconciled ••••4713: FLAT, BP $0 (day 23). 0 open, nothing to flatten.
 Market close: SPY 690.91 (−3.49%), QQQ 610.04 (−5.43%) — a −5.4% QQQ liquidation, the worst day of a brutal week.
 
 **Day paper: 1 trade, −1.0R.** F P-0084 — correctly-selected defensive-rotation ORB (day's RS leader at entry) killed by the capitulation. 3rd regime-loss of the week on a valid breakout. Honored the stop (−1R contained), stood aside the rest of the day. Real: F was BLOCKED_BP — block saved a real loss.
+
+---
+
+#### 2026-11-23 Mon — EOD (pass 7, 21:04Z / 4:04 ET)
+
+Reconciled ••••4713: FLAT, BP $0 (day 24). 0 open, nothing to flatten.
+
+Market close: SPY +4.73%, QQQ +6.97% — massive oversold relief bounce after last week's −10% rout. But gap-up-and-chop: the whole move was the opening gap, then range-bound all day.
+
+**Day: 0 trades (paper + real).** Clean zero-trade day. The open faded (every watchlist name gapped-and-faded → open-decision PASS), then the tape reclaimed but the names chopped sideways in tight all-day ranges — no clean ORB/trend/pullback-continuation to capture. The parabolic gappers I flagged as highest-risk (MARA +16%, RIOT +14% pre-mkt) mostly faded, vindicating the don't-chase stance. Standing aside through a +7% QQQ day stings on paper, but there was no clean edge for a breakout/pullback style in gap-and-chop; forcing a trade into repeated intraday fakeouts (thin holiday liquidity) would have been the error. No rule breaks. Real: BP $0 day 24 — nothing qualified anyway, so the block cost nothing today.
