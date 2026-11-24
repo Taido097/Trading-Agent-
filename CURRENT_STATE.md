@@ -5,7 +5,7 @@
 > intent and status; it is NOT the brokerage record (that comes from
 > reconciliation).
 
-**Last updated:** 2026-11-24 (Tue, 2pm ET engine pass / 19:04Z). **⚠ BP $0 (DAY 25)** — real FLAT, BLOCKED, $20 preserved; reconciled (0 pos / 0 orders) → STEP A PASS. Owner must restore BP to •4713. REGIME: faded off 1pm bounce, still red — SPY 717.32 (−0.69%) / QQQ 637.30 (−2.11%). PAPER: P-0086 F runner OPEN, held at BE — stalled at 12.00 resistance (rejected 4x), now 11.90; BE stop 11.83 intact, tgt 12.13; +0.5R already banked = risk-free. Held BE vs tight-trail into the stall (whipsaw lesson; EOD flatten ~2h). No new entries (red tape + O003 late-day window). PAPER lifetime: 85 closed 38W/47L net +3.69R; 1 OPEN (0086 F runner, +0.5R locked). Lifetime real 2W/6L −$0.52. Options/crypto/margin OFF. Next: 3pm ET engine pass; EOD flatten 4pm. ⟶
+**Last updated:** 2026-11-24 (Tue, 3pm ET engine pass / 20:04Z). **⚠ BP $0 (DAY 25)** — real FLAT, BLOCKED, $20 preserved; reconciled (0 pos / 0 orders) → STEP A PASS. Owner must restore BP to •4713. REGIME: rolled back down, weak into close — SPY 715.53 (−0.94%) / QQQ 634.58 (−2.53%). PAPER: P-0086 F runner OPEN, BE held — chopped 11.88–11.955 all afternoon, never retook 12.00, now 11.87; BE stop 11.83 / tgt 12.13; +0.5R banked = risk-free. Held BE into final hour (no whipsaw trail). No new entries (late-day O003 + −2.5% QQQ). PAPER lifetime: 85 closed 38W/47L net +3.69R; 1 OPEN (0086 F runner, +0.5R locked). Lifetime real 2W/6L −$0.52. Options/crypto/margin OFF. Next: 4pm ET EOD-flatten pass (close F runner at mark; write EOD wrap). ⟶
 
 ---
 

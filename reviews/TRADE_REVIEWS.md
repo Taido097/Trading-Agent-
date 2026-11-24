@@ -2590,3 +2590,10 @@ Market close: SPY +4.73%, QQQ +6.97% — massive oversold relief bounce after la
 - **P-2026-0086 F runner: OPEN, held at BE.** Stalled at 12.00 resistance (rejected 4×), now 11.90 drifting; BE stop 11.83 intact (lowest since +1R = 11.885), target 12.13 not reached. +0.5R already banked → risk-free. Held BE rather than tight-trail into the stall (whipsaw lesson; EOD flatten ~2h away).
 - **No new entries** — red tape + late-day O003 caution window + F stalling. Stand aside.
 - Tally: lifetime 85 closed 38W/47L +3.69R; 1 open (F runner, +0.5R locked).
+
+### Tue 2026-11-24 — 3pm ET engine pass (20:04Z)
+- **REAL ••••4713:** FLAT, BP $0 (day 25) → PASS.
+- **Regime:** rolled back down, weak into close — SPY 715.53 (−0.94%), QQQ 634.58 (−2.53%).
+- **P-2026-0086 F runner: OPEN, BE held.** Chopped 11.88–11.955 all afternoon, never retook 12.00, now 11.87; BE stop 11.83 intact, target 12.13 not reached. Momentum gone but risk-free (+0.5R banked). Held BE through final hour vs a 2-cent trail that would just whipsaw; 4pm EOD flatten / BE / target to resolve.
+- **No new entries** — 3pm + −2.5% QQQ + O003 late-day caution. Stand aside.
+- Tally: lifetime 85 closed 38W/47L +3.69R; 1 open (F runner, +0.5R locked).
