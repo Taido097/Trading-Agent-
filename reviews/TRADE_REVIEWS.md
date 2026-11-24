@@ -2560,3 +2560,12 @@ Market close: SPY +4.73%, QQQ +6.97% — massive oversold relief bounce after la
   - **P-2026-0086 F** long 11.83 (breakout-hold) — stop 11.68, target 12.13 (2:1), 266sh. Broke OR high 11.62, ran to 11.84 on ~2x volume, holding near HOD; RS+ autos.
 - **PASSed:** RIG (RS leader +7% but pulled back on HIGH volume and hadn't held — O002: pullback unconfirmed; watch for base+reclaim 4.97+), VALE (faded OR high, turned red, lost RS), AAL (mid-range chop, red).
 - Read: on a tech-weak mixed tape the edge is value/cyclical RS leaders (F, RIVN) over growth; took the 2 cleanest rather than forcing 8 thin names (quality>volume).
+
+### Tue 2026-11-24 — 11am ET engine pass (16:05Z)
+- **REAL ••••4713:** FLAT, BP $0 (day 25) → PASS.
+- **Regime ROLLED OVER:** SPY 712.98 (−1.29%), QQQ 631.97 (−2.93%) — failed bounce fully resuming the downtrend; tech crushed. Risk-off → NO new longs.
+- **P-2026-0085 RIVN: STOPPED OUT −1.0R** (exit 11.30; 15:15 bar low 11.29). MFE +0.36R (11.49) before it reversed. Valid coil entry killed by the tape — "regime is the ceiling" reconfirmed (cf HL/CLF/F losses). No execution error; stop honored.
+- **P-2026-0086 F: OPEN, held.** Dipped to 11.69, stop at 11.68 held by a penny (whipsaw-lesson "room below the base" working), now 11.73 — still green on the day, strong RS vs −1.3%/−2.9% tape. Keeping stop 11.68, target 12.13.
+- **RIG:** faded from 5.03 with no reclaim — PASS confirmed correct.
+- **No new entries.** Deteriorating risk-off tape = stand aside (quality>volume; don't fight a −3% QQQ).
+- Running tally: lifetime 85 closed 38W/47L net +3.69R; 1 open (F).

@@ -5,7 +5,7 @@
 > intent and status; it is NOT the brokerage record (that comes from
 > reconciliation).
 
-**Last updated:** 2026-11-24 (Tue, 10am ET engine pass / 15:05Z). **⚠ BP $0 (DAY 25)** — real FLAT, BLOCKED, $20 preserved; reconciled (0 pos / 0 orders) → STEP A PASS. Owner must restore BP to •4713. REGIME: mixed/red, thin holiday tape — SPY 719.82 (−0.34%, near flat) / QQQ 640.80 (−1.57%, tech heavy). Edge = value/cyclical RS leaders over growth. PAPER (STEP B): opened 2 longs — P-0085 RIVN 11.44 (coil cont; stop 11.30 tgt 11.72) + P-0086 F 11.83 (RS breakout-hold on ~2x vol; stop 11.68 tgt 12.13); both 2:1, +1R partial+BE-trail plan. PASSed RIG (pullback unconfirmed/high-vol — O002 watch), VALE (faded red), AAL (chop). PAPER lifetime: 84 closed 38W/46L net +4.69R; NOW 2 OPEN (0085 RIVN, 0086 F). Lifetime real 2W/6L −$0.52. Options/crypto/margin OFF. Next: 11am ET engine pass (manage 0085/0086; re-check RIG). ⟶
+**Last updated:** 2026-11-24 (Tue, 11am ET engine pass / 16:05Z). **⚠ BP $0 (DAY 25)** — real FLAT, BLOCKED, $20 preserved; reconciled (0 pos / 0 orders) → STEP A PASS. Owner must restore BP to •4713. REGIME ROLLED OVER: failed bounce fully resuming downtrend — SPY 712.98 (−1.29%) / QQQ 631.97 (−2.93%, tech crushed). Risk-off — NO new longs. PAPER: P-0085 RIVN STOPPED −1.0R (coil broke down with tape; MFE +0.36R; regime=ceiling, cf HL/CLF/F). P-0086 F still OPEN (held stop 11.68 by a penny; green on day, strong RS; tgt 12.13). RIG faded/no reclaim — PASS confirmed. No new entries (don't fight −3% QQQ). PAPER lifetime: 85 closed 38W/47L net +3.69R; 1 OPEN (0086 F). Lifetime real 2W/6L −$0.52. Options/crypto/margin OFF. Next: 12pm ET engine pass (manage F; EOD flatten ~4pm). ⟶
 
 ---
 
