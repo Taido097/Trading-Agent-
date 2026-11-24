@@ -2576,3 +2576,10 @@ Market close: SPY +4.73%, QQQ +6.97% — massive oversold relief bounce after la
 - **P-2026-0086 F: OPEN, working.** Based 11.69–11.80 (stop 11.68 never breached), now 11.91 HOD = +0.53R unrealized, +2.2% on day — lone green name vs −2.65% QQQ (textbook RS leadership). Not yet at +1R partial (11.98); holding structural stop 11.68 (don't choke a working winner), target 12.13.
 - **No new entries** — not adding breakouts into a −2.65% QQQ. Stand aside.
 - Tally unchanged: lifetime 85 closed 38W/47L +3.69R; 1 open (F, +0.53R unreal).
+
+### Tue 2026-11-24 — 1pm ET engine pass (18:04Z)
+- **REAL ••••4713:** FLAT, BP $0 (day 25) → PASS.
+- **Regime:** recovering off lows, still red — SPY 718.97 (−0.46%), QQQ 638.96 (−1.85%). Choppy.
+- **P-2026-0086 F: +1R TAG → PARTIAL TAKEN.** Ground higher through noon, tagged +1R (11.98), high 12.00. Booked half (133sh) @ 11.98 = +0.5R (~$19.95) locked; runner 133sh stop→BE 11.83 (orig 11.68), trailing; target 12.13. Trade now risk-free. RS leadership thesis paid (F green +2.9% vs red tape all day). SNAP-11/17 partial playbook repeated cleanly.
+- **No new entries** — still red tape + working runner; quality>volume.
+- Tally: lifetime 85 closed 38W/47L +3.69R; 1 open (F runner, +0.5R already locked).
