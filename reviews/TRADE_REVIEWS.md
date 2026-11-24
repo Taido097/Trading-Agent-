@@ -2569,3 +2569,10 @@ Market close: SPY +4.73%, QQQ +6.97% — massive oversold relief bounce after la
 - **RIG:** faded from 5.03 with no reclaim — PASS confirmed correct.
 - **No new entries.** Deteriorating risk-off tape = stand aside (quality>volume; don't fight a −3% QQQ).
 - Running tally: lifetime 85 closed 38W/47L net +3.69R; 1 open (F).
+
+### Tue 2026-11-24 — 12pm ET engine pass (17:04Z)
+- **REAL ••••4713:** FLAT, BP $0 (day 25) → PASS.
+- **Regime:** off the lows but still risk-off — SPY 714.79 (−1.04%), QQQ 633.77 (−2.65%).
+- **P-2026-0086 F: OPEN, working.** Based 11.69–11.80 (stop 11.68 never breached), now 11.91 HOD = +0.53R unrealized, +2.2% on day — lone green name vs −2.65% QQQ (textbook RS leadership). Not yet at +1R partial (11.98); holding structural stop 11.68 (don't choke a working winner), target 12.13.
+- **No new entries** — not adding breakouts into a −2.65% QQQ. Stand aside.
+- Tally unchanged: lifetime 85 closed 38W/47L +3.69R; 1 open (F, +0.53R unreal).
