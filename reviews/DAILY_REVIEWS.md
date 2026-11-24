@@ -2651,3 +2651,24 @@ Massive oversold gap fading: QQQ +5.91% (off +7.2% pre-mkt), SPY +4.04%. OR read
 - KVUE — no quote returned this pull.
 
 **Read:** RS leaders are the beaten-down cyclicals/value (RIVN, F, AAL, VALE) + energy (RIG) — "value over growth, down less" risk-off day. Growth/tech/crypto lag. NOTE: all spreads above are pre-mkt (wider than regular); the ~9:47 ET decision routine must RE-VERIFY spread ≤~0.5% and a genuine setup (not a vertical spike — O002) on the top names before any paper entry. Real stays PASS (BP $0). On a thin failed-bounce tape, standing aside is fully acceptable — no forcing.
+
+---
+
+## Tue 2026-11-24 — EOD WRAP (4pm ET / 21:00Z)
+
+**Market:** Failed-bounce give-back day. After Mon's +7% oversold bounce, the tape gapped down, rolled over to the 11am lows (QQQ −2.9%), then recovered into the close. Final: **SPY 718.79 (−0.48%)**, **QQQ 638.12 (−1.98%)** — tech-led weakness, thin Thanksgiving-week liquidity.
+
+**REAL ••••4713:** FLAT all day, **BP $0 (DAY 25)** → 0 trades, setup-gated PASS every pass. $20 preserved; no overnight position. Owner must restore BP. (The block cost nothing today — real would have PASSed anyway given the red tape; only F paper qualified and even that needed the RS read.)
+
+**PAPER (2 trades closed, net −0.10R on the day):**
+- **P-0085 RIVN** long 11.44 (coil continuation) → **−1.0R** stop 11.30. Valid higher-lows coil, but the 11am tape rollover (QQQ −2.9%) broke it. MFE +0.36R. "Regime is the ceiling" — a good entry still loses when the market reverses. No execution error.
+- **P-0086 F** long 11.83 (RS breakout-hold, ~2x vol) → **+0.90R WIN.** Booked half @ +1R (11.98), ran the runner to BE, flattened 11.95 into the bell. The lone green name all day (+2.6% vs −2% QQQ) — RS leadership + the +1R partial/trail playbook worked cleanly.
+- **PASSed:** RIG (RS leader but spike-extended at open → faded; O002 vindicated), VALE/AAL (faded/chop), and no new entries after the 11am rollover (didn't fight −2.9% QQQ; O003 late-day caution).
+
+**Scorecard:** 2 paper trades, 1W/1L, net **−0.10R** — essentially flat on a −2% QQQ day. The winner (RS leader) ran, the loser (coil) was cut at 1R by the regime. Capital-preservation + RS-leadership discipline both held.
+
+**Lifetime:** PAPER 86 closed **39W/47L net +4.59R**, 0 open. Real 2W/6L −$0.52.
+
+**Lessons reinforced:** (1) On a tech-weak tape, value/cyclical RS leaders (F) outperform growth — F held green all day while QQQ fell 2%. (2) Same ORB setup, opposite outcomes by name: F (RS leader, held) +0.9R vs RIVN (coil, broke with tape) −1R — regime + relative strength decide. (3) Not chasing the RIG open spike (O002) avoided a loser (it faded). (4) The +1R partial-to-BE rule turned F risk-free early and locked the win.
+
+**Next:** Wed 2026-11-25 pre-market prep ~9:15 ET (half-week: Thu 11/26 CLOSED, Fri 11/27 half-day — expect thin, low-conviction tape). Real stays PASS until BP > $0.

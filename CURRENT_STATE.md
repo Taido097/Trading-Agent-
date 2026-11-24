@@ -5,7 +5,7 @@
 > intent and status; it is NOT the brokerage record (that comes from
 > reconciliation).
 
-**Last updated:** 2026-11-24 (Tue, 3pm ET engine pass / 20:04Z). **⚠ BP $0 (DAY 25)** — real FLAT, BLOCKED, $20 preserved; reconciled (0 pos / 0 orders) → STEP A PASS. Owner must restore BP to •4713. REGIME: rolled back down, weak into close — SPY 715.53 (−0.94%) / QQQ 634.58 (−2.53%). PAPER: P-0086 F runner OPEN, BE held — chopped 11.88–11.955 all afternoon, never retook 12.00, now 11.87; BE stop 11.83 / tgt 12.13; +0.5R banked = risk-free. Held BE into final hour (no whipsaw trail). No new entries (late-day O003 + −2.5% QQQ). PAPER lifetime: 85 closed 38W/47L net +3.69R; 1 OPEN (0086 F runner, +0.5R locked). Lifetime real 2W/6L −$0.52. Options/crypto/margin OFF. Next: 4pm ET EOD-flatten pass (close F runner at mark; write EOD wrap). ⟶
+**Last updated:** 2026-11-24 (Tue, EOD wrap 4pm ET / 21:00Z). **⚠ BP $0 (DAY 25)** — real FLAT all day, BLOCKED, $20 preserved; 0 trades (PASS every pass, no overnight). Owner must restore BP to •4713. Market: failed-bounce give-back — SPY 718.79 (−0.48%) / QQQ 638.12 (−1.98%), tech-led, recovered off 11am lows (QQQ was −2.9%); thin Thanksgiving wk. PAPER today: 2 closed, 1W/1L, net −0.10R — P-0085 RIVN coil −1.0R (tape rollover=regime ceiling), P-0086 F RS-breakout +0.90R WIN (lone green name; +1R partial then runner to BE, flattened 11.95). PASSed RIG (O002 spike, faded), VALE/AAL, no new entries post-rollover. 0 open. PAPER lifetime: 86 closed 39W/47L net +4.59R, 0 open. Lifetime real 2W/6L −$0.52. Options/crypto/margin OFF. Next: Wed 11/25 pre-market prep ~9:15 ET (half-week: Thu CLOSED, Fri half — thin tape). Real PASS until BP>0. ⟶
 
 ---
 
