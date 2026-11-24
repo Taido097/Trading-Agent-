@@ -2624,3 +2624,30 @@ Massive oversold gap fading: QQQ +5.91% (off +7.2% pre-mkt), SPY +4.04%. OR read
 **Lifetime (paper):** 84 closed, 38W/46L, net +4.69R, 0 open. **Real:** 2W/6L, −$0.52.
 
 **Next:** Tue 11/24 — pre-market prep ~9:15 ET. Holiday week (thin; Thu closed, Fri half-day). After today's snapback, watch whether the bounce follows through or gives back; demand clean confirmed setups, keep sizing/risk tight.
+
+---
+
+## Tue 2026-11-24 — PRE-MARKET PREP (~9:19 ET / 14:19Z)
+
+**Reconciliation ••••4713:** FLAT — 0 positions, 0 open orders, BP **$0 (DAY 25)**. Internal state matches broker. Real BLOCKED; $20 preserved.
+
+**Regime:** FAILED BOUNCE / risk-off give-back. After Mon's +7% oversold bounce (gap-and-chop), tape gapping DOWN pre-mkt: SPY 714.67 (−1.06% vs 722.29); QQQ 638.60 (−1.91% vs 651.03). Tech leading the sell-off — the bounce is being faded. Benchmark pull ≈ −1.5%.
+
+**Event risk:** THANKSGIVING WEEK — thin holiday liquidity all week; market CLOSED Thu 11/26, half-day Fri 11/27. Thin tape + a failed bounce = treacherous/whippy; size and conviction bar stays high. No major scheduled econ print noted for today.
+
+**WIDE SCREEN — watchlist (pre-mkt % vs Mon close; RS vs SPY −1.06% / QQQ −1.91%):**
+- **VALE** 9.73 (−0.69%) — tightest spread (0.31%), positive RS, metals. Cleanest name. TOP.
+- **RIVN** 11.17 (−0.45%) — EV, RS+, spread ~1.0%, affordable.
+- **F** 11.59 (−0.51%) — autos, RS+, spread ~1.0%, affordable.
+- **AAL** 12.60 (−0.94%) — airlines, RS+, spread 0.79%.
+- **RIG** 4.75 (+1.3% GREEN) — oil driller, strongest RS, but pre-mkt spread ~4% wide + low-priced (stop vs spread) — ONLY if spread tightens to ≤0.5% at open.
+- (watch) SOFI 12.90 (−1.46%) — ~neutral RS, tight spread; no edge yet.
+
+**Rejected / excluded:**
+- CHPT, BTG, NCLH, KEY — garbage pre-mkt spreads (CHPT 8.55/11.32; KEY 19.11/20.56).
+- CCL, RF, SIRI, AMCR — >$19, can't afford 1 whole share on ~$19.
+- MARA (−3.8%), RIOT (−2.5%) — crypto miners hit hardest + wide spreads; no RS.
+- HL (−1.8%), KGC (−1.6%) — gold/silver NOT acting defensive today (down with tape).
+- KVUE — no quote returned this pull.
+
+**Read:** RS leaders are the beaten-down cyclicals/value (RIVN, F, AAL, VALE) + energy (RIG) — "value over growth, down less" risk-off day. Growth/tech/crypto lag. NOTE: all spreads above are pre-mkt (wider than regular); the ~9:47 ET decision routine must RE-VERIFY spread ≤~0.5% and a genuine setup (not a vertical spike — O002) on the top names before any paper entry. Real stays PASS (BP $0). On a thin failed-bounce tape, standing aside is fully acceptable — no forcing.
