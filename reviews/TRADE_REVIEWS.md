@@ -2551,3 +2551,12 @@ Reconciled ••••4713: FLAT, BP $0 (day 24). 0 open, nothing to flatten.
 Market close: SPY +4.73%, QQQ +6.97% — massive oversold relief bounce after last week's −10% rout. But gap-up-and-chop: the whole move was the opening gap, then range-bound all day.
 
 **Day: 0 trades (paper + real).** Clean zero-trade day. The open faded (every watchlist name gapped-and-faded → open-decision PASS), then the tape reclaimed but the names chopped sideways in tight all-day ranges — no clean ORB/trend/pullback-continuation to capture. The parabolic gappers I flagged as highest-risk (MARA +16%, RIOT +14% pre-mkt) mostly faded, vindicating the don't-chase stance. Standing aside through a +7% QQQ day stings on paper, but there was no clean edge for a breakout/pullback style in gap-and-chop; forcing a trade into repeated intraday fakeouts (thin holiday liquidity) would have been the error. No rule breaks. Real: BP $0 day 24 — nothing qualified anyway, so the block cost nothing today.
+
+### Tue 2026-11-24 — 10am ET engine pass (15:05Z)
+- **REAL ••••4713:** FLAT, BP $0 (day 25) → PASS. One-at-a-time rule moot; no affordable name cleared §9 for real (and BP blocks anyway).
+- **Regime:** SPY 719.82 (−0.34%, near flat), QQQ 640.80 (−1.57%, tech heavy) — mixed/red, thin holiday tape. Tightened criteria; favored clean structure over volume.
+- **PAPER opened 2:**
+  - **P-2026-0085 RIVN** long 11.44 (coil continuation) — stop 11.30, target 11.72 (2:1), 285sh. Orderly higher-lows into a tight coil 11.37–11.48 near HOD; RS+ (green in red tape).
+  - **P-2026-0086 F** long 11.83 (breakout-hold) — stop 11.68, target 12.13 (2:1), 266sh. Broke OR high 11.62, ran to 11.84 on ~2x volume, holding near HOD; RS+ autos.
+- **PASSed:** RIG (RS leader +7% but pulled back on HIGH volume and hadn't held — O002: pullback unconfirmed; watch for base+reclaim 4.97+), VALE (faded OR high, turned red, lost RS), AAL (mid-range chop, red).
+- Read: on a tech-weak mixed tape the edge is value/cyclical RS leaders (F, RIVN) over growth; took the 2 cleanest rather than forcing 8 thin names (quality>volume).
