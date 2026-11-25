@@ -2597,3 +2597,10 @@ Market close: SPY +4.73%, QQQ +6.97% — massive oversold relief bounce after la
 - **P-2026-0086 F runner: OPEN, BE held.** Chopped 11.88–11.955 all afternoon, never retook 12.00, now 11.87; BE stop 11.83 intact, target 12.13 not reached. Momentum gone but risk-free (+0.5R banked). Held BE through final hour vs a 2-cent trail that would just whipsaw; 4pm EOD flatten / BE / target to resolve.
 - **No new entries** — 3pm + −2.5% QQQ + O003 late-day caution. Stand aside.
 - Tally: lifetime 85 closed 38W/47L +3.69R; 1 open (F runner, +0.5R locked).
+
+### Wed 2026-11-25 — 10am ET engine pass (15:05Z)
+- **REAL ••••4713:** FLAT, BP $0 (day 26). VALE RS-leader setup CLEARED the §9 gate (green +1.4% vs -2.5% tape, broke OR high, new HOD, tight spread, affordable) but **BP $0 BLOCKED it** → logged BLOCKED_BP. First qualifying real setup in days; the block is now actively costing (will track what VALE does).
+- **Regime:** opening flush reversing — SPY 704.12 (−2.0%, off −2.9% low), QQQ 617.93 (−3.2%, off −4.3%). Gap-down-and-reclaim.
+- **PAPER opened P-2026-0087 VALE** long 9.51 (RS new-high reclaim) — stop 9.38, target 9.77 (2:1), 307sh. Metals safe-haven rotation: GREEN while tape −2.5%, broke OR high 9.36, staircase higher-lows to 9.52 HOD, tight spread. Inverse-strength edge (documented).
+- **F:** chopping sideways 11.82–12.00 (−0.3%), no breakout — watch only, no entry.
+- Tally: lifetime 86 closed 39W/47L +4.59R; 1 open (VALE 0087).

@@ -5,7 +5,7 @@
 > intent and status; it is NOT the brokerage record (that comes from
 > reconciliation).
 
-**Last updated:** 2026-11-25 (Wed, open-range decision ~9:47 ET / 14:47Z). **⚠ BP $0 (DAY 26)** — real FLAT, BLOCKED, $20 preserved; reconciled (0 pos / 0 orders). Owner must restore BP to •4713. REGIME: CAPITULATION FLUSH — gap down deepened after open: SPY 697.98 (−2.89%) / QQQ 610.84 (−4.27%). Thin Thanksgiving-eve tape; no stabilization. OPEN-RANGE DECISION: PASS all. F still top RS (−0.5%) but drifting down off OR high (no breakout/reclaim); VALE coiling flat (no OR break); AAL broke down (−4.6%, lost RS). Logged 3 PASS rows. No supportive regime for ANY long = don't catch the knife (regime=ceiling). Hourly engine to watch F/VALE for a reclaim IF tape stabilizes. Real stays PASS (BP $0). PAPER lifetime: 86 closed 39W/47L net +4.59R, 0 open. Lifetime real 2W/6L −$0.52. Options/crypto/margin OFF. Next: 10am ET engine pass. ⟶
+**Last updated:** 2026-11-25 (Wed, 10am ET engine pass / 15:05Z). **⚠ BP $0 (DAY 26)** — real FLAT, BLOCKED, $20 preserved; reconciled (0 pos / 0 orders). VALE RS setup CLEARED §9 gate but BP $0 blocked it → logged BLOCKED_BP (block now actively costing). Owner must restore BP to •4713. REGIME: capitulation flush REVERSING — SPY 704.12 (−2.0%, off −2.9% low) / QQQ 617.93 (−3.2%, off −4.3%); gap-down-and-reclaim, thin holiday. PAPER: opened P-0087 VALE long 9.51 (RS new-high reclaim; metals safe-haven GREEN +1.4% vs −2.5% tape; broke OR high, HOD 9.52; stop 9.38 tgt 9.77 2:1). F chopping, no entry. PAPER lifetime: 86 closed 39W/47L net +4.59R; 1 OPEN (0087 VALE). Lifetime real 2W/6L −$0.52. Options/crypto/margin OFF. Next: 11am ET engine pass (manage VALE). ⟶
 
 ---
 
