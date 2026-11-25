@@ -5,7 +5,7 @@
 > intent and status; it is NOT the brokerage record (that comes from
 > reconciliation).
 
-**Last updated:** 2026-11-25 (Wed, 12pm ET engine pass / 17:04Z). **⚠ BP $0 (DAY 26)** — real FLAT, BLOCKED, $20 preserved; reconciled → PASS. BLOCKED_BP now COSTING: VALE (qualifying setup) tagged +1R — block kept us out of a winner. Owner must restore BP to •4713. REGIME: bouncing but deep red — SPY 703.29 (−2.2%) / QQQ 615.61 (−3.5%). PAPER: P-0087 VALE hit +1R (9.64) → PARTIAL: booked half 153sh +0.5R (~$19.89); runner 154sh stop→BE 9.51, trailing, tgt 9.77 — risk-free; green +3.3% vs −3.5% QQQ (inverse-strength safe-haven validated). No new entries (−3.5% QQQ). PAPER lifetime: 86 closed 39W/47L net +4.59R; 1 OPEN (0087 VALE runner, +0.5R locked). Lifetime real 2W/6L −$0.52. Options/crypto/margin OFF. Next: 1pm ET engine pass. ⟶
+**Last updated:** 2026-11-25 (Wed, 1pm ET engine pass / 18:04Z). **⚠ BP $0 (DAY 26)** — real FLAT, BLOCKED, $20 preserved; reconciled → PASS. BLOCKED_BP COST a winner today: VALE setup hit +1.5R (block kept real out). Owner must restore BP to •4713. REGIME: strong reversal off lows — SPY 711.50 (−1.0%, off −2.9%) / QQQ 624.84 (−2.1%, off −4.4%); capitulation-low buyers. PAPER: P-0087 VALE CLOSED +1.5R WIN (runner hit 9.77 target; half booked 9.64) — safe-haven metals RS leader green all day vs −2 to −4% tape; reclaim→OR break→staircase to 2:1 (mirror RIOT 11/18). 0 open. No new entries (banked it; thin pre-holiday reversal, quality>volume). PAPER lifetime: 87 closed 40W/47L net +6.09R, 0 open. Lifetime real 2W/6L −$0.52. Options/crypto/margin OFF. Next: 2pm ET engine pass; EOD flatten ~4pm. ⟶
 
 ---
 

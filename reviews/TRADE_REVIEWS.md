@@ -2618,3 +2618,10 @@ Market close: SPY +4.73%, QQQ +6.97% — massive oversold relief bounce after la
 - **P-2026-0087 VALE: +1R TAG → PARTIAL TAKEN.** Based 9.52–9.55 an hour then pushed to 9.68 HOD, tagged +1R (9.64). Booked half 153sh @ 9.64 = +0.5R (~$19.89); runner 154sh stop→BE 9.51 (orig 9.38), trailing, target 9.77. Risk-free. Green +3.3% vs −3.5% QQQ — inverse-strength safe-haven thesis strongly validated.
 - **No new entries** — −3.5% QQQ tape; VALE runner already working.
 - Tally: lifetime 86 closed 39W/47L +4.59R; 1 open (VALE runner, +0.5R locked).
+
+### Wed 2026-11-25 — 1pm ET engine pass (18:04Z)
+- **REAL ••••4713:** FLAT, BP $0 (day 26) → PASS. BLOCKED_BP outcome recorded: VALE hit +1.5R — the BP $0 block cost a real winner today (followup logged on the rejected row).
+- **Regime:** strong reversal off lows — SPY 711.50 (−1.0%, off −2.9%), QQQ 624.84 (−2.1%, off −4.4%). Capitulation-low buyers.
+- **P-2026-0087 VALE: CLOSED +1.5R WIN.** Runner hit 9.77 target (half booked 9.64). Safe-haven RS leader green all day vs −2 to −4% tape; reclaim→OR-high break→staircase to 2:1. MFE 9.79. Mirror of RIOT 11/18 +1.5R. Inverse-strength + partial/trail playbook = clean winner on a brutal tape.
+- **No new entries** — banked VALE; reversal is strong but unconfirmed and it's a thin pre-holiday afternoon (won't chase a bounce off lows without a vetted setup; quality>volume).
+- Tally: lifetime 87 closed 40W/47L net +6.09R; 0 open.
