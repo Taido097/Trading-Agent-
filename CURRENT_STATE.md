@@ -5,7 +5,7 @@
 > intent and status; it is NOT the brokerage record (that comes from
 > reconciliation).
 
-**Last updated:** 2026-11-25 (Wed, 2pm ET engine pass / 19:04Z). **⚠ BP $0 (DAY 26)** — real FLAT, BLOCKED, $20 preserved; reconciled → PASS. (Earlier: VALE BLOCKED_BP setup hit +1.5R — block cost a real winner.) Owner must restore BP to •4713. REGIME: massive V-reversal — SPY 717.21 (−0.2%) / QQQ 633.01 (−0.8%); recovered nearly the whole −3% gap (QQQ was −4.4% at 11am). Aggressive dip-buying. PAPER: FLAT (VALE +1.5R banked at 1pm). Reversal leaders = commodities/energy (VALE/KGC/RIG) but extended off lows + O003 late-day; NO new entries (don't chase extended V-reversal; quality>volume; clean +1.5R already booked). PAPER lifetime: 87 closed 40W/47L net +6.09R, 0 open. Lifetime real 2W/6L −$0.52. Options/crypto/margin OFF. Next: 3pm ET engine pass; 4pm EOD (flat — nothing to flatten). ⟶
+**Last updated:** 2026-11-25 (Wed, 3pm ET engine pass / 20:04Z). **⚠ BP $0 (DAY 26)** — real FLAT, BLOCKED, $20 preserved; reconciled → PASS. (VALE BLOCKED_BP setup hit +1.5R today — block cost a real winner.) Owner must restore BP to •4713. REGIME: reversal holding — SPY 716.23 (−0.35%) / QQQ 632.79 (−0.83%); V-recovery from −4% QQQ low stuck. Commodity leaders held (VALE +4.7%, KGC +2.6%, F +2.0%). PAPER: FLAT, no new entries (last hour O003, leaders extended, +1.5R banked). PAPER lifetime: 87 closed 40W/47L net +6.09R, 0 open. Lifetime real 2W/6L −$0.52. Options/crypto/margin OFF. Next: 4pm ET EOD pass (flat — write day wrap). ⟶
 
 ---
 

@@ -2632,3 +2632,9 @@ Market close: SPY +4.73%, QQQ +6.97% — massive oversold relief bounce after la
 - **PAPER: FLAT** (VALE +1.5R banked at 1pm). Reversal leaders are commodities/energy (VALE +4.5%, KGC +2.7% gold flipped green, RIG +4.2%, F +1.9%) — but all extended off the lows, and it's 2pm (O003 late-day window).
 - **No new entries** — re-entering VALE = chase (O002); chasing an extended V-reversal into the last 2h of a thin holiday-eve session is low-quality. Banked a clean +1.5R; quality>volume, don't force a second trade.
 - Tally: lifetime 87 closed 40W/47L +6.09R; 0 open.
+
+### Wed 2026-11-25 — 3pm ET engine pass (20:04Z)
+- **REAL ••••4713:** FLAT, BP $0 (day 26) → PASS.
+- **Regime:** reversal holding — SPY 716.23 (−0.35%), QQQ 632.79 (−0.83%); V-recovery from −4% QQQ low stuck. Commodity leaders held (VALE +4.7%, KGC +2.6%, F +2.0%).
+- **PAPER: FLAT, no new entries** — last hour (O003), leaders extended, +1.5R banked. Nothing actionable.
+- Tally: lifetime 87 closed 40W/47L +6.09R; 0 open.
