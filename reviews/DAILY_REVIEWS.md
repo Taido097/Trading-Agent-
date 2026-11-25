@@ -2672,3 +2672,27 @@ Massive oversold gap fading: QQQ +5.91% (off +7.2% pre-mkt), SPY +4.04%. OR read
 **Lessons reinforced:** (1) On a tech-weak tape, value/cyclical RS leaders (F) outperform growth — F held green all day while QQQ fell 2%. (2) Same ORB setup, opposite outcomes by name: F (RS leader, held) +0.9R vs RIVN (coil, broke with tape) −1R — regime + relative strength decide. (3) Not chasing the RIG open spike (O002) avoided a loser (it faded). (4) The +1R partial-to-BE rule turned F risk-free early and locked the win.
 
 **Next:** Wed 2026-11-25 pre-market prep ~9:15 ET (half-week: Thu 11/26 CLOSED, Fri 11/27 half-day — expect thin, low-conviction tape). Real stays PASS until BP > $0.
+
+---
+
+## Wed 2026-11-25 — PRE-MARKET PREP (~9:16 ET / 14:16Z)
+
+**Reconciliation ••••4713:** FLAT — 0 positions, 0 open orders, BP **$0 (DAY 26)**. Internal state matches broker. Real BLOCKED; $20 preserved.
+
+**Regime:** MAJOR GAP DOWN / risk-off flush. SPY 703.82 (−2.08% vs 718.78); QQQ 617.61 (−3.21% vs 638.10). Tuesday's weak close is accelerating — tech getting hammered. Benchmark pull ≈ −2.6%.
+
+**Event risk:** THANKSGIVING EVE — today is the LAST full session; market CLOSED Thu 11/26, half-day Fri 11/27. Thin liquidity amplifies the gap; capitulation-risk tape. (Watch for any pre-holiday data print, but none flagged.)
+
+**WIDE SCREEN — watchlist (pre-mkt % vs Tue close; RS vs SPY −2.1% / QQQ −3.2%):**
+- **F** 11.92 (−0.25%) — MASSIVE RS (basically flat vs −2% tape); tight spread 0.5%; affordable; yesterday's +0.9R winner still leading. TOP.
+- **VALE** 9.25 (−1.28%) — metals; tightest spread (0.1%); affordable; RS+. #2.
+- **AAL** 12.36 (−1.94%) — slight RS; tight spread (0.1%); airlines.
+- (watch) RIG 4.77 (−1.24%) — energy RS but ~6% pre-mkt spread — ONLY if it tightens to ≤0.5% at open.
+- (watch) HBAN 14.58 (−1.35%) — RS+ but stale quote + 1.5% spread.
+
+**Rejected / excluded:**
+- CHPT (8.00/9.90), KEY (>$19 + wide), RIG spread — garbage/too-wide spreads.
+- RIVN (−2.6%), CLF (−2.2%), NCLH (−2.3%) — in line with tape, no edge + wide spreads.
+- KGC (−3.9%), HL (−3.9%), MARA (−4.1%), RIOT (−5.0%), SNAP (−5.1%), BTG (−3.7%) — worse than tape; gold/silver/crypto all getting flushed.
+
+**Read:** A hard −2%/−3.2% gap down on a thin pre-holiday tape. This is capitulation/continuation-flush territory — NOT a day to chase breakouts. The only long worth watching is a GAP-DOWN-AND-RECLAIM in the RS leaders (F clearly, then VALE/AAL) IF the market stabilizes and reclaims the opening range; otherwise stand aside. The ~9:47 decision routine must demand a genuine reclaim-and-hold (not a falling-knife catch) + tight spread. Real stays PASS (BP $0 day 26). On this tape, a zero-trade day is the base case.
