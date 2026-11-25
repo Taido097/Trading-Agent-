@@ -2625,3 +2625,10 @@ Market close: SPY +4.73%, QQQ +6.97% — massive oversold relief bounce after la
 - **P-2026-0087 VALE: CLOSED +1.5R WIN.** Runner hit 9.77 target (half booked 9.64). Safe-haven RS leader green all day vs −2 to −4% tape; reclaim→OR-high break→staircase to 2:1. MFE 9.79. Mirror of RIOT 11/18 +1.5R. Inverse-strength + partial/trail playbook = clean winner on a brutal tape.
 - **No new entries** — banked VALE; reversal is strong but unconfirmed and it's a thin pre-holiday afternoon (won't chase a bounce off lows without a vetted setup; quality>volume).
 - Tally: lifetime 87 closed 40W/47L net +6.09R; 0 open.
+
+### Wed 2026-11-25 — 2pm ET engine pass (19:04Z)
+- **REAL ••••4713:** FLAT, BP $0 (day 26) → PASS.
+- **Regime:** massive V-reversal — SPY 717.21 (−0.2%), QQQ 633.01 (−0.8%); recovered nearly the whole −3% gap (QQQ was −4.4% at 11am). Aggressive dip-buying.
+- **PAPER: FLAT** (VALE +1.5R banked at 1pm). Reversal leaders are commodities/energy (VALE +4.5%, KGC +2.7% gold flipped green, RIG +4.2%, F +1.9%) — but all extended off the lows, and it's 2pm (O003 late-day window).
+- **No new entries** — re-entering VALE = chase (O002); chasing an extended V-reversal into the last 2h of a thin holiday-eve session is low-quality. Banked a clean +1.5R; quality>volume, don't force a second trade.
+- Tally: lifetime 87 closed 40W/47L +6.09R; 0 open.
