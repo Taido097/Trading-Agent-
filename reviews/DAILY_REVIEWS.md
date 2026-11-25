@@ -2696,3 +2696,24 @@ Massive oversold gap fading: QQQ +5.91% (off +7.2% pre-mkt), SPY +4.04%. OR read
 - KGC (−3.9%), HL (−3.9%), MARA (−4.1%), RIOT (−5.0%), SNAP (−5.1%), BTG (−3.7%) — worse than tape; gold/silver/crypto all getting flushed.
 
 **Read:** A hard −2%/−3.2% gap down on a thin pre-holiday tape. This is capitulation/continuation-flush territory — NOT a day to chase breakouts. The only long worth watching is a GAP-DOWN-AND-RECLAIM in the RS leaders (F clearly, then VALE/AAL) IF the market stabilizes and reclaims the opening range; otherwise stand aside. The ~9:47 decision routine must demand a genuine reclaim-and-hold (not a falling-knife catch) + tight spread. Real stays PASS (BP $0 day 26). On this tape, a zero-trade day is the base case.
+
+---
+
+## Wed 2026-11-25 — EOD WRAP (4pm ET / 21:00Z)
+
+**Market:** Historic V-reversal. Gapped down hard (SPY −2.1% / QQQ −3.2% pre-mkt), flushed to QQQ −4.4% / SPY −2.9% by 11am (capitulation), then dip-buyers drove a full-day recovery to near-flat. Final: **SPY 716.75 (−0.28%)**, **QQQ 633.95 (−0.65%)**. Thin Thanksgiving-eve liquidity exaggerated both legs.
+
+**REAL ••••4713:** FLAT all day, **BP $0 (DAY 26)** → 0 trades, PASS every pass. $20 preserved; no overnight. **The block COST a winner today:** VALE cleared the §9 gate at 10am (BLOCKED_BP logged) and went on to +1.5R — the first time in this stretch the BP block demonstrably cost a real win (honestly logged with followup on the rejected row). Owner must restore BP.
+
+**PAPER (1 trade, +1.5R on the day):**
+- **P-0087 VALE** long 9.51 → **+1.5R WIN.** Safe-haven metals RS leader: GREEN all day (+4.6%) while the tape was −2% to −4%. Reclaim → OR-high break → staircase higher-lows; booked half @ +1R (9.64), runner to full 2:1 target (9.77). Textbook inverse-strength + partial/trail (mirror of RIOT 11/18).
+- **Open-range: PASSed all** (F/VALE no breakout at 9:47, AAL broke down) — correctly avoided catching the knife into the −4.4% QQQ flush; VALE's setup only matured at 10am on the reclaim, which the engine caught.
+- **No chasing:** stood aside on the extended V-reversal in the afternoon (O002/O003) after banking +1.5R — quality over volume.
+
+**Scorecard:** 1 paper trade, 1W/0L, **+1.5R**. Clean, patient, one high-quality trade on a treacherous capitulation-and-reverse day. Exactly the playbook: PASS the falling knife at the open, take the RS-leader reclaim once it confirmed, run it to target, don't chase.
+
+**Lifetime:** PAPER 87 closed **40W/47L net +6.09R**, 0 open. Real 2W/6L −$0.52.
+
+**Lessons reinforced:** (1) Inverse-strength/safe-haven rotation (metals GREEN on a risk-off flush) is a real, repeatable edge — VALE today = RIOT 11/18. (2) PASS the open on a gap-down flush; wait for the reclaim (don't catch the knife). (3) The +1R-partial-to-target discipline turned a volatile hold into a clean +1.5R. (4) BP $0 is now a tracked, real cost (VALE), not just a theoretical block.
+
+**Next:** THU 2026-11-26 — market CLOSED (Thanksgiving); any fired routine should reconcile + no-op. FRI 2026-11-27 — half-day (closes 1pm ET), thin. Real stays PASS until BP > $0.

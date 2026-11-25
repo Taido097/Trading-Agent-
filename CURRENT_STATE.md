@@ -5,7 +5,7 @@
 > intent and status; it is NOT the brokerage record (that comes from
 > reconciliation).
 
-**Last updated:** 2026-11-25 (Wed, 3pm ET engine pass / 20:04Z). **⚠ BP $0 (DAY 26)** — real FLAT, BLOCKED, $20 preserved; reconciled → PASS. (VALE BLOCKED_BP setup hit +1.5R today — block cost a real winner.) Owner must restore BP to •4713. REGIME: reversal holding — SPY 716.23 (−0.35%) / QQQ 632.79 (−0.83%); V-recovery from −4% QQQ low stuck. Commodity leaders held (VALE +4.7%, KGC +2.6%, F +2.0%). PAPER: FLAT, no new entries (last hour O003, leaders extended, +1.5R banked). PAPER lifetime: 87 closed 40W/47L net +6.09R, 0 open. Lifetime real 2W/6L −$0.52. Options/crypto/margin OFF. Next: 4pm ET EOD pass (flat — write day wrap). ⟶
+**Last updated:** 2026-11-25 (Wed, EOD wrap 4pm ET / 21:00Z). **⚠ BP $0 (DAY 26)** — real FLAT all day, BLOCKED, $20 preserved; 0 trades (PASS every pass, no overnight). BLOCKED_BP COST a winner: VALE cleared §9 gate → +1.5R. Owner must restore BP to •4713. Market: historic V-reversal — gapped to QQQ −4.4%/SPY −2.9% (11am capitulation) then recovered to SPY 716.75 (−0.28%)/QQQ 633.95 (−0.65%); thin Thanksgiving-eve. PAPER today: 1 trade — P-0087 VALE +1.5R WIN (safe-haven metals RS leader green all day; reclaim→OR break→+1R partial→runner to 2:1 target 9.77; mirror RIOT 11/18). PASSed the open flush (knife), no afternoon chase (O002/O003). 0 open. PAPER lifetime: 87 closed 40W/47L net +6.09R, 0 open. Lifetime real 2W/6L −$0.52. Options/crypto/margin OFF. Next: THU 11/26 market CLOSED (Thanksgiving — routines no-op); FRI 11/27 half-day (closes 1pm ET). Real PASS until BP>0. ⟶
 
 ---
 
