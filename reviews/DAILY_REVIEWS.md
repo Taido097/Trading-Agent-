@@ -2717,3 +2717,9 @@ Massive oversold gap fading: QQQ +5.91% (off +7.2% pre-mkt), SPY +4.04%. OR read
 **Lessons reinforced:** (1) Inverse-strength/safe-haven rotation (metals GREEN on a risk-off flush) is a real, repeatable edge — VALE today = RIOT 11/18. (2) PASS the open on a gap-down flush; wait for the reclaim (don't catch the knife). (3) The +1R-partial-to-target discipline turned a volatile hold into a clean +1.5R. (4) BP $0 is now a tracked, real cost (VALE), not just a theoretical block.
 
 **Next:** THU 2026-11-26 — market CLOSED (Thanksgiving); any fired routine should reconcile + no-op. FRI 2026-11-27 — half-day (closes 1pm ET), thin. Real stays PASS until BP > $0.
+
+---
+
+## Thu 2026-11-26 — MARKET CLOSED (Thanksgiving)
+
+Prep routine fired but **US markets are CLOSED** for Thanksgiving — no session, no trading. Reconciled ••••4713: FLAT, 0 positions, 0 open orders, **BP $0 (DAY 27)**. No regime read / no wide screen (no live session). No-op day. Next session: FRI 2026-11-27 — half-day (closes 1pm ET / 18:00Z), thin low-conviction tape. Real stays PASS until BP > $0.
