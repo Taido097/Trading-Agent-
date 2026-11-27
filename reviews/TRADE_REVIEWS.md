@@ -2638,3 +2638,9 @@ Market close: SPY +4.73%, QQQ +6.97% — massive oversold relief bounce after la
 - **Regime:** reversal holding — SPY 716.23 (−0.35%), QQQ 632.79 (−0.83%); V-recovery from −4% QQQ low stuck. Commodity leaders held (VALE +4.7%, KGC +2.6%, F +2.0%).
 - **PAPER: FLAT, no new entries** — last hour (O003), leaders extended, +1.5R banked. Nothing actionable.
 - Tally: lifetime 87 closed 40W/47L +6.09R; 0 open.
+
+### Fri 2026-11-27 — 10am ET engine pass (15:05Z) — half day
+- **REAL ••••4713:** FLAT, BP $0 (day 28) → PASS.
+- **Regime:** gap faded then stabilized, modest green — SPY 720.34 (+0.51%), QQQ 637.76 (+0.60%); choppy.
+- **PAPER: FLAT, no new entry.** Post-fade: RIVN reclaiming (higher-lows 11.81→11.945, coiling just under OR high 12.03 — PRIMED, not triggered); VALE based 10.31–10.37 (holding +5.5%, no fresh break); SOFI chopping near lows; HL weak. No confirmed breakout-hold → wait for RIVN to break+hold 12.03 (don't anticipate). Thin half-day, tape +0.5%, bar not met.
+- Tally: lifetime 87 closed 40W/47L +6.09R; 0 open.

@@ -5,7 +5,7 @@
 > intent and status; it is NOT the brokerage record (that comes from
 > reconciliation).
 
-**Last updated:** 2026-11-27 (Fri, open-range decision ~9:48 ET / 14:48Z) — HALF DAY (closes 1pm ET). **⚠ BP $0 (DAY 28)** — real FLAT, BLOCKED, $20 preserved; reconciled (0 pos / 0 orders). Owner must restore BP to •4713. REGIME: GAP-AND-FADE — gap-up sold off: SPY 721.23 (+0.63%, was +1.43%) / QQQ 637.67 (+0.59%, was +2.08%) on thin half-day. OPEN-RANGE DECISION: PASS all. Every leader gapped up and FADED the OR (SOFI 13.54->13.16, VALE 10.57->10.28, RIOT dumped to red, HL/RIVN faded). No breakout-hold. 'Don't chase the gap' prep bias vindicated. Logged 3 PASS rows. Real stays PASS (BP $0). PAPER lifetime: 87 closed 40W/47L net +6.09R, 0 open. Lifetime real 2W/6L −$0.52. Options/crypto/margin OFF. Next: 10am ET engine pass (short session, closes 1pm). ⟶
+**Last updated:** 2026-11-27 (Fri, 10am ET engine pass / 15:05Z) — HALF DAY (closes 1pm ET). **⚠ BP $0 (DAY 28)** — real FLAT, BLOCKED, $20 preserved; reconciled → PASS. Owner must restore BP to •4713. REGIME: gap faded then stabilized, modest green — SPY 720.34 (+0.51%) / QQQ 637.76 (+0.60%); choppy. PAPER: FLAT, no new entry — RIVN reclaiming (higher-lows, coiling under OR high 12.03; PRIMED not triggered), VALE based 10.31–10.37 (no fresh break), SOFI/HL weak. Wait for RIVN break+hold 12.03 (don't anticipate); thin half-day tape +0.5%, bar not met. PAPER lifetime: 87 closed 40W/47L net +6.09R, 0 open. Lifetime real 2W/6L −$0.52. Options/crypto/margin OFF. Next: 11am ET engine pass (watch RIVN 12.03); EOD ~1pm. ⟶
 
 ---
 
