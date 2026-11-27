@@ -5,7 +5,7 @@
 > intent and status; it is NOT the brokerage record (that comes from
 > reconciliation).
 
-**Last updated:** 2026-11-26 (Thu — MARKET CLOSED, Thanksgiving; prep fired, no-op). **⚠ BP $0 (DAY 27)** — real FLAT, BLOCKED, $20 preserved; reconciled (0 pos / 0 orders). Owner must restore BP to •4713. No session today (holiday) — no regime read, no screen, no trades. PAPER lifetime: 87 closed 40W/47L net +6.09R, 0 open. Lifetime real 2W/6L −$0.52. Options/crypto/margin OFF. Next: FRI 11/27 half-day (closes 1pm ET / 18:00Z) — thin tape; pre-market prep ~9:15 ET. Real PASS until BP>0. ⟶
+**Last updated:** 2026-11-27 (Fri, pre-market prep ~9:16 ET / 14:16Z) — HALF DAY (closes 1pm ET/18:00Z). **⚠ BP $0 (DAY 28)** — real FLAT, BLOCKED, $20 preserved; reconciled (0 pos / 0 orders). Owner must restore BP to •4713. REGIME: GAP UP / risk-on relief rally — SPY 726.96 (+1.43%) / QQQ 647.13 (+2.08%); Wed's capitulation-reverse extending. Thin post-holiday half-day → gap-and-fade risk. Watchlist (RS leaders): SOFI (+4.1%, tightest spread 0.15%, TOP), VALE (+8.3% metals but gap-extended — pullback only), HL (+6.3%), RIOT (+4.1%), RIVN (+2.9%); broad everything-bounce (metals/crypto-miners/high-beta growth). PAPER lifetime: 87 closed 40W/47L net +6.09R, 0 open. Lifetime real 2W/6L −$0.52. Bias: do NOT chase the gap; require OR hold/reclaim on tight-spread leaders. Decision routine ~9:47 ET; real stays PASS. Options/crypto/margin OFF. ⟶
 
 ---
 

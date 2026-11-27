@@ -2723,3 +2723,25 @@ Massive oversold gap fading: QQQ +5.91% (off +7.2% pre-mkt), SPY +4.04%. OR read
 ## Thu 2026-11-26 — MARKET CLOSED (Thanksgiving)
 
 Prep routine fired but **US markets are CLOSED** for Thanksgiving — no session, no trading. Reconciled ••••4713: FLAT, 0 positions, 0 open orders, **BP $0 (DAY 27)**. No regime read / no wide screen (no live session). No-op day. Next session: FRI 2026-11-27 — half-day (closes 1pm ET / 18:00Z), thin low-conviction tape. Real stays PASS until BP > $0.
+
+---
+
+## Fri 2026-11-27 — PRE-MARKET PREP (~9:16 ET / 14:16Z) — HALF DAY (closes 1pm ET)
+
+**Reconciliation ••••4713:** FLAT — 0 positions, 0 open orders, BP **$0 (DAY 28)**. Internal state matches broker. Real BLOCKED; $20 preserved.
+
+**Regime:** GAP UP / risk-on relief rally. SPY 726.96 (+1.43% vs 716.70); QQQ 647.13 (+2.08% vs 633.93). Wed's capitulation-and-reverse extending higher. Benchmark push ≈ +1.7%.
+
+**Event risk:** HALF DAY — market closes 1pm ET / 18:00Z. Thin post-holiday liquidity; gap-ups on thin half-days frequently fade (gap-and-fade risk). No major econ.
+
+**WIDE SCREEN — watchlist (pre-mkt % vs Wed close; RS vs SPY +1.4% / QQQ +2.1%):**
+- **SOFI** 13.61 (+4.1%) — fintech leader; tightest spread (0.15%); affordable; clean. TOP for a hold/continuation.
+- **VALE** 10.62 (+8.3%) — metals monster, RS king, but GAP-EXTENDED (+8%) — only on a pullback-hold, never chase the gap (O002).
+- **HL** 11.99 (+6.3%) — silver; affordable; spread 0.67%.
+- **RIOT** 17.33 (+4.1%) — crypto miner; spread 0.35%; affordable.
+- **RIVN** 12.05 (+2.9%) — EV; spread 0.4%.
+- (watch) MARA +5.0% (low-priced), KGC +5.2% (now >$19 borderline), CLF/BTG (wide spread).
+
+**Rejected / lower:** F/AAL/NCLH/HBAN (+1.3–1.6%, ~in line, no RS edge), BTG/CLF (wide ~1.3% spread), KGC (crossed above $19 affordability buffer).
+
+**Read:** Broad "everything bounces" risk-on gap-up — metals (VALE/HL/KGC), crypto miners (MARA/RIOT), and high-beta growth (SOFI/RIVN) all ripping. BUT it's a thin half-day after a big 2-day reversal; the base case is a gap-and-fade or low-volume drift. Do NOT chase the gap — the ~9:47 decision routine must require a hold/reclaim of the opening range on the tightest-spread leaders (SOFI cleanest), not an entry on the opening spike. Real stays PASS (BP $0 day 28). Short session; few meaningful passes.
