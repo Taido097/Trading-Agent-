@@ -5,7 +5,7 @@
 > intent and status; it is NOT the brokerage record (that comes from
 > reconciliation).
 
-**Last updated:** 2026-11-27 (Fri, pre-market prep ~9:16 ET / 14:16Z) — HALF DAY (closes 1pm ET/18:00Z). **⚠ BP $0 (DAY 28)** — real FLAT, BLOCKED, $20 preserved; reconciled (0 pos / 0 orders). Owner must restore BP to •4713. REGIME: GAP UP / risk-on relief rally — SPY 726.96 (+1.43%) / QQQ 647.13 (+2.08%); Wed's capitulation-reverse extending. Thin post-holiday half-day → gap-and-fade risk. Watchlist (RS leaders): SOFI (+4.1%, tightest spread 0.15%, TOP), VALE (+8.3% metals but gap-extended — pullback only), HL (+6.3%), RIOT (+4.1%), RIVN (+2.9%); broad everything-bounce (metals/crypto-miners/high-beta growth). PAPER lifetime: 87 closed 40W/47L net +6.09R, 0 open. Lifetime real 2W/6L −$0.52. Bias: do NOT chase the gap; require OR hold/reclaim on tight-spread leaders. Decision routine ~9:47 ET; real stays PASS. Options/crypto/margin OFF. ⟶
+**Last updated:** 2026-11-27 (Fri, open-range decision ~9:48 ET / 14:48Z) — HALF DAY (closes 1pm ET). **⚠ BP $0 (DAY 28)** — real FLAT, BLOCKED, $20 preserved; reconciled (0 pos / 0 orders). Owner must restore BP to •4713. REGIME: GAP-AND-FADE — gap-up sold off: SPY 721.23 (+0.63%, was +1.43%) / QQQ 637.67 (+0.59%, was +2.08%) on thin half-day. OPEN-RANGE DECISION: PASS all. Every leader gapped up and FADED the OR (SOFI 13.54->13.16, VALE 10.57->10.28, RIOT dumped to red, HL/RIVN faded). No breakout-hold. 'Don't chase the gap' prep bias vindicated. Logged 3 PASS rows. Real stays PASS (BP $0). PAPER lifetime: 87 closed 40W/47L net +6.09R, 0 open. Lifetime real 2W/6L −$0.52. Options/crypto/margin OFF. Next: 10am ET engine pass (short session, closes 1pm). ⟶
 
 ---
 
