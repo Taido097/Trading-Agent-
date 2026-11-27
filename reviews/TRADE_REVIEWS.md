@@ -2644,3 +2644,10 @@ Market close: SPY +4.73%, QQQ +6.97% — massive oversold relief bounce after la
 - **Regime:** gap faded then stabilized, modest green — SPY 720.34 (+0.51%), QQQ 637.76 (+0.60%); choppy.
 - **PAPER: FLAT, no new entry.** Post-fade: RIVN reclaiming (higher-lows 11.81→11.945, coiling just under OR high 12.03 — PRIMED, not triggered); VALE based 10.31–10.37 (holding +5.5%, no fresh break); SOFI chopping near lows; HL weak. No confirmed breakout-hold → wait for RIVN to break+hold 12.03 (don't anticipate). Thin half-day, tape +0.5%, bar not met.
 - Tally: lifetime 87 closed 40W/47L +6.09R; 0 open.
+
+### Fri 2026-11-27 — 11am ET engine pass (16:05Z) — half day
+- **REAL ••••4713:** FLAT, BP $0 (day 28) → PASS.
+- **Regime:** fade bought back, risk-on strengthening — SPY 725.54 (+1.23%), QQQ 645.24 (+1.78%), near highs.
+- **PAPER: FLAT, no new entry.** RIVN DID break+hold 12.03 (~15:10) and ground to 12.09–12.16 (+3.4%) — watch read correct — BUT clean entry was an hour ago; now extended +0.8% above trigger with <2h to the 1pm close. A fresh 2:1 (tgt ~12.40, +2.3%) would get EOD-flattened mid-trade = poor expectancy; chasing a late breakout into a compressed close is O002/O003. VALE chopped flat, no setup.
+- **Decision:** stand aside — clean window passed, insufficient time for a proper 2:1 before forced flatten. Banked a strong week already; don't force a time-constrained trade.
+- Tally: lifetime 87 closed 40W/47L +6.09R; 0 open.

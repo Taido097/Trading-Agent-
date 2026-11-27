@@ -5,7 +5,7 @@
 > intent and status; it is NOT the brokerage record (that comes from
 > reconciliation).
 
-**Last updated:** 2026-11-27 (Fri, 10am ET engine pass / 15:05Z) — HALF DAY (closes 1pm ET). **⚠ BP $0 (DAY 28)** — real FLAT, BLOCKED, $20 preserved; reconciled → PASS. Owner must restore BP to •4713. REGIME: gap faded then stabilized, modest green — SPY 720.34 (+0.51%) / QQQ 637.76 (+0.60%); choppy. PAPER: FLAT, no new entry — RIVN reclaiming (higher-lows, coiling under OR high 12.03; PRIMED not triggered), VALE based 10.31–10.37 (no fresh break), SOFI/HL weak. Wait for RIVN break+hold 12.03 (don't anticipate); thin half-day tape +0.5%, bar not met. PAPER lifetime: 87 closed 40W/47L net +6.09R, 0 open. Lifetime real 2W/6L −$0.52. Options/crypto/margin OFF. Next: 11am ET engine pass (watch RIVN 12.03); EOD ~1pm. ⟶
+**Last updated:** 2026-11-27 (Fri, 11am ET engine pass / 16:05Z) — HALF DAY (closes 1pm ET/18:00Z). **⚠ BP $0 (DAY 28)** — real FLAT, BLOCKED, $20 preserved; reconciled → PASS. Owner must restore BP to •4713. REGIME: fade bought back, risk-on strengthening — SPY 725.54 (+1.23%) / QQQ 645.24 (+1.78%), near highs. PAPER: FLAT, no new entry — RIVN broke+held 12.03 (~15:10) to 12.09–12.16 (+3.4%; watch correct) but clean entry was an hour ago, now extended with <2h to close; fresh 2:1 would be EOD-flattened mid-trade (O002/O003). Stand aside. PAPER lifetime: 87 closed 40W/47L net +6.09R, 0 open. Lifetime real 2W/6L −$0.52. Options/crypto/margin OFF. Next: 12pm ET engine pass = effective EOD (market closes 1pm). ⟶
 
 ---
 
