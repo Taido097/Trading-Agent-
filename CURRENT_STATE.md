@@ -5,7 +5,7 @@
 > intent and status; it is NOT the brokerage record (that comes from
 > reconciliation).
 
-**Last updated:** 2026-11-27 (Fri, 11am ET engine pass / 16:05Z) — HALF DAY (closes 1pm ET/18:00Z). **⚠ BP $0 (DAY 28)** — real FLAT, BLOCKED, $20 preserved; reconciled → PASS. Owner must restore BP to •4713. REGIME: fade bought back, risk-on strengthening — SPY 725.54 (+1.23%) / QQQ 645.24 (+1.78%), near highs. PAPER: FLAT, no new entry — RIVN broke+held 12.03 (~15:10) to 12.09–12.16 (+3.4%; watch correct) but clean entry was an hour ago, now extended with <2h to close; fresh 2:1 would be EOD-flattened mid-trade (O002/O003). Stand aside. PAPER lifetime: 87 closed 40W/47L net +6.09R, 0 open. Lifetime real 2W/6L −$0.52. Options/crypto/margin OFF. Next: 12pm ET engine pass = effective EOD (market closes 1pm). ⟶
+**Last updated:** 2026-11-27 (Fri, EOD/week wrap ~12pm ET, half-day 1pm close). **⚠ BP $0 (DAY 28)** — real FLAT all day, BLOCKED, $20 preserved; 0 trades (PASS every pass). Owner must restore BP to •4713. Fri market: risk-on — gap-up, faded, bought back to near highs: SPY 726.10 (+1.31%) / QQQ 645.68 (+1.85%). PAPER Fri: ZERO-trade day (open gap-and-fade PASSed correctly; RIVN broke 12.03 but entry window passed + no time for 2:1 before half-day close). WEEK (11/23–11/27, Thu closed): PAPER 3 trades 2W/1L net +1.40R (F +0.9, RIVN −1.0, VALE +1.5); real 0 trades, BP $0 all week (VALE BLOCKED_BP cost a +1.5R real winner Wed). Violent whipsaw week; RS-leader selection + stops + standing-aside = +1.4R paper, $20 fully preserved. PAPER lifetime: 87 closed 40W/47L net +6.09R, 0 open. Lifetime real 2W/6L −$0.52. Options/crypto/margin OFF. Next: MON 11/30 normal full session; prep ~9:15 ET. Real PASS until BP>0. ⟶
 
 ---
 

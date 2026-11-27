@@ -2745,3 +2745,33 @@ Prep routine fired but **US markets are CLOSED** for Thanksgiving — no session
 **Rejected / lower:** F/AAL/NCLH/HBAN (+1.3–1.6%, ~in line, no RS edge), BTG/CLF (wide ~1.3% spread), KGC (crossed above $19 affordability buffer).
 
 **Read:** Broad "everything bounces" risk-on gap-up — metals (VALE/HL/KGC), crypto miners (MARA/RIOT), and high-beta growth (SOFI/RIVN) all ripping. BUT it's a thin half-day after a big 2-day reversal; the base case is a gap-and-fade or low-volume drift. Do NOT chase the gap — the ~9:47 decision routine must require a hold/reclaim of the opening range on the tightest-spread leaders (SOFI cleanest), not an entry on the opening spike. Real stays PASS (BP $0 day 28). Short session; few meaningful passes.
+
+---
+
+## Fri 2026-11-27 — EOD WRAP (half day, ~1pm ET close)
+
+**Market:** Risk-on relief rally. Gapped up (+1.4%/+2.1%), FADED the open (SPY to +0.5%), then bought back to close near highs: **SPY 726.10 (+1.31%)**, **QQQ 645.68 (+1.85%)**. Thin half-day, Wed's reversal continuing higher.
+
+**REAL ••••4713:** FLAT all day, **BP $0 (DAY 28)** → 0 trades, PASS every pass. $20 preserved.
+
+**PAPER: ZERO-TRADE DAY.** Correct stand-aside: open-range was a textbook GAP-AND-FADE (every leader gapped up and sold its OR) → PASSed all at 9:47 (don't-chase-gap bias vindicated). Mid-morning RIVN broke+held 12.03 and ran to +3.4% (watch read was right), but the clean entry was an hour before I'd confirm it, and with <2h to the 1pm close there was no time for a proper 2:1 before the mandatory flatten — stood aside rather than chase a late breakout into a compressed close (O002/O003). Quality over forced volume.
+
+**Lifetime:** PAPER 87 closed 40W/47L net +6.09R, 0 open. Real 2W/6L −$0.52.
+
+---
+
+## WEEK RECAP — Mon 2026-11-23 → Fri 2026-11-27 (Thanksgiving week, Thu closed)
+
+**Tape:** Extreme volatility after the prior ~−10% week. Mon +7% oversold gap-and-chop; Tue give-back (−2% QQQ); Wed CAPITULATION-to-REVERSE (gapped to QQQ −4.4% at 11am, recovered to near-flat by close — historic V); Thu closed; Fri risk-on gap-up relief (+1.9% QQQ). A whipsaw week in both directions.
+
+**REAL $20:** 0 trades all week; **BP $0 the entire week (day 24→28)** → fully preserved. Standout: Wed's VALE setup CLEARED the §9 gate (BLOCKED_BP) and hit +1.5R — the block demonstrably cost a real winner. **Owner must restore BP.**
+
+**PAPER: 3 trades, 2W/1L, net +1.40R on the week** (lifetime +4.69R → +6.09R):
+- Tue F +0.90R (RS breakout-hold) ; Tue RIVN −1.0R (valid coil, regime rollover) ; Wed VALE +1.5R (safe-haven reclaim to 2:1).
+- Mon & Fri: clean ZERO-trade days (no-quality tape / gap-fade).
+
+**What worked:** (1) RS-leadership read nailed both winners (F green vs red tape Tue; VALE green vs −4% capitulation Wed) — inverse/relative strength is the edge. (2) PASS discipline: avoided the Tue-open extended spikes, the Wed −4.4% knife, and the Fri gap-fade — every PASS was correct. (3) +1R-partial-to-BE/target turned both winners into clean, de-risked results. (4) Contained the one loss to exactly −1R.
+
+**Takeaway:** On a violent whipsaw week, patient RS-leader selection + hard stops + standing aside when quality is absent produced +1.4R paper while fully preserving the real $20. The only real cost this week was the BP block (VALE +1.5R missed).
+
+**Next:** MON 2026-11-30 — normal full session resumes; pre-market prep ~9:15 ET. Real stays PASS until BP > $0.
